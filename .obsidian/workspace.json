@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
+                "file": "08_Story/02_Prologue/07_Serangan_Jenggala_di_Pesisir_Timur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14_Pengorbanan_Shinta_dan_Pulau_Kutukan"
+              "title": "07_Serangan_Jenggala_di_Pesisir_Timur"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "f51201ccfa3705ec",
   "lastOpenFiles": [
+    "08_Story/02_Prologue/10_Amukan_Rangkaruna_dan_Echomancer.md",
+    "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
     "08_Story/02_Prologue/05_Bayangan_di_Balik_Kegagalan.md",
     "08_Story/02_Prologue/06_Tragedi_Kepiting_Batu_Karang.md",
     "08_Story/02_Prologue/07_Serangan_Jenggala_di_Pesisir_Timur.md",
     "08_Story/02_Prologue/08_Perjanjian_di_Balai_Penyembuhan.md",
-    "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
     "07_Bestiary/03_Thalantira/Abyssal_Treant.md",
     "07_Bestiary/03_Thalantira/Deepwater_Siren.md",
     "07_Bestiary/03_Thalantira/Behemoth_Cangkang_Hitam.md",
@@ -210,7 +211,6 @@
     "03_Region/10_Raksamala/Cities & Town/Fortress of Wrath.md",
     "03_Region/02_Astradipa/Faksi & Institusi/Ksatrya_Sylvana.md",
     "03_Region/02_Astradipa/Faksi & Institusi/Sekte_Bayang-Gugur.md",
-    "03_Region/02_Astradipa/Faksi & Institusi/Ordo_Brahma-Kera.md",
     "08_Story/02_Prologue",
     "split_prologue.py",
     "build_db.py",

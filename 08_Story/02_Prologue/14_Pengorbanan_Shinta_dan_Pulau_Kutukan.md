@@ -62,7 +62,7 @@ Dengan fisik yang remuk redam, di tengah keputusasaan yang mematikan, ingatan Ra
 
 Setelah kepedihan itu, Rama mengarungi ganasnya lautan karang Pulau Misterius tanpa kesadaran utuh. Ia tidak mengingat rute atau kejadian apa pun hingga akhirnya ia ditemukan sekarat oleh rombongan pelaut lain di pinggiran Pelabuhan Aqualis. 
 
-"Serangan monster *Jenggala* skala besar yang merusuh di pantai Aqualis kemarin malam... sesungguhnya adalah batas waktu penyerahan anakku kepada Sangrahal," ungkap Rama, menatap Cassian dengan penuh arti. "Namun penagihan hutang nyawa itu berhasil digagalkan telak oleh sekumpulan petualang... beserta kalian berdua yang turut andil membasmi utusan mereka."
+"Serangan monster *Jenggala* skala besar yang merusuh di pantai Aqualis beberapa minggu yang lalu... sesungguhnya adalah batas waktu penyerahan anakku kepada Sangrahal," ungkap Rama, menatap Cassian dengan penuh arti. "Namun penagihan hutang nyawa itu berhasil digagalkan telak oleh sekumpulan petualang... beserta kalian berdua yang turut andil membasmi utusan mereka."
 
 Rama tersenyum lega. Sangat beruntung ia dan kedua anaknya masih utuh setelah rentetan teror mematikan malam itu. Ia yakin Sangrahal akan terus mengirim pasukannya hingga ambisinya terpenuhi, namun setidaknya mereka memenangkan satu malam.
 

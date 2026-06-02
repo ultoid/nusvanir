@@ -5,7 +5,7 @@ tags:
 ---
 # Ancaman yang Membayangi Astradipa
 
-Meskipun diselimuti oleh lebatnya kanopi raksasa dan labirin kabut magis, Astradipa selalu menghadapi ancaman nyata dari gerombolan monster liar Jenggala. Makhluk-makhluk buas yang sering bermutasi akibat rembesan sihir gelap Raksmala ini kerap kali mendobrak batas wilayah dan menyerang pemukiman bawah seperti Akar-Dipa, memaksa para Ksatrya Sylvana bersiaga tanpa henti siang dan malam.
+Meskipun diselimuti oleh lebatnya kanopi raksasa dan labirin kabut magis, Astradipa selalu menghadapi ancaman nyata dari gerombolan monster liar Jenggala. Makhluk-makhluk buas yang sering bermutasi akibat rembesan sihir gelap Raksamala ini kerap kali mendobrak batas wilayah dan menyerang pemukiman bawah seperti Akar-Dipa, memaksa para Ksatrya Sylvana bersiaga tanpa henti siang dan malam.
 
 Ancaman dendam purba juga datang dari arah Pegunungan Arkananta dalam wujud serangan Rakshorien, kaum Dark Elf yang beringas. Pasukan bayangan yang terbuang ini berulang kali turun dari sarang gelap mereka untuk menyusup ke wilayah Astradipa, merampok pasokan sumber daya sihir dan mengincar para tetua Asrivana dengan racun pelumpuh yang mematikan.
 

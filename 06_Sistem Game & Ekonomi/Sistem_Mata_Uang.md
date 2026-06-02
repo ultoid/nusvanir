@@ -20,5 +20,14 @@ Kerajaan Mandala (bersama sekutunya di Astradipa) menetapkan standarisasi mata u
 - **Nilai:** Tertinggi (1 Saka Kencana = 100 Saka Rajata).
 - **Penggunaan:** Hanya digunakan untuk transaksi berskala makro atau barang pusaka magis ber-*Tier* tinggi (setara perlengkapan *Master* dan *Apex Class*). Digunakan secara eksklusif di Lingkar Surya atau Astradipa oleh para bangsawan ras Wahanarsa dan Asrivana.
 
-> [!NOTE] Penolakan di Arkananta
-> Koin-koin ini sama sekali **tidak berlaku** di Arkananta. Membawa sekarung *Saka Kencana* ke hadapan Orc Butoraksa tidak akan ada artinya dibandingkan memberikan mereka sepotong daging segar hewan mutan besar.
+
+### Kurs dan Daya Beli (Purchasing Power)
+Berikut adalah referensi nilai tukar mata uang Nusvanir terhadap sumber daya atau barang sehari-hari:
+
+- **1 Saka Tamra (Tembaga)**: Dapat membeli kebutuhan sangat mikro, seperti 1 butir permen, sebuah kayu bakar kecil, segelas air bersih, atau sepotong singkong rebus.
+- **10 Saka Tamra**: Dapat membeli sepotong roti gandum, semangkuk bubur, secangkir tuak murah di kedai Lingkar Bumi, atau umpan pancing.
+- **1 Saka Rajata (Perak) / 100 Tamra**: Dapat membeli 1 kg apel segar, sepotong daging hewan utuh, obat penyembuhan luka ringan, 1 tabung anak panah biasa, atau menyewa kamar penginapan standar selama satu malam.
+- **10 Saka Rajata**: Dapat membeli baju zirah kulit ringan (*Leather Armor*), menyewa kuda selama satu hari, atau membayar jasa penyembuhan sihir tingkat dasar (*Cleric* pemula).
+- **1 Saka Kencana (Emas) / 100 Rajata**: Dapat membeli sebilah pedang baja standar yang berkualitas baik, perlengkapan ksatria dasar, *High Potion* (ramuan sihir penyembuhan tingkat tinggi), atau menyewa kapal nelayan kecil selama seminggu.
+- **10 Saka Kencana**: Dapat membeli senjata baja dengan *enchantment* sihir ringan, kuda perang ras unggul, atau rumah kayu berukuran sedang di wilayah Lingkar Dharma.
+- **100 Saka Kencana**: Cukup untuk mendanai logistik satu kompi pasukan kerajaan selama sebulan, membeli *Artifact* pusaka tingkat lanjut, atau membangun rumah bangsawan di Lingkar Surya.

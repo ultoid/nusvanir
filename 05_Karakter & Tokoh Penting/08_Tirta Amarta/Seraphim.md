@@ -17,5 +17,5 @@ Seraphim adalah ciptaan langsung dari Sang Hyang Cahaya. Ia menetap di Kuil Dewa
 
 ### Relasi Faksi
 - Entitas penjaga yang membimbing **Ksatria Agung Galathius**.
-- Mewaspadai pergerakan sihir gelap dari **Luciferus** di Raksmala.
+- Mewaspadai pergerakan sihir gelap dari **Luciferus** di Raksamala.
 

@@ -7,7 +7,7 @@ tags:
 
 Di balik tembok ibukota yang makmur, kedamaian Mandala selalu berada di ujung tanduk, terus-menerus diancam oleh serangan brutal dan mendadak dari suku Jenggala yang kerap menyerbu keluar dari bayang-bayang hutan liar tak tertembus di perbatasan.
 
-Garis pantai kerajaan yang panjang juga membawa petaka tersendiri, di mana para prajurit harus selalu waspada terhadap infiltrasi dan penyusupan dari perompak Raksmala yang licik, yang berlayar dari jalur laut gelap untuk merampas harta Mandala.
+Garis pantai kerajaan yang panjang juga membawa petaka tersendiri, di mana para prajurit harus selalu waspada terhadap infiltrasi dan penyusupan dari perompak Raksamala yang licik, yang berlayar dari jalur laut gelap untuk merampas harta Mandala.
 
 Ancaman yang lebih kuno dan mengerikan datang dari dalam tanah mereka sendiri; di mana sisa-sisa sihir terlarang yang telah lama dilupakan kini mulai berdenyut dan memancar kembali dari sela-sela reruntuhan kuil kuno yang tersebar di pelosok kerajaan.
 

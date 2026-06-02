@@ -19,4 +19,4 @@ Ia adalah satu-satunya entitas selain Sang Hyang Cahaya yang mengetahui titik le
 
 ### Relasi Faksi
 - Penasihat tak kasat mata bagi **Prabu Mandalapati** dan **High Priestess Lyra**.
-- Menjadi anomali yang paling ditakuti oleh kekuatan gaib Raksmala.
+- Menjadi anomali yang paling ditakuti oleh kekuatan gaib Raksamala.

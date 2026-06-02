@@ -26,21 +26,21 @@ Mendengar kebohongan halus itu, Jane hanya memutar bola matanya ke atas dengan m
 
 "Jane, cepat katakan," desak Cassian serius.
 
-"Baik, baik. Begini ceritanya," raut wajah Jane seketika berubah muram, tawanya lenyap tak bersisa. "Ini terjadi sekitar setengah tahun lalu... tepatnya enam bulan yang lalu. Saat itu, kamilah, kelompok utama *Guild Dark Thorn*, yang berhasil menyelesaikan sebuah misi tingkat S dari serikat *Guild* pusat."
+"Baik, baik. Begini ceritanya," raut wajah Jane seketika berubah muram, tawanya lenyap tak bersisa. "Ini terjadi sekitar setengah tahun lalu... tepatnya enam bulan yang lalu. Saat itu, kami diberi perintah oleh tim utama *Guild Dark Thorn* pusat di Mandala, mereka menerima sebuah misi tingkat S rahasia. Bukan dari serikat pusat, melainkan pesanan mutlak langsung dari pihak Kerajaan Mandala."
 
-Jane menatap kosong ke arah corak meja kayu di depannya. "Setelah keberhasilan besar itu, ketua *Guild* memutuskan untuk mengadakan pesta perayaan besar-besaran di Aqualis. Kau tahu kan, kota ini sangat terkenal dengan olahan daging Kepiting Batu Karang-nya yang luar biasa lezat? Akhirnya, *Guild* kami berencana memborong Kepiting Batu Karang dalam jumlah masif."
+Jane menatap kosong ke arah corak meja kayu di depannya. "Para petinggi Istana Lingkar Surya menuntut pengiriman seratus ekor Kepiting Batu Karang hidup-hidup ke ibukota minggu depan. Entah untuk bahan ramuan alkimia tingkat tinggi atau perjamuan sakral, kami tidak tahu. Yang jelas, jika kami berhasil, status *Guild Dark Thorn* akan diangkat menjadi serikat resmi kerajaan. Namun jika gagal, kami akan dibubarkan dan para petinggi kami dieksekusi atas tuduhan pembangkangan."
 
 "Masalahnya," lanjut Jane sambil menatap Hector, "hanya ada satu nelayan di seluruh pelabuhan ini yang bernyali mencari Kepiting Batu Karang langsung di habitatnya, di perairan dangkal Laut Rangkaruna. Ya, nelayan tua itulah orangnya."
 
-"Karena tingkat kesulitannya, pak tua itu biasanya hanya bisa mencari tiga sampai lima ekor Kepiting Batu Karang per hari. Sedangkan kami butuh sekitar seratus ekor untuk acara pesta minggu depan," helaan napas Jane terdengar berat. "Awalnya kami merasa mustahil dia mau menyanggupinya. Tapi *Guild* kami memberikan penawaran harga yang tidak masuk akal: 500 keping emas Saka Kencana untuk satu ekor Kepiting Batu Karang. Bayangkan, satu keping emas saja sudah bisa menghidupi keluarga nelayan seumur hidup. Jika ditotal, seratus ekor akan bernilai 50.000 Saka Kencana."
+"Karena tingkat kesulitannya, pak tua itu biasanya hanya bisa mencari tiga sampai lima ekor Kepiting Batu Karang per hari. Sedangkan kami butuh sekitar seratus ekor," helaan napas Jane terdengar berat. "Awalnya kami merasa mustahil dia mau menyanggupinya. Tapi *Guild* kami sedang mempertaruhkan nyawa. Kami memberikan penawaran khusus yang benar-benar gila: 100 keping emas Saka Kencana untuk satu ekor Kepiting Batu Karang. Bayangkan, satu ekor kepiting dihargai setara dengan pedang pusaka baja! Jika ditotal, seratus ekor akan bernilai 10.000 Saka Kencana."
 
-"Lima puluh ribu... itu bisa membeli sebuah kastil kecil," gumam Cassian terkejut.
+"Sepuluh ribu Saka Kencana... jumlah yang bisa digunakan untuk membeli tanah dan membangun rumah kayu berukuran sedang di wilayah elit Lingkar Dharma," gumam Cassian terkejut.
 
 "Ya. Tawaran itu membuat pak tua dan istrinya langsung memulai perburuan ke laut di hari yang sama," Jane melanjutkan. "Biasanya mereka akan kembali merapat tiap dua hari sekali untuk menyetorkan tangkapan. Namun kali ini... mereka tidak kembali selama hampir seminggu penuh."
 
 Hening sejenak. Cassian dan Hector mendengarkan dengan saksama tanpa menyela.
 
-"Kami sama sekali tidak tahu badai atau monster gila apa yang mereka temui di lautan Rangkaruna," ucap Jane dengan suara pelan. "Hingga pada akhirnya, di hari ketujuh... tepat siang hari sebelum malam pesta *Guild* dimulai... pak tua itu dan perahunya ditemukan terdampar di karang Pelabuhan Aqualis dalam keadaan hancur lebur."
+"Kami sama sekali tidak tahu badai atau monster gila apa yang mereka temui di lautan Rangkaruna," ucap Jane dengan suara pelan. "Hingga pada akhirnya, di hari ketujuh... tepat siang hari sebelum batas akhir penyerahan pesanan ke utusan istana... pak tua itu dan perahunya ditemukan terdampar di karang Pelabuhan Aqualis dalam keadaan hancur lebur."
 
 "Tubuhnya penuh luka parah, dan jiwanya sangat kacau," Jane menelan ludah. "Dia dirawat di balai penyembuhan selama tiga hari penuh hingga akhirnya sadar dan bisa menceritakan semua kejadian gila ini."
 

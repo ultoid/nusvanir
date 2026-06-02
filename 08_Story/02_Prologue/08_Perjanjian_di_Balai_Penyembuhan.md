@@ -44,7 +44,7 @@ Nelayan itu mengusap wajahnya yang basah, lalu menarik napas panjang. Tatapannya
 
 "Itu hal yang mudah," angguk Cassian mantap. 
 
-"Kedua. Aku hanya bertugas sebagai nakhoda laut," lanjut sang nelayan, mengangkat dua jarinya. "Aku hanya akan mengantar dan membukakan jalan untuk kalian melewati Laut Rangkaruna, lalu menyusuri tepian perairan Raksmala, hingga kita menyentuh perbatasan benteng karang *Mysterious Island*. Setelah itu, urusan kalian di daratan pulau itu bukanlah urusanku."
+"Kedua. Aku hanya bertugas sebagai nakhoda laut," lanjut sang nelayan, mengangkat dua jarinya. "Aku hanya akan mengantar dan membukakan jalan untuk kalian melewati Laut Rangkaruna, lalu menyusuri tepian perairan Raksamala, hingga kita menyentuh perbatasan benteng karang *Mysterious Island*. Setelah itu, urusan kalian di daratan pulau itu bukanlah urusanku."
 
 "Disepakati," timpal Hector tanpa keraguan. 
 
@@ -66,4 +66,4 @@ Hingga akhirnya, hari yang ditentukan pun tiba.
 
 Di bawah langit subur Pelabuhan Aqualis, jangkar raksasa ditarik naik. Jane berdiri di dermaga, menggendong dua bayi kembar yang dibalut kain hangat, melambaikan tangan ke arah kapal yang perlahan bergerak menjauhi daratan. Di atas geladak, sang nelayan berdiri tegap di balik kemudi, sementara Hector dan Cassian berdiri di haluan kapal, menatap lurus ke arah cakrawala laut yang gelap.
 
-Pelayaran menuju pusat kegelapan, Raksmala, dan Pulau Kutukan rahasia... resmi dimulai.
+Pelayaran menuju pusat kegelapan, Raksamala, dan Pulau Kutukan rahasia... resmi dimulai.

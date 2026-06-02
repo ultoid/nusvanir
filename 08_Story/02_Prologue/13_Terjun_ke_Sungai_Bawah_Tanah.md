@@ -32,7 +32,7 @@ Bunga api memercik setiap kali badan kapal bergesekan dengan batu. Jika Cassian 
 
 Hantaman keras terakhir mengakhiri putaran ekstrem mereka. Kapal *Oak* hitam itu memecah permukaan air dan mendarat dengan percikan ombak yang besar. 
 
-Mereka bertiga terengah-engah, tergeletak di atas geladak yang basah kuyup. Rama perlahan memutar kemudi untuk menstabilkan posisi. Ketika penglihatan Cassian dan Hector mulai terbiasa, mereka menyadari bahwa mereka telah mendarat di atas sebuah sungai bawah tanah raksasa yang mengalir di bagian barat bawah pulau Raksmala.
+Mereka bertiga terengah-engah, tergeletak di atas geladak yang basah kuyup. Rama perlahan memutar kemudi untuk menstabilkan posisi. Ketika penglihatan Cassian dan Hector mulai terbiasa, mereka menyadari bahwa mereka telah mendarat di atas sebuah sungai bawah tanah raksasa yang mengalir di bagian barat bawah pulau Raksamala.
 
 Suasana di aliran sungai bawah tanah ini sangat kontras dengan permukaan pulau Drahkthar yang brutal dan mematikan. Tempat ini diterangi oleh pendaran magis lumut biru *bioluminesensi* yang menempel di langit-langit gua. Airnya terasa hangat dan arusnya mengalir dengan sangat tenang, memberikan kedamaian ilusi seakan tempat ini bukanlah bagian dari teritori iblis.
 
@@ -66,15 +66,15 @@ Rama mendengus sumbang. "Ketika aku mengutarakan niatku tentang *Void Crystal*, 
 
 "Berapa harga yang ia minta?" tanya Cassian, menebak bahwa angkanya pasti di luar nalar manusia.
 
-"Untuk sebuah serpihan kristal kecil yang ukurannya bahkan tidak lebih besar dari sebiji jagung..." Rama menatap Cassian dengan tatapan kosong, "...Tuan Midas menjualnya seharga 100.000 *Saka Kencana*. Jumlah koin emas bangsawan yang takkan pernah bisa dikumpulkan oleh rakyat jelata sepertiku meski aku bereinkarnasi seratus kali."
+"Untuk sebuah serpihan kristal misterius yang ukurannya bahkan tidak lebih besar dari sebiji jagung, namun konon menyimpan kekuatan magis gelap yang tak dikenali di seluruh penjuru Nusvanir..." Rama menatap Cassian dengan tatapan kosong, "...Tuan Midas mematok harga gila: 100.000 *Saka Kencana*. Jumlah koin emas bangsawan yang takkan pernah bisa dikumpulkan oleh rakyat jelata sepertiku meski aku bereinkarnasi seratus kali."
 
-Cassian tercekat hingga nyaris tersedak ludahnya sendiri. Jumlah kepingan emas murni sebanyak itu cukup untuk membeli sebuah distrik kota secara lunas di Kerajaan Mandala. Angka yang teramat fantastis untuk sebuah serpihan batu, dan sama sekali mustahil ditebus oleh seorang nelayan pensiunan prajurit Mandala.
+Cassian tercekat hingga nyaris tersedak ludahnya sendiri. Jumlah kepingan emas murni sebanyak itu cukup untuk membangun rumah-rumah bangsawan secara lunas di Lingkar Surya Kerajaan Mandala. Angka yang teramat fantastis untuk sebuah serpihan batu kecil, dan sama sekali mustahil ditebus oleh seorang nelayan pensiunan prajurit.
 
-"Aku pulang dengan dunia yang hancur lebur," lanjut Rama, pandangannya kembali menatap lurus ke riak sungai. "Batas waktuku tinggal menghitung hari. Hingga akhirnya... secercah keajaiban palsu muncul. *Guild Dark Thorn* mempublikasikan misi buronan darurat berskala besar: menangkap 100 ekor Kepiting Batu Karang dengan imbalan mustahil sebesar 50.000 keping *Saka Kencana*."
+"Aku pulang dengan dunia yang hancur lebur," lanjut Rama, pandangannya kembali menatap lurus ke riak sungai. "Batas waktuku tinggal menghitung hari. Hingga akhirnya... secercah keajaiban palsu muncul. *Guild Dark Thorn* mempublikasikan misi buronan darurat berskala besar: menangkap 100 ekor Kepiting Batu Karang dengan imbalan gila sebesar 10.000 keping *Saka Kencana*."
 
-"Separuh dari harga utamanya," sela Cassian.
+"Itu hanya sepuluh persen dari harga kristalnya," sela Cassian.
 
-"Benar. Meskipun hanya separuh, itu setidaknya cukup untuk menyicil deposit awal dan memohon penundaan penagihan dari Tuan Midas," ucap Rama getir. "Namun masalah terbesarnya adalah... kondisi fisik Shinta saat itu masih sangat rapuh. Efek pendarahan sehabis melahirkan sebagai manusia biasa, ditambah merosotnya kebugaran tubuh setelah kehilangan sihir perlindungan *Asrivana*-nya, membuat tubuh fananya sangat rentan."
+"Benar. Meskipun hanya sepuluh persen, aku berpikir nilai itu setidaknya cukup untuk menjadi uang muka kepada Tuan Midas agar ia mau menyerahkan serpihan *Void Crystal* tersebut kepadaku lebih dulu, sedangkan sisanya akan kucicil seumur hidupku," ucap Rama getir. "Namun masalah terbesarnya adalah... kondisi fisik Shinta saat itu masih sangat rapuh. Efek pendarahan sehabis melahirkan sebagai manusia biasa, ditambah merosotnya kebugaran tubuh setelah kehilangan sihir perlindungan *Asrivana*-nya, membuat tubuh fananya sangat rentan."
 
 Rama memejamkan mata, membiarkan rasa sesal menyiksanya. "Awalnya aku berniat mati-matian berburu sendirian. Namun Shinta, dengan segala keras kepala dan harga dirinya sebagai mantan ksatria elit *Windrunner*, bersikeras untuk ikut melaut ke perairan mematikan. Ia menolak keras membiarkanku mempertaruhkan nyawa sendirian demi menebus darah daging kami, meskipun ia sangat menyadari bahwa dirinya sudah tidak berada dalam kondisi prima tempur."
 

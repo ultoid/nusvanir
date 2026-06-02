@@ -1,0 +1,13 @@
+﻿{
+    "description":  "[COMMANDER] Demon Lord Kecemburuan bertentakel beku penarik nyawa.",
+    "id":  "Leviathanus",
+    "mp":  950000,
+    "weakness":  "Cahaya \u0026 Suara",
+    "category":  "Bestiary Boss",
+    "element":  "Kegelapan \u0026 Es",
+    "class":  "Sorcerer (Tier 3)",
+    "location":  "Benteng Envy (Danau Hitam Raksamala)",
+    "hp":  920000,
+    "title":  "Leviathanus",
+    "attack_type":  "Magic"
+}

@@ -8,9 +8,9 @@ tags:
 
 # Kepiting Batu Karang dan Rahasia Rama
 
-Begitu badai abadi Rangkaruna benar-benar tertinggal di belakang, kelegaan yang sempat menghampiri Cassian dan Hector seketika musnah saat melihat daratan di depan mata. Bebatuan karang hitam yang tajam, langit abu-abu dengan pendaran aura merah darah, serta hawa kematian yang pekat membuat mereka menyadari satu hal: ini bukan Pulau Kutukan. Ini adalah pesisir Raksmala, pulau kegelapan tempat *Demon Lord* Sangrahal bersemayam.
+Begitu badai abadi Rangkaruna benar-benar tertinggal di belakang, kelegaan yang sempat menghampiri Cassian dan Hector seketika musnah saat melihat daratan di depan mata. Bebatuan karang hitam yang tajam, langit abu-abu dengan pendaran aura merah darah, serta hawa kematian yang pekat membuat mereka menyadari satu hal: ini bukan Pulau Kutukan. Ini adalah pesisir Raksamala, pulau kegelapan tempat *Demon Lord* Sangrahal bersemayam.
 
-"Kau gila?!" raung Hector, emosinya meledak seketika. Urat-urat di leher Paladin itu menonjol keluar. "Ini Raksmala! Aku pernah mengikuti ekspedisi militer ke sini di masa lalu. Berpuluh-puluh ksatria *Avesari* elit dibantai habis-habisan oleh para *Bhuta*! Jangankan bertiga, satu pasukan penuh pun tidak akan selamat melintasi daratan iblis ini!"
+"Kau gila?!" raung Hector, emosinya meledak seketika. Urat-urat di leher Paladin itu menonjol keluar. "Ini Raksamala! Aku pernah mengikuti ekspedisi militer ke sini di masa lalu. Berpuluh-puluh ksatria *Avesari* elit dibantai habis-habisan oleh para *Bhuta*! Jangankan bertiga, satu pasukan penuh pun tidak akan selamat melintasi daratan iblis ini!"
 
 Cassian menahan bahu Hector, meski wajahnya sendiri pucat pasi menatap karang hitam di kejauhan. "Jelaskan pada kami, Pak Tua. Apakah kapal kita terseret arus badai?"
 
@@ -18,13 +18,13 @@ Sang nelayan mematikan mesin sihir kemudinya dengan tenang, membiarkan kapal *Oa
 
 "Jalur bunuh diri!" potong Hector murka.
 
-"Pulau Kutukan atau *The Mysterious Island* yang kalian cari itu posisinya tepat berada di *balik* pulau Raksmala ini," jelas nelayan itu santai, sambil berjalan mengambil seutas tali jangkar. "Kebanyakan petualang atau ksatria bodoh memaksa masuk melalui jalur darat Raksmala, menantang para iblis, dan berakhir menjadi tumbal nyawa. Tapi, ada satu cara yang jauh lebih aman."
+"Pulau Kutukan atau *The Mysterious Island* yang kalian cari itu posisinya tepat berada di *balik* pulau Raksamala ini," jelas nelayan itu santai, sambil berjalan mengambil seutas tali jangkar. "Kebanyakan petualang atau ksatria bodoh memaksa masuk melalui jalur darat Raksamala, menantang para iblis, dan berakhir menjadi tumbal nyawa. Tapi, ada satu cara yang jauh lebih aman."
 
-Ia melemparkan jangkar ke laut lepas di dekat formasi karang. "Ada sebuah jalur sungai bawah tanah rahasia yang melintasi pesisir barat Raksmala, menembus langsung ke Pulau Kutukan tanpa harus menginjakkan kaki di daratan iblis. Dan jalur itu... hanya aku dan mendiang istriku yang tahu celahnya."
+Ia melemparkan jangkar ke laut lepas di dekat formasi karang. "Ada sebuah jalur sungai bawah tanah rahasia yang melintasi pesisir barat Raksamala, menembus langsung ke Pulau Kutukan tanpa harus menginjakkan kaki di daratan iblis. Dan jalur itu... hanya aku dan mendiang istriku yang tahu celahnya."
 
 Penjelasan itu seketika membungkam Hector. Cassian menghela napas panjang, mencoba memproses informasi tersebut. Mereka sudah melangkah sejauh ini, mengalahkan badai abadi dan bertarung berhari-hari; memutar balik sekarang adalah sebuah kemustahilan.
 
-"Sudahlah, ketegangan ini membuatku lelah," ucap sang nelayan, sengaja mengalihkan pembicaraan sambil mengusap perutnya. "Aku lapar sekali. Menyetir membelah ombak selama tiga hari tanpa jeda menguras seluruh energiku. Kebetulan sekali, pesisir karang Raksmala ini adalah habitat yang dipenuhi oleh Kepiting Batu Karang. Jumlah mereka melimpah ruah di sini."
+"Sudahlah, ketegangan ini membuatku lelah," ucap sang nelayan, sengaja mengalihkan pembicaraan sambil mengusap perutnya. "Aku lapar sekali. Menyetir membelah ombak selama tiga hari tanpa jeda menguras seluruh energiku. Kebetulan sekali, pesisir karang Raksamala ini adalah habitat yang dipenuhi oleh Kepiting Batu Karang. Jumlah mereka melimpah ruah di sini."
 
 Hector dan Cassian saling berpandangan, lalu hanya bisa pasrah mengiyakan. Perut mereka sendiri juga sudah bergemuruh menyakitkan menahan lapar sejak masuk ke dalam pusaran badai.
 
@@ -76,4 +76,4 @@ Angin pesisir berhembus menakutkan. Di tengah keheningan, sambil membelakangi He
 
 Cassian dan Hector serentak menegakkan punggung mereka, rasa kantuk dan kenyang mereka menguap seketika mendengar pengakuan tersebut.
 
-"Dan istri yang kuceritakan pada kalian..." lanjut Rama, tatapannya menerawang jauh menembus kabut kelam Raksmala, "...bernama Shinta."
+"Dan istri yang kuceritakan pada kalian..." lanjut Rama, tatapannya menerawang jauh menembus kabut kelam Raksamala, "...bernama Shinta."

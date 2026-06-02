@@ -16,7 +16,7 @@ Ini adalah lapisan paling luar, terluas, dan paling padat di Mandala Capital. Di
 
 - **Visual & Suasana:** Atap-atap sirap kayu dan tanah liat (terakota) bertumpuk rapat sejauh mata memandang. Jalanannya berdebu namun selalu hidup. Udaranya sarat dengan aroma rempah-rempah yang menyengat, keringat, dan dupa jalanan.
 - **Aktivitas Utama:** Rumah bagi rakyat jelata, pengrajin kecil, dan pendatang. Di sinilah terletak **Pasar Agung Bumi**, sebuah labirin raksasa tempat segala macam hal diperjualbelikan—mulai dari beras kualitas terbaik dari _Arthiska_, perhiasan murah, hingga hewan eksotis dari luar kerajaan.
-- **Fakta Unik:** Meskipun kumuh di beberapa sudut, Lingkar Bumi adalah tempat informasi paling cepat menyebar. Mata-mata, makelar, dan rumor tentang pergerakan suku _Jenggala_ atau bajak laut _Raksmala_ sering kali bocor di kedai-kedai tuak di distrik ini.
+- **Fakta Unik:** Meskipun kumuh di beberapa sudut, Lingkar Bumi adalah tempat informasi paling cepat menyebar. Mata-mata, makelar, dan rumor tentang pergerakan suku _Jenggala_ atau bajak laut _Raksamala_ sering kali bocor di kedai-kedai tuak di distrik ini.
 
 ### 2. Lingkar Samodra (Distrik Aliran & Logistik)
 

@@ -14,7 +14,7 @@ Akhirnya mereka berjalan keluar. Di bawah cahaya rembulan Aqualis, sang pria kur
 
 "Jadi... siapa orang yang kau maksud ini, Jo?" tanya Cassian hati-hati.
 
-"Jadi tidak mau kenalan, ya? Baiklah, orang asing," kekeh Jo pelan. "Orang yang kita tuju ini adalah seorang nelayan biasa. Dulu, ia pernah berburu ikan terlalu jauh sampai ke ujung Laut Rangkaruna, dan tanpa sengaja terseret badai hingga menembus perbatasan lautan di ujung benua Raksmala. Entah apa yang dilihat orang itu di sana... namun kabar baiknya, dia satu-satunya manusia yang pernah sedekat itu dengan Pulau Kutukan dan kembali dengan selamat."
+"Jadi tidak mau kenalan, ya? Baiklah, orang asing," kekeh Jo pelan. "Orang yang kita tuju ini adalah seorang nelayan biasa. Dulu, ia pernah berburu ikan terlalu jauh sampai ke ujung Laut Rangkaruna, dan tanpa sengaja terseret badai hingga menembus perbatasan lautan di ujung benua Raksamala. Entah apa yang dilihat orang itu di sana... namun kabar baiknya, dia satu-satunya manusia yang pernah sedekat itu dengan Pulau Kutukan dan kembali dengan selamat."
 
 "Hah? Bagaimana bisa? Hanya dengan perahu nelayan?" Cassian terbelalak tak percaya.
 
@@ -26,7 +26,7 @@ Akhirnya mereka berjalan keluar. Di bawah cahaya rembulan Aqualis, sang pria kur
 
 Langkah mereka akhirnya terhenti di depan sebuah gubuk kayu kecil, terisolasi di sudut paling sepi pesisir timur Kota Aqualis. Terdengar deru ombak yang menyapu karang di dekatnya.
 
-"Dia memang suka menyendiri. Kau tahu, kejadian itu menjadikan dirinya trauma berat. Jadi, kalian harus berusaha ekstra keras membujuknya, karena hanya dia satu-satunya orang di Nusvanir yang tahu rute menembus perairan Raksmala," ucap Jo. Ia kemudian menoleh dan tersenyum miring. "Oh ya, aku bercanda soal 1.000 Saka Kencana itu. Itu angka konyol untuk sebuah petunjuk arah. Ini semua gratis. Aku hanya berusaha melindungi kalian dari preman-preman kumuh di bar tadi."
+"Dia memang suka menyendiri. Kau tahu, kejadian itu menjadikan dirinya trauma berat. Jadi, kalian harus berusaha ekstra keras membujuknya, karena hanya dia satu-satunya orang di Nusvanir yang tahu rute menembus perairan Raksamala," ucap Jo. Ia kemudian menoleh dan tersenyum miring. "Oh ya, aku bercanda soal 1.000 Saka Kencana itu. Itu angka konyol untuk sebuah petunjuk arah. Ini semua gratis. Aku hanya berusaha melindungi kalian dari preman-preman kumuh di bar tadi."
 
 "Apa maksudmu?" tanya Hector curiga, tangannya bersiap di gagang pedang.
 

@@ -12,9 +12,9 @@ Perahu *Oak* hitam itu masih membelah arus tenang sungai bawah tanah, diiringi o
 
 "Entah karena hari itu memang hari sial kami, atau karena Kepiting Batu Karang di perairan barat sedang memasuki siklus hibernasi... tangkapan kami sangat menyedihkan," Rama menghela napas panjang. "Tempat-tempat yang biasanya dipenuhi kawanan monster capit itu mendadak kosong melompong. Tiga hari penuh kami mencari tanpa tidur, namun kami hanya berhasil mengumpulkan sekitar tiga belas ekor. Angka yang sangat jauh dari target seratus ekor. Batas waktu penagihan nyawa dari Sangrahal semakin mencekik."
 
-Di saat kepanikan mulai mengambil alih akal sehat, Shinta mencetuskan sebuah ide gila. Ia mengusulkan agar mereka memperluas perburuan menyisir perairan pesisir Raksmala yang terkenal sebagai perbatasan maut. 
+Di saat kepanikan mulai mengambil alih akal sehat, Shinta mencetuskan sebuah ide gila. Ia mengusulkan agar mereka memperluas perburuan menyisir perairan pesisir Raksamala yang terkenal sebagai perbatasan maut. 
 
-"Awalnya aku menolak mentah-mentah ide bunuh diri itu," ujar Rama getir. "Aku bersikeras agar kami berputar arah dan pulang saja. Aku bahkan memikirkan cara ekstrem lain untuk menebus *Void Crystal* itu, entah dengan cara mencuri atau merampok langsung kediaman Tuan Midas, meskipun aku tahu menantang sindikat Cakrawala sama saja dengan membuang nyawa. Namun Shinta... dengan keteguhannya sebagai seorang ibu, ia berhasil meyakinkanku untuk nekat berburu di wilayah Raksmala."
+"Awalnya aku menolak mentah-mentah ide bunuh diri itu," ujar Rama getir. "Aku bersikeras agar kami berputar arah dan pulang saja. Aku bahkan memikirkan cara ekstrem lain untuk menebus *Void Crystal* itu, entah dengan cara mencuri atau merampok langsung kediaman Tuan Midas, meskipun aku tahu menantang sindikat Cakrawala sama saja dengan membuang nyawa. Namun Shinta... dengan keteguhannya sebagai seorang ibu, ia berhasil meyakinkanku untuk nekat berburu di wilayah Raksamala."
 
 Usaha mematikan mereka ternyata tak sebanding dengan hasilnya. Meski telah mempertaruhkan nyawa memasuki zona iblis, mereka hanya mampu menambah total tangkapan menjadi dua puluh ekor kepiting. 
 

@@ -6,7 +6,7 @@ tags:
 # Poros Kala Laksana (Kegelapan)
 
 ### Asal-Muasal
-Bersumber langsung dari dimensi kekosongan abadi, tempat bersemayamnya entitas purba Kala Laksana yang mengalir dan merembes melalui portal wilayah **Raksmala** (Markas *Demon Lord Sangrahal* dan bangsa Drahkthar).
+Bersumber langsung dari dimensi kekosongan abadi, tempat bersemayamnya entitas purba Kala Laksana yang mengalir dan merembes melalui portal wilayah **Raksamala** (Markas *Demon Lord Sangrahal* dan bangsa Drahkthar).
 
 ### Spesialisasi (Korupsi & Kutukan)
 Berbeda dengan elemen alam, sihir Kala Laksana adalah sihir perusak tatanan realita dan pikiran. Spesialisasinya mencakup:

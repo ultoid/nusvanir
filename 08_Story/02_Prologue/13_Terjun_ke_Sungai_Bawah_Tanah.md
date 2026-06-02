@@ -66,11 +66,11 @@ Rama mendengus sumbang. "Ketika aku mengutarakan niatku tentang *Void Crystal*, 
 
 "Berapa harga yang ia minta?" tanya Cassian, menebak bahwa angkanya pasti di luar nalar manusia.
 
-"Untuk sebuah serpihan kristal kecil yang ukurannya bahkan tidak lebih besar dari sebiji jagung..." Rama menatap Cassian dengan tatapan kosong, "...Tuan Midas menjualnya seharga 100.000 *Saka Rajata*."
+"Untuk sebuah serpihan kristal kecil yang ukurannya bahkan tidak lebih besar dari sebiji jagung..." Rama menatap Cassian dengan tatapan kosong, "...Tuan Midas menjualnya seharga 100.000 *Saka Kencana*. Jumlah koin emas bangsawan yang takkan pernah bisa dikumpulkan oleh rakyat jelata sepertiku meski aku bereinkarnasi seratus kali."
 
 Cassian tercekat hingga nyaris tersedak ludahnya sendiri. Jumlah kepingan emas murni sebanyak itu cukup untuk membeli sebuah distrik kota secara lunas di Kerajaan Mandala. Angka yang teramat fantastis untuk sebuah serpihan batu, dan sama sekali mustahil ditebus oleh seorang nelayan pensiunan prajurit Mandala.
 
-"Aku pulang dengan dunia yang hancur lebur," lanjut Rama, pandangannya kembali menatap lurus ke riak sungai. "Batas waktuku tinggal menghitung hari. Hingga akhirnya... secercah keajaiban palsu muncul. *Guild Dark Thorn* mempublikasikan misi buronan darurat berskala besar: menangkap 100 ekor Kepiting Batu Karang dengan total imbalan 50.000 *Saka Rajata*."
+"Aku pulang dengan dunia yang hancur lebur," lanjut Rama, pandangannya kembali menatap lurus ke riak sungai. "Batas waktuku tinggal menghitung hari. Hingga akhirnya... secercah keajaiban palsu muncul. *Guild Dark Thorn* mempublikasikan misi buronan darurat berskala besar: menangkap 100 ekor Kepiting Batu Karang dengan imbalan mustahil sebesar 50.000 keping *Saka Kencana*."
 
 "Separuh dari harga utamanya," sela Cassian.
 

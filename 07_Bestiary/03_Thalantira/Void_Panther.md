@@ -1,4 +1,4 @@
-﻿---
+---
 title: Void Panther
 tags:
   - Bestiary

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Story/02_Prologue/12_Kisah_Cinta_dan_Kutukan_Raksamala.md",
+                "file": "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12_Kisah_Cinta_dan_Kutukan_Raksamala"
+              "title": "14_Pengorbanan_Shinta_dan_Pulau_Kutukan"
             }
           }
         ]
@@ -185,8 +185,23 @@
   },
   "active": "f51201ccfa3705ec",
   "lastOpenFiles": [
-    "03_Region/10_Raksamala/Cities & Town/Fortress of Envy.md",
+    "08_Story/02_Prologue/05_Bayangan_di_Balik_Kegagalan.md",
+    "08_Story/02_Prologue/06_Tragedi_Kepiting_Batu_Karang.md",
+    "08_Story/02_Prologue/07_Serangan_Jenggala_di_Pesisir_Timur.md",
+    "08_Story/02_Prologue/08_Perjanjian_di_Balai_Penyembuhan.md",
+    "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
+    "07_Bestiary/03_Thalantira/Abyssal_Treant.md",
+    "07_Bestiary/03_Thalantira/Deepwater_Siren.md",
+    "07_Bestiary/03_Thalantira/Behemoth_Cangkang_Hitam.md",
+    "07_Bestiary/03_Thalantira/Crystal_Basilisk.md",
+    "07_Bestiary/03_Thalantira/Void_Panther.md",
+    "08_Story/02_Prologue/03_Sang_Nelayan_Trauma.md",
+    "08_Story/02_Prologue/04_Penolakan_Sang_Pelaut.md",
+    "08_Story/02_Prologue/13_Terjun_ke_Sungai_Bawah_Tanah.md",
+    "08_Story/01_The_Old_Tale.md",
+    "05_Karakter & Tokoh Penting/06_Cakrawala/Tuan Midas.md",
     "08_Story/02_Prologue/12_Kisah_Cinta_dan_Kutukan_Raksamala.md",
+    "03_Region/10_Raksamala/Cities & Town/Fortress of Envy.md",
     "03_Region/10_Raksamala/Cities & Town/Fortress of Gluttony.md",
     "03_Region/10_Raksamala/Cities & Town/Fortress of Greed.md",
     "03_Region/10_Raksamala/Cities & Town/Fortress of Lust.md",
@@ -196,21 +211,6 @@
     "03_Region/02_Astradipa/Faksi & Institusi/Ksatrya_Sylvana.md",
     "03_Region/02_Astradipa/Faksi & Institusi/Sekte_Bayang-Gugur.md",
     "03_Region/02_Astradipa/Faksi & Institusi/Ordo_Brahma-Kera.md",
-    "03_Region/02_Astradipa/Faksi & Institusi/Dewan_Rimba_Seta.md",
-    "03_Region/06_Cakrawala/Faksi & Institusi/Serikat Pedagang Cakrawala.md",
-    "03_Region/06_Cakrawala/Faksi & Institusi/Faksi Polisi Cakrawala.md",
-    "05_Karakter & Tokoh Penting/06_Cakrawala/Tuan Midas.md",
-    "05_Karakter & Tokoh Penting/06_Cakrawala/Saudagar Khoja.md",
-    "05_Karakter & Tokoh Penting/06_Cakrawala/Malekith si Buangan.md",
-    "03_Region/01_Mandala Kingdom/Faksi & Institusi/Pasukan_Garuda_Kencana.md",
-    "03_Region/01_Mandala Kingdom/Faksi & Institusi/Loka_Cakra.md",
-    "03_Region/01_Mandala Kingdom/Faksi & Institusi/Ksatrya_Mandalagiri.md",
-    "03_Region/01_Mandala Kingdom/Faksi & Institusi/Gilda_Arthapasa.md",
-    "03_Region/01_Mandala Kingdom/Faksi & Institusi/Dharma_Surya_Adhi.md",
-    "03_Region/01_Mandala Kingdom/Faksi & Institusi/Dewan_Candra_Nawa.md",
-    "03_Region/01_Mandala Kingdom/Cities & Town/Hermindar.md",
-    "03_Region/01_Mandala Kingdom/Cities & Town/Arthiska.md",
-    "03_Region/01_Mandala Kingdom/Cities & Town/Mandala Capital.md",
     "08_Story/02_Prologue",
     "split_prologue.py",
     "build_db.py",

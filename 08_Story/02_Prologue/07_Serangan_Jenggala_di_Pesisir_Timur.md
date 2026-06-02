@@ -14,11 +14,11 @@ Pemandangan di hadapan mereka bak mimpi buruk. Gubuk kayu tempat mereka meminum 
 
 Di sudut puing-puing, sang nelayan tua tampak meringkuk di tanah. Ia menjadikan punggung rentanya sebagai tameng absolut untuk menutupi kedua bayi kembarnya dari hujan reruntuhan dan ancaman bahaya. Bayi-bayi itu menangis histeris.
 
-Seekor *Jenggala Goblin* dengan parang berkarat melompat ke udara, mengincar punggung sang nelayan. Parang itu berayun turun untuk memberikan tebasan mematikan.
+Sesosok *Dhemit Wight*—utusan kegelapan Sangrahal yang sengaja menyusup di tengah kekacauan invasi Jenggala—melompat ke udara, mengincar keranjang bayi di balik punggung sang nelayan. Cakar beracunnya berayun turun untuk merebut paksa bayi tersebut.
 
 *TRANGGG!!*
 
-Percikan api menyala terang. Hector telah melesat maju menembus jarak dengan kecepatan yang tak masuk akal bagi tubuh raksasanya. Pedang besar sang Paladin menghantam parang si Goblin hingga patah menjadi dua, sebelum akhirnya hantaman sarung tangan baja Hector meremukkan dada makhluk itu dan melemparnya belasan meter ke belakang.
+Percikan api menyala terang. Hector telah melesat maju menembus jarak dengan kecepatan yang tak masuk akal bagi tubuh raksasanya. Pedang besar sang Paladin menghantam cakar si *Wight* hingga hancur berkeping-keping, sebelum akhirnya hantaman sarung tangan baja Hector meremukkan dada makhluk iblis itu dan melemparnya belasan meter ke belakang hingga tewas.
 
 "Angkat kepalamu, Pak Tua! Bantuan sudah tiba!" raung Hector dengan suara baritonnya yang membahana, membelah hiruk-pikuk pertarungan.
 

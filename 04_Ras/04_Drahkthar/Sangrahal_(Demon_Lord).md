@@ -6,7 +6,7 @@ tags:
 
 # Sangrahal (Demon Lord)
 
-Penguasa mutlak Kerajaan Drakhtar di [[Raksamala]] sekaligus ras Drahkthar tertinggi yang menguasai seluruh spektrum kekuatan gelap. Ia adalah perwujudan fisik dari dewa kehancuran kosmik itu sendiri, [[Kala Laksana]]. 
+Penguasa mutlak Kerajaan Drakhtar di [[Raksmala]] sekaligus ras Drahkthar tertinggi yang menguasai seluruh spektrum kekuatan gelap. Ia adalah perwujudan fisik dari dewa kehancuran kosmik itu sendiri, [[Kala Laksana]]. 
 
 ### Pusat Segala Kegelapan
 Sangrahal hidup dengan cara menghisap dan menyerap energi kehidupan dari daratan Nusvanir serta menyerap jiwa-jiwa prajurit (seperti Dhemit dan Bhuta) yang mengabdi padanya. 

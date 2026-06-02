@@ -17,4 +17,4 @@ Aeolus tidak pernah ikut campur dalam pertarungan fisik. Ia berdiam di Kuil Lang
 
 ### Relasi Faksi
 - Penghubung wahyu untuk **Pendeta Agung Lumina**.
-- Bersifat sangat netral, bahkan tidak membenci Raksamala karena ia menganggap mereka juga bagian dari takdir mutlak.
+- Bersifat sangat netral, bahkan tidak membenci Raksmala karena ia menganggap mereka juga bagian dari takdir mutlak.

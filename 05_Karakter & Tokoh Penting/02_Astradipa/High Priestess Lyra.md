@@ -13,7 +13,7 @@ tags:
 **Visual**: Wanita anggun dengan telinga runcing memanjang, mata berwarna zamrud cerah. Ia mengenakan jubah hijau lumut yang ditenun dari sutra Vriskapala dan memegang tongkat sihir berintikan daun bercahaya.
 
 ### Latar Belakang & Lore
-Lyra adalah Elf tertua yang saat ini masih hidup di [[Astradipa]]. Ia merasakan memudarnya keseimbangan alam lebih peka dari siapapun. Ketika invasi *Rift* pertama kali terbuka di hutan mereka, Lyra kehilangan banyak ksatria mudanya yang diculik untuk dijadikan tumbal di [[Raksamala]].
+Lyra adalah Elf tertua yang saat ini masih hidup di [[Astradipa]]. Ia merasakan memudarnya keseimbangan alam lebih peka dari siapapun. Ketika invasi *Rift* pertama kali terbuka di hutan mereka, Lyra kehilangan banyak ksatria mudanya yang diculik untuk dijadikan tumbal di [[Raksmala]].
 
 Sejak saat itu, ia mengirim utusan-utusan terbaik Asrivana ke [[Agnitra]] dengan misi putus asa: mendapatkan pasokan senjata super ringan (Mithril) yang dapat mengimbangi kelincahan mereka untuk menghadapi invasi gelombang berikutnya. Ia juga menjalin komunikasi magis secara rahasia dengan Kuil [[Vriskapala]] di Tirta Amarta.
 

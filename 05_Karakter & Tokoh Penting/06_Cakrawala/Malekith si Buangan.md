@@ -20,4 +20,4 @@ Faksinya bertahan hidup dengan membajak karavan dagang yang menuju Mandala. Ia s
 ### Relasi Faksi
 - Pemimpin **Faksi Bandit Buangan**.
 - Sangat memusuhi Kerajaan [[Mandala]] dan Inspektur Vorn.
-- Berpotensi dimanipulasi oleh utusan [[Dhemit]] dari Raksamala.
+- Berpotensi dimanipulasi oleh utusan [[Dhemit]] dari Raksmala.

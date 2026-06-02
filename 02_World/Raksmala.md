@@ -1,0 +1,8 @@
+---
+title: Pulau_Kegelapan_Raksmala
+tags:
+  - Geografi_Wilayah
+---
+# Pulau Kegelapan Raksmala
+
+Raksmala, juga dikenal sebagai Pulau Kegelapan, adalah wilayah yang menjadi pusat kejahatan dan kengerian di Nusvanir. Pulau ini adalah rumah bagi para iblis, termasuk pemimpin mereka, Sangrahal yang paling berbahaya. Di bawah komandonya adalah pasukan setia yang terdiri dari Bhuta sebagai panglima perang dan Dhemit sebagai pasukan utamanya. Pulau ini juga menjadi tempat kelahiran Jenggala.

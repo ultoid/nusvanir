@@ -13,5 +13,5 @@ Karena kesetiaan mutlak ras [[Avesari]] terhadap keadilan dan kesucian, tidak ad
 ### Ikatan Kerjasama Global
 Institusi ini bertindak sebagai pusat komando militer tertinggi bagi seluruh wilayah Nusvanir. Mereka memiliki ikatan kerja sama pertahanan dengan seluruh wilayah tanpa terkecuali, termasuk wilayah yang kuat secara independen seperti [[Nusa Sayendra]] dan [[Agnitra]]. 
 
-### Hubungan Politik dengan Raksamala
-Hal yang paling mengejutkan dari Senopati Prabha adalah mereka memiliki jalur hubungan politik tak resmi dengan [[Pulau Raksamala]] (wilayah Iblis). Meskipun sering bersitegang dan merupakan musuh bebuyutan dalam berbagai perang (yang tercatat dalam sejarah berdarah), komunikasi rahasia tetap dijaga semata-mata untuk mencegah kepunahan masal dan memastikan batas keseimbangan dunia tidak dilanggar oleh kedua belah pihak.
+### Hubungan Politik dengan Raksmala
+Hal yang paling mengejutkan dari Senopati Prabha adalah mereka memiliki jalur hubungan politik tak resmi dengan [[Pulau Raksmala]] (wilayah Iblis). Meskipun sering bersitegang dan merupakan musuh bebuyutan dalam berbagai perang (yang tercatat dalam sejarah berdarah), komunikasi rahasia tetap dijaga semata-mata untuk mencegah kepunahan masal dan memastikan batas keseimbangan dunia tidak dilanggar oleh kedua belah pihak.

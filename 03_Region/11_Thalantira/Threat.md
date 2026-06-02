@@ -5,7 +5,7 @@ tags:
 ---
 # Ancaman Kematian di Thalantira
 
-Mencapai [[Thalantira]] adalah sebuah kemustahilan bagi penduduk fana Nusvanir. Pulau ini dirancang oleh alam (atau oleh penciptanya) sebagai sebuah benteng yang tak dapat ditembus. Sampai saat ini, bahkan Demon Lord [[Sangrahal]] dari [[Raksamala]] tidak pernah berhasil menembus pertahanannya.
+Mencapai [[Thalantira]] adalah sebuah kemustahilan bagi penduduk fana Nusvanir. Pulau ini dirancang oleh alam (atau oleh penciptanya) sebagai sebuah benteng yang tak dapat ditembus. Sampai saat ini, bahkan Demon Lord [[Sangrahal]] dari [[Raksmala]] tidak pernah berhasil menembus pertahanannya.
 
 **1. Tembok Karang Raksasa & Arus Maut:**
 Pulau ini dikelilingi oleh benteng karang yang menjulang sangat tinggi, setajam silet. Arus laut di sekitarnya adalah pusaran maut yang bergerak secara tidak masuk akal; nahkoda paling legendaris sekalipun tidak akan bertahan lebih dari lima menit sebelum kapalnya hancur berkeping-keping.

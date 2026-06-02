@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f51201ccfa3705ec",
+  "active": "f889d8724a53fbf0",
   "lastOpenFiles": [
+    "fix_lore.py",
     "08_Story/02_Prologue/08_Perjanjian_di_Balai_Penyembuhan.md",
     "08_Story/02_Prologue/07_Serangan_Jenggala_di_Pesisir_Timur.md",
     "08_Story/02_Prologue/09_Batas_Badai_Rangkaruna.md",
@@ -210,7 +211,6 @@
     "03_Region/10_Raksamala/Cities & Town/Fortress of Lust.md",
     "03_Region/10_Raksamala/Cities & Town/Fortress of Pride.md",
     "03_Region/10_Raksamala/Cities & Town/Fortress of Sloth.md",
-    "03_Region/10_Raksamala/Cities & Town/Fortress of Wrath.md",
     "08_Story/02_Prologue",
     "split_prologue.py",
     "build_db.py",

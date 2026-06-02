@@ -22,7 +22,7 @@ Ekonomi di Nusvanir tidak berjalan pada satu sumbu, melainkan terpecah menjadi t
 - **Aktivitas:** 
   - Penjualan **Barang Terlarang**, seperti *Serpihan Kala Laksana* (dapat memberikan kutukan mematikan namun meningkatkan *damage* senjata secara drastis) atau racun *Shadow Walker*.
   - Judi gladiator (ilegal) yang dikelola oleh Tuan Midas.
-  - Para *Assassin*, *Warlock*, atau *Rogue* sering menemukan perlengkapan *Tier* tinggi mereka di sini, yang diselundupkan dari sisa-sisa perang Raksamala.
+  - Para *Assassin*, *Warlock*, atau *Rogue* sering menemukan perlengkapan *Tier* tinggi mereka di sini, yang diselundupkan dari sisa-sisa perang Raksmala.
 
 ### 3. Sistem Barter Primordial Arkananta
 - **Karakteristik:** Sama sekali tidak mengenal mata uang koin. Nilai tukar didasarkan pada kebutuhan hidup (*survival value*).

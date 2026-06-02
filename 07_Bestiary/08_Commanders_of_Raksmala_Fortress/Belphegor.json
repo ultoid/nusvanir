@@ -1,0 +1,13 @@
+﻿{
+    "description":  "[COMMANDER] Demon Lord Kemalasan penebar ranjau miasma pembunuh diam-diam.",
+    "id":  "Belphegor",
+    "mp":  850000,
+    "weakness":  "Cahaya \u0026 Tanah",
+    "category":  "Bestiary Boss",
+    "element":  "Kegelapan \u0026 Udara (Miasma)",
+    "class":  "Warlock (Tier 4)",
+    "location":  "Benteng Sloth (Lorong Tidur Raksmala)",
+    "hp":  950000,
+    "title":  "Belphegor",
+    "attack_type":  "Magic / Trap"
+}

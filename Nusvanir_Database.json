@@ -83,11 +83,11 @@
         "category": "Geografi & Wilayah",
         "description": "Agnitra, dikenal sebagai Pulau Para Naga, adalah wilayah yang penuh kekuatan dan keagungan yang tidak tertandingi. Pulau ini menjadi tempat tinggal eksklusif bagi Nagarasven, bangsa naga yang memiliki hubungan erat dengan elemen api dan magma. Dengan sebuah gunung api besar bernama Gunung Mahasvara sebagai pusat pulau."
     },
-    "Pulau_Kegelapan_Raksamala": {
-        "id": "Pulau_Kegelapan_Raksamala",
-        "title": "Pulau Kegelapan Raksamala",
+    "Pulau_Kegelapan_Raksmala": {
+        "id": "Pulau_Kegelapan_Raksmala",
+        "title": "Pulau Kegelapan Raksmala",
         "category": "Geografi & Wilayah",
-        "description": "Raksamala, juga dikenal sebagai Pulau Kegelapan, adalah wilayah yang menjadi pusat kejahatan dan kengerian di Nusvanir. Pulau ini adalah rumah bagi para iblis, termasuk pemimpin mereka, Sangrahal yang paling berbahaya. Di bawah komandonya adalah pasukan setia yang terdiri dari Bhuta sebagai panglima perang dan Dhemit sebagai pasukan utamanya. Pulau ini juga menjadi tempat kelahiran Jenggala."
+        "description": "Raksmala, juga dikenal sebagai Pulau Kegelapan, adalah wilayah yang menjadi pusat kejahatan dan kengerian di Nusvanir. Pulau ini adalah rumah bagi para iblis, termasuk pemimpin mereka, Sangrahal yang paling berbahaya. Di bawah komandonya adalah pasukan setia yang terdiri dari Bhuta sebagai panglima perang dan Dhemit sebagai pasukan utamanya. Pulau ini juga menjadi tempat kelahiran Jenggala."
     },
     "Pegunungan_Arkananta": {
         "id": "Pegunungan_Arkananta",
@@ -99,13 +99,13 @@
         "id": "Laut_Rangkaruna",
         "title": "Laut Rangkaruna",
         "category": "Geografi & Wilayah",
-        "description": "Laut Rangkaruna adalah lautan luas yang memisahkan dataran utama Nusvanir dengan Pulau Raksamala. Laut ini diciptakan oleh Sang Hyang Cahaya sebagai simbol pemisahan antara dunia terang dan gelap. Di laut ini penuh dengan makhluk laut menakutkan, badai abadi, dan misteri yang belum terungkap."
+        "description": "Laut Rangkaruna adalah lautan luas yang memisahkan dataran utama Nusvanir dengan Pulau Raksmala. Laut ini diciptakan oleh Sang Hyang Cahaya sebagai simbol pemisahan antara dunia terang dan gelap. Di laut ini penuh dengan makhluk laut menakutkan, badai abadi, dan misteri yang belum terungkap."
     },
     "Pulau_Misterius_Thalantira": {
         "id": "Pulau_Misterius_Thalantira",
         "title": "Pulau Misterius Thalantira",
         "category": "Geografi & Wilayah",
-        "description": "Pulau Thalantira adalah sebuah pulau misterius yang sering disebut-sebut dalam legenda Nusvanir, namun keberadaannya masih dipenuhi keraguan. Terletak jauh di balik Pulau Raksamala, Pulau Thalantira diyakini menyimpan kekuatan besar yang belum terungkap."
+        "description": "Pulau Thalantira adalah sebuah pulau misterius yang sering disebut-sebut dalam legenda Nusvanir, namun keberadaannya masih dipenuhi keraguan. Terletak jauh di balik Pulau Raksmala, Pulau Thalantira diyakini menyimpan kekuatan besar yang belum terungkap."
     },
     "Ibu_Kota_Mandala_(Tata_Lingkar)": {
         "id": "Ibu_Kota_Mandala_(Tata_Lingkar)",
@@ -267,13 +267,13 @@
         "id": "Sangrahal_(Demon_Lord)",
         "title": "Sangrahal (Demon Lord)",
         "category": "Entitas Kegelapan & Buangan",
-        "description": "Ras demon yang sangat kuat, dipimpin oleh makhluk raksasa yang sangat berkuasa. Penghuni Raksamala."
+        "description": "Ras demon yang sangat kuat, dipimpin oleh makhluk raksasa yang sangat berkuasa. Penghuni Raksmala."
     },
     "Bhuta": {
         "id": "Bhuta",
         "title": "Bhuta",
         "category": "Entitas Kegelapan & Buangan",
-        "description": "Makhluk bayangan yang muncul dari kegelapan, membawa ketakutan dan penderitaan kepada semua makhluk hidup di dunia. Panglima perang di Raksamala."
+        "description": "Makhluk bayangan yang muncul dari kegelapan, membawa ketakutan dan penderitaan kepada semua makhluk hidup di dunia. Panglima perang di Raksmala."
     },
     "Dhemit": {
         "id": "Dhemit",
@@ -285,7 +285,7 @@
         "id": "Jenggala_(Monster)",
         "title": "Jenggala (Monster)",
         "category": "Entitas Kegelapan & Buangan",
-        "description": "Monster liar yang berkeliaran di seluruh wilayah Nusvanir. Berasal dari Raksamala."
+        "description": "Monster liar yang berkeliaran di seluruh wilayah Nusvanir. Berasal dari Raksmala."
     },
     "Sistem_Mata_Uang": {
         "id": "Sistem_Mata_Uang",

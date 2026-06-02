@@ -10,7 +10,7 @@ tags:
 
 Udara pagi yang tadinya segar karena embun laut kini tercemar oleh bau busuk khas tanah membusuk dan darah. Jane, Cassian, dan Hector, yang disusul oleh sang *Knight* dan dua *Mage* magang dari *Guild Dark Thorn*, tiba di pesisir pantai timur Aqualis.
 
-Pemandangan di hadapan mereka bak mimpi buruk. Gubuk kayu tempat mereka meminum teh beberapa jam yang lalu telah hancur lebur, rata dengan pasir. Tiang-tiangnya patah, dan atap daun kelapanya terkoyak. Di tengah reruntuhan itu, ratusan meter dari bibir ombak, berdiri sesosok *Dhemit Wight*—utusan kegelapan Sangrahal. Makhluk iblis itu merapal sihir gelap, sengaja merobek dimensi untuk membuka sebuah portal hijau berbentuk pusaran akar pohon berduri. Portal itu memuntahkan berbagai macam makhluk Jenggala liar secara acak ke dunia nyata—mulai dari gerombolan *Jenggala Goblin*, *Troll* lumpur, hingga babi hutan bercula paku yang haus darah.
+Pemandangan di hadapan mereka bak mimpi buruk. Gubuk kayu tempat mereka meminum teh beberapa jam yang lalu telah hancur lebur, rata dengan pasir. Tiang-tiangnya patah, dan atap daun kelapanya terkoyak. Di tengah reruntuhan itu, ratusan meter dari bibir ombak, berdiri sesosok *Dhemit Wight*—utusan kegelapan Sangrahal. Makhluk iblis itu merapal sihir gelap, sengaja merobek dimensi untuk membuka sebuah portal hijau berbentuk pusaran akar pohon berduri. Portal itu memuntahkan berbagai macam makhluk Jenggala liar secara acak ke dunia nyata—mulai dari gerombolan *Goblin*, *Ogre* raksasa, hingga *Direboar* yang haus darah.
 
 Di sudut puing-puing, sang nelayan tua tampak meringkuk di tanah. Ia menjadikan punggung rentanya sebagai tameng absolut untuk menutupi kedua bayi kembarnya dari hujan reruntuhan dan ancaman bahaya. Bayi-bayi itu menangis histeris.
 

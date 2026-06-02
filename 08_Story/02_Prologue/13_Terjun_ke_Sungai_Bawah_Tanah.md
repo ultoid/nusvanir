@@ -70,7 +70,7 @@ Rama mendengus sumbang. "Ketika aku mengutarakan niatku tentang *Void Crystal*, 
 
 Cassian tercekat hingga nyaris tersedak ludahnya sendiri. Jumlah kepingan emas murni sebanyak itu cukup untuk membeli sebuah distrik kota secara lunas di Kerajaan Mandala. Angka yang teramat fantastis untuk sebuah serpihan batu, dan sama sekali mustahil ditebus oleh seorang nelayan pensiunan prajurit Mandala.
 
-"Aku pulang dengan dunia yang hancur lebur," lanjut Rama, pandangannya kembali menatap lurus ke riak sungai. "Batas waktuku tinggal menghitung hari. Hingga akhirnya... secercah keajaiban palsu muncul. *Guild Black Thorn* mempublikasikan misi buronan darurat berskala besar: menangkap 100 ekor Kepiting Batu Karang dengan total imbalan 50.000 *Saka Kencana*."
+"Aku pulang dengan dunia yang hancur lebur," lanjut Rama, pandangannya kembali menatap lurus ke riak sungai. "Batas waktuku tinggal menghitung hari. Hingga akhirnya... secercah keajaiban palsu muncul. *Guild Dark Thorn* mempublikasikan misi buronan darurat berskala besar: menangkap 100 ekor Kepiting Batu Karang dengan total imbalan 50.000 *Saka Kencana*."
 
 "Separuh dari harga utamanya," sela Cassian.
 

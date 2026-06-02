@@ -10,7 +10,7 @@ tags:
 
 Jane menuntun mereka menyusuri jalanan kota hingga tiba di sebuah rumah batu dua lantai yang terlihat biasa saja dari luar. Namun saat memasukinya, interior rumah itu jauh dari kesan tempat tinggal. Ruangan utamanya didominasi oleh sebuah meja bundar raksasa yang dikelilingi belasan kursi kayu berantakan, serta papan pengumuman yang dipenuhi tumpukan kertas buron dan peta.
 
-Tempat ini tak lain adalah markas cabang *Guild Black Thorn* di Kota Aqualis.
+Tempat ini tak lain adalah markas cabang *Guild Dark Thorn* di Kota Aqualis.
 
 Suasana markas masih sangat sepi karena matahari baru saja naik seutuhnya. Hanya ada Jane, Cassian, dan Hector di ruangan luas tersebut.
 
@@ -26,7 +26,7 @@ Mendengar kebohongan halus itu, Jane hanya memutar bola matanya ke atas dengan m
 
 "Jane, cepat katakan," desak Cassian serius.
 
-"Baik, baik. Begini ceritanya," raut wajah Jane seketika berubah muram, tawanya lenyap tak bersisa. "Ini terjadi sekitar setengah tahun lalu... tepatnya enam bulan yang lalu. Saat itu, kamilah, kelompok utama *Guild Black Thorn*, yang berhasil menyelesaikan sebuah misi tingkat S dari serikat *Guild* pusat."
+"Baik, baik. Begini ceritanya," raut wajah Jane seketika berubah muram, tawanya lenyap tak bersisa. "Ini terjadi sekitar setengah tahun lalu... tepatnya enam bulan yang lalu. Saat itu, kamilah, kelompok utama *Guild Dark Thorn*, yang berhasil menyelesaikan sebuah misi tingkat S dari serikat *Guild* pusat."
 
 Jane menatap kosong ke arah corak meja kayu di depannya. "Setelah keberhasilan besar itu, ketua *Guild* memutuskan untuk mengadakan pesta perayaan besar-besaran di Aqualis. Kau tahu kan, kota ini sangat terkenal dengan olahan daging Kepiting Batu Karang-nya yang luar biasa lezat? Akhirnya, *Guild* kami berencana memborong Kepiting Batu Karang dalam jumlah masif."
 

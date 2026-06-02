@@ -46,7 +46,7 @@ Pertanyaan tiba-tiba itu membuat Cassian dan Hector saling berpandangan. Menging
 
 Mereka dibawa menyusuri jalanan Kota Aqualis menuju sebuah bangunan yang tampak seperti rumah kecil dari luar, ditandai dengan panji berlogo duri hitam yang terpasang jelas di atas ambang pintunya. Meski terlihat sederhana, interior bangunan tersebut telah dirombak total menjadi sebuah ruang pertemuan operasional yang luas. 
 
-Sebuah meja kayu besar mendominasi bagian tengah ruangan, dikelilingi oleh belasan kursi yang berserakan tak beraturan—seakan menjadi saksi bisu dari rapat panas para petualang yang baru saja berakhir semalam suntuk. Bangunan inilah markas cabang resmi dari *Guild Black Thorn* di Kota Aqualis, rumah bagi ratusan petarung lintas kelas yang singgah di pesisir. Aroma debu pekat yang bercampur dengan bau asam sisa bir langsung menyergap penciuman mereka begitu melangkah masuk.
+Sebuah meja kayu besar mendominasi bagian tengah ruangan, dikelilingi oleh belasan kursi yang berserakan tak beraturan—seakan menjadi saksi bisu dari rapat panas para petualang yang baru saja berakhir semalam suntuk. Bangunan inilah markas cabang resmi dari *Guild Dark Thorn* di Kota Aqualis, rumah bagi ratusan petarung lintas kelas yang singgah di pesisir. Aroma debu pekat yang bercampur dengan bau asam sisa bir langsung menyergap penciuman mereka begitu melangkah masuk.
 
 Perempuan itu melemparkan sebotol bir ke arah Hector yang menangkapnya dengan sigap, lalu ia duduk di atas meja kayu yang usang.
 

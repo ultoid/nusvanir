@@ -10,7 +10,7 @@ tags:
 
 Akhirnya mereka berjalan keluar. Di bawah cahaya rembulan Aqualis, sang pria kurus menuntun mereka melewati jalan-jalan setapak yang sepi di pesisir pantai timur.
 
-"Namaku Jo. Aku adalah petualang dari *Guild Black Thorn*, salam kenal," ucap pria itu memecah kesunyian.
+"Namaku Jo. Aku adalah petualang dari *Guild Dark Thorn*, salam kenal," ucap pria itu memecah kesunyian.
 
 "Jadi... siapa orang yang kau maksud ini, Jo?" tanya Cassian hati-hati.
 

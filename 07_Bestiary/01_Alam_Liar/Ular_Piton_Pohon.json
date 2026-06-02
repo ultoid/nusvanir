@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Sanggup melilit dan memberikan efek racun (Poison).",
+    "id":  "Ular_Piton_Pohon",
+    "mp":  0,
+    "weakness":  "Udara",
+    "category":  "Bestiary",
+    "element":  "Tanah",
+    "location":  "Ranting-ranting Besar",
+    "hp":  300,
+    "title":  "Ular Piton Pohon",
+    "attack_type":  "Melee"
+}

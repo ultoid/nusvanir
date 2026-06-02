@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Ksatria benteng kokoh berkulit bebatuan bercahaya.",
+    "id":  "Ksatria_Terra",
+    "mp":  80000,
+    "weakness":  "Kegelapan \u0026 Api",
+    "category":  "Bestiary Boss",
+    "element":  "Cahaya \u0026 Tanah",
+    "class":  "Defender (Tier 4)",
+    "location":  "Pos Terluar Utara Avalerion",
+    "hp":  580000,
+    "title":  "Ksatria Terra",
+    "attack_type":  "Melee / Tank"
+}

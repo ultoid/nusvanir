@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Kurcaci gua liar dan beringas penyerang bergerombol (Ebu Gogo).",
+    "id":  "Goblin",
+    "mp":  0,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Sistem Gua",
+    "hp":  750,
+    "title":  "Goblin",
+    "attack_type":  "Melee"
+}

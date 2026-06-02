@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Boneka kuno parasit (Jenglot) yang menempel dan menghisap nyawa perlahan.",
+    "id":  "Homunculus",
+    "mp":  1500,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Reruntuhan Kuil",
+    "hp":  500,
+    "title":  "Homunculus",
+    "attack_type":  "Melee"
+}

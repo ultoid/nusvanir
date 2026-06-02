@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Saudara Jatayu dengan bulu merah menyala penebar bara api.",
+    "id":  "Jenderal_Sempati",
+    "mp":  480000,
+    "weakness":  "Tanah \u0026 Air",
+    "category":  "Bestiary Boss",
+    "element":  "Udara \u0026 Api",
+    "class":  "Sky Sovereign (Tier 5)",
+    "location":  "Kuil Angin Utara Sayendra",
+    "hp":  660000,
+    "title":  "Jenderal Sempati",
+    "attack_type":  "Melee / Aerial"
+}

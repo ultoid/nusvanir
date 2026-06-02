@@ -1,0 +1,14 @@
+﻿{
+    "description":  "Pejuang lompat tebing pembawa gada angin puting beliung.",
+    "id":  "Krom_Batugilang",
+    "mp":  70000,
+    "weakness":  "Api \u0026 Tanah",
+    "category":  "Bestiary Boss",
+    "element":  "Tanah \u0026 Udara",
+    "class":  "Warrior (Tier 3)",
+    "location":  "Jembatan Tebing Arkananta",
+    "hp":  380000,
+    "title":  "Krom Batugilang",
+    "attack_type":  "Melee"
+}
+

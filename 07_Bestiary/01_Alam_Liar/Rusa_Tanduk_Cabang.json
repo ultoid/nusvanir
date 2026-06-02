@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Rusa herbivora berbadan besar.",
+    "id":  "Rusa_Tanduk_Cabang",
+    "mp":  0,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Hutan Astradipa",
+    "hp":  45,
+    "title":  "Rusa Tanduk-Cabang",
+    "attack_type":  "Melee"
+}

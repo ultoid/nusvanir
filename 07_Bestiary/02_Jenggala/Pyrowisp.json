@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Bola api melayang ala Banaspati yang menembakkan ledakan mematikan.",
+    "id":  "Pyrowisp",
+    "mp":  1000,
+    "weakness":  "Air",
+    "category":  "Bestiary",
+    "element":  "Api",
+    "location":  "Rawa Kering",
+    "hp":  1200,
+    "title":  "Pyrowisp",
+    "attack_type":  "Magic"
+}
+

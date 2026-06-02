@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Macan kosmik yang mampu berteleportasi seketika.",
+    "id":  "Void_Panther",
+    "mp":  45000,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Darat Thalantira",
+    "hp":  95000,
+    "title":  "Void Panther",
+    "attack_type":  "Melee"
+}

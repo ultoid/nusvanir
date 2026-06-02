@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Naga keemasan penembak laser suci bersuhu matahari.",
+    "id":  "Goldenscale",
+    "mp":  650000,
+    "weakness":  "Air \u0026 Kegelapan",
+    "category":  "Bestiary Boss",
+    "element":  "Api \u0026 Cahaya",
+    "class":  "Dragon Aspect (Tier 5)",
+    "location":  "Puncak Timur Gunung Mahasvara",
+    "hp":  750000,
+    "title":  "Goldenscale",
+    "attack_type":  "Magic / Ranged"
+}

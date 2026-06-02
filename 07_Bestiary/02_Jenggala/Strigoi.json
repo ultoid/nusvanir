@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Undead terbang (Kuyang) spesialis Lifesteal.",
+    "id":  "Strigoi",
+    "mp":  1200,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Pinggiran Desa",
+    "hp":  900,
+    "title":  "Strigoi",
+    "attack_type":  "Magic"
+}

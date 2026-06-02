@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Berjalan beriringan mencari makan.",
+    "id":  "Bebek_Danau",
+    "mp":  0,
+    "weakness":  "Listrik",
+    "category":  "Bestiary",
+    "element":  "Air",
+    "location":  "Danau Mandala",
+    "hp":  15,
+    "title":  "Bebek Danau",
+    "attack_type":  "Melee"
+}

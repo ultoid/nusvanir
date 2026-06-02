@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Patung batu bersayap dengan kulit kebal.",
+    "id":  "Thalantira_Gargoyle",
+    "mp":  25000,
+    "weakness":  "Listrik",
+    "category":  "Bestiary",
+    "element":  "Besi",
+    "location":  "Udara Thalantira",
+    "hp":  135000,
+    "title":  "Thalantira Gargoyle",
+    "attack_type":  "Melee"
+}

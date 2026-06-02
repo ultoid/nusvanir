@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Hewan buruan pasif yang lincah.",
+    "id":  "Kelinci_Padang",
+    "mp":  0,
+    "weakness":  "Semua",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Lingkar Bumi",
+    "hp":  10,
+    "title":  "Kelinci Padang",
+    "attack_type":  "Melee"
+}

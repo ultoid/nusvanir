@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Potongan tentakel besar pemukul bahtera.",
+    "id":  "Kraken_Tentacle",
+    "mp":  15000,
+    "weakness":  "Listrik",
+    "category":  "Bestiary",
+    "element":  "Air",
+    "location":  "Air Thalantira",
+    "hp":  220000,
+    "title":  "Kraken Tentacle",
+    "attack_type":  "Melee"
+}

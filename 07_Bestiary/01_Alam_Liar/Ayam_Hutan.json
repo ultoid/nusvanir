@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Unggas darat liar penjaga sarang.",
+    "id":  "Ayam_Hutan",
+    "mp":  0,
+    "weakness":  "Netral",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Hutan Ringan",
+    "hp":  10,
+    "title":  "Ayam Hutan",
+    "attack_type":  "Melee"
+}

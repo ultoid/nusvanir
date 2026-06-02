@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Goliath hijau raksasa pemakan daging mentah (Buto Ijo).",
+    "id":  "Ogre",
+    "mp":  100,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Tanah",
+    "location":  "Gunung Bebatuan",
+    "hp":  5000,
+    "title":  "Ogre",
+    "attack_type":  "Melee"
+}

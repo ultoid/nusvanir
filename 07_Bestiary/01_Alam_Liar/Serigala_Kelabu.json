@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Hewan buas pemburu berkelompok yang agresif.",
+    "id":  "Serigala_Kelabu",
+    "mp":  0,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Hutan Rimbun",
+    "hp":  250,
+    "title":  "Serigala Kelabu",
+    "attack_type":  "Melee"
+}

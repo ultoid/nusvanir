@@ -1,0 +1,13 @@
+﻿{
+    "description":  "[COMMANDER] Demon Lord Keserakahan penguasa pasukan golem logam karatan.",
+    "id":  "Mamon",
+    "mp":  800000,
+    "weakness":  "Cahaya \u0026 Listrik",
+    "category":  "Bestiary Boss",
+    "element":  "Kegelapan \u0026 Besi",
+    "class":  "Necromancer (Tier 4)",
+    "location":  "Benteng Greed (Bawah Tanah Raksamala)",
+    "hp":  890000,
+    "title":  "Mamon",
+    "attack_type":  "Magic / Summoner"
+}

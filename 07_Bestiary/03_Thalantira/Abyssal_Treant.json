@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Pohon berjalan beraura korupsi.",
+    "id":  "Abyssal_Treant",
+    "mp":  35000,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Darat Thalantira",
+    "hp":  150000,
+    "title":  "Abyssal Treant",
+    "attack_type":  "Melee"
+}

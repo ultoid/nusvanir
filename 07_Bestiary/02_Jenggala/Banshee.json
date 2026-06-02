@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Hantu wanita beraura sonik (Kuntilanak) yang teriakannya memecahkan pertahanan.",
+    "id":  "Banshee",
+    "mp":  2500,
+    "weakness":  "Besi",
+    "category":  "Bestiary",
+    "element":  "Suara",
+    "location":  "Pohon Beringin Raksasa",
+    "hp":  1800,
+    "title":  "Banshee",
+    "attack_type":  "Magic"
+}

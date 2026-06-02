@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Ikan buas perobek zirah kelas adamantite.",
+    "id":  "Abyssal_Piranha",
+    "mp":  0,
+    "weakness":  "Listrik",
+    "category":  "Bestiary",
+    "element":  "Air",
+    "location":  "Air Thalantira",
+    "hp":  45000,
+    "title":  "Abyssal Piranha",
+    "attack_type":  "Melee"
+}

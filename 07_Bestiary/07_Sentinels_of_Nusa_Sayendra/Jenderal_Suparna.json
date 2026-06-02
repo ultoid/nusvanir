@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Garuda elegan pemanggil badai salju dan es bergerigi.",
+    "id":  "Jenderal_Suparna",
+    "mp":  550000,
+    "weakness":  "Tanah \u0026 Suara",
+    "category":  "Bestiary Boss",
+    "element":  "Udara \u0026 Es",
+    "class":  "Windrunner (Tier 4)",
+    "location":  "Kuil Angin Barat Sayendra",
+    "hp":  520000,
+    "title":  "Jenderal Suparna",
+    "attack_type":  "Magic / Agility"
+}

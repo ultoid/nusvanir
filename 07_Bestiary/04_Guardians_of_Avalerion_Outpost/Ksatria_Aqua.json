@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Ksatria pendukung penyembuh luka dengan air suci.",
+    "id":  "Ksatria_Aqua",
+    "mp":  180000,
+    "weakness":  "Kegelapan \u0026 Listrik",
+    "category":  "Bestiary Boss",
+    "element":  "Cahaya \u0026 Air",
+    "class":  "Paladin (Tier 3)",
+    "location":  "Pos Terluar Barat Avalerion",
+    "hp":  420000,
+    "title":  "Ksatria Aqua",
+    "attack_type":  "Melee / Support"
+}

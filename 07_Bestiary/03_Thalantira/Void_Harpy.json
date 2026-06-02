@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Manusia burung pemanah energi gelap dari awan.",
+    "id":  "Void_Harpy",
+    "mp":  50000,
+    "weakness":  "Tanah",
+    "category":  "Bestiary",
+    "element":  "Udara",
+    "location":  "Udara Thalantira",
+    "hp":  85000,
+    "title":  "Void Harpy",
+    "attack_type":  "Ranged"
+}

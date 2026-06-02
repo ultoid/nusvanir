@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Api hantu penyesat jalan (Kemamang).",
+    "id":  "Wisp",
+    "mp":  1000,
+    "weakness":  "Air",
+    "category":  "Bestiary",
+    "element":  "Api",
+    "location":  "Rawa Berkabut",
+    "hp":  600,
+    "title":  "Wisp",
+    "attack_type":  "Magic"
+}

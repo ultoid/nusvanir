@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Kalajengking batu hitam seukuran rumah.",
+    "id":  "Obsidian_Crawler",
+    "mp":  0,
+    "weakness":  "Listrik",
+    "category":  "Bestiary",
+    "element":  "Besi",
+    "location":  "Darat Thalantira",
+    "hp":  125000,
+    "title":  "Obsidian Crawler",
+    "attack_type":  "Melee"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Mata melayang kosmik yang menembakkan laser kematian.",
+    "id":  "Nebula_Eye",
+    "mp":  150000,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Udara Thalantira",
+    "hp":  105000,
+    "title":  "Nebula Eye",
+    "attack_type":  "Magic"
+}

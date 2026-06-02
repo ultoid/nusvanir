@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Babi siluman raksasa (Celeng Ngepet) berkulit baja hitam.",
+    "id":  "Direboar",
+    "mp":  800,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Hutan Bayangan",
+    "hp":  4000,
+    "title":  "Direboar",
+    "attack_type":  "Melee"
+}

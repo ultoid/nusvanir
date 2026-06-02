@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Naga penguasa badai api dari udara.",
+    "id":  "Silverwing",
+    "mp":  550000,
+    "weakness":  "Air \u0026 Tanah",
+    "category":  "Bestiary Boss",
+    "element":  "Api \u0026 Udara",
+    "class":  "Dragon Aspect (Tier 5)",
+    "location":  "Langit Kawah Mahasvara",
+    "hp":  780000,
+    "title":  "Silverwing",
+    "attack_type":  "Ranged / Aerial"
+}

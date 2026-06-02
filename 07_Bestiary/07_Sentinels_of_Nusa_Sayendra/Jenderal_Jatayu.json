@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Pemimpin legendaris Garuda pembawa petir langit pembelah awan.",
+    "id":  "Jenderal_Jatayu",
+    "mp":  500000,
+    "weakness":  "Tanah \u0026 Es",
+    "category":  "Bestiary Boss",
+    "element":  "Udara \u0026 Listrik",
+    "class":  "Sky Sovereign (Tier 5)",
+    "location":  "Kuil Angin Selatan Sayendra",
+    "hp":  650000,
+    "title":  "Jenderal Jatayu",
+    "attack_type":  "Melee / Aerial"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Raksasa ramping menjulang (Begu Ganjang) yang bisa mencekik dari jauh.",
+    "id":  "Wendigo",
+    "mp":  600,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Puncak Bukit Raksamala",
+    "hp":  3100,
+    "title":  "Wendigo",
+    "attack_type":  "Melee"
+}

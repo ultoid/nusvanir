@@ -1,0 +1,8 @@
+---
+title: Kota_Bebas_Cakrawala
+tags:
+  - Geografi_Wilayah
+---
+# Kota Bebas Cakrawala
+
+Cakrawala adalah wilayah unik di Nusvanir yang menjadi tempat pertemuan semua ras. Sebagai pusat perdagangan bebas dan diplomasi, daerah ini menawarkan peluang besar bagi siapa saja yang ingin memperdagangkan barang, mencari petualangan, atau bahkan memulai hidup baru. Namun, di balik kemegahannya, Cakrawala menyimpan sisi gelap, di mana tindak kriminal sering terjadi, menjadikannya wilayah yang membutuhkan kewaspadaan tinggi.

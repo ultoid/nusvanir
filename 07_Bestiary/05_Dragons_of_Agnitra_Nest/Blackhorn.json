@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Naga lapis baja hitam dengan semburan magma murni.",
+    "id":  "Blackhorn",
+    "mp":  250000,
+    "weakness":  "Air \u0026 Listrik",
+    "category":  "Bestiary Boss",
+    "element":  "Api \u0026 Besi",
+    "class":  "Dragon Aspect (Tier 5)",
+    "location":  "Lereng Bawah Gunung Mahasvara",
+    "hp":  890000,
+    "title":  "Blackhorn",
+    "attack_type":  "Melee / Tank"
+}

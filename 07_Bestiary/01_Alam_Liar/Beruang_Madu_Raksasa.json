@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Beruang raksasa dengan HP sangat tinggi dan cakar mematikan.",
+    "id":  "Beruang_Madu_Raksasa",
+    "mp":  0,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Tanah",
+    "location":  "Goa-goa Hutan",
+    "hp":  850,
+    "title":  "Beruang Madu Raksasa",
+    "attack_type":  "Melee"
+}

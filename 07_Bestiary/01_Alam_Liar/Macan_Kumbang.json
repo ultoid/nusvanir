@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Predator nokturnal dengan serangan mendadak (Stealth).",
+    "id":  "Macan_Kumbang",
+    "mp":  0,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Pohon Tinggi Jenggala",
+    "hp":  400,
+    "title":  "Macan Kumbang",
+    "attack_type":  "Melee"
+}

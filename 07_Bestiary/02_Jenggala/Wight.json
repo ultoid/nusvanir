@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Mayat hidup pelompat pembawa miasma racun (Pocong).",
+    "id":  "Wight",
+    "mp":  500,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Kuburan Tua",
+    "hp":  1500,
+    "title":  "Wight",
+    "attack_type":  "Melee"
+}

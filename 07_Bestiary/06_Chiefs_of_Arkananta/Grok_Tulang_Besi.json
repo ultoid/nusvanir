@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Kepala suku brutal yang tubuhnya dimodifikasi dengan logam.",
+    "id":  "Grok_Tulang_Besi",
+    "mp":  50000,
+    "weakness":  "Api \u0026 Listrik",
+    "category":  "Bestiary Boss",
+    "element":  "Tanah \u0026 Besi",
+    "class":  "Berserker (Tier 4)",
+    "location":  "Lembah Batu Arkananta",
+    "hp":  450000,
+    "title":  "Grok Tulang-Besi",
+    "attack_type":  "Melee / Tank"
+}

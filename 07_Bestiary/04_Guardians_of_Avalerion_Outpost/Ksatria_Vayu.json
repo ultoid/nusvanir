@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Ksatria gesit pengendali badai bercahaya penembus formasi.",
+    "id":  "Ksatria_Vayu",
+    "mp":  150000,
+    "weakness":  "Kegelapan \u0026 Tanah",
+    "category":  "Bestiary Boss",
+    "element":  "Cahaya \u0026 Udara",
+    "class":  "Windrunner (Tier 3)",
+    "location":  "Pos Terluar Selatan Avalerion",
+    "hp":  290000,
+    "title":  "Ksatria Vayu",
+    "attack_type":  "Melee / Agility"
+}

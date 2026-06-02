@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Raksasa hutan berbulu tebal dengan kekuatan fisik brutal.",
+    "id":  "Gondarwa",
+    "mp":  200,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Tanah",
+    "location":  "Jenggala Dalam",
+    "hp":  3500,
+    "title":  "Gondarwa",
+    "attack_type":  "Melee"
+}

@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Naga pembunuh senyap yang menyemburkan api dingin membeku.",
+    "id":  "Moonfang",
+    "mp":  450000,
+    "weakness":  "Air \u0026 Suara",
+    "category":  "Bestiary Boss",
+    "element":  "Api \u0026 Es",
+    "class":  "Dragon Aspect (Tier 5)",
+    "location":  "Gua Gelap Agnitra",
+    "hp":  720000,
+    "title":  "Moonfang",
+    "attack_type":  "Melee / Assassin"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Hiu hantu penembus karang.",
+    "id":  "Megalodon_Phantom",
+    "mp":  30000,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Air Thalantira",
+    "hp":  165000,
+    "title":  "Megalodon Phantom",
+    "attack_type":  "Melee"
+}

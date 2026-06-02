@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Garuda bermata tajam pembidik dengan resonansi sonik suci.",
+    "id":  "Jenderal_Paksi",
+    "mp":  600000,
+    "weakness":  "Besi \u0026 Kegelapan",
+    "category":  "Bestiary Boss",
+    "element":  "Suara \u0026 Cahaya",
+    "class":  "Sniper (Tier 4)",
+    "location":  "Kuil Angin Timur Sayendra",
+    "hp":  480000,
+    "title":  "Jenderal Paksi",
+    "attack_type":  "Ranged / Aerial"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Kelelawar purba raksasa pembawa wabah penyakit.",
+    "id":  "Ahool",
+    "mp":  800,
+    "weakness":  "Tanah",
+    "category":  "Bestiary",
+    "element":  "Udara",
+    "location":  "Gua Arkananta",
+    "hp":  2500,
+    "title":  "Ahool",
+    "attack_type":  "Ranged"
+}

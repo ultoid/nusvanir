@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Pari kosmik pelayang air dalam penembak energi mematikan.",
+    "id":  "Manta_Ray_Void",
+    "mp":  90000,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Air Thalantira",
+    "hp":  110000,
+    "title":  "Manta Ray Void",
+    "attack_type":  "Magic"
+}

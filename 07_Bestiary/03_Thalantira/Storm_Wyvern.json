@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Naga kecil penguasa petir dan badai lokal.",
+    "id":  "Storm_Wyvern",
+    "mp":  80000,
+    "weakness":  "Es",
+    "category":  "Bestiary",
+    "element":  "Listrik",
+    "location":  "Udara Thalantira",
+    "hp":  175000,
+    "title":  "Storm Wyvern",
+    "attack_type":  "Magic"
+}

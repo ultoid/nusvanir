@@ -1,0 +1,12 @@
+﻿{
+    "description":  "[BOSS UDARA] Naga kosmik tanpa sayap pelahap realita (Endgame Final Boss).",
+    "id":  "Void_Wyrm",
+    "mp":  999999,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Udara Thalantira",
+    "hp":  999999,
+    "title":  "Void Wyrm",
+    "attack_type":  "Magic"
+}

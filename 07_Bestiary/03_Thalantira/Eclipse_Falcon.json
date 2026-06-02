@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Elang pembawa kegelapan total penukik kilat.",
+    "id":  "Eclipse_Falcon",
+    "mp":  60000,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Udara Thalantira",
+    "hp":  90000,
+    "title":  "Eclipse Falcon",
+    "attack_type":  "Melee"
+}

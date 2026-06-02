@@ -1,0 +1,12 @@
+﻿{
+    "description":  "[BOSS DARAT] Raksasa penjaga daratan dengan pertahanan fisik absolut mutlak.",
+    "id":  "Behemoth_Cangkang_Hitam",
+    "mp":  100000,
+    "weakness":  "Listrik",
+    "category":  "Bestiary",
+    "element":  "Besi",
+    "location":  "Darat Thalantira",
+    "hp":  850000,
+    "title":  "Behemoth Cangkang Hitam",
+    "attack_type":  "Melee"
+}

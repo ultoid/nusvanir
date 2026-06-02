@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Akan menanduk jika merasa terancam.",
+    "id":  "Babi_Hutan",
+    "mp":  0,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Pinggiran Jenggala",
+    "hp":  150,
+    "title":  "Babi Hutan",
+    "attack_type":  "Melee"
+}

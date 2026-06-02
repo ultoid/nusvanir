@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Memiliki tempurung yang tebal.",
+    "id":  "Kura_Kura_Sungai",
+    "mp":  0,
+    "weakness":  "Listrik",
+    "category":  "Bestiary",
+    "element":  "Air",
+    "location":  "Tepian Sungai",
+    "hp":  80,
+    "title":  "Kura-Kura Sungai",
+    "attack_type":  "Melee"
+}

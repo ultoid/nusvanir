@@ -1,0 +1,14 @@
+﻿{
+    "description":  "Ksatria tangguh dengan perisai api suci pembakar iblis.",
+    "id":  "Ksatria_Solarius",
+    "mp":  120000,
+    "weakness":  "Kegelapan \u0026 Air",
+    "category":  "Bestiary Boss",
+    "element":  "Cahaya \u0026 Api",
+    "class":  "Holy Knight (Tier 4)",
+    "location":  "Pos Terluar Timur Avalerion",
+    "hp":  350000,
+    "title":  "Ksatria Solarius",
+    "attack_type":  "Melee / Burst"
+}
+

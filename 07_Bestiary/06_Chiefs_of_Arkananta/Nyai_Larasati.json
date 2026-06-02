@@ -1,0 +1,13 @@
+﻿{
+    "description":  "Dukun suku pemanipulasi air sungai dan getaran alam.",
+    "id":  "Nyai_Larasati",
+    "mp":  400000,
+    "weakness":  "Listrik \u0026 Besi",
+    "category":  "Bestiary Boss",
+    "element":  "Air \u0026 Suara",
+    "class":  "Elementalist (Tier 4)",
+    "location":  "Gua Air Mata Air Arkananta",
+    "hp":  320000,
+    "title":  "Nyai Larasati",
+    "attack_type":  "Magic / Healer"
+}

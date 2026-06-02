@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Kambing tangguh pelompat tebing.",
+    "id":  "Kambing_Arkananta",
+    "mp":  0,
+    "weakness":  "Netral",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Pegunungan Arkananta",
+    "hp":  60,
+    "title":  "Kambing Arkananta",
+    "attack_type":  "Melee"
+}

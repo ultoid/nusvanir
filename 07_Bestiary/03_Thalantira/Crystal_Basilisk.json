@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Kadal raksasa dengan tatapan pembeku permanen.",
+    "id":  "Crystal_Basilisk",
+    "mp":  60000,
+    "weakness":  "Suara",
+    "category":  "Bestiary",
+    "element":  "Es",
+    "location":  "Darat Thalantira",
+    "hp":  115000,
+    "title":  "Crystal Basilisk",
+    "attack_type":  "Magic"
+}

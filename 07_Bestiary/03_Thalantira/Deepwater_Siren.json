@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Penyanyi ilusi yang menenggelamkan pelaut.",
+    "id":  "Deepwater_Siren",
+    "mp":  85000,
+    "weakness":  "Besi",
+    "category":  "Bestiary",
+    "element":  "Suara",
+    "location":  "Air Thalantira",
+    "hp":  98000,
+    "title":  "Deepwater Siren",
+    "attack_type":  "Magic"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Penyihir iblis bermutasi siluman hewani yang melempar kutukan.",
+    "id":  "Leyak",
+    "mp":  3000,
+    "weakness":  "Cahaya",
+    "category":  "Bestiary",
+    "element":  "Kegelapan",
+    "location":  "Pulau Asrivana",
+    "hp":  2200,
+    "title":  "Leyak",
+    "attack_type":  "Magic"
+}

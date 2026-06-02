@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Sumber daging dan susu andalan.",
+    "id":  "Sapi_Perah_Mandala",
+    "mp":  0,
+    "weakness":  "Netral",
+    "category":  "Bestiary",
+    "element":  "Netral",
+    "location":  "Padang Rumput Mandala",
+    "hp":  120,
+    "title":  "Sapi Perah Mandala",
+    "attack_type":  "Melee"
+}

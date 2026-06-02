@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Imp gesit pencuri koin dan item pemain (Tuyul).",
+    "id":  "Gremlin",
+    "mp":  300,
+    "weakness":  "Tanah",
+    "category":  "Bestiary",
+    "element":  "Udara",
+    "location":  "Jalan Setapak Malam",
+    "hp":  800,
+    "title":  "Gremlin",
+    "attack_type":  "Melee"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Unggas lezat dengan sayap pendek.",
+    "id":  "Burung_Puyuh_Hutan",
+    "mp":  0,
+    "weakness":  "Tanah",
+    "category":  "Bestiary",
+    "element":  "Udara",
+    "location":  "Semak-semak Hutan",
+    "hp":  15,
+    "title":  "Burung Puyuh Hutan",
+    "attack_type":  "Ranged"
+}

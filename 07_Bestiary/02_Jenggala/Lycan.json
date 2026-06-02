@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Manusia harimau beraura petir (Cindaku).",
+    "id":  "Lycan",
+    "mp":  1200,
+    "weakness":  "Es",
+    "category":  "Bestiary",
+    "element":  "Listrik",
+    "location":  "Lereng Gunung Emas",
+    "hp":  3800,
+    "title":  "Lycan",
+    "attack_type":  "Melee"
+}

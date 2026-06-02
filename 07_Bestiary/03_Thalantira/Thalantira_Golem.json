@@ -1,0 +1,12 @@
+﻿{
+    "description":  "Batu purba penjaga kuil terlarang.",
+    "id":  "Thalantira_Golem",
+    "mp":  25000,
+    "weakness":  "Api",
+    "category":  "Bestiary",
+    "element":  "Tanah",
+    "location":  "Darat Thalantira",
+    "hp":  180000,
+    "title":  "Thalantira Golem",
+    "attack_type":  "Melee"
+}

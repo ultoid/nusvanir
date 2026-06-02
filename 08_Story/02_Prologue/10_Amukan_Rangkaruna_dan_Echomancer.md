@@ -54,4 +54,4 @@ Hingga akhirnya, menjelang fajar di hari ketiga, setelah menguras sisa-sisa tena
 
 Namun, daratan itu bukanlah *The Mysterious Island* atau Pulau Kutukan tempat sang istri berada. Bebatuan pantainya berwarna hitam legam seperti arang, dengan langit yang memancarkan pendaran aura merah darah yang menyesakkan dada.
 
-Tujuan pelayaran mereka entah bagaimana telah membengkok. Daratan mematikan di depan mata mereka tidak lain dan tidak bukan adalah pesisir **Raksamala**—pulau kegelapan tempat iblis bersemayam.
+Tujuan pelayaran mereka entah bagaimana telah membengkok. Daratan mematikan di depan mata mereka tidak lain dan tidak bukan adalah pesisir **Raksmala**—pulau kegelapan tempat iblis bersemayam.

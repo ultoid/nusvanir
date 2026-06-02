@@ -32,7 +32,7 @@ Bunga api memercik setiap kali badan kapal bergesekan dengan batu. Jika Cassian 
 
 Hantaman keras terakhir mengakhiri putaran ekstrem mereka. Kapal *Oak* hitam itu memecah permukaan air dan mendarat dengan percikan ombak yang besar. 
 
-Mereka bertiga terengah-engah, tergeletak di atas geladak yang basah kuyup. Rama perlahan memutar kemudi untuk menstabilkan posisi. Ketika penglihatan Cassian dan Hector mulai terbiasa, mereka menyadari bahwa mereka telah mendarat di atas sebuah sungai bawah tanah raksasa yang mengalir di bagian barat bawah pulau Raksamala.
+Mereka bertiga terengah-engah, tergeletak di atas geladak yang basah kuyup. Rama perlahan memutar kemudi untuk menstabilkan posisi. Ketika penglihatan Cassian dan Hector mulai terbiasa, mereka menyadari bahwa mereka telah mendarat di atas sebuah sungai bawah tanah raksasa yang mengalir di bagian barat bawah pulau Raksmala.
 
 Suasana di aliran sungai bawah tanah ini sangat kontras dengan permukaan pulau Drahkthar yang brutal dan mematikan. Tempat ini diterangi oleh pendaran magis lumut biru *bioluminesensi* yang menempel di langit-langit gua. Airnya terasa hangat dan arusnya mengalir dengan sangat tenang, memberikan kedamaian ilusi seakan tempat ini bukanlah bagian dari teritori iblis.
 
@@ -66,11 +66,11 @@ Rama mendengus sumbang. "Ketika aku mengutarakan niatku tentang *Void Crystal*, 
 
 "Berapa harga yang ia minta?" tanya Cassian, menebak bahwa angkanya pasti di luar nalar manusia.
 
-"Untuk sebuah serpihan kristal kecil yang ukurannya bahkan tidak lebih besar dari sebiji jagung..." Rama menatap Cassian dengan tatapan kosong, "...Tuan Midas menjualnya seharga 100.000 *Saka Kencana*."
+"Untuk sebuah serpihan kristal kecil yang ukurannya bahkan tidak lebih besar dari sebiji jagung..." Rama menatap Cassian dengan tatapan kosong, "...Tuan Midas menjualnya seharga 100.000 *Saka Rajata*."
 
 Cassian tercekat hingga nyaris tersedak ludahnya sendiri. Jumlah kepingan emas murni sebanyak itu cukup untuk membeli sebuah distrik kota secara lunas di Kerajaan Mandala. Angka yang teramat fantastis untuk sebuah serpihan batu, dan sama sekali mustahil ditebus oleh seorang nelayan pensiunan prajurit Mandala.
 
-"Aku pulang dengan dunia yang hancur lebur," lanjut Rama, pandangannya kembali menatap lurus ke riak sungai. "Batas waktuku tinggal menghitung hari. Hingga akhirnya... secercah keajaiban palsu muncul. *Guild Dark Thorn* mempublikasikan misi buronan darurat berskala besar: menangkap 100 ekor Kepiting Batu Karang dengan total imbalan 50.000 *Saka Kencana*."
+"Aku pulang dengan dunia yang hancur lebur," lanjut Rama, pandangannya kembali menatap lurus ke riak sungai. "Batas waktuku tinggal menghitung hari. Hingga akhirnya... secercah keajaiban palsu muncul. *Guild Dark Thorn* mempublikasikan misi buronan darurat berskala besar: menangkap 100 ekor Kepiting Batu Karang dengan total imbalan 50.000 *Saka Rajata*."
 
 "Separuh dari harga utamanya," sela Cassian.
 

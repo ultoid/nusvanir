@@ -32,7 +32,7 @@ Jane menatap kosong ke arah corak meja kayu di depannya. "Setelah keberhasilan b
 
 "Masalahnya," lanjut Jane sambil menatap Hector, "hanya ada satu nelayan di seluruh pelabuhan ini yang bernyali mencari Kepiting Batu Karang langsung di habitatnya, di perairan dangkal Laut Rangkaruna. Ya, nelayan tua itulah orangnya."
 
-"Karena tingkat kesulitannya, pak tua itu biasanya hanya bisa mencari tiga sampai lima ekor Kepiting Batu Karang per hari. Sedangkan kami butuh sekitar seratus ekor untuk acara pesta minggu depan," helaan napas Jane terdengar berat. "Awalnya kami merasa mustahil dia mau menyanggupinya. Tapi *Guild* kami memberikan penawaran harga yang gila: 500 Saka Kencana untuk satu ekor Kepiting Batu Karang. Jika ditotal, seratus ekor akan bernilai 50.000 Saka Kencana."
+"Karena tingkat kesulitannya, pak tua itu biasanya hanya bisa mencari tiga sampai lima ekor Kepiting Batu Karang per hari. Sedangkan kami butuh sekitar seratus ekor untuk acara pesta minggu depan," helaan napas Jane terdengar berat. "Awalnya kami merasa mustahil dia mau menyanggupinya. Tapi *Guild* kami memberikan penawaran harga yang gila: 500 Saka Rajata untuk satu ekor Kepiting Batu Karang. Jika ditotal, seratus ekor akan bernilai 50.000 Saka Rajata."
 
 "Lima puluh ribu... itu bisa membeli sebuah kastil kecil," gumam Cassian terkejut.
 

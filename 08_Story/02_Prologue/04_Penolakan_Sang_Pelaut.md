@@ -64,7 +64,7 @@ Cassian duduk diam dan menyesap tehnya dengan tenang. Ia sudah merapal sihir *Sc
 
 "Hmm. Daging Kepiting Batu Karang itu memang luar biasa enak," guman pria itu, seolah bernostalgia. "Tapi untuk menangkap monster jenis itu, kau harus berani berlayar sampai jauh ke tepian Laut Rangkaruna."
 
-"Jadi, itu alasanmu pergi menjelajahi Laut Rangkaruna? Sampai terbawa badai ke Laut Raksamala?" sela Hector cepat.
+"Jadi, itu alasanmu pergi menjelajahi Laut Rangkaruna? Sampai terbawa badai ke Laut Raksmala?" sela Hector cepat.
 
 "Hector!" tegur Cassian tajam.
 

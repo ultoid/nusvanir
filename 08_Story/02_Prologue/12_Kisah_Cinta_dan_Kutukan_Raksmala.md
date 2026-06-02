@@ -1,14 +1,14 @@
 ---
-title: 12_Kisah_Cinta_dan_Kutukan_Raksamala
+title: 12_Kisah_Cinta_dan_Kutukan_Raksmala
 tags:
   - Story
   - Prologue
   - Main_Story
 ---
 
-# Kisah Cinta dan Kutukan Raksamala
+# Kisah Cinta dan Kutukan Raksmala
 
-Suasana di atas geladak mendadak hening, hanya tersisa derak kayu kapal yang perlahan menyusuri perairan gelap pesisir barat Raksamala. Hector dan Cassian terdiam kaku. Identitas sang nelayan tua yang ternyata adalah mantan *Echomancer* elit dari Loka Cakra Mandala sudah cukup membuat mereka terguncang. Namun, kelanjutan cerita Rama jauh lebih berat dari yang mereka bayangkan.
+Suasana di atas geladak mendadak hening, hanya tersisa derak kayu kapal yang perlahan menyusuri perairan gelap pesisir barat Raksmala. Hector dan Cassian terdiam kaku. Identitas sang nelayan tua yang ternyata adalah mantan *Echomancer* elit dari Loka Cakra Mandala sudah cukup membuat mereka terguncang. Namun, kelanjutan cerita Rama jauh lebih berat dari yang mereka bayangkan.
 
 "Shinta, istriku... dia bukanlah seorang Pribumi sepertiku," Rama memulai kembali ceritanya, suaranya parau memecah kesunyian malam. "Dia adalah seorang *Windrunner*, ras *Asrivana* murni dari Hutan Suci Astradipa."
 
@@ -42,7 +42,7 @@ Namun, rasa takjub Cassian mendadak lenyap ketika nada suara Rama berubah menjad
 
 "Jane akhirnya tumbuh dewasa. Ia gadis yang berbakti, diam-diam bergabung dengan *Guild Dark Thorn* demi membantu ekonomi keluarga nelayan kami yang melarat," Rama menunduk, meremas kemudi kayu di tangannya hingga urat-uratnya menonjol. "Hingga tiba suatu hari... saat aku dan istriku berlayar terlalu jauh ke arah timur saat berburu Kepiting Batu Karang."
 
-Rama menelan ludah, suaranya bergetar hebat. "Kami terlalu percaya diri dengan kekuatan kami. Kami menembus perairan karang dan tanpa sadar menginjakkan kaki di pesisir Raksamala. Kami sama sekali tidak tahu bahwa tanah yang kami pijak adalah wilayah dari *Fortress of Envy*—Benteng Dosa Iri Hati."
+Rama menelan ludah, suaranya bergetar hebat. "Kami terlalu percaya diri dengan kekuatan kami. Kami menembus perairan karang dan tanpa sadar menginjakkan kaki di pesisir Raksmala. Kami sama sekali tidak tahu bahwa tanah yang kami pijak adalah wilayah dari *Fortress of Envy*—Benteng Dosa Iri Hati."
 
 Udara di atas geladak mendadak terasa membeku. 
 

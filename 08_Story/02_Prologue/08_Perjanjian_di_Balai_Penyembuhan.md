@@ -32,7 +32,7 @@ Hector dan Cassian mendengarkan dalam diam. Dari percakapan singkat namun sarat 
 
 Selama puluhan tahun pernikahan, sang nelayan dan istrinya sangat mendambakan kehadiran seorang anak. Karena tak kunjung dikaruniai keturunan hingga usia senja, mereka akhirnya mengadopsi Jo—seorang yatim piatu korban perang yang mereka temukan di jalanan. Belasan tahun kemudian, keajaiban pun datang; sang istri akhirnya mengandung bayi kembar. 
 
-Namun, kebahagiaan itu datang di saat yang salah. Kondisi ekonomi pesisir sedang sangat memburuk. Untuk makan sehari-hari saja mereka hampir tak sanggup, apalagi untuk menghidupi dua bayi sekaligus. Karena keputusasaan itulah, ketika *Guild Dark Thorn* menawarkan komisi fantastis sebesar 50.000 Saka Kencana untuk seratus Kepiting Batu Karang, sang nelayan nekat menerima tawaran bunuh diri itu, membawa serta istrinya melaut karena kekurangan tenaga. Dan di lautan itulah, kebahagiaan seumur hidup yang baru sekejap mereka cicipi harus direnggut paksa.
+Namun, kebahagiaan itu datang di saat yang salah. Kondisi ekonomi pesisir sedang sangat memburuk. Untuk makan sehari-hari saja mereka hampir tak sanggup, apalagi untuk menghidupi dua bayi sekaligus. Karena keputusasaan itulah, ketika *Guild Dark Thorn* menawarkan komisi fantastis sebesar 50.000 Saka Rajata untuk seratus Kepiting Batu Karang, sang nelayan nekat menerima tawaran bunuh diri itu, membawa serta istrinya melaut karena kekurangan tenaga. Dan di lautan itulah, kebahagiaan seumur hidup yang baru sekejap mereka cicipi harus direnggut paksa.
 
 Nelayan itu mengusap wajahnya yang basah, lalu menarik napas panjang. Tatapannya kini berubah dari seorang pria tua yang putus asa menjadi sosok kapten tangguh. Ia menatap Hector dan Cassian tajam.
 
@@ -44,7 +44,7 @@ Nelayan itu mengusap wajahnya yang basah, lalu menarik napas panjang. Tatapannya
 
 "Itu hal yang mudah," angguk Cassian mantap. 
 
-"Kedua. Aku hanya bertugas sebagai nakhoda laut," lanjut sang nelayan, mengangkat dua jarinya. "Aku hanya akan mengantar dan membukakan jalan untuk kalian melewati Laut Rangkaruna, lalu menyusuri tepian perairan Raksamala, hingga kita menyentuh perbatasan benteng karang *Mysterious Island*. Setelah itu, urusan kalian di daratan pulau itu bukanlah urusanku."
+"Kedua. Aku hanya bertugas sebagai nakhoda laut," lanjut sang nelayan, mengangkat dua jarinya. "Aku hanya akan mengantar dan membukakan jalan untuk kalian melewati Laut Rangkaruna, lalu menyusuri tepian perairan Raksmala, hingga kita menyentuh perbatasan benteng karang *Mysterious Island*. Setelah itu, urusan kalian di daratan pulau itu bukanlah urusanku."
 
 "Disepakati," timpal Hector tanpa keraguan. 
 
@@ -66,4 +66,4 @@ Hingga akhirnya, hari yang ditentukan pun tiba.
 
 Di bawah langit subur Pelabuhan Aqualis, jangkar raksasa ditarik naik. Jane berdiri di dermaga, menggendong dua bayi kembar yang dibalut kain hangat, melambaikan tangan ke arah kapal yang perlahan bergerak menjauhi daratan. Di atas geladak, sang nelayan berdiri tegap di balik kemudi, sementara Hector dan Cassian berdiri di haluan kapal, menatap lurus ke arah cakrawala laut yang gelap.
 
-Pelayaran menuju pusat kegelapan, Raksamala, dan Pulau Kutukan rahasia... resmi dimulai.
+Pelayaran menuju pusat kegelapan, Raksmala, dan Pulau Kutukan rahasia... resmi dimulai.

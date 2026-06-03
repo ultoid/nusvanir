@@ -1,4 +1,4 @@
-﻿---
+---
 title: Blackhorn
 wilayah: "[[Agnitra]]"
 ras: "[[Nagarasven_(Naga)]]"

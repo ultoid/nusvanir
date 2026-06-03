@@ -40,22 +40,18 @@ Tentu saja! Jika Rama sendirian—seorang pengendali resonansi udara—mampu men
 
 Namun, rasa takjub Cassian mendadak lenyap ketika nada suara Rama berubah menjadi begitu kelam, seakan ia sedang memikul beban dosa yang paling menjijikkan di dunia.
 
-"Jane akhirnya tumbuh dewasa. Ia gadis yang berbakti, diam-diam bergabung dengan *Guild Dark Thorn* demi membantu ekonomi keluarga nelayan kami yang melarat," Rama menunduk, meremas kemudi kayu di tangannya hingga urat-uratnya menonjol. "Hingga tiba suatu hari... saat aku dan istriku berlayar terlalu jauh ke arah timur saat berburu Kepiting Batu Karang."
+"Jane akhirnya tumbuh dewasa. Empat tahun yang lalu, saat usianya menginjak dua puluh tahun, ia memutuskan untuk bergabung dengan *Guild Dark Thorn* demi membantu ekonomi keluarga kami," Rama menunduk, meremas kemudi kayu di tangannya hingga urat-uratnya menonjol. "Di tahun yang sama... aku dan istriku berlayar terlalu jauh saat berburu kepiting. Kami menembus perairan karang dan tanpa sadar menginjakkan kaki di pesisir Raksamala, tepat di wilayah *Fortress of Envy*—Benteng Dosa Iri Hati."
 
-Rama menelan ludah, suaranya bergetar hebat. "Kami terlalu percaya diri dengan kekuatan kami. Kami menembus perairan karang dan tanpa sadar menginjakkan kaki di pesisir Raksamala. Kami sama sekali tidak tahu bahwa tanah yang kami pijak adalah wilayah dari *Fortress of Envy*—Benteng Dosa Iri Hati."
+Udara di atas geladak mendadak terasa membeku.
 
-Udara di atas geladak mendadak terasa membeku. 
+"Sihir pasif penguasa benteng merasuki pikiran kami berdua, memaksa kami merasakan iri yang luar biasa pada manusia normal yang bisa menua bersama dan memiliki anak kandung. Di titik puncak keputusasaan itu, utusan sang *Demon Lord* datang menawarkan jalan keluar. Dan kami... menjalin kontrak kegelapan dengan Sangrahal," setetes air mata jatuh dari pelupuk mata Rama yang penuh keriput. "Shinta mengorbankan keabadiannya dan kekuatan *Windrunner*-nya untuk menjadi manusia fana, agar kami bisa memiliki keturunan."
 
-"Sihir pasif penguasa benteng itu merasuki pikiran kami berdua. Kami terjebak dalam ilusi absolut yang mematikan. Semua penerimaan takdir dan keikhlasan yang kami bangun selama dua puluh tahun hancur lebur tanpa sisa," setetes air mata jatuh dari pelupuk mata Rama yang penuh keriput. "Di dalam ilusi itu, kewarasan kami dikuliti. Kami dipaksa melihat dan merasa sangat iri... teramat iri pada manusia-manusia lain yang berhasil membangun keluarga normal, yang bisa memiliki anak kandung, menua bersama pasangannya, dan mati bahagia di waktu yang sama."
+"Tiga tahun setelah perjanjian itu, atau lebih dari setahun yang lalu, keajaiban yang kami impikan terwujud. Anak kembar kami lahir," isak Rama pilu. "Namun kebahagiaan itu hanya berumur pendek. Tiga bulan setelah kelahiran mereka, utusan Sangrahal datang kembali untuk menagih bayaran. Iblis itu memberikan tenggat waktu maksimal satu tahun: serahkan salah satu dari bayi kembar kami, atau bawa dan serahkan *Serpihan Void Crystal* sebagai gantinya."
 
-Hector menahan napasnya. Paladin itu bisa merasakan kepedihan yang mencabik-cabik hati sang nelayan.
+Cassian mundur selangkah, wajahnya pias kehilangan warna. "Satu tahun... dan *Void Crystal*? Itu artefak legendaris!"
 
-"Rasa iri itu... melahap kewarasan kami berdua," isak Rama pilu. "Di titik puncak keputusasaan mental kami, di saat kami meraung merutuki keadilan dunia... utusan sang *Demon Lord* datang menawarkan jalan keluar. Dan kami... kami menandatangani kontrak kegelapan dengan Sangrahal."
+"Tiga bulan setelah kedatangan utusan itu, aku pergi menemui Tuan Midas, seorang broker informasi dan kolektor artefak di Aqualis, memohon jalan untuk mendapatkan kristal tersebut. Hasilnya nihil," Rama memukul dadanya sendiri dengan keras. "Dan tiga bulan setelah keputusasaan itu, *Guild Dark Thorn* membuka *quest* mustahil berhadiah 10.000 Saka Kencana. Kami mengambilnya. Dengan uang sebanyak itu, kami berharap bisa menyewa pasukan atau membeli relik setara untuk membayar iblis itu. Namun karena Shinta sudah menjadi manusia fana, kami tak mampu menaklukkan lautan seperti dulu. Kami tersapu hingga ke perairan Pulau Kutukan... dan di sanalah Shinta terkena sihir ilusi pulau itu hingga tertinggal di sana, sementara aku terdampar kembali ke Aqualis dengan perahu hancur."
 
-Cassian mundur selangkah, wajahnya pias kehilangan warna. "Demi Sang Hyang Cahaya... apa isi kontrak itu, Rama?"
+Mendengar kronologi tragis tersebut, bulu kuduk Hector dan Cassian merinding hebat.
 
-Rama mengangkat wajahnya yang berurai air mata, menatap hampa ke arah mulut gua raksasa bercahaya biru redup yang mulai terlihat di depan kapal—pintu masuk sungai bawah tanah. 
-
-"Kami memohon kepada Sangrahal untuk memberi kami anak kandung... dan mengubah fisik abadi Shinta menjadi seorang wanita Pribumi fana agar ia bisa menua dan mati bersamaku." Rama memukul dadanya sendiri dengan keras berulang kali. "Aku tahu! Aku sangat sadar bahwa itu adalah keegoisanku! Dan kini karena pilihanku... istriku harus membayarnya dengan harga yang sangat mengerikan!"
-
-Mendengar pengakuan dosa tersebut, bulu kuduk Hector dan Cassian merinding hebat serentak. Tubuh kedua ksatria elit *Avesari* itu bergetar tak terkendali, bukan karena terpaan angin pesisir yang menggigit kulit, melainkan karena imajinasi mereka dipaksa membayangkan betapa kelam dan brutalnya kehendak mutlak *Demon Lord* Sangrahal—entitas yang mampu memutarbalikkan cinta suci dua insan pembelah badai menjadi sebuah kutukan tanpa akhir.
+"Enam bulan berlalu sejak insiden itu," suara Rama bergetar hebat menahan amarah dan ketakutan absolut. "Dan pagi ini... tepat satu tahun sejak utusan itu memberikan tenggat waktunya. Kutukan Raksamala datang menjemput anakku lewat serangan *Wight* di pesisir. Jika kalian tidak datang... aku sudah kehilangan segalanya."

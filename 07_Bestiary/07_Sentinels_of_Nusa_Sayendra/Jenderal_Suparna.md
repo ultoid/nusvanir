@@ -8,7 +8,7 @@ tags:
 # Jenderal Suparna
 
 **Kategori:** 07 Sentinels of Nusa Sayendra
-**Class:** Windrunner (Tier 4)
+**Class:** Sky Sovereign (Tier 5)
 **Elemen:** Udara & Es
 **Kelemahan:** Tanah & Suara
 **Tipe Serangan:** Magic / Agility

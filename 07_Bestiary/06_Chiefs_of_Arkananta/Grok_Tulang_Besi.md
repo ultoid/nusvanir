@@ -8,7 +8,7 @@ tags:
 # Grok Tulang-Besi
 
 **Kategori:** 06 Chiefs of Arkananta
-**Class:** Berserker (Tier 4)
+**Class:** Shaman (Tier 5)
 **Elemen:** Tanah & Besi
 **Kelemahan:** Api & Listrik
 **Tipe Serangan:** Melee / Tank

@@ -50,7 +50,7 @@ Hening sejenak. Cassian dan Hector mendengarkan dengan saksama tanpa menyela.
 
 "Istrinya tidak pernah terlihat kembali," geleng Jane lemah. "Pak tua itu terus-menerus mengigau dan bercerita panjang lebar mengenai sebuah pulau asing di seberang badai. Sebuah pulau yang sangat indah dan hijau, dengan gunung berbentuk mahkota yang sangat cantik di tengahnya. Tapi saat itu, aku hanya berpikir bahwa semua itu adalah omong kosong belaka, halusinasi dari seorang pria malang yang jiwanya patah di lautan."
 
-"Aku menyimpulkan bahwa istrinya entah tewas dimakan monster atau tenggelam saat badai Rangkaruna," lanjut Jane dengan pedih. "Dan kenyataan yang paling memukul kami adalah... ternyata sebelum berangkat, istri nelayan itu baru saja melahirkan bayi kembar. Jujur, kami tidak tahu sama sekali soal anak-anak itu. Kami baru tahu ketika pak tua yang terluka itu bersikeras merangkak ke gereja Aqualis untuk menjemput bayi-bayinya."
+"Aku menyimpulkan bahwa istrinya entah tewas dimakan monster atau tenggelam saat badai Rangkaruna," lanjut Jane dengan pedih. "Dan kenyataan yang paling memukul kami adalah... ternyata selama setahun terakhir, istri nelayan itu diam-diam telah melahirkan dan membesarkan bayi kembar. Jujur, kami tidak tahu sama sekali soal anak-anak itu. Kami baru tahu ketika pak tua yang terluka itu bersikeras merangkak ke gereja Aqualis untuk menjemput bayi-bayinya."
 
 "Kalau begitu, untuk apa kau menceritakan semua ini dan membuang waktu kami?!" sembur Hector kesal. "Sudah pasti si nelayan trauma itu tidak akan pernah sudi pergi berlayar lagi. Otakmu ditaruh di mana sih?!"
 

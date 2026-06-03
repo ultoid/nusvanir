@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ksatria Vayu
 tags:
   - Bestiary
@@ -8,7 +8,7 @@ tags:
 # Ksatria Vayu
 
 **Kategori:** 04 Guardians of Avalerion Outpost
-**Class:** Windrunner (Tier 3)
+**Class:** Dragoon (Tier 4)
 **Elemen:** Cahaya & Udara
 **Kelemahan:** Kegelapan & Tanah
 **Tipe Serangan:** Melee / Agility

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Story/02_Prologue/16_Peta_Purba_dan_Tiga_Kuil_Penjaga.md",
+                "file": "08_Story/02_Prologue/17_Pertemuan_di_Kuil_Air.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16_Peta_Purba_dan_Tiga_Kuil_Penjaga"
+              "title": "17_Pertemuan_di_Kuil_Air"
             }
           }
         ]
@@ -185,20 +185,25 @@
   },
   "active": "f51201ccfa3705ec",
   "lastOpenFiles": [
+    "07_Bestiary/03_Thalantira/Void_Wyrm.md",
+    "08_Story/02_Prologue/17_Pertemuan_di_Kuil_Air.md",
+    "07_Bestiary/03_Thalantira/Behemoth_Cangkang_Hitam.md",
+    "07_Bestiary/03_Thalantira/Crystal_Basilisk.md",
+    "07_Bestiary/03_Thalantira/Hydra_Jurang.md",
+    "08_Story/02_Prologue/16_Peta_Purba_dan_Tiga_Kuil_Penjaga.md",
+    "08_Story/02_Prologue/13_Terjun_ke_Sungai_Bawah_Tanah.md",
+    "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
+    "08_Story/02_Prologue/15_Pijakan_Pertama_di_Tanah_Terkutuk.md",
+    "08_Story/02_Prologue/07_Serangan_Jenggala_di_Pesisir_Timur.md",
     "08_Story/02_Prologue/03_Sang_Nelayan_Trauma.md",
     "08_Story/02_Prologue/02_Kebuntuan_di_Kota_Pelabuhan.md",
     "08_Story/02_Prologue/01_Purāṇakathā_dan_Bisikan_Pulau_Terkutuk.md",
-    "07_Bestiary/03_Thalantira/Hydra_Jurang.md",
-    "08_Story/02_Prologue/16_Peta_Purba_dan_Tiga_Kuil_Penjaga.md",
     "07_Bestiary/03_Thalantira/Abyssal_Treant.md",
-    "07_Bestiary/03_Thalantira/Void_Wyrm.md",
-    "07_Bestiary/03_Thalantira/Behemoth_Cangkang_Hitam.md",
     "07_Bestiary/03_Thalantira/Abyssal_Piranha.md",
     "07_Bestiary/03_Thalantira/Void_Panther.md",
     "07_Bestiary/03_Thalantira/Eclipse_Falcon.md",
     "07_Bestiary/03_Thalantira/Manta_Ray_Void.md",
     "07_Bestiary/03_Thalantira/Kraken_Tentacle.md",
-    "07_Bestiary/03_Thalantira/Crystal_Basilisk.md",
     "07_Bestiary/03_Thalantira/Deepwater_Siren.md",
     "07_Bestiary/03_Thalantira/Megalodon_Phantom.md",
     "07_Bestiary/03_Thalantira/Nebula_Eye.md",
@@ -206,11 +211,6 @@
     "07_Bestiary/03_Thalantira/Storm_Wyvern.md",
     "07_Bestiary/03_Thalantira/Thalantira_Gargoyle.md",
     "07_Bestiary/03_Thalantira/Void_Harpy.md",
-    "08_Story/02_Prologue/15_Pijakan_Pertama_di_Tanah_Terkutuk.md",
-    "03_Region/03_Avalerion/Faksi & Institusi/Pawiyatan_Prabha_Suci.md",
-    "03_Region/03_Avalerion/Cities & Town/Avalerion_Holy_City.md",
-    "04_Ras/03_Arkahyan/Langitara.md",
-    "04_Ras/03_Arkahyan/Dewantara.md",
     "all_lore_combined.txt",
     "combine_lore.py",
     "cleanup.py",

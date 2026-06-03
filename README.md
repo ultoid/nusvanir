@@ -16,6 +16,7 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
 *   **Kelanjutan Cerita Prologue:** 
     *   **Chapter 15 (Pijakan Pertama di Tanah Terkutuk):** Mengisahkan pendaratan epik Cassian dan Hector di pulau ilusi menggunakan wujud *Avatar Garuda*, serta penemuan mengejutkan mengenai sebuah "Peta" misterius.
     *   **Chapter 16 (Peta Purba dan Tiga Kuil Penjaga):** Pengungkapan fungsi monumen batu sebagai kompas dan peta yang menuntun mereka menuju 3 Kuil Penjaga demi membuka pintu misterius.
+    *   **Chapter 17 (Pertemuan di Kuil Air):** Mengeksplorasi perjalanan menuju Kuil Timur, kemunculan Hydra Jurang, serta kejanggalan wujud manusianya yang cinta damai dengan memberikan Emblem Air secara cuma-cuma.
 
 ---
 

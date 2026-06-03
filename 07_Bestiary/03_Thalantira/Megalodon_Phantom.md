@@ -1,4 +1,4 @@
-﻿---
+---
 title: Megalodon Phantom
 tags:
   - Bestiary

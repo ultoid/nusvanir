@@ -15,6 +15,7 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
     *   **Rahasia Thalantira (Plot Twist):** Mengukuhkan status ekosistem Thalantira yang damai sebagai 100% ilusi manipulasi Uru demi melindungi plot kejutan *End-Game*.
 *   **Kelanjutan Cerita Prologue:** 
     *   **Chapter 15 (Pijakan Pertama di Tanah Terkutuk):** Mengisahkan pendaratan epik Cassian dan Hector di pulau ilusi menggunakan wujud *Avatar Garuda*, serta penemuan mengejutkan mengenai sebuah "Peta" misterius.
+    *   **Chapter 16 (Peta Purba dan Tiga Kuil Penjaga):** Pengungkapan fungsi monumen batu sebagai kompas dan peta yang menuntun mereka menuju 3 Kuil Penjaga demi membuka pintu misterius.
 
 ---
 

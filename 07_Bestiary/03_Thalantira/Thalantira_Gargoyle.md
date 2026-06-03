@@ -1,4 +1,4 @@
-﻿---
+---
 title: Thalantira Gargoyle
 tags:
   - Bestiary

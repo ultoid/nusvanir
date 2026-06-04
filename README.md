@@ -17,6 +17,8 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
     *   **Chapter 15 (Pijakan Pertama di Tanah Terkutuk):** Mengisahkan pendaratan epik Cassian dan Hector di pulau ilusi menggunakan wujud *Avatar Garuda*, serta penemuan mengejutkan mengenai sebuah "Peta" misterius.
     *   **Chapter 16 (Peta Purba dan Tiga Kuil Penjaga):** Pengungkapan fungsi monumen batu sebagai kompas dan peta yang menuntun mereka menuju 3 Kuil Penjaga demi membuka pintu misterius.
     *   **Chapter 17 (Pertemuan di Kuil Air):** Mengeksplorasi perjalanan menuju Kuil Timur, kemunculan Hydra Jurang, serta kejanggalan wujud manusianya yang cinta damai dengan memberikan Emblem Air secara cuma-cuma.
+    *   **Chapter 18 (Pertemuan di Kuil Tanah):** Mengisahkan penemuan Kuil Tanah, wujud jenaka paman Behemoth, dan pemberian *buff* sihir alam tingkat tinggi secara magis kepada Cassian dan Hector.
+    *   **Chapter 19 (Pertempuran Kuil Udara dan Sang Ksatria Naga):** Membawakan pertarungan absolut 4 vs 1 melawan Void Wyrm, plot twist identitas "Ayah", dan pengumpulan kunci terakhir.
 
 ---
 

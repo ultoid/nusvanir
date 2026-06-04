@@ -10,11 +10,11 @@ tags:
 
 Di bawah selubung langit malam pulau misterius yang memancarkan pendaran aura anomali yang kuat ini, Cassian dan Hector merangsek maju membelah lebatnya hutan menuju arah timur. Berbekal kompas bintang dan ingatan fotografis Cassian terhadap peta purba, mereka bersiap menyongsong maut. Senjata telah terhunus, dan *mana* perlindungan terus disiagakan.
 
-Namun, semakin jauh kaki mereka melangkah, keanehan pulau ini semakin mengganggu akal sehat. Perjalanan mereka luar biasa mulus. Terlalu mulus.
+Namun, semakin jauh kaki mereka melangkah, keanehan pulau ini semakin menyiksa kewarasan mereka. Perjalanan mereka luar biasa mulus. Terlalu mulus, hingga ketiadaan marabahaya ini justru menumbuhkan paranoia yang mencekik leher.
 
-"Apa kau mencium sesuatu yang aneh, Cassian?" Hector memecah keheningan, matanya menyapu semak belukar yang tak memberikan reaksi apa pun. "Tidak ada aura membunuh. Tidak ada jejak cakar. Bahkan ranting-ranting patah di tanah ini tidak menunjukkan tanda-tanda adanya predator besar yang melintas. Apa jangan-jangan semua monster mengerikan di pulau ini sudah ditumpas habis oleh entitas lain?"
+"Apa kau mencium sesuatu yang aneh, Cassian?" Hector memecah keheningan. Keringat dingin menetes dari pelipis sang Paladin. Insting bertarungnya berteriak-teriak menuntut adanya musuh, tapi matanya hanya menangkap semak belukar yang damai. "Tidak ada aura membunuh. Tidak ada jejak cakar. Ini gila. Apa jangan-jangan semua monster mengerikan di pulau ini sedang... mengawasi kita dari tempat yang tidak bisa kita lihat?"
 
-"Itulah yang terus menggangguku," sahut Cassian, tangan kirinya erat menggenggam tongkat. "Sebuah ekosistem tertutup seharusnya memiliki rantai makanan yang beringas. Tapi di sini... seolah-olah kata 'bahaya' dihapus dari hukum alamnya."
+"Itulah yang membuatku muak," sahut Cassian, napasnya sedikit memburu dan cengkeraman tangannya pada tongkat sihir memutih karena tegang. "Sihir deteksiku sama sekali tidak menangkap bahaya, tapi ekosistem tertutup ini mustahil begitu damai. Tempat ini bertingkah seolah kata 'bahaya' sengaja dihapus dari hukum alamnya untuk... mengejek kita."
 
 Beberapa jam menyusuri rute tanpa hambatan tersebut, pepohonan perlahan menyibak, memperlihatkan tujuan mereka. Namun, alih-alih sebuah bangunan kuil pemujaan ular yang megah di atas tanah, mereka justru disuguhi pemandangan sebuah danau waduk berukuran masif. Airnya tenang bagaikan kaca hitam, memantulkan langit ungu. Tepat di tengah waduk raksasa tersebut, menyembul sebuah daratan kecil dengan mulut gua batu kuno yang menganga. 
 
@@ -36,7 +36,7 @@ Dari dasar genangan air yang kini memenuhi separuh ruangan luas tersebut, sebuah
 
 Sesosok naga ular berukuran kolosal menampakkan wujudnya. Keganasannya begitu absolut hingga ruangan alun-alun raksasa tersebut hanya mampu menampung kepala dan seperempat badannya saja. Sisiknya memancarkan aura samudra dalam, taringnya seukuran pilar istana, dan matanya berkilat memancarkan kecerdasan murni. Inilah Boss Air sang penelan samudra dari Bestiary: **Hydra Jurang**.
 
-Hector telah mengangkat pedang platinumnya yang dialiri *mana* suci tingkat maksimal. Cassian mengunci target dengan sihir elemen petir sebagai kelemahan absolut monster air. Pertarungan hidup mati siap pecah.
+Hector telah mengangkat pedang platinumnya yang dialiri *mana* suci tingkat maksimal. Cassian mengunci target dengan sihir penghakiman cahaya tingkat tinggi (*Divine Ray*) untuk menghanguskan monster raksasa itu. Pertarungan hidup mati siap pecah.
 
 Namun, sesuatu yang sama sekali di luar nalar terjadi.
 
@@ -76,7 +76,7 @@ Cassian dan Hector saling melempar pandang. Segala hal yang baru saja mereka den
 
 Cassian dengan cepat merespons, nada suaranya tegas namun sopan. "Kami sangat menghargai tawaranmu, Nona Hydra. Namun waktu kami sangat berharga, dan masih banyak misteri yang menanti kami di luar sana." Segalanya terasa sangat aneh, dan berada di sarang monster terlalu lama adalah sebuah kebodohan fatal.
 
-Sang wanita Hydra memaklumi penolakan itu dengan senyum pengertian. Tanpa memaksa, ia mengantar mereka berjalan menyusuri pijakan es yang secara otomatis terbentuk membukakan jalan keluar hingga ke atas permukaan waduk. Di mulut gua, wanita itu melambaikan tangan dengan penuh keramahan, mengantar kepergian kedua ksatria suci itu di bawah cahaya bintang Thalantira.
+Sang wanita Hydra memaklumi penolakan itu dengan senyum pengertian. Tanpa memaksa, ia mengantar mereka berjalan menyusuri pijakan es yang secara otomatis terbentuk membukakan jalan keluar hingga ke atas permukaan waduk. Di mulut gua, wanita itu melambaikan tangan dengan penuh keramahan, mengantar kepergian kedua ksatria suci itu di bawah langit malam yang pekat.
 
 Selama perjalanan melintasi hutan kembali ke pusat pulau, Hector maupun Cassian tidak ada yang mengeluarkan sepatah kata pun. Keheningan mereka bukanlah karena fokus, melainkan karena otak mereka lumpuh oleh kejanggalan absolut yang baru saja terjadi. Sangat aneh. Terlalu aneh hingga membuat kulit mereka merinding.
 

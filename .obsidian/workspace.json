@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Story/02_Prologue/17_Pertemuan_di_Kuil_Air.md",
+                "file": "08_Story/02_Prologue/19_Pertempuran_Kuil_Udara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17_Pertemuan_di_Kuil_Air"
+              "title": "19_Pertempuran_Kuil_Udara"
             }
           }
         ]
@@ -185,15 +185,18 @@
   },
   "active": "f51201ccfa3705ec",
   "lastOpenFiles": [
-    "07_Bestiary/03_Thalantira/Void_Wyrm.md",
+    "08_Story/01_The_Old_Tale.md",
+    "08_Story/02_Prologue/18_Pertemuan_di_Kuil_Tanah.md",
+    "08_Story/02_Prologue/19_Pertempuran_Kuil_Udara.md",
+    "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
+    "08_Story/02_Prologue/16_Peta_Purba_dan_Tiga_Kuil_Penjaga.md",
+    "08_Story/02_Prologue/15_Pijakan_Pertama_di_Tanah_Terkutuk.md",
     "08_Story/02_Prologue/17_Pertemuan_di_Kuil_Air.md",
+    "07_Bestiary/03_Thalantira/Void_Wyrm.md",
     "07_Bestiary/03_Thalantira/Behemoth_Cangkang_Hitam.md",
     "07_Bestiary/03_Thalantira/Crystal_Basilisk.md",
     "07_Bestiary/03_Thalantira/Hydra_Jurang.md",
-    "08_Story/02_Prologue/16_Peta_Purba_dan_Tiga_Kuil_Penjaga.md",
     "08_Story/02_Prologue/13_Terjun_ke_Sungai_Bawah_Tanah.md",
-    "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
-    "08_Story/02_Prologue/15_Pijakan_Pertama_di_Tanah_Terkutuk.md",
     "08_Story/02_Prologue/07_Serangan_Jenggala_di_Pesisir_Timur.md",
     "08_Story/02_Prologue/03_Sang_Nelayan_Trauma.md",
     "08_Story/02_Prologue/02_Kebuntuan_di_Kota_Pelabuhan.md",
@@ -208,9 +211,6 @@
     "07_Bestiary/03_Thalantira/Megalodon_Phantom.md",
     "07_Bestiary/03_Thalantira/Nebula_Eye.md",
     "07_Bestiary/03_Thalantira/Obsidian_Crawler.md",
-    "07_Bestiary/03_Thalantira/Storm_Wyvern.md",
-    "07_Bestiary/03_Thalantira/Thalantira_Gargoyle.md",
-    "07_Bestiary/03_Thalantira/Void_Harpy.md",
     "all_lore_combined.txt",
     "combine_lore.py",
     "cleanup.py",

@@ -14,6 +14,7 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
     *   **Chapter 21 (Pesan dari Ketiadaan):** Menutup saga Thalantira dengan lolosnya Cassian dan Hector. Membawa pesan terakhir dari sang nelayan, serta epilogue singkat mengenai status mutlak Uru.
     *   **Chapter 22 (Ancaman Sang Lord Keserakahan):** Transisi memasuki *Main Story*. Kedatangan Mamon, sang Bhuta keserakahan penjaga *Raksamala Fortress*, yang menyerang gereja Aqualis demi menculik bayi kembar peninggalan Rama.
     *   **Chapter 23 (Teror Mamon dan Penghakiman Avalerion):** Pertarungan berdarah *(3 vs 1)* di dalam gereja. Mamon berhasil musnah seutuhnya berkat pancaran energi murni dari serpihan *Void Crystal* yang diam-diam dibawa Hector. Penutup mengejutkan dengan kedatangan ratusan pasukan suci elit Avalerion (Komandan Darius & Sage Luna) yang langsung menyita kristal dan menahan mereka semua.
+    *   **Chapter 24 (Epilogue: Jalan yang Terbelah):** Penutup *Prologue* yang epik. *Time skip* 10 tahun kemudian yang mengisahkan hasil pengadilan suci Avalerion, perpisahan Cassian dan Hector, serta aksi nekat Hector membantai seluruh komandan *Bhuta* Raksamala demi menebus jiwa Damian dan bertransformasi menjadi sang *Death Knight*.
 
 ---
 
@@ -50,9 +51,8 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
 
 ## 🎯 To-Do List Terdekat
 
-- [x] Menyelesaikan seluruh rangkaian *Prologue* (Chapter 1 hingga 21).
-- [x] Menulis transisi awal menuju *Main Story* (Chapter 22 & 23).
-- [ ] Menyusun *timeline* dan plot perjalanan tahanan menuju ibu kota Avalerion.
-- [ ] Mengembangkan proses interogasi dan penelitian rahasia *Void Crystal* oleh *Sage* Luna.
+- [x] Menyelesaikan seluruh rangkaian *Prologue* (Chapter 1 hingga 24).
+- [ ] Merancang kerangka awal (Outline) untuk *Main Story* Chapter 1.
+- [ ] Menyusun *timeline* dan plot petualangan pertumbuhan Hiro dan Damian.
 - [ ] Review dan merapikan catatan faksi / ras pendukung lainnya.
 - [ ] Review dan merapikan catatan faksi / ras pendukung lainnya.

@@ -10,11 +10,11 @@ tags:
 
 Angin malam yang dingin menyapu tubuh Cassian dan Hector saat mereka akhirnya tiba kembali di depan gerbang batu di pusat pulau. Keduanya terduduk rubuh di atas tanah berbatu, nyaris tak menyerupai wujud pahlawan suci *Avesari* yang dibanggakan oleh *Avalerion*.
 
-Kondisi mereka benar-benar hancur lebur. Tiga tulang rusuk Hector patah, sekujur tubuhnya dipenuhi luka memar dan sayatan, kedua lengannya kebas, sementara pedang platinumnya telah patah dan perisainya hanya tersisa separuh akibat hantaman *Reality Cutter* sang Void Wyrm. Di sisinya, Cassian tak kalah memprihatinkan. *Mana* di tubuh sang *Priest* terkuras habis. Darah segar telah mengering di bawah hidung dan mulutnya akibat dipaksa merapal sihir *Cryomancer* melampaui batas kewarasan. Jubah sucinya terkoyak parah, dan tongkat sihirnya telah patah menjadi dua. Jangankan untuk merapal sihir, merasakan jemarinya sendiri pun Cassian sudah tak mampu.
+Kondisi mereka benar-benar hancur lebur. Hampir semua tulang rusuk Hector patah, sekujur tubuhnya dipenuhi luka memar dan sayatan, kedua lengannya kebas, sementara pedang platinumnya telah patah dan perisainya hanya tersisa separuh akibat hantaman *Reality Cutter* sang Void Wyrm. Di sisinya, Cassian tak kalah memprihatinkan. *Mana* di tubuh sang *Priest* terkuras habis. Darah segar telah mengering di bawah hidung dan mulutnya akibat dipaksa merapal sihir *Cryomancer* melampaui batas kewarasan. Jubah sucinya terkoyak parah, dan tongkat sihirnya telah patah menjadi dua. Jangankan untuk merapal sihir, merasakan jemarinya sendiri pun Cassian sudah tak mampu.
 
 Mereka hancur secara fisik maupun mental. 
 
-Namun, di tengah keputusasaan absolut itu, mereka menatap gerbang batu kuno di hadapan mereka. Misteri apa yang bersembunyi di baliknya? Apakah monster yang jauh lebih mematikan? Sebuah jebakan maut? Ataukah sosok "Ayah" yang ditakuti dan dihormati oleh ketiga Bos Dunia tersebut?
+Namun, di tengah keputusasaan itu, mereka menatap gerbang batu kuno di hadapan mereka. Misteri apa yang bersembunyi di baliknya? Apakah monster yang jauh lebih mematikan? Sebuah jebakan maut? Ataukah sosok "Ayah" yang ditakuti dan dihormati oleh ketiga Bos Dunia tersebut?
 
 Cassian nyaris menjatuhkan kepingan Emblem Angin dari tangannya, bersiap untuk menyerah pada kelelahan yang mencekik. Namun sebuah tangan yang dipenuhi memar dan darah terulur di hadapannya.
 
@@ -54,13 +54,11 @@ Saat mereka menatap kristal itu, sebuah suara tiba-tiba bergema dengan sangat je
 
 Suara itu sama sekali tidak mengerikan. Ia mengalun tenang, damai, dan absolut—perpaduan antara suara laki-laki dan perempuan tanpa batasan gender. Ia memancarkan otoritas yang mampu meluluhkan ego siapa pun.
 
-Terdorong oleh rasa *nothing to lose* karena sudah di ujung kematian, Cassian dan Hector berjalan mendekat bagaikan terhipnotis. Perlahan, mereka berdua mengangkat tangan dan menyentuhkan telapak tangan mereka ke permukaan dingin kristal ungu tersebut.
+Terdorong oleh rasa pasrah karena sudah di ujung kematian, Cassian dan Hector berjalan mendekat bagaikan terhipnotis. Perlahan, mereka berdua mengangkat tangan dan menyentuhkan telapak tangan mereka ke permukaan dingin kristal ungu tersebut.
 
 ZAP! Kesadaran mereka seketika ditarik paksa dari realitas.
 
 ***
-
-*(Sudut pandang Cassian)*
 
 Cassian membuka matanya. Tubuhnya tidak lagi merasakan sakit maupun pegal. Ia mendapati dirinya sedang melayang tinggi di atas awan. Saat ia menunduk, ia melihat keseluruhan benua Nusvanir terhampar luas di bawahnya, terlihat begitu kecil namun mendetail hingga ke tingkat debu.
 
@@ -80,9 +78,9 @@ Di angkasa yang kosong, sebuah **Mata Raksasa** berwarna hitam dan ungu terbuka 
 
 Ledakan itu meluluhlantakkan daratan Nusvanir. Cassian menjerit tanpa suara saat ia melihat wilayah Kerajaan Mandala, Nusa Sayendra, Agnitra, dan Astradipa menguap menjadi debu dalam sekejap mata. Tembok suci *Avalerion* yang dianggap tak tertembus hancur berkeping-keping seolah terbuat dari pasir.
 
-Tak ada perlawanan. Burung-burung Garuda raksasa berguguran dari langit bagaikan nyamuk yang terbakar. Naga-naga purba meraung pasrah sebelum hangus. Para ksatria *Avesari* gugur tanpa sempat mengangkat pedang mereka.
+Tak ada perlawanan. Burung-burung Garuda raksasa berguguran dari langit bagaikan nyamuk yang terbakar. Naga-naga Agnitra meraung pasrah sebelum hangus. Para ksatria *Avesari* gugur tanpa sempat mengangkat pedang mereka.
 
-Lalu, pandangan Cassian dipaksa untuk *zoom-in* ke reruntuhan gereja Aqualis.
+Lalu, pandangan Cassian dipaksa untuk melihat ke reruntuhan gereja Aqualis.
 
 Di sana, Jane berlari terseok-seok menembus puing-puing api, menggendong kedua bayi kembarnya erat-erat di dada. Napas Jane memburu, air mata membasahi pipinya yang kotor oleh abu. 
 
@@ -112,7 +110,7 @@ Sadar bahwa itu adalah jebakan manipulasi pikiran dari Entitas bernama Uru, Cass
 
 Hector tersadar dengan sentakan keras, nyaris terjengkang. "A-Apa yang terjadi?!" tanyanya linglung.
 
-"Kita harus pergi, Hector! Sekarang! Benda ini adalah kiamat itu sendiri!" teriak Cassian panik.
+"Kita harus pergi, Hector! Sekarang! Benda ini adalah bibit kehancuran Nusvanir!" teriak Cassian panik.
 
 Namun kewarasan Hector masih berada di bawah bayang-bayang utopia semu yang ia lihat. "Tunggu! Bayangan di dalam sana... jika kita menghancurkan penjara kristalnya, kita bisa membebaskannya! Dia menjanjikan kedamaian sejati!" 
 
@@ -130,7 +128,7 @@ Dari balik kepulan debu dan ledakan energi tersebut, tiga siluet raksasa melangk
 
 Behemoth Cangkang Hitam, Naga Void Wyrm, dan Hydra Jurang merayap maju. Namun wujud mereka kini telah dikuasai seutuhnya oleh energi kristal. Sisik, cangkang, dan air mereka berubah menjadi warna ungu gelap yang membusuk. Mata mereka kosong, hanya memancarkan kegilaan, rasa lapar, dan naluri buas yang murni. Tidak ada lagi kebijaksanaan, tidak ada lagi senyuman.
 
-Bumi di sekeliling pulau kembali berguncang. Dari bawah retakan tanah, dari dalam lautan ungu, dan dari balik hutan yang mati, kemunculan makhluk-makhluk mengerikan meledak tanpa henti. Ribuan monster buas bermunculan—seluruh monster yang terdata di dalam *Bestiary* pulau mengerikan ini bangkit dan merangsek maju mengepung mereka, semuanya memancarkan aura ungu pekat yang sama.
+Tempat di sekeliling pulau kembali berguncang. Dari bawah retakan tanah, dari dalam lautan ungu, dan dari balik hutan yang mati, kemunculan makhluk-makhluk mengerikan meledak tanpa henti. Ribuan monster buas bermunculan; *Thalantira Golem, Abyssal Treant, Obsidian Crawler, Void Panther*, dan *Crystal Basilisk* merangsek maju dari daratan. Dari udara menukik tajam para *Eclipse Falcon, Storm Wyvern, Nebula Eye*, dan *Void Harpy*. Sementara dari arah lautan, *Kraken Tentacle, Abyssal Piranha, Megalodon Phantom,* hingga *Deepwater Siren* merangkak naik mengepung mereka. Seluruh monster di pulau ini bangkit, dan semuanya memancarkan aura ungu pekat yang sama.
 
 Hector dan Cassian benar-benar tersudut. Tidak ada rute pelarian. Tidak ada sedikit pun harapan.
 
@@ -146,7 +144,7 @@ Namun...
 
 *SYUUTTT... JDUUAAARRR!!!*
 
-Sebuah dentuman fisik yang luar biasa memekakkan telinga merobek langit. Pemandangan gila yang mustahil dipercaya oleh akal sehat menimpa gerombolan monster tersebut. Sebuah **Kapal Kayu Oak Hitam**—seukuran rumah bangsawan—jatuh menghantam tanah dari udara, tepat menghantam barisan depan para monster buas yang siap mencabik Hector dan Cassian. 
+Sebuah dentuman fisik yang luar biasa memekakkan telinga merobek langit. Pemandangan gila yang mustahil dipercaya oleh akal sehat menimpa gerombolan monster tersebut. Sebuah **Kapal Kayu Oak Hitam** jatuh menghantam tanah dari udara, tepat menghantam barisan depan para monster buas yang siap mencabik Hector dan Cassian. 
 
 Momentum jatuhnya kapal itu disusul oleh ledakan sihir *Shockwave* berelemen angin yang menyapu daratan layaknya badai topan. Bahkan sang penguasa udara Void Wyrm sekalipun terpental mundur, terkena efek *stun* luar biasa akibat momentum hantaman fisik dan kejut magis tersebut.
 
@@ -158,7 +156,7 @@ Dengan pandangan yang berputar, Cassian menatap ke arah kemudi kapal. Di sana be
 
 Rama menoleh. Wajah keriputnya memancarkan senyum pahlawan yang tenang di tengah kepungan kiamat. "Kapal ini tidak akan bertahan lama jika terus berlabuh di sini. Aku akan melempar kalian kembali ke lautan luar!"
 
-Rama merapal sihir di tangannya, memutar kemudi dengan paksa. "Kembalilah ke Nusvanir! Sampaikan semua pengetahuan yang kalian lihat di pulau ini! Peringatkan dunia! Kalian adalah kuncinya!"
+Rama merapal sisa pusaran sihir angin di tangannya, memutar kemudi kapal dengan paksa. Ia menoleh ke arah Hector dan Cassian, matanya memancarkan tekad sekeras baja yang menolak tunduk pada keputusasaan. "Kembalilah ke Nusvanir! Bawa mimpi buruk ini dan jadikan peringatan bagi dunia! Kalian berdua bukanlah ksatria yang ditakdirkan untuk mati di pulau busuk ini... Kalian adalah harapan umat manusia! Kalian adalah kuncinya! Berjuanglah!"
 
 Tanpa memberikan kesempatan membantah, nelayan tua itu melangkah mundur dan melompat terjun bebas ke daratan berbatu yang dipenuhi ratusan monster mengerikan.
 

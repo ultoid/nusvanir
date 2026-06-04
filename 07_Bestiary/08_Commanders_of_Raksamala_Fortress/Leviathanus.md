@@ -8,7 +8,7 @@ tags:
 # Leviathanus
 
 **Kategori:** 08 Commanders of Raksamala Fortress
-**Class:** Sorcerer (Tier 3)
+**Class:** Warlock (Tier 5)
 **Elemen:** Kegelapan & Es
 **Kelemahan:** Cahaya & Suara
 **Tipe Serangan:** Magic

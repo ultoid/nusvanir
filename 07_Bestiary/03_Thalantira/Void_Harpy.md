@@ -1,4 +1,4 @@
-﻿---
+---
 title: Void Harpy
 tags:
   - Bestiary

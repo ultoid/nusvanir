@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pendeta Agung Lumina
 wilayah: "[[Avalerion]]"
 ras: "[[Dewantara]]"

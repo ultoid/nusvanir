@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ksatria Solarius
 wilayah: "[[Avalerion]]"
 ras: "[[Dewantara]]"

@@ -14,11 +14,15 @@ Pemandangan di hadapan mereka bak mimpi buruk. Gubuk kayu tempat mereka meminum 
 
 Di sudut puing-puing, sang nelayan tua tampak meringkuk di tanah. Ia menjadikan punggung rentanya sebagai tameng absolut untuk menutupi kedua bayi kembarnya dari hujan reruntuhan dan ancaman bahaya. Bayi-bayi itu menangis histeris.
 
-Menyadari kedatangan para petualang, sang *Wight* yang memimpin serangan itu menyeringai. Ia memerintahkan gerombolan Jenggala untuk menyerbu, sementara ia sendiri melompat ke udara mengincar keranjang bayi di balik punggung nelayan. Cakar beracunnya berayun turun untuk merebut paksa bayi tersebut.
+Menyadari kedatangan para petualang, sang *Wight* yang memimpin serangan itu menyeringai mengejek. 
+
+"Waktumu sudah habis, Rama! Tenggat waktu satu tahun telah berlalu! Serahkan anak itu sebagai bayaran kepada Sangrahal!" desis iblis itu dengan suara parau yang menggetarkan tulang. 
+
+Ia memerintahkan gerombolan Jenggala untuk menyerbu, sementara ia sendiri melompat ke udara mengincar keranjang bayi di balik punggung nelayan. Tubuh berkafan kotornya melenting turun dengan kekuatan penuh, memuntahkan kabut miasma beracun pekat untuk merenggut nyawa bayi tersebut.
 
 *TRANGGG!!*
 
-Percikan api menyala terang. Hector telah melesat maju menembus jarak dengan kecepatan yang tak masuk akal, pedang besarnya menangkis cakar si *Wight* tepat waktu. Namun, benturan itu membuktikan bahwa utusan Sangrahal bukanlah monster sembarangan; cakar bajanya tak hancur ditebas.
+Percikan api menyala terang. Hector telah melesat maju menembus jarak dengan kecepatan yang tak masuk akal, pedang besarnya menebas udara membelah sihir miasma si *Wight* tepat waktu. Namun, hempasan energi gaib yang memantul dari perisai tak kasat mata makhluk itu membuktikan bahwa utusan Sangrahal bukanlah monster sembarangan; daya tolak mistisnya membuat tangan Hector bergetar hebat.
 
 "Angkat kepalamu, Pak Tua! Bantuan sudah tiba!" raung Hector, mendorong mundur makhluk iblis itu.
 
@@ -28,11 +32,11 @@ Melihat kerasnya perlawanan sang *Wight*, Jane memberi komando cepat. "Aku yang 
 
 Jane langsung mempertontonkan kelincahan *Rogue* sejatinya, membaur ke dalam bayangan dan menggorok leher para monster Jenggala acak yang mencoba merangsek maju. *Slash! Slash!* Puluhan monster tumbang di ujung belatinya.
 
-Di pusat pertempuran, pertarungan epik lima lawan satu meletus. Hector dan sang *Knight* dari *Guild Dark Thorn* membentuk formasi ganda. Sang Knight mengorbankan pertahanannya, menerjang maju menyerap tebasan cakar si *Wight* dengan perisainya hingga hancur, membuka celah sesaat.
+Di pusat pertempuran, pertarungan epik lima lawan satu meletus. Hector dan sang *Knight* dari *Guild Dark Thorn* membentuk formasi ganda. Sang Knight mengorbankan pertahanannya, menerjang maju menahan hantaman fisik dahsyat dari lompatan si *Wight* menggunakan perisainya hingga hancur berkeping-keping, membuka celah sesaat.
 
-"Sekarang, serang monster itu!!" teriak sang Knight sambil meringis menahan luka di pinggang.
+"Sekarang, ikat kakinya!!" teriak sang Knight sambil meringis menahan luka di pinggang.
 
-Kedua *Mage* magang di garis belakang merespons seketika. "*(Chain of Elements)*!" Mereka menembakkan cambuk energi sihir yang melilit erat kedua kaki sang *Wight*, menahan pergerakan iblis tersebut.
+Kedua *Mage* magang di garis belakang merespons seketika. "*(Chain of Elements)*!" Mereka menembakkan cambuk energi sihir yang melilit erat bagian bawah kain kafan sang *Wight*, memaku pergerakan iblis pelompat tersebut ke tanah.
 
 Melihat celah absolut itu, Cassian memusatkan energi sucinya dan menembakkan tombak cahaya dari tongkatnya. "*(Holy Smite)*!" Sinar suci itu menembus dada sang *Wight*, membakar inti jiwanya. Makhluk itu memekik ngeri dan melemah drastis. 
 

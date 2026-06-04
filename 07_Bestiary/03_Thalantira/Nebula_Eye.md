@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nebula Eye
 tags:
   - Bestiary

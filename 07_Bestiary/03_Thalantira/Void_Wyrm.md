@@ -1,4 +1,4 @@
-﻿---
+---
 title: Void Wyrm
 tags:
   - Bestiary

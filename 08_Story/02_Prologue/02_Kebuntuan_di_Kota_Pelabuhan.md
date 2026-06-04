@@ -8,7 +8,7 @@ tags:
 
 # Kebuntuan di Kota Pelabuhan
 
-Berhari-hari Hector dan Cassian menyusuri pelabuhan Aqualis, mencari nakhoda dan kapal yang berani berlayar menuju *The Mysterious Island*. Hasilnya nihil. Tidak ada satu pun pelaut yang sudi mengambil risiko tersebut, bahkan ketika Hector mengiming-imingi mereka dengan bayaran fantastis sebesar 10.000 Saka Kencana—nominal koin emas bangsawan yang cukup untuk membeli sebuah desa pesisir. Lebih parahnya lagi, Davy Jones—pelaut terbaik dan terkuat di Aqualis yang terkenal berhasil menaklukkan monster laut berkepala delapan, Hydra, di perairan mematikan Rangkaruna—menolak mentah-mentah tawaran mereka.
+Berhari-hari Hector dan Cassian menyusuri pelabuhan Aqualis, mencari nakhoda dan kapal yang berani berlayar menuju *The Mysterious Island*. Hasilnya nihil. Tidak ada satu pun pelaut yang sudi mengambil risiko tersebut, bahkan ketika Hector mengiming-imingi mereka dengan bayaran fantastis sebesar 1.000 Saka Kencana—nominal koin emas yang luar biasa besar dan di luar akal sehat seorang pelaut. Lebih parahnya lagi, Davy Jones—pelaut terbaik dan terkuat di Aqualis yang terkenal berhasil menaklukkan monster laut berkepala delapan, Hydra, di perairan mematikan Rangkaruna—menolak mentah-mentah tawaran mereka.
 
 Di ambang keputusasaan, mereka menghabiskan waktu di sebuah bar kumuh. Suasana hati Hector sangat buruk, sementara Cassian tampak kelelahan.
 
@@ -34,12 +34,12 @@ Sebuah suara tenang namun menusuk tiba-tiba menyela dari sudut ruangan. Seorang 
 
 Mendengar tawaran itu, Hector mendengus kasar dan melepaskan cengkeramannya. Pemilik bar itu jatuh terduduk, mundur ketakutan.
 
-"1.000 Saka Kencana, dan aku akan mengantar kalian ke orang yang bisa membawa kalian ke Pulau Kutukan," lanjut pria kurus itu tanpa ragu.
+"10 Saka Kencana, dan aku akan mengantar kalian ke orang yang bisa membawa kalian ke Pulau Kutukan," lanjut pria kurus itu tanpa ragu.
 
 "Jangan-jangan yang kau maksud—?!" sela pemilik bar dengan mata terbelalak, seolah menyadari sesuatu yang mengerikan.
 
 "Deal!" sahut Cassian cepat, merasa akhirnya mendapatkan titik terang.
 
-"Kau yakin, Cassian?" sanggah Hector, mengerutkan dahi. "1.000 koin emas Saka Kencana itu setara dengan harga sepasang taring naga! Bahkan bagi kita, itu jumlah yang tak masuk akal. Hanya untuk mengantar ke seseorang yang kita bahkan tidak tahu siapa?"
+"Kau yakin, Cassian?" sanggah Hector, mengerutkan dahi. "10 koin emas Saka Kencana itu setara dengan harga sebuah senjata baja berenchantment sihir kelas menengah! Bahkan bagi kita, itu jumlah yang tak masuk akal. Hanya untuk mengantar ke seseorang yang kita bahkan tidak tahu siapa?"
 
 "Kita harus segera pergi dari sini, Hector! Semua orang sedang mengamati kita," bisik Cassian mendesak.

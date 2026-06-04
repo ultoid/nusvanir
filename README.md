@@ -19,6 +19,7 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
     *   **Chapter 17 (Pertemuan di Kuil Air):** Mengeksplorasi perjalanan menuju Kuil Timur, kemunculan Hydra Jurang, serta kejanggalan wujud manusianya yang cinta damai dengan memberikan Emblem Air secara cuma-cuma.
     *   **Chapter 18 (Pertemuan di Kuil Tanah):** Mengisahkan penemuan Kuil Tanah, wujud jenaka paman Behemoth, dan pemberian *buff* sihir alam tingkat tinggi secara magis kepada Cassian dan Hector.
     *   **Chapter 19 (Pertempuran Kuil Udara dan Sang Ksatria Naga):** Membawakan pertarungan absolut 4 vs 1 melawan Void Wyrm, plot twist identitas "Ayah", dan pengumpulan kunci terakhir.
+    *   **Chapter 20 (Visi Kehancuran dan Pengorbanan Sang Nelayan):** Babak akhir tragis dari *Prologue*. Membuka gerbang batu menuju kristal *Core* Void, visi kiamat Uru yang menghancurkan mental, hilangnya kewarasan para monster penjaga, serta pengorbanan luar biasa heroik dari nelayan Rama untuk menyelamatkan harapan umat manusia.
 
 ---
 

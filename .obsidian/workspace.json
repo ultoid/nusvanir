@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Story/02_Prologue/19_Pertempuran_Kuil_Udara.md",
+                "file": "03_Region/03_Avalerion/Cities & Town/Avalerion_Holy_City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19_Pertempuran_Kuil_Udara"
+              "title": "Avalerion_Holy_City"
             }
           }
         ]
@@ -185,9 +185,13 @@
   },
   "active": "f51201ccfa3705ec",
   "lastOpenFiles": [
+    "08_Story/02_Prologue/20_Visi_Kehancuran_dan_Pengorbanan_Sang_Nelayan.md",
+    "05_Karakter & Tokoh Penting/03_Avalerion/Pendeta Agung Lumina.md",
+    "05_Karakter & Tokoh Penting/03_Avalerion/Ksatria Solarius.md",
+    "03_Region/03_Avalerion/Faksi & Institusi/Pawiyatan_Prabha_Suci.md",
+    "08_Story/02_Prologue/19_Pertempuran_Kuil_Udara.md",
     "08_Story/01_The_Old_Tale.md",
     "08_Story/02_Prologue/18_Pertemuan_di_Kuil_Tanah.md",
-    "08_Story/02_Prologue/19_Pertempuran_Kuil_Udara.md",
     "08_Story/02_Prologue/14_Pengorbanan_Shinta_dan_Pulau_Kutukan.md",
     "08_Story/02_Prologue/16_Peta_Purba_dan_Tiga_Kuil_Penjaga.md",
     "08_Story/02_Prologue/15_Pijakan_Pertama_di_Tanah_Terkutuk.md",
@@ -207,10 +211,6 @@
     "07_Bestiary/03_Thalantira/Eclipse_Falcon.md",
     "07_Bestiary/03_Thalantira/Manta_Ray_Void.md",
     "07_Bestiary/03_Thalantira/Kraken_Tentacle.md",
-    "07_Bestiary/03_Thalantira/Deepwater_Siren.md",
-    "07_Bestiary/03_Thalantira/Megalodon_Phantom.md",
-    "07_Bestiary/03_Thalantira/Nebula_Eye.md",
-    "07_Bestiary/03_Thalantira/Obsidian_Crawler.md",
     "all_lore_combined.txt",
     "combine_lore.py",
     "cleanup.py",

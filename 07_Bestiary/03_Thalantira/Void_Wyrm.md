@@ -15,4 +15,4 @@ tags:
 **Spawn Location:** Udara Thalantira
 
 ### Deskripsi
-[BOSS UDARA] Naga kosmik tanpa sayap pelahap realita (Endgame Final Boss).
+[BOSS UDARA] Naga kosmik bersayap raksasa sebesar gunung pelahap realita (Endgame Final Boss).

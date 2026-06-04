@@ -3,7 +3,21 @@
 Repositori ini adalah pusat data untuk keseluruhan *world-building*, *lore*, basis data, dan jalan cerita dari proyek Nusvanir.
 Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* dan terorganisasi.
 
-## 📝 Log Pembaruan Terakhir (3 Juni 2026)
+## 📝 Log Pembaruan Terakhir (4 Juni 2026)
+
+*   **Penyelarasan & Penyempurnaan Lore (Canon):**
+    *   **Inflasi Mata Uang & Saka Kencana:** Mengukuhkan tingginya inflasi untuk membuktikan kelangkaan ekstrem *Void Crystal* dan risiko maut di lautan Raksamala.
+    *   **Klasifikasi Mamon:** Mengklarifikasi bahwa Mamon (dan komandan Raksamala lainnya) adalah golongan *Bhuta*, bukan *Demon Lord*.
+    *   **Misteri Uru:** Menghapus penggunaan istilah "kosmik" pada deskripsi Uru di cerita untuk menjaga unsur misteri, menggantinya dengan entitas purba/absolut.
+    *   **Revisi Void Wyrm:** Mengubah fisik *Void Wyrm* menjadi naga bersayap raksasa sebesar gunung (sesuai aksi heroik di Kuil Udara).
+*   **Kelanjutan Cerita Utama (Transisi Prologue ke Main Story):**
+    *   **Chapter 21 (Pesan dari Ketiadaan):** Menutup saga Thalantira dengan lolosnya Cassian dan Hector. Membawa pesan terakhir dari sang nelayan, serta epilogue singkat mengenai status mutlak Uru.
+    *   **Chapter 22 (Ancaman Sang Lord Keserakahan):** Transisi memasuki *Main Story*. Kedatangan Mamon, sang Bhuta keserakahan penjaga *Raksamala Fortress*, yang menyerang gereja Aqualis demi menculik bayi kembar peninggalan Rama.
+    *   **Chapter 23 (Teror Mamon dan Penghakiman Avalerion):** Pertarungan berdarah *(3 vs 1)* di dalam gereja. Mamon berhasil musnah seutuhnya berkat pancaran energi murni dari serpihan *Void Crystal* yang diam-diam dibawa Hector. Penutup mengejutkan dengan kedatangan ratusan pasukan suci elit Avalerion (Komandan Darius & Sage Luna) yang langsung menyita kristal dan menahan mereka semua.
+
+---
+
+## 📝 Log Pembaruan Sebelumnya (3 Juni 2026)
 
 *   **Evaluasi Besar-besaran Lore & Konsistensi (7 Poin Utama):**
     *   **Timeline Rama & Shinta:** Memperbaiki timeline kronologis kehamilan dan adopsi agar runtut (16 tahun lalu hingga serangan hari ini).
@@ -36,6 +50,9 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
 
 ## 🎯 To-Do List Terdekat
 
-- [ ] Melanjutkan eksplorasi daratan Thalantira (Chapter 16: Penelusuran Peta Abstrak & Bertemu Shinta).
-- [ ] Menyusun *timeline* utama pasca-Prologue (Main Story Bab 1).
+- [x] Menyelesaikan seluruh rangkaian *Prologue* (Chapter 1 hingga 21).
+- [x] Menulis transisi awal menuju *Main Story* (Chapter 22 & 23).
+- [ ] Menyusun *timeline* dan plot perjalanan tahanan menuju ibu kota Avalerion.
+- [ ] Mengembangkan proses interogasi dan penelitian rahasia *Void Crystal* oleh *Sage* Luna.
+- [ ] Review dan merapikan catatan faksi / ras pendukung lainnya.
 - [ ] Review dan merapikan catatan faksi / ras pendukung lainnya.

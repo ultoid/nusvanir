@@ -30,9 +30,9 @@ Mendengar janji tulus dari anak angkatnya itu, pertahanan emosional sang nelayan
 
 Hector dan Cassian mendengarkan dalam diam. Dari percakapan singkat namun sarat emosi itu, Cassian akhirnya memahami tragedi sesungguhnya dari keluarga ini. 
 
-Selama puluhan tahun pernikahan, sang nelayan dan istrinya sangat mendambakan kehadiran seorang anak. Karena tak kunjung dikaruniai keturunan hingga usia senja, mereka akhirnya mengadopsi Jo—seorang yatim piatu korban perang yang mereka temukan di jalanan. Belasan tahun kemudian, keajaiban pun datang; sang istri akhirnya mengandung bayi kembar. 
+Selama puluhan tahun pernikahan, sang nelayan dan istrinya sangat mendambakan kehadiran seorang anak. Karena tak kunjung dikaruniai keturunan hingga usia senja, mereka akhirnya mengadopsi Jane—seorang yatim piatu korban perang yang mereka temukan di jalanan. Belasan tahun kemudian, keajaiban pun datang; sang istri akhirnya mengandung bayi kembar. 
 
-Namun, kebahagiaan itu datang di saat yang salah. Kondisi ekonomi pesisir sedang sangat memburuk. Untuk makan sehari-hari saja mereka hampir tak sanggup, apalagi untuk menghidupi dua bayi sekaligus. Karena keputusasaan itulah, ketika *Guild Dark Thorn* menawarkan komisi fantastis sebesar 50.000 Saka Kencana—harta karun yang bisa mengubah nasib tujuh turunan—untuk seratus Kepiting Batu Karang, sang nelayan nekat menerima tawaran bunuh diri itu, membawa serta istrinya melaut karena kekurangan tenaga. Dan di lautan itulah, kebahagiaan seumur hidup yang baru sekejap mereka cicipi harus direnggut paksa.
+Namun, kebahagiaan itu datang di saat yang salah. Kondisi ekonomi pesisir sedang sangat memburuk. Untuk makan sehari-hari saja mereka hampir tak sanggup, apalagi untuk menghidupi dua bayi sekaligus. Karena keputusasaan itulah, ketika *Guild Dark Thorn* menawarkan komisi fantastis sebesar 10.000 Saka Kencana—harta karun yang bisa mengubah nasib tujuh turunan—untuk seratus Kepiting Batu Karang, sang nelayan nekat menerima tawaran bunuh diri itu, membawa serta istrinya melaut karena kekurangan tenaga. Dan di lautan itulah, kebahagiaan seumur hidup yang baru sekejap mereka cicipi harus direnggut paksa.
 
 Nelayan itu mengusap wajahnya yang basah, lalu menarik napas panjang. Tatapannya kini berubah dari seorang pria tua yang putus asa menjadi sosok kapten tangguh. Ia menatap Hector dan Cassian tajam.
 

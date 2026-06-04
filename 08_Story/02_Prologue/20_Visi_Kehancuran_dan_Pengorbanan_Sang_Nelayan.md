@@ -74,7 +74,7 @@ Namun, senyum Cassian mendadak lenyap saat hawa dingin yang absolut menusuk teng
 
 Ia mendongak, melihat ke arah langit di atasnya. Dan di sanalah teror sejati itu berada. 
 
-Di angkasa yang kosong, sebuah **Mata Raksasa** berwarna hitam dan ungu terbuka perlahan. Ukurannya begitu masif, bahkan sepuluh kali lipat lebih besar dari keseluruhan planet Nusvanir itu sendiri. Mata kosmik itu berkedip lambat. Dan di detik ia terbuka kembali, sebuah pancaran energi sihir murni menembak turun layaknya pilar kiamat.
+Di angkasa yang kosong, sebuah **Mata Raksasa** berwarna hitam dan ungu terbuka perlahan. Ukurannya begitu masif, bahkan sepuluh kali lipat lebih besar dari keseluruhan planet Nusvanir itu sendiri. Mata absolut itu berkedip lambat. Dan di detik ia terbuka kembali, sebuah pancaran energi sihir murni menembak turun layaknya pilar kiamat.
 
 Ledakan itu meluluhlantakkan daratan Nusvanir. Cassian menjerit tanpa suara saat ia melihat wilayah Kerajaan Mandala, Nusa Sayendra, Agnitra, dan Astradipa menguap menjadi debu dalam sekejap mata. Tembok suci *Avalerion* yang dianggap tak tertembus hancur berkeping-keping seolah terbuat dari pasir.
 
@@ -90,7 +90,7 @@ Sebuah pilar energi sihir seukuran jarum melesat dari langit, menembus punggung 
 
 Sedetik kemudian, kilatan sihir kedua menghantam tumpukan puing tersebut, menghapus eksistensi kedua bayi itu dari dunia.
 
-"HENTIKAAAANNNN!!!" Cassian melolong sejadi-jadinya, air mata keputusasaan mengalir deras saat ia meronta-ronta di udara, menatap penuh kebencian pada Mata kosmik mengerikan di angkasa. 
+"HENTIKAAAANNNN!!!" Cassian melolong sejadi-jadinya, air mata keputusasaan mengalir deras saat ia meronta-ronta di udara, menatap penuh kebencian pada Mata tak bernama yang mengerikan di angkasa. 
 
 Mata itu membalas tatapannya. Dan suara yang tadi damai, kini berubah menjadi distorsi kematian yang mengoyak jiwa.
 
@@ -164,7 +164,7 @@ Tanpa memberikan kesempatan membantah, nelayan tua itu melangkah mundur dan melo
 
 Sang Void Wyrm terbebas dari *stun* sesaatnya. Mengaum murka melihat mangsanya di atas kapal, naga ungu itu mengibaskan sayapnya, melepaskan gelombang *Reality Cutter* untuk membelah kapal kayu itu menjadi dua.
 
-Namun dari bawah, Rama berteriak dengan mata berbinar menatap Hector dan Cassian. "Dan satu lagi... tolong jaga anakku!"
+Namun dari bawah, Rama berteriak dengan mata berbinar menatap Hector dan Cassian. "Dan satu lagi... tolong rawat anakku!"
 
 "Pak tua bodoh!! Apa yang kau lakukan?!" jerit Hector, air matanya pecah saat menyadari niat nelayan itu.
 
@@ -186,12 +186,8 @@ Shinta berjalan anggun melewati amukan monster-monster yang seakan tak menyadari
 
 Rama menatap istrinya, senyum bahagia terkembang sempurna di bibir tuanya yang berdarah. Matanya memancarkan kedamaian absolut. 
 
-"Aku sayang kamu, Shinta..."
+"Aku pulang, Shinta..."
 
 Perlahan, mata nelayan tua pemberani itu tertutup untuk selamanya. 
 
 Sementara di kejauhan langit malam, sebuah kapal hitam melesat menembus badai, membawa dua nyawa yang akan menjadi penentu masa depan benua Nusvanir.
-
-***
-
-**— AKHIR DARI PROLOGUE —**

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vraka The Wrathful
 tags:
   - Bestiary

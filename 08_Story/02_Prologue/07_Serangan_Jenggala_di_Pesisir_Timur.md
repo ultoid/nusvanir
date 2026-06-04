@@ -30,9 +30,9 @@ Jane langsung mempertontonkan kelincahan *Rogue* sejatinya, membaur ke dalam bay
 
 Di pusat pertempuran, pertarungan epik lima lawan satu meletus. Hector dan sang *Knight* dari *Guild Dark Thorn* membentuk formasi ganda. Sang Knight mengorbankan pertahanannya, menerjang maju menyerap tebasan cakar si *Wight* dengan perisainya hingga hancur, membuka celah sesaat.
 
-"Sekarang, serang sayapnya!!" teriak sang Knight sambil meringis menahan luka di pinggang.
+"Sekarang, serang monster itu!!" teriak sang Knight sambil meringis menahan luka di pinggang.
 
-Kedua *Mage* magang di garis belakang merespons seketika. "*(Chain of Elements)*!" Mereka menembakkan cambuk energi sihir yang melilit erat kedua kaki dan satu lengan sang *Wight*, menahan pergerakan iblis lincah tersebut.
+Kedua *Mage* magang di garis belakang merespons seketika. "*(Chain of Elements)*!" Mereka menembakkan cambuk energi sihir yang melilit erat kedua kaki sang *Wight*, menahan pergerakan iblis tersebut.
 
 Melihat celah absolut itu, Cassian memusatkan energi sucinya dan menembakkan tombak cahaya dari tongkatnya. "*(Holy Smite)*!" Sinar suci itu menembus dada sang *Wight*, membakar inti jiwanya. Makhluk itu memekik ngeri dan melemah drastis. 
 

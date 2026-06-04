@@ -60,7 +60,7 @@ Jane menundukkan kepalanya, menyembunyikan matanya di balik poni rambutnya. "Kar
 
 "Apa maksudmu?" tuntut Cassian.
 
-"Pak tua yang kalian datangi tadi... dia dulunya adalah pengasuhku," ungkap Jane lirih. "Aku hidup sebatang kara di Aqualis. Ayah dan ibuku menjadi korban saat perang saudara, dan pak tua itulah yang memungutku. Dia mengasuhku, mengajariku memancing, berenang, hingga cara menangkap Kepiting Batu Karang dengan aman. Aku... aku masih berutang nyawa kepadanya."
+"Pak tua yang kalian datangi tadi... dia dulunya adalah pengasuhku," ungkap Jane lirih. "Aku sebatang kara saat terjadi perang di Hermindar. Ayah dan ibuku menjadi korban saat perang saudara, dan pak tua itulah yang memungutku. Dia mengasuhku, mengajariku memancing, berenang, hingga cara menangkap Kepiting Batu Karang dengan aman. Aku... aku masih berutang nyawa kepadanya."
 
 Jane mencengkeram tepi meja. "Setiap kali aku mengunjunginya di gubuk itu, dia terus-menerus bergumam padaku bahwa istrinya masih hidup. Dia bilang, istrinya sedang menunggunya di pulau yang indah itu. Lalu... aku menemukan kalian. Dua orang *Avesari* kuat dari Avalerion yang dengan bodohnya berani mati mencari Pulau Kutukan." 
 
@@ -74,7 +74,7 @@ Jane mengangkat kepalanya, menatap tajam ke arah Cassian dan Hector. "Aku rasa..
 
 Pintu kayu oak markas *Guild* tiba-tiba didobrak paksa hingga engselnya nyaris lepas. Seseorang dengan napas terengah-engah menyerbu masuk.
 
-"SERANGAN JENGGALA!! MEREKA NAIK DI TEPI PANTAI TIMUR!! AYO BERGERAK SEMUA!!" teriak seorang anggota *Guild* berpakaian zirah *Knight* berlumur lumpur dan darah.
+"SERANGAN JENGGALA!! MEREKA NAIK DI TEPI PANTAI TIMUR!! AYO BERGERAK SEMUA!!" teriak seorang anggota *Guild* berpakaian zirah *Knight* dengan banyak goresan pedang di zirahnya.
 
 Wajah Jane seketika memucat pasi. "Sial... di pesisir timur... itu kan tempat rumah orang tua itu!" gumam Jane panik. Ia langsung melompat dari kursinya. "Siapa saja anggota yang bisa berangkat sekarang?!" teriak Jane kepada sang *Knight*.
 

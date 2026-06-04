@@ -58,15 +58,15 @@ Tangan Cassian otomatis terkepal erat. Kelicikan iblis memang tak memiliki batas
 
 Rama menghela napas panjang dan berat. "Si utusan pada akhirnya memberikan satu jalan keluar yang nyaris mustahil. Ia mendesis: *'Kalau begitu, bawakan aku serpihan Void Crystal yang disimpan di dalam brankas dengan penjagaan paling ketat milik Tuan Midas di kota Cakrawala.'* Utusan itu memberi kami tenggat waktu enam bulan purnama sebelum kembali untuk menjemput paksa nyawa anakku."
 
-"Void Crystal?" guman Cassian, menggali ingatannya tentang materi-materi kuno. Itu adalah salah satu artifak paling gelap yang tak pernah diketahui dari mana asalnya.
+"Void Crystal?" guman Cassian, menggali ingatannya tentang materi-materi kuno. Itu adalah salah satu artifak paling misterius yang tak pernah diketahui dari mana asalnya.
 
 "Aku pun tidak paham benda kutukan apa itu," aku Rama. "Namun didorong rasa putus asa, aku segera berjalan ke Cakrawala. Melewati tumpukan birokrasi, suap, dan lobi-lobi bawah tanah yang menguras keringat, aku berhasil menemui Tuan Midas, sang pimpinan sindikat ekonomi bawah tanah."
 
-Rama mendengus sumbang. "Ketika aku mengutarakan niatku tentang *Void Crystal*, Tuan Midas menatapku seolah aku adalah orang gila. Ia berkata bahwa sudah berabad-abad lamanya—bahkan sejak zaman nenek moyangnya memegang kunci Cakrawala—tidak pernah ada satu petualang pun yang tertarik, apalagi berani menawar batu laknat tersebut."
+Rama mendengus sumbang. "Ketika aku mengutarakan niatku tentang serpihan *Void Crystal*, Tuan Midas menatapku seolah aku adalah orang gila. Ia berkata bahwa sudah berabad-abad lamanya—bahkan sejak zaman nenek moyangnya memegang kunci Cakrawala—tidak pernah ada satu petualang pun yang tertarik, apalagi berani menawar serpihan laknat tersebut."
 
 "Berapa harga yang ia minta?" tanya Cassian, menebak bahwa angkanya pasti di luar nalar manusia.
 
-"Untuk sebuah serpihan kristal misterius yang ukurannya bahkan tidak lebih besar dari sebiji jagung, namun konon menyimpan kekuatan magis gelap yang tak dikenali di seluruh penjuru Nusvanir..." Rama menatap Cassian dengan tatapan kosong, "...Tuan Midas mematok harga gila: 100.000 *Saka Kencana*. Jumlah koin emas bangsawan yang takkan pernah bisa dikumpulkan oleh rakyat jelata sepertiku meski aku bereinkarnasi seratus kali."
+"Untuk sebuah serpihan kristal misterius yang ukurannya bahkan tidak lebih besar dari sebiji jagung, namun konon menyimpan kekuatan magis yang tak dikenali di seluruh penjuru Nusvanir..." Rama menatap Cassian dengan tatapan kosong, "...Tuan Midas mematok harga gila: 100.000 *Saka Kencana*. Jumlah koin emas bangsawan yang takkan pernah bisa dikumpulkan oleh rakyat jelata sepertiku meski aku bereinkarnasi seratus kali."
 
 Cassian tercekat hingga nyaris tersedak ludahnya sendiri. Jumlah kepingan emas murni sebanyak itu cukup untuk membangun rumah-rumah bangsawan secara lunas di Lingkar Surya Kerajaan Mandala. Angka yang teramat fantastis untuk sebuah serpihan batu kecil, dan sama sekali mustahil ditebus oleh seorang nelayan pensiunan prajurit.
 

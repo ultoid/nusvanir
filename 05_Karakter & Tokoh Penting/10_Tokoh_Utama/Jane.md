@@ -13,11 +13,11 @@ tags:
 **Visual**: Wanita mandiri dengan celemek kasar yang sering berlumuran arang, namun memiliki senyum yang sangat hangat.
 
 ### Latar Belakang & Lore
-Di balik kehebatan magis Cassian dan sejarah berdarah Hector, Jane adalah jangkar realita yang menjaga kewarasan mereka di dunia manusia. Tinggal di Aqualis, Jane berprofesi sebagai seorang pandai besi dan ahli perbengkelan yang mandiri, kuat, dan berpikiran praktis. 
+Jane adalah yatim piatu korban perang saudara Hermindar yang diselamatkan dan diadopsi oleh Rama dan Shinta. Tumbuh sebagai perempuan tangguh, ia bergabung dengan serikat *Assassin Dark Thorn* untuk membantu perekonomian keluarga angkatnya yang kesulitan.
 
-Setelah peristiwa Mamon dan runtuhnya persahabatan suaminya dengan Hector, Jane menjadi pilar emosional yang menyembuhkan Cassian dari trauma berkepanjangan akibat visi Uru dan tragedi Thalantira. Ketika Cassian memutuskan untuk mengadopsi Hiro, Jane menerimanya dengan sepenuh hati. 
+Saat kedua orang tuanya terjebak dalam badai mencari harta penebusan *Void Crystal*, Jane tinggal di Aqualis menjaga kedua adik bayi kembarnya, Hiro dan Damian. Ketika Mamon menyerang gereja tempat mereka berlindung, Jane bertarung mati-matian tanpa gentar menghadapi sang *Demon Lord* dan pasukan zombinya, hingga hampir tewas jika bukan karena kedatangan Hector dan Cassian.
 
-Selama 16 tahun, ia membesarkan Hiro layaknya anak kandungnya sendiri. Tangan kasarnya yang terbiasa memegang palu tempa adalah tangan yang sama yang memberikan kelembutan kasih sayang seorang ibu kepada Hiro. Jane jugalah yang menempa dan memberikan pedang besi pertama bagi Hiro, meletakkan dasar fisik bagi pemuda itu untuk memulai perjalanannya sebagai calon *Holy Knight*.
+Setelah tragedi itu berakhir dan kutukan si kembar terungkap oleh dewan Avalerion, Jane diizinkan menjadi wali. Saat Hector dan Cassian menjalani masa pengasingan 10 tahun, Jane adalah sosok yang tetap berhubungan dengan mereka. Kini, ia tinggal bersama Cassian di Aqualis, mendedikasikan hidupnya merawat dan membesarkan Hiro layaknya anak kandungnya sendiri, menjadi sosok "Ibu" sekaligus kakak yang sangat protektif.
 
 ### Relasi Faksi
 - Istri dari **Cassian**.

@@ -14,11 +14,11 @@ tags:
 **Visual**: Pemuda tangguh dengan luka bakar hitam di sekujur lengan, sorot mata tajam dan dingin, mengenakan zirah ringan yang menahan hawa panas.
 
 ### Latar Belakang & Lore
-Nasib Damian jauh lebih kelam dibandingkan saudara kembarnya, Hiro. Lahir di Raksamala, Damian sejak bayi telah terekspos dan dikutuk oleh miasma gelap Sangrahal, menjadikannya bayi yang divonis mati atau berubah menjadi monster. 
+Lahir di Aqualis, masa kecil Damian ditandai oleh kutukan Sangrahal yang terikat pada jiwanya. Setelah insiden penyerangan Mamon di gereja, Damian dipisahkan dari saudara kembarnya atas perintah Avalerion agar kutukan yang mengikat mereka tidak meledak. 
 
-Nyawanya diselamatkan ketika Hector, setelah 10 tahun masa penahanan, memutuskan untuk membuang Cahayanya, berubah menjadi *Death Knight*, dan membantai seluruh komandan iblis di Raksamala demi menyerap kutukan yang mengikat Damian. Di usianya yang ke-11, Damian dibawa oleh Hector ke rumah Cassian secara diam-diam. Hector menawarkan Damian kesempatan untuk hidup normal bersama Hiro, karena kutukannya telah hilang.
+Ketika usianya mencapai 11 tahun, takdirnya diubah selamanya oleh kedatangan Hector. Sang Paladin itu membantai peradaban Raksamala, menukar *Void Crystal* demi mencabut kutukan dari jiwa Damian, dan mengorbankan jalan cahayanya sendiri. Menyadari pengorbanan luar biasa yang dilakukan ayah angkatnya, Damian yang masih belia menolak kehidupan normal. Ia memilih untuk mengikuti Hector dalam pengasingan di Thalantira. 
 
-Namun, kedewasaan dan empati kelam Damian menuntunnya pada pilihan lain. Melihat ayahnya mengorbankan jiwa dan kewarasannya demi dirinya, Damian menolak kehangatan keluarga. Ia bersumpah untuk mengikuti Hector ke pengasingan di pulau Thalantira. Selama 5 tahun, Damian ditempa di Kuil Api di bawah badai *Void*. Ia disiksa untuk menguasai sihir *Hellfire* hitam kelam yang mendidihkan jiwa. Tujuannya hanya satu: menggantikan ayahnya sebagai wadah bagi Entitas Uru saat hari kiamat tiba, agar ayahnya tidak perlu menanggung beban kehancuran itu sendirian.
+Selama lima tahun berikutnya, Damian ditempa keras di bawah badai *Void*, menyerap esensi sihir mematikan *Hellfire*. Tujuannya hanya satu: menjadi wadah yang lebih kuat agar ayahnya tidak perlu memikul beban kiamat Uru sendirian.
 
 ### Relasi Faksi
 - Anak angkat dan murid paling setia dari **Hector**.

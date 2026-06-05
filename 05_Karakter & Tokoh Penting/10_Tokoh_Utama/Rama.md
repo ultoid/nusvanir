@@ -14,11 +14,11 @@ tags:
 **Visual**: Pria tangguh bermata elang, tubuh dipenuhi bekas luka pertarungan laut, mengenakan mantel kulit laut.
 
 ### Latar Belakang & Lore
-Rama pada awalnya hanyalah seorang nelayan trauma di Aqualis yang kehilangan arah setelah istri dan anak kembarnya diculik oleh monster *Jenggala*. Menghadapi jalan buntu dan keputusasaan, Rama dibujuk oleh Hector dan Cassian untuk mengemudikan kapal menembus badai Rangkaruna menuju Thalantira, satu-satunya tempat yang diyakini menyimpan jawaban atas kembalinya monster-monster tersebut.
+Rama adalah mantan prajurit Loka Cakra Mandala yang mengundurkan diri setelah mengadopsi Jane. Ia menikah dengan Shinta, seorang *Windrunner Elf*. Akibat melanggar wilayah Raksamala, ia dan istrinya terkena kutukan Sangrahal yang mencabut keabadian Shinta.
 
-Peran Rama dalam kisah ini sangat krusial. Keberanian dan insting lautnya berhasil membawa rombongan selamat dari badai lautan terdalam. Namun, tragedi sesungguhnya terjadi di jantung Thalantira. Ketika gerbang kristal Uru terbuka dan melepaskan tekanan ketiadaan murni yang mengancam akan menghancurkan Hector dan Cassian, Rama mengambil keputusan heroik.
+Tiga tahun kemudian, mereka dikaruniai anak kembar: Hiro dan Damian. Namun, Sangrahal menuntut salah satu bayi tersebut atau ditukar dengan *Void Crystal*. Demi menebus anak-anaknya, Rama berburu mati-matian hingga terdampar di pulau Thalantira. Di sana ia kehilangan Shinta yang terjebak dalam ilusi absolut pulau tersebut.
 
-Meskipun ia hanyalah manusia biasa tanpa sihir pelindung, Rama menerjang masuk ke dalam badai energi *Void* tersebut. Tubuh fananya menahan gelombang tekanan kiamat cukup lama agar Hector bisa menyegel serpihan kristalnya dan lari. Pengorbanan Rama bukan hanya menyelamatkan dua nyawa pahlawan, melainkan menyelamatkan harapan dunia. Tanpa Rama, kisah keselamatan Hiro dan Damian tidak akan pernah terjadi.
+Rama yang kembali ke Aqualis dengan tangan hampa dan putus asa, akhirnya bersedia menjadi nakhoda bagi Hector dan Cassian menuju Thalantira sebagai bentuk balas budi karena mereka telah menolongnya dari serangan monster. Di akhir ekspedisi tersebut, ketika Hector dan Cassian terdesak oleh amukan Bos Dunia, Rama menerbangkan kapalnya menggunakan sisa-sisa sihir badainya, melemparkan kedua ksatria itu menuju keselamatan, sebelum akhirnya mengorbankan nyawanya sendiri di daratan Thalantira.
 
 ### Relasi Faksi
 - Suami dari **Shinta**.

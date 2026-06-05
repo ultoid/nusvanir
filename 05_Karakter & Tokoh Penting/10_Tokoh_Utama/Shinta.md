@@ -13,11 +13,11 @@ tags:
 **Visual**: Wanita tegar yang kecantikannya tertutup oleh luka dan sisa-sisa siksaan energi gelap.
 
 ### Latar Belakang & Lore
-Shinta diculik dari pesisir Aqualis oleh serangan Jenggala, dibawa ke tanah terkutuk Raksamala sebagai sandera, di mana ia melahirkan putra kembarnya, Hiro dan Damian, dalam kondisi paling mengerikan. 
+Shinta pada awalnya adalah seorang ksatria *Windrunner Elf* dari ras Asrivana. Ia bertemu Rama di medan perang dan bersama-sama mereka mengadopsi seorang bayi yatim piatu bernama Jane. 
 
-Di tengah miasma kegelapan yang menggerogoti jiwanya, Shinta berhasil bertahan hidup dengan bersembunyi di goa-goa lembab sungai bawah tanah Raksamala. Selama berminggu-minggu, ia menahan rasa lapar, sakit, dan kutukan iblis hanya demi memastikan kedua bayinya tetap bernapas. 
+Suatu ketika, Shinta dan Rama tak sengaja menginjakkan kaki di pesisir Raksamala dan terkena kutukan *Demon Lord* Sangrahal. Demi impian memiliki keturunan darah daging sendiri, Shinta rela menukar keabadian dan sihirnya untuk menjadi manusia fana. Tiga tahun kemudian, ia melahirkan si kembar Hiro dan Damian di Aqualis.
 
-Ketika Hector dan Cassian akhirnya menemukan mereka (melalui portal dimensi/pelarian Raksamala), kondisi Shinta sudah melewati batas kritis. Seluruh tubuhnya telah dirusak oleh racun kegelapan. Dengan napas terakhirnya, ia menyerahkan kedua putranya ke pelukan Hector dan Cassian, memastikan bahwa pengorbanan suaminya di lautan tidaklah sia-sia. Kematian Shinta menjadi luka yang sangat dalam dan mengukuhkan tekad Hector untuk kelak menghancurkan seluruh Raksamala hingga rata dengan tanah.
+Namun utusan iblis menagih bayaran atas nyawa tersebut. Shinta, dengan sisa kesehatannya yang merosot, bersikeras ikut melaut bersama Rama untuk mengumpulkan harta tebusan. Kapal mereka terdampar di misteri Thalantira. Di sanalah, dengan tubuh fana yang kelelahan dan mental yang hancur, alam bawah sadar Shinta menyerah pada sihir ilusi kedamaian palsu dari *Abyssal Treant*. Ia menolak kembali ke realita yang penuh penderitaan, memaksa Rama untuk meninggalkannya di pulau terkutuk itu demi menyelamatkan si kembar di rumah.
 
 ### Relasi Faksi
 - Istri dari **Rama**.

@@ -14,11 +14,11 @@ tags:
 **Visual**: Pria paruh baya dengan jubah usang, wajah yang menyimpan banyak rahasia dan trauma, namun memiliki kebijaksanaan yang dalam.
 
 ### Latar Belakang & Lore
-Cassian bermula sebagai seorang *Priest* agung yang brilian dari Avalerion, mendampingi Hector dalam misi rahasia menuju Thalantira. Sebagai seorang cendekiawan dan *Echomancer*, Cassian adalah pengisi suara akal sehat yang selalu menganalisis fenomena anomali yang mereka temui, mulai dari badai Rangkaruna hingga misteri tiga Kuil Penjaga di pulau kutukan tersebut.
+Sebagai seorang *Priest* agung dan cendekiawan, Cassian mendampingi Hector memecahkan misteri di pulau Thalantira. Ia adalah saksi langsung kengerian visi kiamat Uru yang nyaris menghancurkan kewarasannya, serta saksi dari pengorbanan Rama sang nelayan yang menyelamatkan nyawa mereka.
 
-Meskipun tidak sekuat Hector dalam pertarungan fisik, sihir pertahanan dan analisis Cassian menjadi kunci keselamatan mereka berulang kali. Di pusat Thalantira, visi kiamat Uru hampir menghancurkan kewarasannya. Kematian Rama di depan matanya meninggalkan trauma psikologis yang sangat mendalam bagi Cassian. Setelah pertarungan melawan Mamon, ia ikut ditahan oleh elit Avalerion karena dianggap mengetahui rahasia terlarang.
+Setibanya kembali di Aqualis, Cassian turut berjuang mempertaruhkan nyawa melawan sang Bhuta Keserakahan, Mamon, demi melindungi kedua bayi kembar Rama. Akibat dari peristiwa tersebut, ia ditangkap oleh *Sage Luna* dan dipenjara selama 10 tahun di Avalerion. 
 
-Setelah 10 tahun masa hukuman/pengasingan politiknya berakhir, Cassian melihat Hector menempuh jalan kegelapan demi Damian. Patah hati namun tak kehilangan harapan, Cassian memilih untuk membesarkan saudara kembar Damian, Hiro, di bawah bimbingan Cahaya. Ia menetap di Aqualis bersama istrinya, Jane, dan menutupi rapat-rapat rahasia masa lalu tersebut dari Hiro. Lima tahun kemudian, dengan dunia yang semakin kacau akibat ketidakseimbangan elemen, Cassian dipanggil ke Mandala untuk memimpin riset anomali, sambil diam-diam menggunakan wewenangnya untuk melacak keberadaan Hector dan Damian.
+Setelah dibebaskan dengan status pahlawan namun terasing, Cassian mengambil tanggung jawab untuk mengasuh salah satu anak kembar Rama, yaitu Hiro. Cassian menetap di Aqualis bersama Jane—kakak angkat Hiro—dan membesarkan pemuda itu dalam bimbingan Cahaya. Cassian menyembunyikan masa lalu berdarah mereka demi memberikan kehidupan normal bagi Hiro, sembari terus meneliti misteri dunia yang semakin tidak stabil.
 
 ### Relasi Faksi
 - Ayah angkat **Hiro**.

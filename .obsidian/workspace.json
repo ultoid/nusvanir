@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Karakter & Tokoh Penting/01_Mandala/Arta Dhanaprabha.md",
+                "file": "05_Karakter & Tokoh Penting/11_Entitas_Purba/Uru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arta Dhanaprabha"
+              "title": "Uru"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "f51201ccfa3705ec",
   "lastOpenFiles": [
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hiro.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hector.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Damian.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Cassian.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Rama.md",
+    "05_Karakter & Tokoh Penting/01_Mandala/Arta Dhanaprabha.md",
     "05_Karakter & Tokoh Penting/11_Entitas_Purba/Uru.md",
     "05_Karakter & Tokoh Penting/11_Entitas_Purba/Uru.json",
     "05_Karakter & Tokoh Penting/11_Entitas_Purba",
@@ -194,17 +200,12 @@
     "05_Karakter & Tokoh Penting/03_Avalerion/Komandan Darius.md",
     "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Shinta.md",
     "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Shinta.json",
-    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Rama.md",
     "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Rama.json",
     "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Jane.md",
     "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Jane.json",
-    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hiro.md",
     "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hiro.json",
-    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hector.md",
     "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hector.json",
-    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Damian.md",
     "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Damian.json",
-    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Cassian.md",
     "05_Karakter & Tokoh Penting/01_Mandala/Adipati Wira.md",
     "08_Story/03_The_Untold_Story/03_Penjaga_Kuil_Api_Neraka.md",
     "09_Maps/Nusvanir World Map.png",
@@ -222,7 +223,6 @@
     "08_Story/02_Prologue/01_Bisikan_Pulau_Terkutuk.md",
     "08_Story/03_The_Untold_Story/01_Era_Ketidakseimbangan.md",
     "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.md",
-    "08_Story/02_Prologue/24_Epilogue_Jalan_yang_Terbelah.md",
     "World Building RPG - Nusvanir/resources/image_957028572_2.jpg",
     "World Building RPG - Nusvanir/resources/image_957028572_1.jpg",
     "World Building RPG - Nusvanir/resources/image_742492815_0.jpg",

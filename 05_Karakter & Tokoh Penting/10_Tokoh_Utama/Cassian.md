@@ -10,7 +10,7 @@ tags:
 
 # Cassian
 
-**Identitas**: Peneliti / Mantan Priest Avalerion.
+**Identitas**: Peneliti / Mantan Priest Avalerion / Cryomancer.
 **Visual**: Pria paruh baya dengan jubah usang, wajah yang menyimpan banyak rahasia dan trauma, namun memiliki kebijaksanaan yang dalam.
 
 ### Latar Belakang & Lore

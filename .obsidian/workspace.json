@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Story/02_Prologue/24_Epilogue_Jalan_yang_Terbelah.md",
+                "file": "08_Story/03_The_Untold_Story/03_Penjaga_Kuil_Api_Neraka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24_Epilogue_Jalan_yang_Terbelah"
+              "title": "03_Penjaga_Kuil_Api_Neraka"
             }
           }
         ]
@@ -183,12 +183,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "f51201ccfa3705ec",
+  "active": "f889d8724a53fbf0",
   "lastOpenFiles": [
+    "08_Story/03_The_Untold_Story/02_Pilihan_di_Bawah_Bayangan.md",
+    "08_Story/03_The_Untold_Story/03_Penjaga_Kuil_Api_Neraka.md",
+    "08_Story/02_Prologue/10_Jalan_yang_Terbelah.md",
+    "08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md",
+    "08_Story/02_Prologue/08_Ujian_Para_Pelindung.md",
+    "08_Story/02_Prologue/07_Tiga_Kuil_Penjaga.md",
+    "08_Story/02_Prologue/06_Kutukan_dan_Pengorbanan.md",
+    "08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md",
+    "08_Story/02_Prologue/04_Batas_Badai_Rangkaruna.md",
+    "08_Story/02_Prologue/02_Bayangan_Masa_Lalu.md",
+    "08_Story/02_Prologue/03_Teror_di_Pesisir_Timur.md",
+    "08_Story/02_Prologue/01_Bisikan_Pulau_Terkutuk.md",
+    "08_Story/03_The_Untold_Story/01_Era_Ketidakseimbangan.md",
+    "08_Story/03_The_Untold_Story",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.md",
+    "08_Story/02_Prologue/24_Epilogue_Jalan_yang_Terbelah.md",
+    "08_Story/02_Prologue/20_Visi_Kehancuran_dan_Pengorbanan_Sang_Nelayan.md",
     "08_Story/02_Prologue/23_Teror_Mamon_dan_Penghakiman_Avalerion.md",
     "08_Story/02_Prologue/11_Kepiting_Batu_Karang_dan_Rahasia_Rama.md",
     "08_Story/02_Prologue/01_Purāṇakathā_dan_Bisikan_Pulau_Terkutuk.md",
-    "08_Story/02_Prologue/24_Epilogue_Jalan_yang_Terbelah.md",
     "04_Ras/01_Suku Bumi/Avesari_(Demigod).md",
     "02_World/Arkananta.md",
     "02_World/Astradipa.md",
@@ -196,21 +212,6 @@
     "02_World/Cakrawala.md",
     "02_World/Raksmala.md",
     "02_World/Raksamala.md",
-    "02_World/Nusa_Sayendra.md",
-    "03_Region/07_Nusa Sayendra/Cities & Town/Puncak Emas Swargaloka.md",
-    "03_Region/01_Mandala Kingdom/Cities & Town/Valkindra.md",
-    "03_Region/01_Mandala Kingdom/Cities & Town/Arthiska.md",
-    "03_Region/01_Mandala Kingdom/Cities & Town/Hermindar.md",
-    "03_Region/01_Mandala Kingdom/Cities & Town/Aqualis.md",
-    "03_Region/03_Avalerion/Faksi & Institusi/Pawiyatan_Prabha_Suci.md",
-    "08_Story/02_Prologue/22_Ancaman_Sang_Lord_Keserakahan.md",
-    "03_Region/03_Avalerion/Faksi & Institusi/Senopati_Prabha.md",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Mamon.md",
-    "03_Region/04_Agnitra/Faksi & Institusi/Klan Adamantine.md",
-    "03_Region/10_Raksamala/Cities & Town/Fortress of Greed.md",
-    "03_Region/10_Raksamala/Cities & Town/Fortress of Lust.md",
-    "03_Region/10_Raksamala/Cities & Town/Fortress of Pride.md",
-    "03_Region/10_Raksamala/Cities & Town/Fortress of Sloth.md",
     "combined_lore.txt",
     "cleanup.py",
     "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Vraka_The_Wrathful.json",
@@ -220,7 +221,6 @@
     "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Belphegor.json",
     "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Beelzebub.json",
     "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Asmodea.json",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress",
     "World Building RPG - Nusvanir/resources/image_957028572_2.jpg",
     "World Building RPG - Nusvanir/resources/image_957028572_1.jpg",
     "World Building RPG - Nusvanir/resources/image_742492815_0.jpg",

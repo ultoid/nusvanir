@@ -3,20 +3,16 @@
 Repositori ini adalah pusat data untuk keseluruhan *world-building*, *lore*, basis data, dan jalan cerita dari proyek Nusvanir.
 Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* dan terorganisasi.
 
-## 📝 Log Pembaruan Terakhir (4 Juni 2026)
+## 📝 Log Pembaruan Terakhir (5 Juni 2026)
 
-*   **Penyelarasan & Penyempurnaan Lore (Canon):**
-    *   **Inflasi Mata Uang & Saka Kencana:** Mengukuhkan tingginya inflasi untuk membuktikan kelangkaan ekstrem *Void Crystal* dan risiko maut di lautan Raksamala.
-    *   **Klasifikasi Mamon:** Mengklarifikasi bahwa Mamon (dan komandan Raksamala lainnya) adalah golongan *Bhuta*, bukan *Demon Lord*.
-    *   **Misteri Uru:** Menghapus penggunaan istilah "kosmik" pada deskripsi Uru di cerita untuk menjaga unsur misteri, menggantinya dengan entitas purba/absolut.
-    *   **Revisi Void Wyrm:** Mengubah fisik *Void Wyrm* menjadi naga bersayap raksasa sebesar gunung (sesuai aksi heroik di Kuil Udara).
-*   **Kelanjutan Cerita Utama (Transisi Prologue ke Main Story):**
-    *   **Chapter 21 (Pesan dari Ketiadaan):** Menutup saga Thalantira dengan lolosnya Cassian dan Hector. Membawa pesan terakhir dari sang nelayan, serta epilogue singkat mengenai status mutlak Uru.
-    *   **Chapter 22 (Ancaman Sang Lord Keserakahan):** Transisi memasuki *Main Story*. Kedatangan Mamon, sang Bhuta keserakahan penjaga *Raksamala Fortress*, yang menyerang gereja Aqualis demi menculik bayi kembar peninggalan Rama.
-    *   **Chapter 23 (Teror Mamon dan Penghakiman Avalerion):** Pertarungan berdarah *(3 vs 1)* di dalam gereja. Mamon berhasil musnah seutuhnya berkat pancaran energi murni dari serpihan *Void Crystal* yang diam-diam dibawa Hector. Penutup mengejutkan dengan kedatangan ratusan pasukan suci elit Avalerion (Komandan Darius & Sage Luna) yang langsung menyita kristal dan menahan mereka semua.
-    *   **Chapter 24 (Epilogue: Jalan yang Terbelah):** Penutup *Prologue* yang epik. *Time skip* 10 tahun kemudian yang mengisahkan hasil pengadilan suci Avalerion, perpisahan Cassian dan Hector, serta aksi nekat Hector membantai seluruh komandan *Bhuta* Raksamala demi menebus jiwa Damian dan bertransformasi menjadi sang *Death Knight*.
-
----
+*   **Penyederhanaan Prologue (Tales of The Dark Time):**
+    *   Berhasil memadatkan dan merestrukturisasi 24 chapter Prologue awal menjadi 10 chapter utama yang jauh lebih padat dan bernuansa novel tanpa memotong inti cerita sedikit pun.
+    *   Pengubahan judul chapter menjadi lebih ringkas (e.g., *Bisikan Pulau Terkutuk*, *Bayangan Masa Lalu*, *Jalan yang Terbelah*).
+*   **Penambahan Lore Prequel: "The Untold Story":**
+    *   Membuat folder baru `03_The_Untold_Story` yang mendokumentasikan apa yang terjadi selama 5 tahun (Time Skip) setelah Prologue.
+    *   **Era Ketidakseimbangan:** Menceritakan krisis dunia pasca-Prologue, meluapnya sihir Cahaya, invasi mutan *Void Jenggala*, wujud tragis Sangrahal, dan respons faksi-faksi besar.
+    *   **Pilihan di Bawah Bayangan:** Momen dramatis kilas balik saat Damian menolak hidup normal dan bersumpah setia pada ayahnya, Hector.
+    *   **Penjaga Kuil Api Neraka:** Keberadaan Hector dan Damian di pulau Thalantira sebagai pelayan Uru, serta penciptaan seni sihir hitam absolut *Hellfire* (Api Neraka).
 
 ## 📝 Log Pembaruan Sebelumnya (3 Juni 2026)
 
@@ -51,8 +47,8 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
 
 ## 🎯 To-Do List Terdekat
 
-- [x] Menyelesaikan seluruh rangkaian *Prologue* (Chapter 1 hingga 24).
+- [x] Menyelesaikan dan menyederhanakan seluruh rangkaian *Prologue* (10 Chapter "Tales of The Dark Time").
+- [x] Menyusun *lore* transisi (Prequel 5 Tahun) ke dalam "The Untold Story".
 - [ ] Merancang kerangka awal (Outline) untuk *Main Story* Chapter 1.
-- [ ] Menyusun *timeline* dan plot petualangan pertumbuhan Hiro dan Damian.
-- [ ] Review dan merapikan catatan faksi / ras pendukung lainnya.
+- [ ] Menyusun detail petualangan Hiro (Light Path) dan Damian (Dark Path) secara paralel.
 - [ ] Review dan merapikan catatan faksi / ras pendukung lainnya.

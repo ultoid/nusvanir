@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Story/03_The_Untold_Story/03_Penjaga_Kuil_Api_Neraka.md",
+                "file": "05_Karakter & Tokoh Penting/01_Mandala/Arta Dhanaprabha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_Penjaga_Kuil_Api_Neraka"
+              "title": "Arta Dhanaprabha"
             }
           }
         ]
@@ -183,10 +183,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "f889d8724a53fbf0",
+  "active": "f51201ccfa3705ec",
   "lastOpenFiles": [
-    "08_Story/03_The_Untold_Story/02_Pilihan_di_Bawah_Bayangan.md",
+    "05_Karakter & Tokoh Penting/11_Entitas_Purba/Uru.md",
+    "05_Karakter & Tokoh Penting/11_Entitas_Purba/Uru.json",
+    "05_Karakter & Tokoh Penting/11_Entitas_Purba",
+    "05_Karakter & Tokoh Penting/03_Avalerion/Sage Luna.json",
+    "05_Karakter & Tokoh Penting/03_Avalerion/Sage Luna.md",
+    "05_Karakter & Tokoh Penting/03_Avalerion/Komandan Darius.json",
+    "05_Karakter & Tokoh Penting/03_Avalerion/Komandan Darius.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Shinta.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Shinta.json",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Rama.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Rama.json",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Jane.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Jane.json",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hiro.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hiro.json",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hector.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Hector.json",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Damian.md",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Damian.json",
+    "05_Karakter & Tokoh Penting/10_Tokoh_Utama/Cassian.md",
+    "05_Karakter & Tokoh Penting/01_Mandala/Adipati Wira.md",
     "08_Story/03_The_Untold_Story/03_Penjaga_Kuil_Api_Neraka.md",
+    "09_Maps/Nusvanir World Map.png",
+    "09_Maps/Gemini_Generated_Image_iabfkziabfkziabf.png",
+    "08_Story/03_The_Untold_Story/02_Pilihan_di_Bawah_Bayangan.md",
     "08_Story/02_Prologue/10_Jalan_yang_Terbelah.md",
     "08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md",
     "08_Story/02_Prologue/08_Ujian_Para_Pelindung.md",
@@ -198,29 +221,8 @@
     "08_Story/02_Prologue/03_Teror_di_Pesisir_Timur.md",
     "08_Story/02_Prologue/01_Bisikan_Pulau_Terkutuk.md",
     "08_Story/03_The_Untold_Story/01_Era_Ketidakseimbangan.md",
-    "08_Story/03_The_Untold_Story",
     "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.md",
     "08_Story/02_Prologue/24_Epilogue_Jalan_yang_Terbelah.md",
-    "08_Story/02_Prologue/20_Visi_Kehancuran_dan_Pengorbanan_Sang_Nelayan.md",
-    "08_Story/02_Prologue/23_Teror_Mamon_dan_Penghakiman_Avalerion.md",
-    "08_Story/02_Prologue/11_Kepiting_Batu_Karang_dan_Rahasia_Rama.md",
-    "08_Story/02_Prologue/01_Purāṇakathā_dan_Bisikan_Pulau_Terkutuk.md",
-    "04_Ras/01_Suku Bumi/Avesari_(Demigod).md",
-    "02_World/Arkananta.md",
-    "02_World/Astradipa.md",
-    "02_World/Avalerion.md",
-    "02_World/Cakrawala.md",
-    "02_World/Raksmala.md",
-    "02_World/Raksamala.md",
-    "combined_lore.txt",
-    "cleanup.py",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Vraka_The_Wrathful.json",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Mamon.json",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Luciferus.json",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Leviathanus.json",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Belphegor.json",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Beelzebub.json",
-    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/08_Commanders_of_Raksmala_Fortress/Asmodea.json",
     "World Building RPG - Nusvanir/resources/image_957028572_2.jpg",
     "World Building RPG - Nusvanir/resources/image_957028572_1.jpg",
     "World Building RPG - Nusvanir/resources/image_742492815_0.jpg",
@@ -228,7 +230,6 @@
     "World Building RPG - Nusvanir/resources/image_957028572_0.jpg",
     "World Building RPG - Nusvanir/resources/cellImage_1702560977_1.jpg",
     "World Building RPG - Nusvanir/resources/cellImage_1702560977_2.jpg",
-    "World Building RPG - Nusvanir/resources/cellImage_1702560977_0.jpg",
-    "World Building RPG - Nusvanir/resources/cellImage_1702560977_3.jpg"
+    "World Building RPG - Nusvanir/resources/cellImage_1702560977_0.jpg"
   ]
 }

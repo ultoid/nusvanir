@@ -9,8 +9,8 @@ tags:
 
 # Jane
 
-**Identitas**: Pandai Besi / Ibu Rumah Tangga.
-**Visual**: Wanita mandiri dengan celemek kasar yang sering berlumuran arang, namun memiliki senyum yang sangat hangat.
+**Identitas**: Ibu Rumah Tangga.
+**Visual**: Wanita mandiri dan tangguh yang berpenampilan rapi dan praktis, dengan senyum keibuan yang sangat hangat.
 
 ### Latar Belakang & Lore
 Jane adalah yatim piatu korban perang saudara Hermindar yang diselamatkan dan diadopsi oleh Rama dan Shinta. Tumbuh sebagai perempuan tangguh, ia bergabung dengan serikat *Assassin Dark Thorn* untuk membantu perekonomian keluarga angkatnya yang kesulitan.

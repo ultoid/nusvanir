@@ -25,7 +25,8 @@ Nusvanir adalah mozaik kehidupan yang dijalin oleh lautan dan dipayungi oleh lan
 * **Tirta Amarta (Kota Para Dewa):** Di sinilah tempat pertama kali Sang Hyang Cahaya menghembuskan napas kehidupan. Dikelilingi air terjun yang berkilauan dan kuil-kuil suci, Tirta Amarta adalah pusat kedamaian dan harmoni absolut. Tempat ini menjadi persinggahan bangsa malaikat (*Dewathian*, *Langitara*, *Vriskapala*) dan tidak dapat dilihat oleh sembarang mata fana.
 * **Gunung Arkananta:** Menjulang tinggi menembus lapisan awan di tengah dunia. Gunung ini adalah pilar yang menopang Nusvanir, berfungsi sebagai jembatan menuju Langit Pertiwi (alam para dewa). Puncaknya diselimuti kabut abadi yang memantulkan kilauan bintang, tempat yang indah namun menyimpan bahaya mematikan bagi penjelajah.
 * **Laut Rangkaruna & Raksamala:** Sebagai penyeimbang, di ujung lautan luas Rangkaruna yang penuh badai abadi, berdirilah Pulau Raksamala. Ini adalah pusat kegelapan, dunia bawah di mana sinar matahari tidak pernah sudi menyentuh permukaannya. Di tempat inilah kekaisaran iblis dibangun.
-* **Thalantira (Pulau Misterius):** Terletak jauh di balik Raksamala, sebuah pulau legenda yang keberadaannya masih diselimuti keraguan. Banyak yang percaya pulau ini menyimpan esensi kegelapan murni dan kekuatan yang belum terungkap.
+* **Thalantira (Pulau Misterius / Śaptadvīpa):** Terletak jauh di balik Raksamala, pulau legenda yang juga dijuluki *Pulau Kutukan*. Dikelilingi oleh lautan badai mematikan dan karang-karang laut hitam berbentuk taring pelindung, pulau ini diselimuti aura ungu gelap dengan langit yang terus disambar petir guntur abadi. Di tengahnya menjulang gunung berapi purba kolosal yang memuntahkan lahar ungu murni. Pulau ini menyimpan artefak pemicu kiamat (*Void Crystal*) dan entitas purba yang tak tertulis di catatan sejarah resmi.
+* **Kerajaan Suci Avalerion:** Berada di bawah pendaran cahaya suci yang tak pernah disentuh oleh bayang-bayang kegelapan. Ibu kota agung ini adalah pusat peradaban yang berpegang teguh pada doktrin mutlak Cahaya, rumah bagi akademi *Pawiyatan Prabha Suci*, dewan hakim tertinggi, serta ribuan pasukan elit *Holy Knight* dan *Paladin*.
 
 ### 2. Hierarki Agung (Struktur Kehidupan)
 Segala sesuatu di Nusvanir tunduk pada tatanan kosmik. Dari entitas pencipta hingga makhluk paling fana, hierarki ini menentukan kekuatan, tugas, dan takdir mereka.
@@ -34,15 +35,16 @@ Segala sesuatu di Nusvanir tunduk pada tatanan kosmik. Dari entitas pencipta hin
 * **Sang Hyang Cahaya:** Dewa awal, pencipta terang dan kehidupan.
 * **Kala Laksana:** Entitas yang mengatur jalannya waktu dan takdir di seluruh kosmos.
 
-**Tingkat Entitas Primordial:**
+**Tingkat Entitas Primordial & Pemusnah (Doomsday):**
 * **Dewantara (Angel):** Malaikat agung ciptaan awal Sang Hyang Cahaya yang ditugaskan menjaga kebijaksanaan dan hukum absolut dunia.
-* **Sangrahal (Demon Lord):** Pemimpin tertinggi ras iblis. Berkuasa di Raksamala, ia adalah penanda kehancuran besar dan perusak dunia.
+* **Sangrahal (Demon Lord):** Pemimpin tertinggi ras iblis. Berkuasa di istana kegelapan Raksamala, ia adalah penanda kehancuran besar, penagih hutang jiwa, dan perusak dunia fana.
+* **Uru:** Entitas raksasa berdimensi kosmik yang keberadaannya sengaja dihapus dari kitab *Purāṇakathā* resmi. Bersemayam di dasar pulau Thalantira, ia adalah ancaman mutlak pemicu kiamat (*Doomsday Entity*) yang terbuat dari teror absolut.
 
 **Tingkat Penjaga dan Penebar Ketakutan:**
 * **Dewathian (Guardian Angel):** Malaikat pelindung yang bertugas menjaga keutuhan Nusvanir dari invasi kegelapan.
 * **Langitara (Holy Spirit):** Makhluk suci penguasa langit yang memberikan berkah kepada pahlawan yang layak.
 * **Vriskapala (Nature Guardian):** Roh penjaga yang lahir dari pohon-pohon sakral, pelindung ekosistem liar.
-* **Bhuta (Arch Demon):** Makhluk bayangan panglima perang Dunia Bawah, penyebar teror dan penderitaan (bawahan Sangrahal).
+* **Bhuta (Arch Demon):** Makhluk bayangan panglima perang Dunia Bawah, penyebar teror dan penderitaan (bawahan mutlak Sangrahal). Contoh salah satu Bhuta terkuat adalah **Mamon**, sang Bhuta Keserakahan yang memanipulasi nafsu material manusia.
 
 **Tingkat Fana dan Ras Utama:**
 Ras-ras ini menghuni daratan Nusvanir dan terbagi menjadi beberapa kelompok besar:
@@ -59,9 +61,15 @@ Ras-ras ini menghuni daratan Nusvanir dan terbagi menjadi beberapa kelompok besa
 
 ---
 
-## BAB II: PERADABAN TENGAH (KERAJAAN MANDALA & POLITIK CANDRA NAWA)
+## BAB II: PERADABAN UTAMA (MANDALA & AVALERION)
 
-### 1. Jantung Peradaban Fana
+### 1. Kerajaan Suci Avalerion (Benteng Cahaya Mutlak)
+Peradaban paling absolut di Nusvanir, sebuah kerajaan raksasa yang terisolasi dari bayang-bayang kegelapan. Avalerion memegang doktrin hukum Sang Hyang Cahaya sebagai kebenaran tunggal dan mutlak di dunia.
+* **Pawiyatan Prabha Suci:** Institusi akademik tertinggi bagi para pendeta (Priest) dan cendekiawan agama yang bertugas menerjemahkan manuskrip kuno (termasuk kitab *Purāṇakathā*) dan merumuskan doktrin peradaban.
+* **Pasukan Ksatria Suci:** Avalerion memiliki ribuan *Holy Knight* dan *Paladin* berzirah perak murni yang menjadi kekuatan militer mutlak. Mereka sangat superior dan memandang ras fana lainnya rentan terhadap dosa.
+* **Hukum Pengasingan:** Sistem peradilan Avalerion tidak mengenal toleransi. Pahlawan sekalipun yang melanggar hukum suci tak akan dihukum mati, melainkan dilucuti dan diasingkan dari peradaban cahaya selama puluhan tahun tanpa pandang bulu.
+
+### 2. Jantung Peradaban Fana (Kerajaan Mandala)
 Terletak tepat di pusat geografi Nusvanir, **Kerajaan Mandala** berdiri sebagai benteng utama peradaban manusia (ras *Pribumi* dan *Wahanarsa*). Wilayah ini merupakan titik temu mutlak dari seluruh jalur politik, budaya, dan perdagangan antar-ras di dunia. 
 
 Secara strategis, Mandala dikaruniai perlindungan alami yang luar biasa. Di sisi utara, Pegunungan Arkananta yang megah berdiri kokoh menahan ancaman luar, sementara di sisi selatan dan timur, Laut Rangkaruna membuka akses gerbang perdagangan maritim yang luas.
@@ -74,7 +82,7 @@ Ibu Kota Mandala dibangun dengan arsitektur vertikal bertingkat, mengadopsi stru
 * **Lingkar Bumi:** Zona terluar dan terluas, menjadi rumah bagi para pedagang, pasar-pasar rakyat, dan distrik pemukiman rakyat jelata.
 
 Di luar ibu kota, kekuatan Mandala ditopang oleh empat kota cabang utama:
-* **Aqualis:** Kota pelabuhan utama yang menguasai perdagangan maritim.
+* **Aqualis:** Kota pelabuhan timur yang menguasai perdagangan maritim terbesar di seluruh Nusvanir. Kota ini merupakan titik temu para nelayan, peneliti teknologi kelautan, bar-bar petualang, serta markas operasi *Guild Dark Thorn*.
 * **Valkindra:** Pusat komando dan pertahanan militer garis depan.
 * **Arthiska:** Wilayah agraris subur yang menjadi lumbung pangan seluruh kerajaan.
 * **Hermindar:** Kota metropolitan yang berfungsi sebagai pusat sirkulasi ekonomi dan pasar bebas.
@@ -99,9 +107,11 @@ Kekuatan Kerajaan Mandala digerakkan oleh lima institusi besar yang memiliki fun
 
 * **Pasukan Garuda Kencana:** Ordo militer elite utama kerajaan. Mereka dilatih langsung oleh para *Demigod* dan menaruh penghormatan spiritual yang tinggi terhadap ras *Garuda*. Pasukan ini meyakini bahwa berkat dari Sang Garuda adalah kunci kemenangan mutlak di medan laga.
 * **Ksatrya Mandalagiri:** Pusat akademi militer terbesar di Nusvanir. Tempat ini adalah satu-satunya institusi di dunia yang memiliki teknologi simulasi pertarungan kuno, yang mampu merekam data pergerakan musuh untuk dipelajari guna merancang strategi penangkal yang sempurna.
-* **Gilda Arthapasa:** Lembaga sentral yang menaungi seluruh guild petualang di Mandala. Berperan sebagai jembatan aman antara masyarakat yang membutuhkan bantuan dengan para petualang yang mencari upah, memastikan setiap misi (*quest*) dan imbalan berjalan sesuai regulasi kerajaan.
-* **Loka Cakra:** Pusat penelitian sihir tingkat tinggi. Mengingat ras *Pribumi* dan *Wahanarsa* memiliki bakat magis alami yang paling lemah di antara ras lain, institusi ini memfokuskan seluruh risetnya untuk menciptakan teknologi alat bantu guna melipatgandakan potensi sihir manusia. Mereka adalah penemu pertama teknologi simulasi tempur yang digunakan oleh Ksatrya Mandalagiri.
-* **Dharma Surya Adhi:** Organisasi keagamaan independen terbesar yang memuja Agama Surya. Meski tidak memiliki ikatan struktural dengan pemerintahan kerajaan, basis pengikutnya yang masif membuat ordo ini mampu menyetir arah politik Mandala. Pemimpin tertingginya diyakini oleh para pengikut setia sebagai titisan langsung dari Sang Hyang Cahaya.
+* **Gilda Arthapasa:** Lembaga sentral yang menaungi seluruh guild petualang di Mandala. Berperan sebagai jembatan aman antara masyarakat yang membutuhkan bantuan dengan para petualang yang mencari upah.
+* **Guild Dark Thorn:** Sebuah serikat pembunuh bayaran (*Assassin* / *Rogue*) dan petualang bayangan yang sering menangani misi-misi mustahil bernilai fantastis. Memiliki jaringan kuat hingga ke pesisir Aqualis.
+* **Sindikat Cakrawala:** Organisasi ekonomi bawah tanah yang tak tersentuh hukum, dijalankan oleh broker informasi dan kolektor artefak langka bernama **Tuan Midas**. Sindikat ini memfasilitasi transaksi relik terlarang atau informasi rahasia dengan harga di luar nalar.
+* **Loka Cakra:** Pusat penelitian sihir tingkat tinggi bagi kelas elit seperti *Echomancer*. Mengingat ras manusia memiliki bakat magis yang lemah, institusi ini memfokuskan seluruh risetnya untuk melipatgandakan potensi sihir penggunanya.
+* **Dharma Surya Adhi:** Organisasi keagamaan independen terbesar yang memuja Agama Surya, mampu menyetir arah politik Mandala. Pemimpin tertingginya diyakini oleh para pengikut setia sebagai titisan langsung dari Sang Hyang Cahaya.
 
 ---
 
@@ -168,3 +178,4 @@ Para petualang yang menjelajahi Nusvanir mengumpulkan material dari alam dan mon
 
 **Barang Terlarang (Pasar Gelap):**
 * **Serpihan Kala Laksana:** Pecahan batu hitam misterius yang kadang terbawa arus ke Laut Rangkaruna. Benda ini sangat dilarang di Mandala, namun dijual dengan harga fantastis di pasar gelap wilayah Cakrawala karena dapat meningkatkan daya hancur senjata secara instan meskipun mengikis sukma penggunanya.
+* **Void Crystal:** Artefak kuno paling mematikan yang berasal dari inti Pulau Thalantira. Serpihan yang besarnya tak lebih dari sebiji jagung ini menyimpan esensi ancaman kiamat (*Doomsday*) yang bahkan bisa dijadikan tebusan mutlak atas nyawa dalam kontrak dengan iblis Sangrahal. Harganya di pasar gelap Tuan Midas dapat menembus 100.000 *Saka Kencana*, angka gila yang tak mungkin ditebus oleh rakyat fana.

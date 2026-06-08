@@ -6,7 +6,71 @@
 Repositori ini adalah pusat data untuk keseluruhan *world-building*, *lore*, basis data, dan jalan cerita dari proyek Nusvanir.
 Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* dan terorganisasi.
 
-## 📝 Log Pembaruan Terakhir (5 Juni 2026)
+## 🎨 Galeri Concept Art (Karakter & Lokasi)
+
+### Tokoh Utama
+<table>
+  <tr>
+    <td align="center">
+      <img src="Concept%20Art/Cassian_Priest.png" width="300px"><br>
+      <b>Cassian (Pra Prologue)</b>
+    </td>
+    <td align="center">
+      <img src="Concept%20Art/Cassian_Exile.png" width="300px"><br>
+      <b>Cassian (Post Prologue)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Concept%20Art/Hector_Paladin.png" width="300px"><br>
+      <b>Hector (Pra Prologue)</b>
+    </td>
+    <td align="center">
+      <img src="Concept%20Art/Hector_Death%20Knight.png" width="300px"><br>
+      <b>Hector (Post Prologue)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Concept%20Art/Jane_Rogue.png" width="300px"><br>
+      <b>Jane (Pra Prologue)</b>
+    </td>
+    <td align="center">
+      <img src="Concept%20Art/Jane_Wife.png" width="300px"><br>
+      <b>Jane (Post Prologue)</b>
+    </td>
+  </tr>
+</table>
+
+### Lokasi & Lanskap
+<table>
+  <tr>
+    <td align="center">
+      <img src="Concept%20Art/Aqualis%20City.png" width="600px"><br>
+      <b>Kota Aqualis</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Concept%20Art/Thalantira_Illusion%20Form.png" width="600px"><br>
+      <b>Thalantira (Wujud Ilusi Pra-Kehancuran)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Concept%20Art/Thalantira_Madness%20Form.png" width="600px"><br>
+      <b>Thalantira (Wujud Asli / Pulau Kutukan)</b>
+    </td>
+  </tr>
+</table>
+
+## 📝 Log Pembaruan Terakhir (8 Juni 2026)
+
+*   **Pembaruan Visual & Lore:**
+    *   Mengintegrasikan galeri *Concept Art* untuk tokoh utama (Cassian, Hector, Jane) dan lanskap (Aqualis, Thalantira) ke dalam halaman utama.
+    *   Memperbarui secara komprehensif `Kitab_Nusvanir_Kodex_Semesta.md` dengan menyuntikkan *lore* dari cerita Prologue (Avalerion, Uru, Mamon, Void Crystal, Guild Dark Thorn, Sindikat Cakrawala).
+
+## 📝 Log Pembaruan Sebelumnya (5 Juni 2026)
 
 *   **Penyederhanaan Prologue (Tales of The Dark Time):**
     *   Berhasil memadatkan dan merestrukturisasi 24 chapter Prologue awal menjadi 10 chapter utama yang jauh lebih padat dan bernuansa novel tanpa memotong inti cerita sedikit pun.

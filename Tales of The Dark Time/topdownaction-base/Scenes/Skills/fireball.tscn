@@ -1,6 +1,0 @@
-[gd_scene format=3 uid="uid://fireball123"]
-
-[ext_resource type="Script" path="res://Scripts/fireball.gd" id="1"]
-
-[node name="Fireball" type="Area2D"]
-script = ExtResource("1")

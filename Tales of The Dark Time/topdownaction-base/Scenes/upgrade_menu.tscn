@@ -1,0 +1,232 @@
+[gd_scene format=3 uid="uid://ds4a0wtpgjktt"]
+
+[ext_resource type="Script" uid="uid://br16oco52nw4m" path="res://Scripts/upgrade_menu.gd" id="1_menu"]
+
+[node name="UpgradeMenu" type="CanvasLayer" unique_id=703239466]
+process_mode = 3
+layer = 100
+script = ExtResource("1_menu")
+
+[node name="Panel" type="Panel" parent="." unique_id=238372664]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="Panel" unique_id=1231218345]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.85)
+
+[node name="BtnClose" type="Button" parent="Panel" unique_id=1144665506]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -150.0
+offset_top = 30.0
+offset_right = -30.0
+offset_bottom = 80.0
+grow_horizontal = 0
+theme_override_font_sizes/font_size = 20
+text = "X Tutup Menu"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Panel" unique_id=753286527]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -450.0
+offset_top = -250.0
+offset_right = 450.0
+offset_bottom = 250.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 40
+
+[node name="StatPanel" type="Panel" parent="Panel/HBoxContainer" unique_id=1926110289]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="VBox" type="VBoxContainer" parent="Panel/HBoxContainer/StatPanel" unique_id=727278753]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 30.0
+offset_top = 30.0
+offset_right = -30.0
+offset_bottom = -30.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 15
+
+[node name="LabelTitle" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=1431113825]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Stats"
+horizontal_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=1097775418]
+layout_mode = 2
+theme_override_constants/separation = 20
+
+[node name="RowSTR" type="HBoxContainer" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=349365704]
+layout_mode = 2
+
+[node name="LblName" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox/RowSTR" unique_id=1310351824]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 20
+text = "Strength"
+
+[node name="LblVal" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox/RowSTR" unique_id=2070416766]
+layout_mode = 2
+theme_override_font_sizes/font_size = 20
+text = "00"
+
+[node name="BtnUp" type="Button" parent="Panel/HBoxContainer/StatPanel/VBox/RowSTR" unique_id=912883501]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+text = "^"
+
+[node name="BtnDn" type="Button" parent="Panel/HBoxContainer/StatPanel/VBox/RowSTR" unique_id=84637512]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+text = "v"
+
+[node name="RowAGI" type="HBoxContainer" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=1123865572]
+layout_mode = 2
+
+[node name="LblName" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox/RowAGI" unique_id=349645933]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 20
+text = "Agility"
+
+[node name="LblVal" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox/RowAGI" unique_id=1136016623]
+layout_mode = 2
+theme_override_font_sizes/font_size = 20
+text = "00"
+
+[node name="BtnUp" type="Button" parent="Panel/HBoxContainer/StatPanel/VBox/RowAGI" unique_id=159795142]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+text = "^"
+
+[node name="BtnDn" type="Button" parent="Panel/HBoxContainer/StatPanel/VBox/RowAGI" unique_id=91959226]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+text = "v"
+
+[node name="RowVIT" type="HBoxContainer" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=1167099039]
+layout_mode = 2
+
+[node name="LblName" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox/RowVIT" unique_id=720393093]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 20
+text = "Vitality"
+
+[node name="LblVal" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox/RowVIT" unique_id=58080465]
+layout_mode = 2
+theme_override_font_sizes/font_size = 20
+text = "00"
+
+[node name="BtnUp" type="Button" parent="Panel/HBoxContainer/StatPanel/VBox/RowVIT" unique_id=845744183]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+text = "^"
+
+[node name="BtnDn" type="Button" parent="Panel/HBoxContainer/StatPanel/VBox/RowVIT" unique_id=1307106122]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+text = "v"
+
+[node name="Spacer" type="Control" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=1919200055]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="HSeparator2" type="HSeparator" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=684031515]
+layout_mode = 2
+theme_override_constants/separation = 20
+
+[node name="PointsRow" type="HBoxContainer" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=1875029819]
+layout_mode = 2
+
+[node name="LblText" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox/PointsRow" unique_id=392140146]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 24
+text = "Stat Points"
+
+[node name="LblPoints" type="Label" parent="Panel/HBoxContainer/StatPanel/VBox/PointsRow" unique_id=1195933892]
+layout_mode = 2
+theme_override_font_sizes/font_size = 24
+text = "00"
+
+[node name="BtnConfirm" type="Button" parent="Panel/HBoxContainer/StatPanel/VBox" unique_id=792608177]
+custom_minimum_size = Vector2(0, 50)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.18, 1, 0.44, 1)
+theme_override_font_sizes/font_size = 20
+text = "CONFIRM STATS"
+
+[node name="ShopPanel" type="Panel" parent="Panel/HBoxContainer" unique_id=34011295]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="VBox" type="VBoxContainer" parent="Panel/HBoxContainer/ShopPanel" unique_id=1854085920]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 30.0
+offset_top = 30.0
+offset_right = -30.0
+offset_bottom = -30.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 15
+
+[node name="LabelTitle" type="Label" parent="Panel/HBoxContainer/ShopPanel/VBox" unique_id=94560071]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Toko Buff"
+horizontal_alignment = 1
+
+[node name="LblCoins" type="Label" parent="Panel/HBoxContainer/ShopPanel/VBox" unique_id=489061087]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.84, 0, 1)
+theme_override_font_sizes/font_size = 20
+text = "Koin Anda: 0"
+horizontal_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="Panel/HBoxContainer/ShopPanel/VBox" unique_id=1029756926]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="ShopBtn1" type="Button" parent="Panel/HBoxContainer/ShopPanel/VBox" unique_id=897960043]
+layout_mode = 2
+size_flags_vertical = 3
+text = "Buff 1"
+autowrap_mode = 3
+
+[node name="ShopBtn2" type="Button" parent="Panel/HBoxContainer/ShopPanel/VBox" unique_id=486142650]
+layout_mode = 2
+size_flags_vertical = 3
+text = "Buff 2"
+autowrap_mode = 3
+
+[node name="ShopBtn3" type="Button" parent="Panel/HBoxContainer/ShopPanel/VBox" unique_id=1090700253]
+layout_mode = 2
+size_flags_vertical = 3
+text = "Buff 3"
+autowrap_mode = 3

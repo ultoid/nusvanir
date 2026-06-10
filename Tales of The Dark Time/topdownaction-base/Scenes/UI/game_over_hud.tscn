@@ -1,0 +1,176 @@
+[gd_scene format=3 uid="uid://cotd8m1mh4jv8"]
+
+[ext_resource type="Script" path="res://Scripts/game_over_hud.gd" id="1_37p78"]
+
+[node name="GameOverHUD" type="CanvasLayer" unique_id=576414922]
+script = ExtResource("1_37p78")
+
+[node name="HealthBar" type="ProgressBar" parent="." unique_id=653785818]
+offset_left = 25.0
+offset_top = 21.0
+offset_right = 325.0
+offset_bottom = 48.0
+show_percentage = false
+
+[node name="GameOverPanel" type="Panel" parent="." unique_id=676984308]
+offset_left = 373.0
+offset_top = 204.0
+offset_right = 876.0
+offset_bottom = 503.0
+
+[node name="Label" type="Label" parent="GameOverPanel" unique_id=962868788]
+layout_mode = 0
+offset_left = 200.0
+offset_top = 10.0
+offset_right = 292.0
+offset_bottom = 33.0
+text = "GAME OVER"
+
+[node name="Button" type="Button" parent="GameOverPanel" unique_id=329382499]
+layout_mode = 0
+offset_left = 208.0
+offset_top = 249.0
+offset_right = 285.0
+offset_bottom = 280.0
+text = "try again"
+
+[node name="SummaryLabel" type="Label" parent="GameOverPanel" unique_id=1523292465]
+layout_mode = 0
+offset_left = 50.0
+offset_top = 56.0
+offset_right = 450.0
+offset_bottom = 136.0
+theme_override_font_sizes/font_size = 18
+text = "Summary"
+horizontal_alignment = 1
+
+[node name="CoinLabel" type="Label" parent="." unique_id=118615050]
+offset_left = 28.0
+offset_top = 97.0
+offset_right = 68.0
+offset_bottom = 120.0
+text = "0"
+
+[node name="ExpBar" type="ProgressBar" parent="." unique_id=804583670]
+offset_left = 4.0
+offset_top = 708.0
+offset_right = 1272.0
+offset_bottom = 720.0
+show_percentage = false
+
+[node name="LevelLabel" type="Label" parent="." unique_id=811849262]
+offset_left = 12.0
+offset_top = 679.0
+offset_right = 52.0
+offset_bottom = 702.0
+text = "Lv.1"
+
+[node name="BtnOpenMenu" type="Button" parent="." unique_id=468318704]
+offset_left = 1050.0
+offset_top = 20.0
+offset_right = 1250.0
+offset_bottom = 60.0
+text = "Buka Menu Karakter"
+
+[node name="BossHealthBar" type="ProgressBar" parent="." unique_id=309379391]
+modulate = Color(1, 0, 0, 1)
+offset_left = 353.0
+offset_top = 53.0
+offset_right = 921.0
+offset_bottom = 83.0
+show_percentage = false
+
+[node name="BossNameLabel" type="Label" parent="." unique_id=3343746]
+offset_left = 355.0
+offset_top = 26.0
+offset_right = 921.0
+offset_bottom = 49.0
+text = "RAJA TENGKORAK"
+horizontal_alignment = 1
+
+[node name="DashIcon" type="ColorRect" parent="." unique_id=1558654909]
+offset_left = 598.0
+offset_top = 646.0
+offset_right = 648.0
+offset_bottom = 696.0
+color = Color(0.2, 0.6, 1, 1)
+
+[node name="DashLabel" type="Label" parent="DashIcon" unique_id=697324440]
+layout_mode = 0
+offset_top = 15.0
+offset_right = 50.0
+offset_bottom = 38.0
+text = "DASH"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="DashCooldown" type="ColorRect" parent="DashIcon" unique_id=356231787]
+layout_mode = 0
+offset_right = 50.0
+offset_bottom = 50.0
+color = Color(0, 0, 0, 0.7)
+
+[node name="PotionIcon" type="ColorRect" parent="." unique_id=1965163340]
+offset_left = 532.0
+offset_top = 645.0
+offset_right = 582.0
+offset_bottom = 695.0
+color = Color(0.2, 0.8, 0.2, 1)
+
+[node name="PotionLabel" type="Label" parent="PotionIcon" unique_id=1478694723]
+layout_mode = 0
+offset_top = 5.0
+offset_right = 50.0
+offset_bottom = 28.0
+text = "POTION"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="PotionCount" type="Label" parent="PotionIcon" unique_id=637533002]
+layout_mode = 0
+offset_top = 25.0
+offset_right = 50.0
+offset_bottom = 48.0
+text = "x0 (C)"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="EnergyBar" type="ProgressBar" parent="." unique_id=1195285594]
+modulate = Color(1, 1, 0, 1)
+offset_left = 25.0
+offset_top = 52.0
+offset_right = 325.0
+offset_bottom = 65.0
+show_percentage = false
+
+[node name="HeavyIcon" type="ColorRect" parent="." unique_id=2061454745]
+offset_left = 661.0
+offset_top = 646.0
+offset_right = 711.0
+offset_bottom = 696.0
+color = Color(1, 0.4, 0, 1)
+
+[node name="HeavyLabel" type="Label" parent="HeavyIcon" unique_id=1702916513]
+layout_mode = 0
+offset_top = 15.0
+offset_right = 50.0
+offset_bottom = 38.0
+text = "HVY"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HeavyCooldown" type="ColorRect" parent="HeavyIcon" unique_id=1844482661]
+layout_mode = 0
+offset_right = 50.0
+offset_bottom = 50.0
+color = Color(0, 0, 0, 0.7)
+
+[node name="ManaBar" type="ProgressBar" parent="." unique_id=1552760517]
+modulate = Color(0, 0.5, 1, 1)
+offset_left = 25.0
+offset_top = 68.0
+offset_right = 325.0
+offset_bottom = 81.0
+show_percentage = false
+
+[connection signal="pressed" from="GameOverPanel/Button" to="." method="_on_restart_button_pressed"]

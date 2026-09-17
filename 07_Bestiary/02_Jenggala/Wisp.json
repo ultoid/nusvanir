@@ -1,12 +1,313 @@
-﻿{
-    "description":  "Api hantu penyesat jalan (Kemamang).",
-    "id":  "Wisp",
-    "mp":  1000,
-    "weakness":  "Air",
-    "category":  "Bestiary",
-    "element":  "Api",
-    "location":  "Rawa Berkabut",
-    "hp":  600,
-    "title":  "Wisp",
-    "attack_type":  "Magic"
+{
+  "description": "Api hantu penyesat jalan (Kemamang).",
+  "id": "Wisp",
+  "mp": 1000,
+  "weakness": "Air",
+  "category": "Bestiary",
+  "element": "Api",
+  "location": "Rawa Berkabut",
+  "hp": 600,
+  "title": "Wisp",
+  "attack_type": "Magic",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/02_Jenggala/Wisp.md",
+    "game_data_source": "07_Bestiary/02_Jenggala/Wisp.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "aku setuju semua usulannya",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+      "exclusions": "Kalibrasi game dan jawaban atas pertanyaan yang tidak pernah diusulkan tetap terpisah.",
+      "source": "07_Bestiary/02_Jenggala/Wisp.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_jenggala_narrative.json",
+    "sources": [
+      "03_Region/01_Mandala Kingdom/Cities & Town/Valkindra.md"
+    ],
+    "unresolved": [
+      "Region rawa dan asal Wisp belum pasti; hubungan pertumbuhan dengan Pyrowisp tidak ditetapkan."
+    ],
+    "category_note": "Jenggala is the retained folder category; no universal species/origin inferred.",
+    "historical_description": "Api hantu penyesat jalan (Kemamang).",
+    "approval_record": "07_Bestiary/_audit/jenggala_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 30,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 449
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 450
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 451
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 282,
+          "denominator": 2,
+          "kind": 1
+        },
+        {
+          "dataId": 283,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 40,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 2,
+          "value": 1
+        },
+        {
+          "code": 22,
+          "dataId": 1,
+          "value": 0.05
+        },
+        {
+          "code": 11,
+          "dataId": 2,
+          "value": 0.5
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 1.5
+        },
+        {
+          "code": 13,
+          "dataId": 5,
+          "value": 0
+        },
+        {
+          "code": 23,
+          "dataId": 7,
+          "value": 0.95
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 15,
+      "name": "Wisp",
+      "note": "<NUSV Bestiary Group: Jenggala>\n<NUSV Enemy Rank: Normal>\n<NUSV Enemy Type: Spirit>\n<NUSV Archetype: Mage>\n<NUSV Tier: T2>\n<NUSV Region: Rawa Berkabut>\n<NUSV Element: Fire>\n<NUSV Weakness: Water>\n<NUSV Combat Tags: Flying, Burning, Caster>\n<NUSV Attack Type: Magic>\n[ACTION CONDITION NOTE] Wisp Pulse: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        198,
+        26,
+        20,
+        17,
+        31,
+        20,
+        22,
+        14
+      ]
+    },
+    "skills": [
+      {
+        "id": 449,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 2,
+          "formula": "a.mat * 1.15 - b.mdf * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Wisp.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Spirit Flame",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 450,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 2,
+          "formula": "a.mat * 1.45 - b.mdf * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Wisp.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Wisp Pulse",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 451,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 2,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Wisp.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Flickering Burst",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 282,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Debu spiritual yang tersisa setelah Wisp menghilang.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Dust",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Spirit Remnant>\n<NUSV Rarity: Common>\n<NUSV Source: Wisp>\n<NUSV Region: Jenggala>",
+          "occasion": 3,
+          "price": 25,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 283,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Inti cahaya spiritual milik Wisp.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Wisp Core",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Spirit Core>\n<NUSV Rarity: Uncommon>\n<NUSV Source: Wisp>\n<NUSV Region: Jenggala>",
+          "occasion": 3,
+          "price": 80,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }

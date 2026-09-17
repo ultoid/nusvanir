@@ -1,0 +1,16 @@
+{
+  "approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah empat Sentinel Nusa Sayendra.",
+    "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah."
+  },
+  "approved_markdown_sha256": {
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Jatayu.md": "ea0a8bffb010761b5a7397b60ac06dc3874e119cb305879c9ecc93a3f31f891e",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Paksi.md": "3d39ba3526f04fc49a85fce79207885049d40ba0851768c62cadde51caa9beaa",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Sempati.md": "62e0673e44f9a97d4b522158e35a056f49b78dcdc8accdcb26825ed464b44938",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Suparna.md": "6e3d827a0abc864c03671be8e9d97d1861be28c509524de0840ea1595725eb3c"
+  }
+}

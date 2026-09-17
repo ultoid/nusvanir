@@ -1,0 +1,173 @@
+{
+  "errors": [],
+  "entries": [
+    {
+      "id": "Ahool",
+      "words": 296,
+      "runtime_id": 16,
+      "unresolved": [
+        "Mekanisme wabah belum ditentukan; tidak menambah state penyakit."
+      ]
+    },
+    {
+      "id": "Banshee",
+      "words": 284,
+      "runtime_id": 17,
+      "unresolved": [
+        "Hubungan Banshee/Kuntilanak dengan Dhemit belum diputuskan."
+      ]
+    },
+    {
+      "id": "Direboar",
+      "words": 296,
+      "runtime_id": 18,
+      "unresolved": [
+        "Hutan Bayangan belum terpetakan; asal transformasi Celeng Ngepet belum ditetapkan."
+      ]
+    },
+    {
+      "id": "Goblin",
+      "words": 286,
+      "runtime_id": 19,
+      "unresolved": [
+        "Penempatan gua Arkananta disetujui; Ebu Gogo dipertahankan sebagai alias, bukan ras baru."
+      ]
+    },
+    {
+      "id": "Gondarwa",
+      "words": 291,
+      "runtime_id": 20,
+      "unresolved": [
+        "Asal spesies, diet, dan hubungan dengan Hanorok belum ditetapkan."
+      ]
+    },
+    {
+      "id": "Gremlin",
+      "words": 285,
+      "runtime_id": 21,
+      "unresolved": [
+        "Majikan, asal, dan mekanisme pencurian supernatural belum ditetapkan."
+      ]
+    },
+    {
+      "id": "Homunculus",
+      "words": 294,
+      "runtime_id": 22,
+      "unresolved": [
+        "Asal penciptaan, ritual, dan metode pemurnian belum dipastikan."
+      ]
+    },
+    {
+      "id": "Leyak",
+      "words": 277,
+      "runtime_id": 23,
+      "unresolved": [
+        "Pulau Asrivana belum terpetakan; hubungan Leyak dengan ras/Dhemit tidak diputuskan."
+      ]
+    },
+    {
+      "id": "Lycan",
+      "words": 276,
+      "runtime_id": 24,
+      "unresolved": [
+        "Letak Gunung Emas, asal manusia-harimau dan aturan transformasi belum ditetapkan."
+      ]
+    },
+    {
+      "id": "Ogre",
+      "words": 298,
+      "runtime_id": 25,
+      "unresolved": [
+        "Gunung Bebatuan belum terpetakan; Ogre tidak disatukan dengan Butoraksa/Troliogoro."
+      ]
+    },
+    {
+      "id": "Pyrowisp",
+      "words": 284,
+      "runtime_id": 26,
+      "unresolved": [
+        "Rawa Kering belum terpetakan; asal dan hubungan dengan Wisp belum ditetapkan."
+      ]
+    },
+    {
+      "id": "Strigoi",
+      "words": 286,
+      "runtime_id": 27,
+      "unresolved": [
+        "Asal Kuyang, rincian transformasi dan hubungan dengan Dhemit belum diputuskan."
+      ]
+    },
+    {
+      "id": "Wendigo",
+      "words": 292,
+      "runtime_id": 28,
+      "unresolved": [
+        "Mekanisme cekikan dan komando/faksi khusus belum dipastikan."
+      ]
+    },
+    {
+      "id": "Wight",
+      "words": 302,
+      "runtime_id": 29,
+      "unresolved": [
+        "Folder Jenggala dipertahankan sebagai kategori arsip; bukan redefinisi Wight sebagai ras Jenggala."
+      ]
+    },
+    {
+      "id": "Wisp",
+      "words": 294,
+      "runtime_id": 30,
+      "unresolved": [
+        "Region rawa dan asal Wisp belum pasti; hubungan pertumbuhan dengan Pyrowisp tidak ditetapkan."
+      ]
+    }
+  ],
+  "changed_baseline_files": [
+    "07_Bestiary/BESTIARY_REWORK_AUDIT.md",
+    "07_Bestiary/BESTIARY_REWORK_CHANGELOG.md",
+    "07_Bestiary/BESTIARY_STANDARD_V2.md",
+    "07_Bestiary/02_Jenggala/Ahool.json",
+    "07_Bestiary/02_Jenggala/Ahool.md",
+    "07_Bestiary/02_Jenggala/Banshee.json",
+    "07_Bestiary/02_Jenggala/Banshee.md",
+    "07_Bestiary/02_Jenggala/Direboar.json",
+    "07_Bestiary/02_Jenggala/Direboar.md",
+    "07_Bestiary/02_Jenggala/Goblin.json",
+    "07_Bestiary/02_Jenggala/Goblin.md",
+    "07_Bestiary/02_Jenggala/Gondarwa.json",
+    "07_Bestiary/02_Jenggala/Gondarwa.md",
+    "07_Bestiary/02_Jenggala/Gremlin.json",
+    "07_Bestiary/02_Jenggala/Gremlin.md",
+    "07_Bestiary/02_Jenggala/Homunculus.json",
+    "07_Bestiary/02_Jenggala/Homunculus.md",
+    "07_Bestiary/02_Jenggala/Leyak.json",
+    "07_Bestiary/02_Jenggala/Leyak.md",
+    "07_Bestiary/02_Jenggala/Lycan.json",
+    "07_Bestiary/02_Jenggala/Lycan.md",
+    "07_Bestiary/02_Jenggala/Ogre.json",
+    "07_Bestiary/02_Jenggala/Ogre.md",
+    "07_Bestiary/02_Jenggala/Pyrowisp.json",
+    "07_Bestiary/02_Jenggala/Pyrowisp.md",
+    "07_Bestiary/02_Jenggala/Strigoi.json",
+    "07_Bestiary/02_Jenggala/Strigoi.md",
+    "07_Bestiary/02_Jenggala/Wendigo.json",
+    "07_Bestiary/02_Jenggala/Wendigo.md",
+    "07_Bestiary/02_Jenggala/Wight.json",
+    "07_Bestiary/02_Jenggala/Wight.md",
+    "07_Bestiary/02_Jenggala/Wisp.json",
+    "07_Bestiary/02_Jenggala/Wisp.md",
+    "tools/bestiary_audit.py",
+    "tools/verify_bestiary_workspace.py"
+  ],
+  "scope": "15 narrative/data pairs; original fields, sources, runtime references, and outside-batch preservation",
+  "balance_simulation": null,
+  "playtest": null,
+  "new_narrative_approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "aku setuju semua usulannya",
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+    "exclusions": "Kalibrasi game dan jawaban atas pertanyaan yang tidak pernah diusulkan tetap terpisah."
+  }
+}

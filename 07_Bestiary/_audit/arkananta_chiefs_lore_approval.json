@@ -1,0 +1,15 @@
+{
+  "approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah tiga kepala suku Arkananta.",
+    "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah."
+  },
+  "approved_markdown_sha256": {
+    "07_Bestiary/06_Chiefs_of_Arkananta/Grok_Tulang_Besi.md": "9ed4dddfe8775f36961b127b6e62825ba4ab800093740ecf4c3c5acf3bbeaa74",
+    "07_Bestiary/06_Chiefs_of_Arkananta/Krom_Batugilang.md": "65d17543e781f3235a9d898f3201faf508acb1e7d37201c55b8915b83803da10",
+    "07_Bestiary/06_Chiefs_of_Arkananta/Nyai_Larasati.md": "c5dd41c072815d006157fc3e3edbf20e8af25b219aa870d3f4cbcde2ae92e7ec"
+  }
+}

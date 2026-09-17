@@ -1,0 +1,64 @@
+{
+  "errors": [],
+  "entries": [
+    {
+      "id": "Ksatria_Aqua",
+      "words": 384,
+      "runtime_id": 49,
+      "unresolved": [
+        "Penempatan Aqua di Tirta disetujui. Identitas komandan dan pemetaan pos barat belum dipastikan; angka runtime dan legacy tetap terpisah."
+      ]
+    },
+    {
+      "id": "Ksatria_Solarius",
+      "words": 382,
+      "runtime_id": 50,
+      "unresolved": [
+        "Penempatan Solarius di Agni disetujui. Identitas komandan dan arah timur belum dikonfirmasi; api suci bukan aturan damage universal."
+      ]
+    },
+    {
+      "id": "Ksatria_Terra",
+      "words": 384,
+      "runtime_id": 51,
+      "unresolved": [
+        "Penempatan Terra di Bumi disetujui. Asal kulit batu, identitas komandan, dan arah utara belum ditetapkan; tidak membuat immunity baru."
+      ]
+    },
+    {
+      "id": "Ksatria_Vayu",
+      "words": 376,
+      "runtime_id": 52,
+      "unresolved": [
+        "Penempatan Vayu di Bayu disetujui. MD lama menyebut Dragoon Tier 4, JSON Windrunner Tier 3; konflik kelas, identitas komandan, dan arah selatan belum diputuskan."
+      ]
+    }
+  ],
+  "changed_baseline_files": [
+    "07_Bestiary/BESTIARY_REWORK_AUDIT.md",
+    "07_Bestiary/BESTIARY_REWORK_CHANGELOG.md",
+    "07_Bestiary/BESTIARY_STANDARD_V2.md",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Aqua.json",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Aqua.md",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Solarius.json",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Solarius.md",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Terra.json",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Terra.md",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Vayu.json",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Vayu.md",
+    "tools/rework_avalerion_lore.py",
+    "tools/verify_avalerion_lore.py",
+    "tools/verify_bestiary_workspace.py"
+  ],
+  "scope": "4 narrative/data pairs; original fields, sources, runtime references, and outside-batch preservation",
+  "balance_simulation": null,
+  "playtest": null,
+  "new_narrative_approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "untuk usulan aku setujui semua",
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi benteng, dan kisah empat penjaga Avalerion; race Asevari mengikuti permintaan pemilik.",
+    "exclusions": "Kalibrasi game, konflik kelas Vayu, identitas komandan, dan pemetaan arah lama tetap belum diputuskan. Persetujuan ini tidak mencakup batch Thalantira."
+  }
+}

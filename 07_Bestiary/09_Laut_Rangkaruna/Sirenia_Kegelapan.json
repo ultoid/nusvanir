@@ -1,4 +1,19 @@
 {
+  "Kategori": "09 Laut Rangkaruna",
+  "Elemen": "Kegelapan/Mental",
+  "Kelemahan": "Cahaya",
+  "Tipe Serangan": "Magic",
+  "HP": 25000,
+  "MP": 80000,
+  "Spawn Location": "Karang Berkabut Rangkaruna",
+  "id": "Sirenia_Kegelapan",
+  "title": "Sirenia Kegelapan",
+  "category": "Bestiary",
+  "description": "Makhluk abyssal setengah perempuan dan setengah ikan yang bernyanyi dari balik kabut.",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "legacy_values": {
     "Kategori": "09 Laut Rangkaruna",
     "Elemen": "Kegelapan/Mental",
     "Kelemahan": "Cahaya",
@@ -6,4 +21,317 @@
     "HP": 25000,
     "MP": 80000,
     "Spawn Location": "Karang Berkabut Rangkaruna"
+  },
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/09_Laut_Rangkaruna/Sirenia_Kegelapan.md",
+    "game_data_source": "07_Bestiary/09_Laut_Rangkaruna/Sirenia_Kegelapan.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/09_Laut_Rangkaruna/Sirenia_Kegelapan.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_rangkaruna_narrative.json",
+    "sources": [
+      "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
+      "02_World/Laut_Rangkaruna.md",
+      "08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md"
+    ],
+    "unresolved": [
+      "Kisah merangkum Prologue. Hubungan dengan siren Thalantira dan mekanisme mental belum ditetapkan."
+    ],
+    "category_note": "Rangkaruna fauna; no automatic relation to similarly named Thalantira creatures.",
+    "historical_description": null,
+    "approval_record": "07_Bestiary/_audit/rangkaruna_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 79,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 542
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 543
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 544
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 84,
+          "denominator": 6,
+          "kind": 1
+        },
+        {
+          "dataId": 96,
+          "denominator": 7,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 1120,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 0.75
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.25
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.5
+        },
+        {
+          "code": 23,
+          "dataId": 7,
+          "value": 0.95
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 300,
+      "name": "Sirenia Kegelapan",
+      "note": "<NUSV Bestiary Group: Laut Rangkaruna>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Aquatic>\n<NUSV Archetype: Controller>\n<NUSV Tier: T7>\n<NUSV Region: Laut Rangkaruna>\n<NUSV Element: Water/Dark>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Aquatic, Caster, Sonic, Corrupted>\n<NUSV Attack Type: Magic>\n[PENDING ATTACK ELEMENT] Water/Dark\n[ACTION CONDITION NOTE] Abyssal Lure: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Kala Crystal: source 18% -> MV 1/6 = 16.67%\n[DROP RATE APPROX] Spirit Thread: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        3610,
+        214,
+        138,
+        131,
+        183,
+        142,
+        86,
+        66
+      ]
+    },
+    "skills": [
+      {
+        "id": 542,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.15 - b.mdf * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Sirenia Kegelapan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 16,
+            "value1": 0.35,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Dark Siren Song",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 543,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.45 - b.mdf * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Sirenia Kegelapan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 10,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Abyssal Lure",
+        "note": "[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_BuffsStatesCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 544,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Sirenia Kegelapan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 16,
+            "value1": 0.35,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Drowning Dirge",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 84,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal kegelapan pekat yang menjadi salah satu bahan forge tingkat tinggi.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Kala Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Elemental Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Demon Commanders>\n<NUSV Region: Raksamala; Raksamala Fortress>\n[REMARKS] Material Tier 7.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 96,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Thread carrying spiritual resonance. Material Tier 7.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Thread",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Fiber>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Tirta Amarta>\n[REMARKS] Material Tier 7.",
+          "occasion": 3,
+          "price": 15000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "legacy_note": "Original object preserved in legacy_values; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null
+  }
 }

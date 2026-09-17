@@ -1,12 +1,354 @@
-﻿{
-    "description":  "Raksasa ramping menjulang (Begu Ganjang) yang bisa mencekik dari jauh.",
-    "id":  "Wendigo",
-    "mp":  600,
-    "weakness":  "Cahaya",
-    "category":  "Bestiary",
-    "element":  "Kegelapan",
-    "location":  "Puncak Bukit Raksamala",
-    "hp":  3100,
-    "title":  "Wendigo",
-    "attack_type":  "Melee"
+{
+  "description": "Raksasa ramping menjulang (Begu Ganjang) yang bisa mencekik dari jauh.",
+  "id": "Wendigo",
+  "mp": 48,
+  "weakness": "Light",
+  "category": "Bestiary",
+  "element": "Dark",
+  "location": "Puncak Bukit Raksamala",
+  "hp": 2420,
+  "title": "Wendigo",
+  "attack_type": "Melee",
+  "rank": "Mini Boss",
+  "tier": "T4",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "verified_source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+  "legacy_values": {
+    "hp": 3100,
+    "mp": 600,
+    "element": "Kegelapan",
+    "weakness": "Cahaya",
+    "attack_type": "Melee",
+    "location": "Puncak Bukit Raksamala"
+  },
+  "runtime_values": {
+    "hp": 2420,
+    "mp": 48,
+    "element": "Dark",
+    "weakness": "Light",
+    "attack_type": "Melee",
+    "region": "Puncak Bukit Raksamala"
+  },
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/02_Jenggala/Wendigo.md",
+    "game_data_source": "07_Bestiary/02_Jenggala/Wendigo.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "aku setuju semua usulannya",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+      "exclusions": "Kalibrasi game dan jawaban atas pertanyaan yang tidak pernah diusulkan tetap terpisah.",
+      "source": "07_Bestiary/02_Jenggala/Wendigo.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_jenggala_narrative.json",
+    "sources": [
+      "02_World/Raksamala.md"
+    ],
+    "unresolved": [
+      "Mekanisme cekikan dan komando/faksi khusus belum dipastikan."
+    ],
+    "category_note": "Jenggala is the retained folder category; no universal species/origin inferred.",
+    "historical_description": "Raksasa ramping menjulang (Begu Ganjang) yang bisa mencekik dari jauh.",
+    "approval_record": "07_Bestiary/_audit/jenggala_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 28,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 443
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 444
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 445
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 99,
+          "denominator": 2,
+          "kind": 1
+        },
+        {
+          "dataId": 90,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 520,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 11,
+          "value": 1
+        },
+        {
+          "code": 21,
+          "dataId": 2,
+          "value": 1.1
+        },
+        {
+          "code": 21,
+          "dataId": 3,
+          "value": 0.95
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 0.75
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.7
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.7
+        },
+        {
+          "code": 13,
+          "dataId": 17,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.7
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 160,
+      "name": "Wendigo",
+      "note": "<NUSV Bestiary Group: Jenggala>\n<NUSV Enemy Rank: Mini Boss>\n<NUSV Enemy Type: Jenggala>\n<NUSV Archetype: Berserker>\n<NUSV Tier: T4>\n<NUSV Region: Puncak Bukit Raksamala>\n<NUSV Element: Dark>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Large, Frenzy, Corrupted>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Hunger Howl: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Beast Bone: source 40% -> MV 1/2 = 50.00%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        2420,
+        48,
+        98,
+        51,
+        48,
+        47,
+        44,
+        30
+      ]
+    },
+    "skills": [
+      {
+        "id": 443,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 7,
+          "formula": "a.atk * 1.15 - b.def * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Wendigo.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 12,
+            "value1": 0.5,
+            "value2": 0
+          }
+        ],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Frosted Claw",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 444,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Enemy skill used by Wendigo.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Hunger Howl",
+        "note": "[CUSTOM SKILL EFFECT] Apply offensive/mobility buff appropriate to the enemy.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 445,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Enemy skill used by Wendigo.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Wendigo Frenzy",
+        "note": "[CUSTOM SKILL EFFECT] Apply offensive/mobility buff appropriate to the enemy.; Signature/high-power action\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 99,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Tulang monster umum yang digunakan untuk crafting dasar dan ritual.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Beast Bone",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Bone>\n<NUSV Rarity: Common>\n<NUSV Source: Gathering / Monster Drop / Exploration; Various Monsters>\n<NUSV Region: Wild Beasts; Various>\n[REMARKS] Material Tier 1.; Digunakan pada recipe Jenggala Charm.",
+          "occasion": 3,
+          "price": 25,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 90,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kain kematian yang tertinggal dari Wight.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Wight Shroud",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Spirit Remnant>\n<NUSV Rarity: Uncommon>\n<NUSV Source: Gathering / Monster Drop / Exploration; Wight>\n<NUSV Region: Wight / Pocong; Jenggala>\n[REMARKS] Material Tier 2.",
+          "occasion": 3,
+          "price": 80,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": "VERIFIED",
+      "balance_status": "VERIFIED",
+      "source_status": "runtime_game_data"
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }

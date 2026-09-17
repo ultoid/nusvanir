@@ -1,12 +1,323 @@
-﻿{
-    "description":  "Manusia harimau beraura petir (Cindaku).",
-    "id":  "Lycan",
-    "mp":  1200,
-    "weakness":  "Es",
-    "category":  "Bestiary",
-    "element":  "Listrik",
-    "location":  "Lereng Gunung Emas",
-    "hp":  3800,
-    "title":  "Lycan",
-    "attack_type":  "Melee"
+{
+  "description": "Manusia harimau beraura petir (Cindaku).",
+  "id": "Lycan",
+  "mp": 1200,
+  "weakness": "Es",
+  "category": "Bestiary",
+  "element": "Listrik",
+  "location": "Lereng Gunung Emas",
+  "hp": 3800,
+  "title": "Lycan",
+  "attack_type": "Melee",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/02_Jenggala/Lycan.md",
+    "game_data_source": "07_Bestiary/02_Jenggala/Lycan.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "aku setuju semua usulannya",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+      "exclusions": "Kalibrasi game dan jawaban atas pertanyaan yang tidak pernah diusulkan tetap terpisah.",
+      "source": "07_Bestiary/02_Jenggala/Lycan.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_jenggala_narrative.json",
+    "sources": [
+      "03_Region/05_Arkananta/Threat.md",
+      "03_Region/07_Nusa Sayendra/Cities & Town/Puncak Emas Swargaloka.md"
+    ],
+    "unresolved": [
+      "Letak Gunung Emas, asal manusia-harimau dan aturan transformasi belum ditetapkan."
+    ],
+    "category_note": "Jenggala is the retained folder category; no universal species/origin inferred.",
+    "historical_description": "Manusia harimau beraura petir (Cindaku).",
+    "approval_record": "07_Bestiary/_audit/jenggala_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 24,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 432
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 433
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 434
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 62,
+          "denominator": 2,
+          "kind": 1
+        },
+        {
+          "dataId": 100,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 150,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 6,
+          "value": 1
+        },
+        {
+          "code": 21,
+          "dataId": 2,
+          "value": 1.1
+        },
+        {
+          "code": 21,
+          "dataId": 3,
+          "value": 0.95
+        },
+        {
+          "code": 11,
+          "dataId": 7,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 0.75
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 50,
+      "name": "Lycan",
+      "note": "<NUSV Bestiary Group: Jenggala>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Jenggala>\n<NUSV Archetype: Fighter>\n<NUSV Tier: T3>\n<NUSV Region: Lereng Gunung Emas>\n<NUSV Element: Lightning>\n<NUSV Weakness: Ice>\n<NUSV Combat Tags: Frenzy, Lightning>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Savage Bite: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Lycan Hide: source 45% -> MV 1/2 = 50.00%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        714,
+        32,
+        56,
+        38,
+        35,
+        32,
+        32,
+        21
+      ]
+    },
+    "skills": [
+      {
+        "id": 432,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 6,
+          "formula": "a.atk * 1.15 - b.def * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Lycan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 7,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Lightning Claw",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 433,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 6,
+          "formula": "a.atk * 1.45 - b.def * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Lycan.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Savage Bite",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 434,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 6,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Enemy skill used by Lycan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 7,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Thunder Frenzy",
+        "note": "[CUSTOM SKILL EFFECT] Apply offensive/mobility buff appropriate to the enemy.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 62,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Tough hide from Lycan. Material Tier 2.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Lycan Hide",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Hide>\n<NUSV Rarity: Uncommon>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Jenggala Habitats>\n[REMARKS] Material Tier 2.",
+          "occasion": 3,
+          "price": 80,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 100,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Common monster fang. Material Tier 1.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Beast Fang",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Common>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Wild Beasts>\n[REMARKS] Material Tier 1.",
+          "occasion": 3,
+          "price": 25,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }

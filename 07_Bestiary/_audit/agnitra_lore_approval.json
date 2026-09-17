@@ -1,0 +1,16 @@
+{
+  "approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi nest, serta kisah empat naga Agnitra.",
+    "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah."
+  },
+  "approved_markdown_sha256": {
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Blackhorn.md": "90d87f3dde9ff502072500c399bd1e8fdcc54be95cc53a7b0d665584057c105a",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Goldenscale.md": "f803227e2fa3a2826d34a82d298636b58fbf3dca5ca2db3c926022dee90e9445",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Moonfang.md": "bc10d84f0ee2aca4f4daeb84d7881671a55182109576b474ccb2355d518a27d2",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Silverwing.md": "505edd78db885af37a0f97d211eff152ee8443094c9b91319023e4a3bef5bbac"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "untuk thalantira tadi juga sudah aku acc usulannya",
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, dan kisah 18 entri Thalantira.",
+    "exclusions": "Kalibrasi game dan pertanyaan canon yang belum diberi jawaban tetap terpisah."
+  },
+  "approved_markdown_sha256": {
+    "07_Bestiary/03_Thalantira/Abyssal_Piranha.md": "e7f5a3734c87d9fcf45630cbf843d2fa027f31a771310e8b3ca24a3a5c153517",
+    "07_Bestiary/03_Thalantira/Abyssal_Treant.md": "c0782d9e4c0e2c24ce6cb8b9845598b1e7bd7839979e67f4c5e00b1c49d15683",
+    "07_Bestiary/03_Thalantira/Behemoth_Cangkang_Hitam.md": "f39ab948c8d36d38bcf91cecfaed4bc3e84b75233dd03b42a5b117a41d04b0e9",
+    "07_Bestiary/03_Thalantira/Crystal_Basilisk.md": "fbae8cfd006190134ff217f9f70a2f0d4306302af5151268f6a67e4d7ce044b1",
+    "07_Bestiary/03_Thalantira/Deepwater_Siren.md": "68d2311a74ee0844a2d80fbd23dfe0aaf688430b7c7cc3233360a515790815b2",
+    "07_Bestiary/03_Thalantira/Eclipse_Falcon.md": "bb48f4905cd1017e924f62116d5492a8dec12a4ed68c6e76a1fbee4ad222bae1",
+    "07_Bestiary/03_Thalantira/Hydra_Jurang.md": "77288cd21218a14c898747bb0460bebb13cf3c80374c615de25aa2dd6f09431d",
+    "07_Bestiary/03_Thalantira/Kraken_Tentacle.md": "dc6567361dd56ecd4d7e74120135754274ef5a67782fbe939a93de97dc3e70ff",
+    "07_Bestiary/03_Thalantira/Manta_Ray_Void.md": "3fe896f73c004586295aa143954fbdbacd87167f17aa9f84ceaeb88f57716fad",
+    "07_Bestiary/03_Thalantira/Megalodon_Phantom.md": "e84c840b2400f00879c8fa09e774c26666c2681d6704b7f103b41b014a3ffe7e",
+    "07_Bestiary/03_Thalantira/Nebula_Eye.md": "57c09888e25fb198b702be5944414ec51aa076b590fb1272830a1a566891bbe6",
+    "07_Bestiary/03_Thalantira/Obsidian_Crawler.md": "7e061c13e62a061e071713cb9f175d3b55271df41e8cb885ecee1781fa17ca70",
+    "07_Bestiary/03_Thalantira/Storm_Wyvern.md": "4cf559cd78335d689eca95e5cf9fa96cb2d542e6c49f3ef88607764006e8dd6a",
+    "07_Bestiary/03_Thalantira/Thalantira_Gargoyle.md": "9f825462a100e2d5077a9c4ba45ee9f1d9db855116c088ddffd77fcbf8be28ad",
+    "07_Bestiary/03_Thalantira/Thalantira_Golem.md": "820638a19a25757db9a1b2ff98512ee6654521bbe29bb2f3d2373d6006d436e0",
+    "07_Bestiary/03_Thalantira/Void_Harpy.md": "a04b5337f317f08fb885b6d6a572da33fa16ede09ecdcfec3a827b0c35aa450e",
+    "07_Bestiary/03_Thalantira/Void_Panther.md": "4420ea96892ac433a6db7a10022223a64299aee4d941f85018da4e8581ba1e3b",
+    "07_Bestiary/03_Thalantira/Void_Wyrm.md": "20b2de925c46fef27dc3dd0fe7c11632aed9bf663ae536a92a1a643f044f21f6"
+  }
+}

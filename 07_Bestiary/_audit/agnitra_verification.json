@@ -1,0 +1,116 @@
+{
+  "errors": [],
+  "entries": [
+    {
+      "id": "Blackhorn",
+      "words": 373,
+      "runtime_id": 53,
+      "unresolved": [
+        "Identitas nest/material kini diselaraskan atas arahan pemilik. Field location, description, element, serta runtime lama tetap diarsipkan; bukan sumber lokasi naratif terkini.",
+        "Sifat material naratif belum dikalibrasi menjadi immunity, state, drop rate, recipe, atau angka game. Rincian visual, kepribadian, dan kisah telah disetujui pemilik."
+      ]
+    },
+    {
+      "id": "Goldenscale",
+      "words": 357,
+      "runtime_id": 54,
+      "unresolved": [
+        "Identitas nest/material kini diselaraskan atas arahan pemilik. Field location, description, element, serta runtime lama tetap diarsipkan; bukan sumber lokasi naratif terkini.",
+        "Sifat material naratif belum dikalibrasi menjadi immunity, state, drop rate, recipe, atau angka game. Rincian visual, kepribadian, dan kisah telah disetujui pemilik."
+      ]
+    },
+    {
+      "id": "Moonfang",
+      "words": 385,
+      "runtime_id": 55,
+      "unresolved": [
+        "Identitas nest/material kini diselaraskan atas arahan pemilik. Field location, description, element, serta runtime lama tetap diarsipkan; bukan sumber lokasi naratif terkini.",
+        "Sifat material naratif belum dikalibrasi menjadi immunity, state, drop rate, recipe, atau angka game. Rincian visual, kepribadian, dan kisah telah disetujui pemilik."
+      ]
+    },
+    {
+      "id": "Silverwing",
+      "words": 364,
+      "runtime_id": 56,
+      "unresolved": [
+        "Identitas nest/material kini diselaraskan atas arahan pemilik. Field location, description, element, serta runtime lama tetap diarsipkan; bukan sumber lokasi naratif terkini.",
+        "Sifat material naratif belum dikalibrasi menjadi immunity, state, drop rate, recipe, atau angka game. Rincian visual, kepribadian, dan kisah telah disetujui pemilik."
+      ]
+    }
+  ],
+  "changed_baseline_files": [
+    "07_Bestiary/BESTIARY_REWORK_AUDIT.md",
+    "07_Bestiary/BESTIARY_REWORK_CHANGELOG.md",
+    "07_Bestiary/BESTIARY_STANDARD_V2.md",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Blackhorn.json",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Blackhorn.md",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Goldenscale.json",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Goldenscale.md",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Moonfang.json",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Moonfang.md",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Silverwing.json",
+    "07_Bestiary/05_Dragons_of_Agnitra_Nest/Silverwing.md",
+    "07_Bestiary/06_Chiefs_of_Arkananta/Grok_Tulang_Besi.json",
+    "07_Bestiary/06_Chiefs_of_Arkananta/Grok_Tulang_Besi.md",
+    "07_Bestiary/06_Chiefs_of_Arkananta/Krom_Batugilang.json",
+    "07_Bestiary/06_Chiefs_of_Arkananta/Krom_Batugilang.md",
+    "07_Bestiary/06_Chiefs_of_Arkananta/Nyai_Larasati.json",
+    "07_Bestiary/06_Chiefs_of_Arkananta/Nyai_Larasati.md",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Jatayu.json",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Jatayu.md",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Paksi.json",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Paksi.md",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Sempati.json",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Sempati.md",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Suparna.json",
+    "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Suparna.md",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.json",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.md",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Beelzebub.json",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Beelzebub.md",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Belphegor.json",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Belphegor.md",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Leviathanus.json",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Leviathanus.md",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Luciferus.json",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Luciferus.md",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Mamon.json",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Mamon.md",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Vraka_The_Wrathful.json",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Vraka_The_Wrathful.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Hiu_Purba_Tulang.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Hiu_Purba_Tulang.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Hydra.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Hydra.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Kepiting_Batu_Karang.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Kepiting_Batu_Karang.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Krakentis_Sang_Pemutar_Arus.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Krakentis_Sang_Pemutar_Arus.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Lintah_Palung.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Lintah_Palung.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Naga_Laut_Penghancur.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Naga_Laut_Penghancur.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Pari_Kematian_Besi.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Pari_Kematian_Besi.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Paus_Penelan_Armada.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Paus_Penelan_Armada.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Sirenia_Kegelapan.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Sirenia_Kegelapan.md",
+    "07_Bestiary/09_Laut_Rangkaruna/Ubur_Ubur_Pijar_Kematian.json",
+    "07_Bestiary/09_Laut_Rangkaruna/Ubur_Ubur_Pijar_Kematian.md",
+    "tools/rework_agnitra_lore.py",
+    "tools/verify_agnitra_lore.py",
+    "tools/verify_bestiary_workspace.py"
+  ],
+  "scope": "4 narrative/data pairs; original fields, sources, runtime references, and outside-batch preservation",
+  "balance_simulation": null,
+  "playtest": null,
+  "new_narrative_approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi nest, serta kisah empat naga Agnitra.",
+    "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah."
+  }
+}

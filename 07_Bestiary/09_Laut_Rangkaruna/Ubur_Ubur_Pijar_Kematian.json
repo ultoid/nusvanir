@@ -1,4 +1,19 @@
 {
+  "Kategori": "09 Laut Rangkaruna",
+  "Elemen": "Petir/Racun",
+  "Kelemahan": "Bumi",
+  "Tipe Serangan": "Magic (Area)",
+  "HP": 15000,
+  "MP": 50000,
+  "Spawn Location": "Permukaan Rangkaruna Malam Hari",
+  "id": "Ubur_Ubur_Pijar_Kematian",
+  "title": "Ubur-Ubur Pijar Kematian",
+  "category": "Bestiary",
+  "description": "Kawanan ubur-ubur raksasa yang memancarkan cahaya biru dan sengatan pelumpuh.",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "legacy_values": {
     "Kategori": "09 Laut Rangkaruna",
     "Elemen": "Petir/Racun",
     "Kelemahan": "Bumi",
@@ -6,4 +21,303 @@
     "HP": 15000,
     "MP": 50000,
     "Spawn Location": "Permukaan Rangkaruna Malam Hari"
+  },
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/09_Laut_Rangkaruna/Ubur_Ubur_Pijar_Kematian.md",
+    "game_data_source": "07_Bestiary/09_Laut_Rangkaruna/Ubur_Ubur_Pijar_Kematian.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/09_Laut_Rangkaruna/Ubur_Ubur_Pijar_Kematian.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_rangkaruna_narrative.json",
+    "sources": [
+      "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
+      "02_World/Laut_Rangkaruna.md",
+      "08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md"
+    ],
+    "unresolved": [
+      "Kisah merangkum Prologue. Kelumpuhan seketika dan ledakan belum diterjemahkan menjadi state/durasi game."
+    ],
+    "category_note": "Rangkaruna fauna; no automatic relation to similarly named Thalantira creatures.",
+    "historical_description": null,
+    "approval_record": "07_Bestiary/_audit/rangkaruna_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 80,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 545
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 546
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 547
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 80,
+          "denominator": 5,
+          "kind": 1
+        },
+        {
+          "dataId": 283,
+          "denominator": 7,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 1120,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 4,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.25
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 4,
+          "value": 0.5
+        },
+        {
+          "code": 23,
+          "dataId": 7,
+          "value": 0.95
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 300,
+      "name": "Ubur-Ubur Pijar Kematian",
+      "note": "<NUSV Bestiary Group: Laut Rangkaruna>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Aquatic>\n<NUSV Archetype: Mage>\n<NUSV Tier: T7>\n<NUSV Region: Laut Rangkaruna>\n<NUSV Element: Water/Lightning>\n<NUSV Weakness: Earth>\n<NUSV Combat Tags: Aquatic, Caster, Poisonous>\n<NUSV Attack Type: Magic>\n[PENDING ATTACK ELEMENT] Water/Lightning\n[ACTION CONDITION NOTE] Paralyzing Glow: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Wisp Core: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        3420,
+        232,
+        121,
+        117,
+        206,
+        142,
+        86,
+        53
+      ]
+    },
+    "skills": [
+      {
+        "id": 545,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 6,
+          "formula": "a.mat * 1.15 - b.mdf * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Ubur-Ubur Pijar Kematian.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 7,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Volt Tentacle",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 546,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "a.mat * 1.45 - b.mdf * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Ubur-Ubur Pijar Kematian.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Paralyzing Glow",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 547,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 10,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Ubur-Ubur Pijar Kematian.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Deathlight Discharge",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 80,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Crystal capable of storing magical energy. Material Tier 4.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Mana Crystal",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Crystal>\n<NUSV Rarity: Rare>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Arcane Deposits>\n[REMARKS] Material Tier 4.",
+          "occasion": 3,
+          "price": 700,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 283,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Inti cahaya spiritual milik Wisp.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Wisp Core",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Spirit Core>\n<NUSV Rarity: Uncommon>\n<NUSV Source: Wisp>\n<NUSV Region: Jenggala>",
+          "occasion": 3,
+          "price": 80,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "legacy_note": "Original object preserved in legacy_values; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null
+  }
 }

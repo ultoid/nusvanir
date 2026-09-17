@@ -1,14 +1,359 @@
-﻿{
-    "description":  "Pejuang lompat tebing pembawa gada angin puting beliung.",
-    "id":  "Krom_Batugilang",
-    "mp":  70000,
-    "weakness":  "Api \u0026 Tanah",
-    "category":  "Bestiary Boss",
-    "element":  "Tanah \u0026 Udara",
-    "class":  "Warrior (Tier 3)",
-    "location":  "Jembatan Tebing Arkananta",
-    "hp":  380000,
-    "title":  "Krom Batugilang",
-    "attack_type":  "Melee"
+{
+  "description": "Pejuang lompat tebing pembawa gada angin puting beliung.",
+  "id": "Krom_Batugilang",
+  "mp": 70000,
+  "weakness": "Api & Tanah",
+  "category": "Bestiary Boss",
+  "element": "Tanah & Udara",
+  "class": "Warrior (Tier 3)",
+  "location": "Jembatan Tebing Arkananta",
+  "hp": 380000,
+  "title": "Krom Batugilang",
+  "attack_type": "Melee",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "race": "Butoraksa",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/06_Chiefs_of_Arkananta/Krom_Batugilang.md",
+    "game_data_source": "07_Bestiary/06_Chiefs_of_Arkananta/Krom_Batugilang.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah tiga kepala suku Arkananta.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/06_Chiefs_of_Arkananta/Krom_Batugilang.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah tiga kepala suku Arkananta.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_arkananta_chiefs_narrative.json",
+    "sources": [
+      "05_Karakter & Tokoh Penting/05_Arkananta/Krom Batugilang.md",
+      "04_Ras/02_Wuru Loka/Butoraksa_(Orc).md",
+      "03_Region/05_Arkananta/Cities & Town/Gua Butoraksa.md",
+      "03_Region/05_Arkananta/Religion.md",
+      "03_Region/05_Arkananta/Economy.md",
+      "03_Region/05_Arkananta/Pegunungan Arkananta.md"
+    ],
+    "unresolved": [
+      "Hubungan mekanis palu tulang dengan label angin Bestiary belum ditentukan. Jembatan Tebing belum memiliki dokumen lokasi tersendiri."
+    ],
+    "category_note": "Named sapient chiefs: Grok–Troliogoro, Krom–Butoraksa, Larasati–Rakshorien.",
+    "historical_description": "Pejuang lompat tebing pembawa gada angin puting beliung.",
+    "approval_record": "07_Bestiary/_audit/arkananta_chiefs_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 58,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 264
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 170
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 179
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 55,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 31,
+          "denominator": 8,
+          "kind": 1
+        },
+        {
+          "dataId": 102,
+          "denominator": 4,
+          "kind": 1
+        }
+      ],
+      "exp": 1540,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 4,
+          "value": 0.75
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 5,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 17,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.5
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 455,
+      "name": "Krom Batugilang",
+      "note": "<NUSV Bestiary Group: Chiefs Arkananta>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Humanoid>\n<NUSV Archetype: Fighter>\n<NUSV Tier: T5>\n<NUSV Region: Pegunungan Arkananta>\n<NUSV Element: Earth/Wind>\n<NUSV Weakness: Water>\n<NUSV Combat Tags: Earth, Wind, Large>\n<NUSV Attack Type: Melee>\n[PENDING ATTACK ELEMENT] Earth/Wind\n[ACTION CONDITION NOTE] Tectonic Tremor: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Krom Stonewind Crown @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Stonewind Battle Garb @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Stonewind Boots @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Adamantine: source 12% -> MV 1/8 = 12.50%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        5460,
+        86,
+        132,
+        97,
+        84,
+        81,
+        57,
+        38
+      ]
+    },
+    "skills": [
+      {
+        "id": 264,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 1,
+          "formula": "a.atk * 1.7 - b.def * 0.3",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Melancarkan serangan fisik dengan teknik cepat dan penuh tenaga.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Heavy Impact",
+        "note": "[CUSTOM FORMULA/EFFECT] a.atk * 1.7 - b.def * 0.3 (Crit: Yes)",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 18,
+        "tpGain": 0
+      },
+      {
+        "id": 170,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 4,
+          "formula": "a.mat * 1.3 - b.mdf * 0.3",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Menggunakan teknik Tectonic Tremor untuk menekan lawan atau membantu jalannya pertarungan.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Tectonic Tremor",
+        "note": "[CUSTOM FORMULA/EFFECT] a.mat * 1.3 - b.mdef * 0.3",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 2,
+        "successRate": 100,
+        "tpCost": 20,
+        "tpGain": 0
+      },
+      {
+        "id": 179,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 5,
+          "formula": "a.mat * 1.3 - b.mdf * 0.3",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Menggerakkan arus udara dengan cepat untuk mengacaukan posisi lawan.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Gale Force",
+        "note": "[CUSTOM FORMULA/EFFECT] a.mat * 1.3 - b.mdef * 0.3",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 2,
+        "successRate": 100,
+        "tpCost": 20,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 55,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Stone capable of holding spiritual resonance. Material Tier 6.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Stone",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Stone>\n<NUSV Rarity: Epic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Pegunungan Arkananta>\n[REMARKS] Material Tier 6.",
+          "occasion": 3,
+          "price": 5000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 31,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Extremely durable metal specialized for defense. Material Tier 5.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Adamantine",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Ore>\n<NUSV Rarity: Epic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 5.",
+          "occasion": 3,
+          "price": 1800,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 102,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Tanduk keras kambing Arkananta yang dapat diolah menjadi komponen forge.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Arkananta Horn",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Horn>\n<NUSV Rarity: Uncommon>\n<NUSV Source: Gathering / Monster Drop / Exploration; Kambing Arkananta>\n<NUSV Region: Pegunungan Arkananta>\n[REMARKS] Material Tier 2.",
+          "occasion": 3,
+          "price": 80,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }
-

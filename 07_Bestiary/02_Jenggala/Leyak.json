@@ -1,12 +1,317 @@
-﻿{
-    "description":  "Penyihir iblis bermutasi siluman hewani yang melempar kutukan.",
-    "id":  "Leyak",
-    "mp":  3000,
-    "weakness":  "Cahaya",
-    "category":  "Bestiary",
-    "element":  "Kegelapan",
-    "location":  "Pulau Asrivana",
-    "hp":  2200,
-    "title":  "Leyak",
-    "attack_type":  "Magic"
+{
+  "description": "Penyihir iblis bermutasi siluman hewani yang melempar kutukan.",
+  "id": "Leyak",
+  "mp": 3000,
+  "weakness": "Cahaya",
+  "category": "Bestiary",
+  "element": "Kegelapan",
+  "location": "Pulau Asrivana",
+  "hp": 2200,
+  "title": "Leyak",
+  "attack_type": "Magic",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/02_Jenggala/Leyak.md",
+    "game_data_source": "07_Bestiary/02_Jenggala/Leyak.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "aku setuju semua usulannya",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+      "exclusions": "Kalibrasi game dan jawaban atas pertanyaan yang tidak pernah diusulkan tetap terpisah.",
+      "source": "07_Bestiary/02_Jenggala/Leyak.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_jenggala_narrative.json",
+    "sources": [
+      "03_Region/02_Astradipa/Threat.md"
+    ],
+    "unresolved": [
+      "Pulau Asrivana belum terpetakan; hubungan Leyak dengan ras/Dhemit tidak diputuskan."
+    ],
+    "category_note": "Jenggala is the retained folder category; no universal species/origin inferred.",
+    "historical_description": "Penyihir iblis bermutasi siluman hewani yang melempar kutukan.",
+    "approval_record": "07_Bestiary/_audit/jenggala_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 23,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 429
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 430
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 431
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 282,
+          "denominator": 3,
+          "kind": 1
+        },
+        {
+          "dataId": 84,
+          "denominator": 12,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 150,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 11,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 0.5
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 23,
+          "dataId": 7,
+          "value": 0.95
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 50,
+      "name": "Leyak",
+      "note": "<NUSV Bestiary Group: Jenggala>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Demon>\n<NUSV Archetype: Mage>\n<NUSV Tier: T3>\n<NUSV Region: Pulau Asrivana>\n<NUSV Element: Dark>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Caster, Demonic, Corrupted>\n<NUSV Attack Type: Magic>\n[ACTION CONDITION NOTE] Blood Hex: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Spirit Dust: source 35% -> MV 1/3 = 33.33%\n[DROP RATE APPROX] Kala Crystal: source 8% -> MV 1/12 = 8.33%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        612,
+        52,
+        34,
+        29,
+        57,
+        35,
+        32,
+        21
+      ]
+    },
+    "skills": [
+      {
+        "id": 429,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.15 - b.mdf * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Leyak.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 10,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Cursed Bolt",
+        "note": "[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_BuffsStatesCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 430,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.45 - b.mdf * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Leyak.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Blood Hex",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 431,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Leyak.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 10,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Leyak Possession",
+        "note": "[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_BuffsStatesCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 282,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Debu spiritual yang tersisa setelah Wisp menghilang.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Dust",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Spirit Remnant>\n<NUSV Rarity: Common>\n<NUSV Source: Wisp>\n<NUSV Region: Jenggala>",
+          "occasion": 3,
+          "price": 25,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 84,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal kegelapan pekat yang menjadi salah satu bahan forge tingkat tinggi.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Kala Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Elemental Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Demon Commanders>\n<NUSV Region: Raksamala; Raksamala Fortress>\n[REMARKS] Material Tier 7.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }

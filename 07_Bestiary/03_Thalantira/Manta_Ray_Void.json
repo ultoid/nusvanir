@@ -1,12 +1,357 @@
-﻿{
-    "description":  "Pari kosmik pelayang air dalam penembak energi mematikan.",
-    "id":  "Manta_Ray_Void",
-    "mp":  90000,
-    "weakness":  "Cahaya",
-    "category":  "Bestiary",
-    "element":  "Kegelapan",
-    "location":  "Air Thalantira",
-    "hp":  110000,
-    "title":  "Manta Ray Void",
-    "attack_type":  "Magic"
+{
+  "description": "Pari kosmik pelayang air dalam penembak energi mematikan.",
+  "id": "Manta_Ray_Void",
+  "mp": 90000,
+  "weakness": "Cahaya",
+  "category": "Bestiary",
+  "element": "Kegelapan",
+  "location": "Air Thalantira",
+  "hp": 110000,
+  "title": "Manta Ray Void",
+  "attack_type": "Magic",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/03_Thalantira/Manta_Ray_Void.md",
+    "game_data_source": "07_Bestiary/03_Thalantira/Manta_Ray_Void.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "untuk thalantira tadi juga sudah aku acc usulannya",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, dan kisah 18 entri Thalantira.",
+      "exclusions": "Kalibrasi game dan pertanyaan canon yang belum diberi jawaban tetap terpisah.",
+      "source": "07_Bestiary/03_Thalantira/Manta_Ray_Void.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, dan kisah 18 entri Thalantira.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_thalantira_narrative.json",
+    "sources": [
+      "03_Region/11_Thalantira/Threat.md",
+      "02_World/Thalantira.md"
+    ],
+    "unresolved": [
+      "Tidak disebut khusus dalam P9; kisah ekologis dan rupa disetujui pemilik. Void bukan penetapan elemen runtime atau asal antarbintang."
+    ],
+    "category_note": "Thalantira endemic category; not a blanket Drahkthar/Jenggala/Bhuta/Dhemit or Voidborn origin. Behavior is contextual to Prologue phases.",
+    "historical_description": "Pari kosmik pelayang air dalam penembak energi mematikan.",
+    "approval_record": "07_Bestiary/_audit/thalantira_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 39,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 476
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 477
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 478
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 87,
+          "denominator": 12,
+          "kind": 1
+        },
+        {
+          "dataId": 58,
+          "denominator": 25,
+          "kind": 1
+        },
+        {
+          "dataId": 98,
+          "denominator": 20,
+          "kind": 1
+        }
+      ],
+      "exp": 1120,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 22,
+          "dataId": 1,
+          "value": 0.05
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.25
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 10,
+          "value": 0.5
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 300,
+      "name": "Manta Ray Void",
+      "note": "<NUSV Bestiary Group: Thalantira>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Alien-Void>\n<NUSV Archetype: Mage>\n<NUSV Tier: T7>\n<NUSV Region: Perairan Thalantira>\n<NUSV Element: Void>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Voidborn, Flying, Aquatic>\n<NUSV Attack Type: Magic>\n[PENDING ATTACK ELEMENT] Void\n[PENDING ENEMY TRAIT] Element Rate: Void 50%\n[ACTION CONDITION NOTE] Phase Glide: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Void Crystal: source 8% -> MV 1/12 = 8.33%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        3420,
+        232,
+        121,
+        117,
+        206,
+        142,
+        86,
+        53
+      ]
+    },
+    "skills": [
+      {
+        "id": 476,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.15 - b.mdf * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Manta Ray Void.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 10,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Void Ray",
+        "note": "[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_BuffsStatesCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 477,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 0,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Enemy skill used by Manta Ray Void.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Phase Glide",
+        "note": "[PENDING ELEMENT] Void\n[CUSTOM SKILL EFFECT] Apply offensive/mobility buff appropriate to the enemy.; Priority / conditional bonus\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 1,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 478,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Manta Ray Void.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 10,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Abyssal Pulse",
+        "note": "[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_BuffsStatesCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 87,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal kehampaan murni yang hanya muncul dari makhluk Void terkuat.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Void Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Special Crystal>\n<NUSV Rarity: Mythic>\n<NUSV Source: Gathering / Monster Drop / Exploration; Void Panther; Void Wyrm>\n<NUSV Region: Thalantira>\n[REMARKS] Material Tier 9.; End-game forge material; sangat dibatasi.; Forge / socket material.",
+          "occasion": 3,
+          "price": 202500,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 58,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Ancient stone changed by primordial forces. Material Tier 9.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Thalantira Primordial Stone",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Stone>\n<NUSV Rarity: Mythic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Thalantira>\n[REMARKS] Material Tier 9.",
+          "occasion": 3,
+          "price": 150000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 98,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Forbidden fabric woven from Void-altered fibers. Material Tier 9.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Voidweave",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Fiber>\n<NUSV Rarity: Mythic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Thalantira>\n[REMARKS] Material Tier 9.",
+          "occasion": 3,
+          "price": 150000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }

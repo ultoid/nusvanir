@@ -1,4 +1,19 @@
 {
+  "Kategori": "09 Laut Rangkaruna",
+  "Elemen": "Undead/Air",
+  "Kelemahan": "Cahaya",
+  "Tipe Serangan": "Melee",
+  "HP": 65000,
+  "MP": 10000,
+  "Spawn Location": "Kuburan Kapal Laut Rangkaruna",
+  "id": "Hiu_Purba_Tulang",
+  "title": "Hiu Purba Tulang",
+  "category": "Bestiary",
+  "description": "Kerangka hiu raksasa yang digerakkan mana kegelapan serta dendam para pelaut tenggelam.",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "legacy_values": {
     "Kategori": "09 Laut Rangkaruna",
     "Elemen": "Undead/Air",
     "Kelemahan": "Cahaya",
@@ -6,4 +21,290 @@
     "HP": 65000,
     "MP": 10000,
     "Spawn Location": "Kuburan Kapal Laut Rangkaruna"
+  },
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/09_Laut_Rangkaruna/Hiu_Purba_Tulang.md",
+    "game_data_source": "07_Bestiary/09_Laut_Rangkaruna/Hiu_Purba_Tulang.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/09_Laut_Rangkaruna/Hiu_Purba_Tulang.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_rangkaruna_narrative.json",
+    "sources": [
+      "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
+      "02_World/Laut_Rangkaruna.md"
+    ],
+    "unresolved": [
+      "Asal spiritual dan taxonomy undead/Dhemit belum dipastikan; kisah ekologis usulan."
+    ],
+    "category_note": "Rangkaruna fauna; no automatic relation to similarly named Thalantira creatures.",
+    "historical_description": null,
+    "approval_record": "07_Bestiary/_audit/rangkaruna_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 71,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 518
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 519
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 520
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 99,
+          "denominator": 3,
+          "kind": 1
+        },
+        {
+          "dataId": 100,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 720,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 3,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 17,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.7
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 200,
+      "name": "Hiu Purba Tulang",
+      "note": "<NUSV Bestiary Group: Laut Rangkaruna>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Aquatic>\n<NUSV Archetype: Assassin>\n<NUSV Tier: T6>\n<NUSV Region: Laut Rangkaruna>\n<NUSV Element: Water>\n<NUSV Weakness: Lightning>\n<NUSV Combat Tags: Aquatic, Large>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Ancient Rush: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Beast Bone: source 35% -> MV 1/3 = 33.33%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        2340,
+        119,
+        145,
+        88,
+        103,
+        87,
+        87,
+        50
+      ]
+    },
+    "skills": [
+      {
+        "id": 518,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 3,
+          "formula": "a.atk * 1.15 - b.def * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Hiu Purba Tulang.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Bone Fang",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 519,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 3,
+          "formula": "a.atk * 1.45 - b.def * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Hiu Purba Tulang.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Ancient Rush",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 520,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Enemy skill used by Hiu Purba Tulang.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Bloodwater Frenzy",
+        "note": "[CUSTOM SKILL EFFECT] Apply offensive/mobility buff appropriate to the enemy.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 99,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Tulang monster umum yang digunakan untuk crafting dasar dan ritual.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Beast Bone",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Bone>\n<NUSV Rarity: Common>\n<NUSV Source: Gathering / Monster Drop / Exploration; Various Monsters>\n<NUSV Region: Wild Beasts; Various>\n[REMARKS] Material Tier 1.; Digunakan pada recipe Jenggala Charm.",
+          "occasion": 3,
+          "price": 25,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 100,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Common monster fang. Material Tier 1.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Beast Fang",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Common>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Wild Beasts>\n[REMARKS] Material Tier 1.",
+          "occasion": 3,
+          "price": 25,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "legacy_note": "Original object preserved in legacy_values; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null
+  }
 }

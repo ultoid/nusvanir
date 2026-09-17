@@ -1,13 +1,367 @@
-﻿{
-    "description":  "[BOSS AIR] Ular naga penelan samudra dan pemanggil badai abadi.",
-    "id":  "Hydra_Jurang",
-    "mp":  450000,
-    "weakness":  "Listrik",
-    "category":  "Bestiary",
-    "element":  "Air",
-    "location":  "Air Thalantira",
-    "hp":  900000,
-    "title":  "Hydra Jurang",
-    "attack_type":  "Magic"
+{
+  "description": "[BOSS AIR] Ular naga penelan samudra dan pemanggil badai abadi.",
+  "id": "Hydra_Jurang",
+  "mp": 450000,
+  "weakness": "Listrik",
+  "category": "Bestiary",
+  "element": "Air",
+  "location": "Air Thalantira",
+  "hp": 900000,
+  "title": "Hydra Jurang",
+  "attack_type": "Magic",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/03_Thalantira/Hydra_Jurang.md",
+    "game_data_source": "07_Bestiary/03_Thalantira/Hydra_Jurang.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "untuk thalantira tadi juga sudah aku acc usulannya",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, dan kisah 18 entri Thalantira.",
+      "exclusions": "Kalibrasi game dan pertanyaan canon yang belum diberi jawaban tetap terpisah.",
+      "source": "07_Bestiary/03_Thalantira/Hydra_Jurang.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, dan kisah 18 entri Thalantira.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_thalantira_narrative.json",
+    "sources": [
+      "08_Story/02_Prologue/07_Tiga_Kuil_Penjaga.md",
+      "08_Story/02_Prologue/08_Ujian_Para_Pelindung.md",
+      "08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md",
+      "05_Karakter & Tokoh Penting/11_Entitas_Purba/Uru.md"
+    ],
+    "unresolved": [
+      "Jumlah kepala tidak ditambahkan. Sebutan Ayah/saudara tidak membuktikan reproduksi biologis. Perilaku dibedakan menurut fase Prologue."
+    ],
+    "category_note": "Thalantira endemic category; not a blanket Drahkthar/Jenggala/Bhuta/Dhemit or Voidborn origin. Behavior is contextual to Prologue phases.",
+    "historical_description": "[BOSS AIR] Ular naga penelan samudra dan pemanggil badai abadi.",
+    "approval_record": "07_Bestiary/_audit/thalantira_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 37,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 470
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 471
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 472
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 87,
+          "denominator": 12,
+          "kind": 1
+        },
+        {
+          "dataId": 58,
+          "denominator": 25,
+          "kind": 1
+        },
+        {
+          "dataId": 98,
+          "denominator": 20,
+          "kind": 1
+        }
+      ],
+      "exp": 3400,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 22,
+          "dataId": 7,
+          "value": 0.03
+        },
+        {
+          "code": 11,
+          "dataId": 2,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 10,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.7
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.7
+        },
+        {
+          "code": 13,
+          "dataId": 17,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.7
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 880,
+      "name": "Hydra Jurang",
+      "note": "<NUSV Bestiary Group: Thalantira>\n<NUSV Enemy Rank: Mini Boss>\n<NUSV Enemy Type: Alien-Void>\n<NUSV Archetype: Bruiser>\n<NUSV Tier: T8>\n<NUSV Region: Jurang Thalantira>\n<NUSV Element: Void/Water>\n<NUSV Weakness: Fire>\n<NUSV Combat Tags: Voidborn, Large, Regenerator>\n<NUSV Attack Type: Melee>\n[PENDING ATTACK ELEMENT] Void/Water\n[PENDING ENEMY TRAIT] Element Rate: Void 50%\n[ACTION CONDITION NOTE] Regenerative Roar: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Void Crystal: source 8% -> MV 1/12 = 8.33%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        12075,
+        205,
+        280,
+        223,
+        169,
+        181,
+        94,
+        70
+      ]
+    },
+    "skills": [
+      {
+        "id": 470,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 11,
+          "formula": "a.atk * 1.15 - b.def * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Hydra Jurang.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 10,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Abyssal Fang",
+        "note": "[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_BuffsStatesCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 471,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 1,
+          "formula": "a.atk * 1.45 - b.def * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Hydra Jurang.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Regenerative Roar",
+        "note": "[PENDING ELEMENT] Void",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 472,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 1,
+          "formula": "a.atk * 1.85 - b.def * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Hydra Jurang.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Many-Headed Devour",
+        "note": "[PENDING ELEMENT] Void\n[CUSTOM SKILL EFFECT] Signature/high-power action; Multi-hit; HP drain\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 2,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 87,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal kehampaan murni yang hanya muncul dari makhluk Void terkuat.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Void Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Special Crystal>\n<NUSV Rarity: Mythic>\n<NUSV Source: Gathering / Monster Drop / Exploration; Void Panther; Void Wyrm>\n<NUSV Region: Thalantira>\n[REMARKS] Material Tier 9.; End-game forge material; sangat dibatasi.; Forge / socket material.",
+          "occasion": 3,
+          "price": 202500,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 58,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Ancient stone changed by primordial forces. Material Tier 9.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Thalantira Primordial Stone",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Stone>\n<NUSV Rarity: Mythic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Thalantira>\n[REMARKS] Material Tier 9.",
+          "occasion": 3,
+          "price": 150000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 98,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Forbidden fabric woven from Void-altered fibers. Material Tier 9.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Voidweave",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Fiber>\n<NUSV Rarity: Mythic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Thalantira>\n[REMARKS] Material Tier 9.",
+          "occasion": 3,
+          "price": 150000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }
-

@@ -1,0 +1,27 @@
+{
+  "approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "aku setuju semua usulannya",
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+    "exclusions": "Kalibrasi game dan jawaban atas pertanyaan yang tidak pernah diusulkan tetap terpisah."
+  },
+  "approved_markdown_sha256": {
+    "07_Bestiary/02_Jenggala/Ahool.md": "2aad99f35f6cd43321295c11c17a596e0f39f7cb5832c54a7da12cd4d7100056",
+    "07_Bestiary/02_Jenggala/Banshee.md": "2dce91ec014682164794878238932c312adbe080d449674e220b3bc41e94ef98",
+    "07_Bestiary/02_Jenggala/Direboar.md": "df7db9774b4a949df9efeae036b0e5f58a8b5cb015798209566587b497984e17",
+    "07_Bestiary/02_Jenggala/Goblin.md": "0675f4b6a8df69d20e4d4ba4f013d0ca358c253027dc6fa7480238bd28d4828a",
+    "07_Bestiary/02_Jenggala/Gondarwa.md": "9539f7839f24184b4024ecd9275b16a645dcbf665c9c62e229d6eae375b12b8e",
+    "07_Bestiary/02_Jenggala/Gremlin.md": "f6a28fbf40b911edaf1d3a7ba91953aa95c1a173b691ad047ab610ae8db095a2",
+    "07_Bestiary/02_Jenggala/Homunculus.md": "d43324ecf72e1300b406b75b5918871a7039e61f0c774de345b502b5fb9c9479",
+    "07_Bestiary/02_Jenggala/Leyak.md": "ddb448554c1ccb16ab8460dfa2f7579ef7528f7d1f625a649dd7a81494c1f0a0",
+    "07_Bestiary/02_Jenggala/Lycan.md": "fa800b4e23af7160d96f47db6535fbbe36a4c2cd4a91e9030968f255d9a59a75",
+    "07_Bestiary/02_Jenggala/Ogre.md": "6d631377d60af2e766d1978838fd2843f5f5556448eff3d563c296f3896ce0c9",
+    "07_Bestiary/02_Jenggala/Pyrowisp.md": "1fe858e40705925a6ad548adb290ac324720256793bf2212159c7c441f9c6780",
+    "07_Bestiary/02_Jenggala/Strigoi.md": "a3d90868101242a22380c10e9e276b92eafcb93c6a0a7cb7baf6bd9f123a676c",
+    "07_Bestiary/02_Jenggala/Wendigo.md": "2693743fd6a87f51e31530bca1d9c8b1ff2e410b6c82eb28595482bfc34d3c4e",
+    "07_Bestiary/02_Jenggala/Wight.md": "a8d7296783a126c90d2d735eb011c1985db250753fb86a8cebaeed38b948e3ec",
+    "07_Bestiary/02_Jenggala/Wisp.md": "7839bb1f26e5d98356114a9d8c7c0d884cd9fc83d0a4761032076de0de7d5ed7"
+  }
+}

@@ -1,12 +1,313 @@
-﻿{
-    "description":  "Boneka kuno parasit (Jenglot) yang menempel dan menghisap nyawa perlahan.",
-    "id":  "Homunculus",
-    "mp":  1500,
-    "weakness":  "Cahaya",
-    "category":  "Bestiary",
-    "element":  "Kegelapan",
-    "location":  "Reruntuhan Kuil",
-    "hp":  500,
-    "title":  "Homunculus",
-    "attack_type":  "Melee"
+{
+  "description": "Boneka kuno parasit (Jenglot) yang menempel dan menghisap nyawa perlahan.",
+  "id": "Homunculus",
+  "mp": 1500,
+  "weakness": "Cahaya",
+  "category": "Bestiary",
+  "element": "Kegelapan",
+  "location": "Reruntuhan Kuil",
+  "hp": 500,
+  "title": "Homunculus",
+  "attack_type": "Melee",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/02_Jenggala/Homunculus.md",
+    "game_data_source": "07_Bestiary/02_Jenggala/Homunculus.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "aku setuju semua usulannya",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+      "exclusions": "Kalibrasi game dan jawaban atas pertanyaan yang tidak pernah diusulkan tetap terpisah.",
+      "source": "07_Bestiary/02_Jenggala/Homunculus.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, penempatan habitat dan kisah dalam batch narasi 15 Jenggala.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_jenggala_narrative.json",
+    "sources": [
+      "03_Region/01_Mandala Kingdom/Cities & Town/Valkindra.md"
+    ],
+    "unresolved": [
+      "Asal penciptaan, ritual, dan metode pemurnian belum dipastikan."
+    ],
+    "category_note": "Jenggala is the retained folder category; no universal species/origin inferred.",
+    "historical_description": "Boneka kuno parasit (Jenglot) yang menempel dan menghisap nyawa perlahan.",
+    "approval_record": "07_Bestiary/_audit/jenggala_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 22,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 426
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 427
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 428
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 282,
+          "denominator": 3,
+          "kind": 1
+        },
+        {
+          "dataId": 283,
+          "denominator": 7,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 40,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 11,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 0.75
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 13,
+          "dataId": 6,
+          "value": 0
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 4,
+          "value": 0
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 15,
+      "name": "Homunculus",
+      "note": "<NUSV Bestiary Group: Jenggala>\n<NUSV Enemy Rank: Normal>\n<NUSV Enemy Type: Construct>\n<NUSV Archetype: Controller>\n<NUSV Tier: T2>\n<NUSV Region: Reruntuhan Kuil>\n<NUSV Element: Dark>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Corrupted, Lifesteal>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Malformed Strike: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Spirit Dust: source 35% -> MV 1/3 = 33.33%\n[DROP RATE APPROX] Wisp Core: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        209,
+        24,
+        22,
+        19,
+        28,
+        20,
+        22,
+        18
+      ]
+    },
+    "skills": [
+      {
+        "id": 426,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.15 - b.mdf * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Homunculus, Strigoi.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Life Siphon",
+        "note": "[CUSTOM SKILL EFFECT] HP drain\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 427,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.45 - b.mdf * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Homunculus.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Malformed Strike",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 428,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Homunculus.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Unstable Burst",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 282,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Debu spiritual yang tersisa setelah Wisp menghilang.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Dust",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Spirit Remnant>\n<NUSV Rarity: Common>\n<NUSV Source: Wisp>\n<NUSV Region: Jenggala>",
+          "occasion": 3,
+          "price": 25,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 283,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Inti cahaya spiritual milik Wisp.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Wisp Core",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Spirit Core>\n<NUSV Rarity: Uncommon>\n<NUSV Source: Wisp>\n<NUSV Region: Jenggala>",
+          "occasion": 3,
+          "price": 80,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }

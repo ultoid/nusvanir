@@ -1,14 +1,343 @@
-﻿{
-    "description":  "Ksatria tangguh dengan perisai api suci pembakar iblis.",
-    "id":  "Ksatria_Solarius",
-    "mp":  120000,
-    "weakness":  "Kegelapan \u0026 Air",
-    "category":  "Bestiary Boss",
-    "element":  "Cahaya \u0026 Api",
-    "class":  "Holy Knight (Tier 4)",
-    "location":  "Pos Terluar Timur Avalerion",
-    "hp":  350000,
-    "title":  "Ksatria Solarius",
-    "attack_type":  "Melee / Burst"
+{
+  "description": "Ksatria tangguh dengan perisai api suci pembakar iblis.",
+  "id": "Ksatria_Solarius",
+  "mp": 120000,
+  "weakness": "Kegelapan & Air",
+  "category": "Bestiary Boss",
+  "element": "Cahaya & Api",
+  "class": "Holy Knight (Tier 4)",
+  "location": "Pos Terluar Timur Avalerion",
+  "hp": 350000,
+  "title": "Ksatria Solarius",
+  "attack_type": "Melee / Burst",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Solarius.md",
+    "game_data_source": "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Solarius.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "untuk usulan aku setujui semua",
+      "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi benteng, dan kisah empat penjaga Avalerion; race Asevari mengikuti permintaan pemilik.",
+      "exclusions": "Kalibrasi game, konflik kelas Vayu, identitas komandan, dan pemetaan arah lama tetap belum diputuskan. Persetujuan ini tidak mencakup batch Thalantira.",
+      "source": "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Solarius.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi benteng, dan kisah empat penjaga Avalerion; race Asevari mengikuti permintaan pemilik.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_avalerion_narrative.json",
+    "sources": [
+      "03_Region/03_Avalerion/Cities & Town/Outpost_Agni.md",
+      "03_Region/03_Avalerion/Faksi & Institusi/Senopati_Prabha.md",
+      "02_World/Avalerion.md"
+    ],
+    "unresolved": [
+      "Penempatan Solarius di Agni disetujui. Identitas komandan dan arah timur belum dikonfirmasi; api suci bukan aturan damage universal."
+    ],
+    "category_note": "Penjaga Avalerion berakal; penempatan pos disetujui pemilik. Identitas komandan dan pangkat baru tidak diasumsikan.",
+    "historical_description": "Ksatria tangguh dengan perisai api suci pembakar iblis.",
+    "approval_record": "07_Bestiary/_audit/avalerion_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 50,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 295
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 339
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 342
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 83,
+          "denominator": 5,
+          "kind": 1
+        },
+        {
+          "dataId": 28,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 80,
+          "denominator": 5,
+          "kind": 1
+        }
+      ],
+      "exp": 440,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 10,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 0.5
+        },
+        {
+          "code": 23,
+          "dataId": 6,
+          "value": 0.9
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 130,
+      "name": "Ksatria Solarius",
+      "note": "<NUSV Bestiary Group: Guardians Avalerion>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Humanoid>\n<NUSV Archetype: Fighter>\n<NUSV Tier: T5>\n<NUSV Region: Avalerion Outpost>\n<NUSV Element: Light>\n<NUSV Weakness: Dark>\n<NUSV Combat Tags: Holy, Light, Armored>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Bulwark of Light: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Prabha Halohelm @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Prabha Dawnplate @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Prabha Dawnboots @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Prabha Signet @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        1785,
+        74,
+        112,
+        82,
+        72,
+        69,
+        55,
+        34
+      ]
+    },
+    "skills": [
+      {
+        "id": 295,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 1,
+          "formula": "a.def * 1.3 - b.def * 0.4",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Melancarkan serangan fisik dengan teknik cepat dan penuh tenaga.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Bastion Smash",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 6,
+        "tpGain": 0
+      },
+      {
+        "id": 339,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 10,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Mengambil sikap bertahan untuk menghadapi serangan yang datang.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 52,
+            "value1": 1,
+            "value2": 0
+          }
+        ],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Bulwark of Light",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 8,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 14,
+        "tpGain": 0
+      },
+      {
+        "id": 342,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 10,
+          "formula": "a.def * 1.0 - b.mdf * 0.2",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Menyalurkan cahaya suci untuk membalikkan keadaan di medan tempur.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Holy Consecration",
+        "note": "[CUSTOM FORMULA/EFFECT] a.def * 1.0 - b.mdef * 0.2",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 22,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 83,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal cahaya untuk forge dan socket elemental.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Prabha Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Elemental Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Ksatria Solarius>\n<NUSV Region: Avalerion / Tirta Amarta; Avalerion Outpost>\n[REMARKS] Material Tier 7.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 28,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Precious metal effective for specialized forging. Material Tier 3.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Silver",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Ore>\n<NUSV Rarity: Rare>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 3.",
+          "occasion": 3,
+          "price": 250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 80,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Crystal capable of storing magical energy. Material Tier 4.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Mana Crystal",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Crystal>\n<NUSV Rarity: Rare>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Arcane Deposits>\n[REMARKS] Material Tier 4.",
+          "occasion": 3,
+          "price": 700,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  },
+  "race": "Asevari"
 }
-

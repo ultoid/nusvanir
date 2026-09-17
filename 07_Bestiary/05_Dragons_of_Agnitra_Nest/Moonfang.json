@@ -1,13 +1,386 @@
-﻿{
-    "description":  "Naga pembunuh senyap yang menyemburkan api dingin membeku.",
-    "id":  "Moonfang",
-    "mp":  450000,
-    "weakness":  "Air \u0026 Suara",
-    "category":  "Bestiary Boss",
-    "element":  "Api \u0026 Es",
-    "class":  "Dragon Aspect (Tier 5)",
-    "location":  "Gua Gelap Agnitra",
-    "hp":  720000,
-    "title":  "Moonfang",
-    "attack_type":  "Melee / Assassin"
+{
+  "description": "Naga pembunuh senyap yang menyemburkan api dingin membeku.",
+  "id": "Moonfang",
+  "mp": 450000,
+  "weakness": "Air & Suara",
+  "category": "Bestiary Boss",
+  "element": "Api & Es",
+  "class": "Dragon Aspect (Tier 5)",
+  "race": "Nagarasven",
+  "location": "Gua Gelap Agnitra",
+  "hp": 720000,
+  "title": "Moonfang",
+  "attack_type": "Melee / Assassin",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Moonfang.md",
+    "game_data_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Moonfang.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi nest, serta kisah empat naga Agnitra.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Moonfang.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi nest, serta kisah empat naga Agnitra.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_agnitra_narrative.json",
+    "sources": [
+      "03_Region/04_Agnitra/Cities & Town/Silver Nest.md",
+      "02_World/Agnitra.md",
+      "04_Ras/02_Wuru Loka/Nagarasven_(Naga).md",
+      "03_Region/04_Agnitra/Cities & Town/Adamantine Nest.md"
+    ],
+    "unresolved": [
+      "Identitas nest/material kini diselaraskan atas arahan pemilik. Field location, description, element, serta runtime lama tetap diarsipkan; bukan sumber lokasi naratif terkini.",
+      "Sifat material naratif belum dikalibrasi menjadi immunity, state, drop rate, recipe, atau angka game. Rincian visual, kepribadian, dan kisah telah disetujui pemilik."
+    ],
+    "category_note": "Blackhorn–Adamantine, Goldenscale–Orichalcum, Moonfang–Silver, Silverwing–Mithril; penjaga berakal, bukan Feral.",
+    "historical_description": "Naga pembunuh senyap yang menyemburkan api dingin membeku.",
+    "approval_record": "07_Bestiary/_audit/agnitra_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 55,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 512
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 513
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 514
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 105,
+          "denominator": 3,
+          "kind": 1
+        },
+        {
+          "dataId": 106,
+          "denominator": 5,
+          "kind": 1
+        },
+        {
+          "dataId": 303,
+          "denominator": 8,
+          "kind": 1
+        }
+      ],
+      "exp": 2520,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 22,
+          "dataId": 1,
+          "value": 0.05
+        },
+        {
+          "code": 21,
+          "dataId": 2,
+          "value": 1.1
+        },
+        {
+          "code": 21,
+          "dataId": 3,
+          "value": 0.95
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 0.75
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 15,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 17,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.5
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 700,
+      "name": "Moonfang",
+      "note": "<NUSV Bestiary Group: Dragons Agnitra>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Dragon>\n<NUSV Archetype: Assassin>\n<NUSV Tier: T6>\n<NUSV Region: Agnitra Nest>\n<NUSV Element: Dark/Lightning>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Flying, Large, Draconic, Frenzy>\n<NUSV Attack Type: Melee>\n[PENDING ATTACK ELEMENT] Dark/Lightning\n[ACTION CONDITION NOTE] Moonshadow Dive: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Moonfang Nighthelm @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Moonfang Shadowcoat @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Moonfang Stalkers @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Mithril Dragon Fang: source 30% -> MV 1/3 = 33.33%\n[DROP RATE APPROX] Eclipse Feather: source 12% -> MV 1/8 = 12.50%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        7020,
+        140,
+        171,
+        103,
+        120,
+        102,
+        91,
+        55
+      ]
+    },
+    "skills": [
+      {
+        "id": 512,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 11,
+          "formula": "a.atk * 1.15 - b.def * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Moonfang.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Lunar Claw",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 513,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 11,
+          "formula": "a.atk * 1.45 - b.def * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Moonfang.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Moonshadow Dive",
+        "note": "[CUSTOM SKILL EFFECT] Priority +1; bonus damage if acting before target.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 514,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 11,
+          "formula": "a.atk * 1.85 - b.def * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Moonfang.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Frenzied Moonfang",
+        "note": "[CUSTOM SKILL EFFECT] Signature/high-power action\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 105,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Light yet strong fang from the Mithril dragon clan. Material Tier 5.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Mithril Dragon Fang",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Epic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 5.",
+          "occasion": 3,
+          "price": 1800,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 106,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Light yet strong claw from the Mithril dragon clan. Material Tier 5.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Mithril Dragon Claw",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Epic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 5.",
+          "occasion": 3,
+          "price": 1800,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 303,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Bulu Falcon yang menyimpan aura gerhana.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Eclipse Feather",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Feather>\n<NUSV Rarity: Rare>\n<NUSV Source: Eclipse Falcon>\n<NUSV Region: Thalantira>",
+          "occasion": 3,
+          "price": 250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  },
+  "lore_identity": {
+    "nest": "Silver Nest",
+    "signature_material": "Silver",
+    "nest_location": "lembah bersalju utara Agnitra",
+    "role": "Penjaga nest",
+    "basis": "Penyesuaian identitas material tiap nest atas arahan pemilik; rincian narasi tetap usulan.",
+    "gameplay_mapping": "Lore identity only; existing legacy and runtime fields remain historical observations, not updated spawn or drop rules."
+  }
 }

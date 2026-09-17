@@ -1,13 +1,371 @@
-﻿{
-    "description":  "Garuda bermata tajam pembidik dengan resonansi sonik suci.",
-    "id":  "Jenderal_Paksi",
-    "mp":  600000,
-    "weakness":  "Besi \u0026 Kegelapan",
-    "category":  "Bestiary Boss",
-    "element":  "Suara \u0026 Cahaya",
-    "class":  "Sniper (Tier 4)",
-    "location":  "Kuil Angin Timur Sayendra",
-    "hp":  480000,
-    "title":  "Jenderal Paksi",
-    "attack_type":  "Ranged / Aerial"
+{
+  "description": "Garuda bermata tajam pembidik dengan resonansi sonik suci.",
+  "id": "Jenderal_Paksi",
+  "mp": 600000,
+  "weakness": "Besi & Kegelapan",
+  "category": "Bestiary Boss",
+  "element": "Suara & Cahaya",
+  "class": "Sniper (Tier 4)",
+  "location": "Kuil Angin Timur Sayendra",
+  "hp": 480000,
+  "title": "Jenderal Paksi",
+  "attack_type": "Ranged / Aerial",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "race": "Garuda",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Paksi.md",
+    "game_data_source": "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Paksi.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah empat Sentinel Nusa Sayendra.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Paksi.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah empat Sentinel Nusa Sayendra.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_sayendra_sentinels_narrative.json",
+    "sources": [
+      "02_World/Nusa_Sayendra.md",
+      "04_Ras/02_Wuru Loka/Garuda.md",
+      "03_Region/07_Nusa Sayendra/Cities & Town/Puncak Emas Swargaloka.md",
+      "03_Region/07_Nusa Sayendra/Faksi & Institusi/Pasukan Ksatria Sayap Garuda.md",
+      "03_Region/07_Nusa Sayendra/Agama & Kepercayaan/Sumpah Penjaga Langit.md",
+      "03_Region/07_Nusa Sayendra/Threat.md"
+    ],
+    "unresolved": [
+      "Paksi belum memiliki profil tokoh terpisah. Senjata busur, kepribadian, dan kisah telah disetujui pemilik; Kuil Angin Timur belum terdokumentasi sebagai lokasi mandiri."
+    ],
+    "category_note": "Sapient Garuda sentinels; cardinal temples retained as duty stations, not new settlements.",
+    "historical_description": "Garuda bermata tajam pembidik dengan resonansi sonik suci.",
+    "approval_record": "07_Bestiary/_audit/sayendra_sentinels_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 61,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 295
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 339
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 344
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 111,
+          "denominator": 3,
+          "kind": 1
+        },
+        {
+          "dataId": 83,
+          "denominator": 6,
+          "kind": 1
+        },
+        {
+          "dataId": 32,
+          "denominator": 8,
+          "kind": 1
+        }
+      ],
+      "exp": 5600,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 10,
+          "value": 1
+        },
+        {
+          "code": 22,
+          "dataId": 1,
+          "value": 0.05
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 0.5
+        },
+        {
+          "code": 11,
+          "dataId": 5,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.4
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.4
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.4
+        },
+        {
+          "code": 23,
+          "dataId": 6,
+          "value": 0.9
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 1500,
+      "name": "Jenderal Paksi",
+      "note": "<NUSV Bestiary Group: Sentinels Nusa Sayendra>\n<NUSV Enemy Rank: Commander>\n<NUSV Enemy Type: Garuda>\n<NUSV Archetype: Tank>\n<NUSV Tier: T7>\n<NUSV Region: Nusa Sayendra>\n<NUSV Element: Light>\n<NUSV Weakness: Dark>\n<NUSV Combat Tags: Flying, Holy, Light, Armored>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Bulwark of Light: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Paksi Suncrest Helm @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Garuda Golden Scale: source 35% -> MV 1/3 = 33.33%\n[DROP RATE APPROX] Prabha Crystal: source 18% -> MV 1/6 = 16.67%\n[DROP RATE APPROX] Orichalcum: source 12% -> MV 1/8 = 12.50%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        19375,
+        180,
+        207,
+        218,
+        150,
+        179,
+        72,
+        58
+      ]
+    },
+    "skills": [
+      {
+        "id": 295,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 1,
+          "formula": "a.def * 1.3 - b.def * 0.4",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Melancarkan serangan fisik dengan teknik cepat dan penuh tenaga.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Bastion Smash",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 6,
+        "tpGain": 0
+      },
+      {
+        "id": 339,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 10,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Mengambil sikap bertahan untuk menghadapi serangan yang datang.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 52,
+            "value1": 1,
+            "value2": 0
+          }
+        ],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Bulwark of Light",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 8,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 14,
+        "tpGain": 0
+      },
+      {
+        "id": 344,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 1,
+          "formula": "a.atk * 0.9 + a.def * 1.8 - b.def * 0.2",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Mengambil sikap bertahan untuk menghadapi serangan yang datang.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Aegis Retribution",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 24,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 111,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Sacred scale from Garuda lineage. Material Tier 7.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Garuda Golden Scale",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Nusa Sayendra>\n[REMARKS] Material Tier 7.",
+          "occasion": 3,
+          "price": 15000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 83,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal cahaya untuk forge dan socket elemental.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Prabha Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Elemental Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Ksatria Solarius>\n<NUSV Region: Avalerion / Tirta Amarta; Avalerion Outpost>\n[REMARKS] Material Tier 7.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 32,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Superb conductor for magical forging. Material Tier 6.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Orichalcum",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Ore>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 6.",
+          "occasion": 3,
+          "price": 5000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime implementation requires review before calibration."
+    ]
+  }
 }

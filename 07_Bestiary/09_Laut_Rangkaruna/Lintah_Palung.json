@@ -1,4 +1,19 @@
 {
+  "Kategori": "09 Laut Rangkaruna",
+  "Elemen": "Air/Parasit",
+  "Kelemahan": "Api/Cahaya",
+  "Tipe Serangan": "Melee (Lifesteal)",
+  "HP": 18000,
+  "MP": 5000,
+  "Spawn Location": "Semua Perairan Rangkaruna",
+  "id": "Lintah_Palung",
+  "title": "Lintah Palung",
+  "category": "Bestiary",
+  "description": "Lintah laut seukuran perahu kecil yang menyerang berkelompok dan menempel pada lambung kapal.",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "legacy_values": {
     "Kategori": "09 Laut Rangkaruna",
     "Elemen": "Air/Parasit",
     "Kelemahan": "Api/Cahaya",
@@ -6,4 +21,305 @@
     "HP": 18000,
     "MP": 5000,
     "Spawn Location": "Semua Perairan Rangkaruna"
+  },
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/09_Laut_Rangkaruna/Lintah_Palung.md",
+    "game_data_source": "07_Bestiary/09_Laut_Rangkaruna/Lintah_Palung.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/09_Laut_Rangkaruna/Lintah_Palung.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_rangkaruna_narrative.json",
+    "sources": [
+      "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
+      "02_World/Laut_Rangkaruna.md",
+      "08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md"
+    ],
+    "unresolved": [
+      "Kisah merangkum Prologue; Lifesteal legacy tidak dijadikan aturan naratif terhadap HP."
+    ],
+    "category_note": "Rangkaruna fauna; no automatic relation to similarly named Thalantira creatures.",
+    "historical_description": null,
+    "approval_record": "07_Bestiary/_audit/rangkaruna_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 75,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 530
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 531
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 532
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 282,
+          "denominator": 3,
+          "kind": 1
+        },
+        {
+          "dataId": 84,
+          "denominator": 10,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 720,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 0.75
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.25
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.5
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 200,
+      "name": "Lintah Palung",
+      "note": "<NUSV Bestiary Group: Laut Rangkaruna>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Aquatic>\n<NUSV Archetype: Controller>\n<NUSV Tier: T6>\n<NUSV Region: Laut Rangkaruna>\n<NUSV Element: Water/Dark>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Aquatic, Lifesteal>\n<NUSV Attack Type: Melee>\n[PENDING ATTACK ELEMENT] Water/Dark\n[ACTION CONDITION NOTE] Blood Drain: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Spirit Dust: source 30% -> MV 1/3 = 33.33%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        2470,
+        159,
+        106,
+        98,
+        139,
+        106,
+        69,
+        55
+      ]
+    },
+    "skills": [
+      {
+        "id": 530,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.15 - b.mdf * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Lintah Palung.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 10,
+            "value1": 0.3,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Abyssal Leech",
+        "note": "[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_BuffsStatesCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 531,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "a.mat * 1.45 - b.mdf * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Lintah Palung.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Blood Drain",
+        "note": "[CUSTOM SKILL EFFECT] HP drain\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 532,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Lintah Palung.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 17,
+            "value1": 0.5,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Trench Clamp",
+        "note": "[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_BuffsStatesCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 282,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Debu spiritual yang tersisa setelah Wisp menghilang.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Dust",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Spirit Remnant>\n<NUSV Rarity: Common>\n<NUSV Source: Wisp>\n<NUSV Region: Jenggala>",
+          "occasion": 3,
+          "price": 25,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 84,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal kegelapan pekat yang menjadi salah satu bahan forge tingkat tinggi.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Kala Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Elemental Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Demon Commanders>\n<NUSV Region: Raksamala; Raksamala Fortress>\n[REMARKS] Material Tier 7.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "legacy_note": "Original object preserved in legacy_values; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null
+  }
 }

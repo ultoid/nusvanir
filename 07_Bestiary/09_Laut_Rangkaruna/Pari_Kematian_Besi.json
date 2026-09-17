@@ -1,4 +1,19 @@
 {
+  "Kategori": "09 Laut Rangkaruna",
+  "Elemen": "Baja/Air",
+  "Kelemahan": "Api",
+  "Tipe Serangan": "Melee",
+  "HP": 55000,
+  "MP": 15000,
+  "Spawn Location": "Perairan Dangkal Rangkaruna",
+  "id": "Pari_Kematian_Besi",
+  "title": "Pari Kematian Besi",
+  "category": "Bestiary",
+  "description": "Pari purba selebar alun-alun dengan pelat alami sekeras baja dan ekor seperti tombak beracun.",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "legacy_values": {
     "Kategori": "09 Laut Rangkaruna",
     "Elemen": "Baja/Air",
     "Kelemahan": "Api",
@@ -6,4 +21,286 @@
     "HP": 55000,
     "MP": 15000,
     "Spawn Location": "Perairan Dangkal Rangkaruna"
+  },
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/09_Laut_Rangkaruna/Pari_Kematian_Besi.md",
+    "game_data_source": "07_Bestiary/09_Laut_Rangkaruna/Pari_Kematian_Besi.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/09_Laut_Rangkaruna/Pari_Kematian_Besi.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_rangkaruna_narrative.json",
+    "sources": [
+      "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
+      "02_World/Laut_Rangkaruna.md",
+      "08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md"
+    ],
+    "unresolved": [
+      "Kisah merangkum Prologue; racun, hardness, dan penetrasi belum dikalibrasi."
+    ],
+    "category_note": "Rangkaruna fauna; no automatic relation to similarly named Thalantira creatures.",
+    "historical_description": null,
+    "approval_record": "07_Bestiary/_audit/rangkaruna_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 77,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 536
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 537
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 538
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 52,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 28,
+          "denominator": 7,
+          "kind": 1
+        },
+        {
+          "dataId": 1,
+          "denominator": 1,
+          "kind": 0
+        }
+      ],
+      "exp": 1120,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.5
+        },
+        {
+          "code": 23,
+          "dataId": 6,
+          "value": 0.9
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 300,
+      "name": "Pari Kematian Besi",
+      "note": "<NUSV Bestiary Group: Laut Rangkaruna>\n<NUSV Enemy Rank: Elite>\n<NUSV Enemy Type: Aquatic>\n<NUSV Archetype: Sniper>\n<NUSV Tier: T7>\n<NUSV Region: Laut Rangkaruna>\n<NUSV Element: Water/Iron>\n<NUSV Weakness: Lightning>\n<NUSV Combat Tags: Aquatic, Armored>\n<NUSV Attack Type: Ranged>\n[PENDING ATTACK ELEMENT] Water/Iron\n[PENDING ENEMY TRAIT] Element Rate: Iron 75%\n[ACTION CONDITION NOTE] Razor Current: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Silver: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        3420,
+        160,
+        207,
+        124,
+        143,
+        122,
+        95,
+        56
+      ]
+    },
+    "skills": [
+      {
+        "id": 536,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 4,
+          "formula": "a.atk * 1.15 - b.def * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Pari Kematian Besi.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Iron Barb",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 537,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "a.mat * 1.45 - b.mdf * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Pari Kematian Besi.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Razor Current",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 538,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Pari Kematian Besi.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Deathray Charge",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 52,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Volcanic glass with an exceptionally sharp edge. Material Tier 3.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Obsidian",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Stone>\n<NUSV Rarity: Rare>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 3.",
+          "occasion": 3,
+          "price": 250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 28,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Precious metal effective for specialized forging. Material Tier 3.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Silver",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Ore>\n<NUSV Rarity: Rare>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 3.",
+          "occasion": 3,
+          "price": 250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "legacy_note": "Original object preserved in legacy_values; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null
+  }
 }

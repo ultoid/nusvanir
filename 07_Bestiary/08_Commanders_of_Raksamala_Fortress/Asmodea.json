@@ -1,13 +1,361 @@
-﻿{
-    "description":  "[COMMANDER] Demon Lord Hawa Nafsu yang memanipulasi pikiran lewat melodi kutukan.",
-    "id":  "Asmodea",
-    "mp":  600000,
-    "weakness":  "Cahaya \u0026 Besi",
-    "category":  "Bestiary Boss",
-    "element":  "Kegelapan \u0026 Suara",
-    "class":  "Assassin (Tier 4)",
-    "location":  "Benteng Lust (Taman Layu Raksamala)",
-    "hp":  750000,
-    "title":  "Asmodea",
-    "attack_type":  "Melee / Illusion"
+{
+  "description": "[COMMANDER] Demon Lord Hawa Nafsu yang memanipulasi pikiran lewat melodi kutukan.",
+  "id": "Asmodea",
+  "mp": 600000,
+  "weakness": "Cahaya & Besi",
+  "category": "Bestiary Boss",
+  "element": "Kegelapan & Suara",
+  "class": "Assassin (Tier 4)",
+  "location": "Benteng Lust (Taman Layu Raksamala)",
+  "hp": 750000,
+  "title": "Asmodea",
+  "attack_type": "Melee / Illusion",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "race": "Dhemit",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.md",
+    "game_data_source": "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan benteng, serta kisah tujuh komandan Raksamala.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan benteng, serta kisah tujuh komandan Raksamala.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_raksamala_commanders_narrative.json",
+    "sources": [
+      "05_Karakter & Tokoh Penting/09_Raksamala/Asmodea.md",
+      "03_Region/10_Raksamala/Cities & Town/Fortress of Lust.md",
+      "04_Ras/04_Drahkthar/Dhemit.md",
+      "04_Ras/04_Drahkthar/Bhuta.md",
+      "03_Region/10_Raksamala/Faksi & Institusi/Kerajaan Drakhtar.md",
+      "03_Region/10_Raksamala/Threat.md"
+    ],
+    "unresolved": [
+      "Profil tokoh menyebut Dhemit, sedangkan dokumen benteng menyebut bos Bhuta Succubus/Incubus. Race mengikuti profil; konflik taxonomy belum diselesaikan."
+    ],
+    "category_note": "Seven sapient fortress commanders under Sangrahal; chronology distinguishes pre-destruction fortresses from post-Hector ruins.",
+    "historical_description": "[COMMANDER] Demon Lord Hawa Nafsu yang memanipulasi pikiran lewat melodi kutukan.",
+    "approval_record": "07_Bestiary/_audit/raksamala_commanders_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 64,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 103
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 135
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 104
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 84,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 96,
+          "denominator": 7,
+          "kind": 1
+        },
+        {
+          "dataId": 32,
+          "denominator": 10,
+          "kind": 1
+        }
+      ],
+      "exp": 8500,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 11,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 0.5
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.4
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.4
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.4
+        },
+        {
+          "code": 23,
+          "dataId": 7,
+          "value": 0.95
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 2200,
+      "name": "Asmodea",
+      "note": "<NUSV Bestiary Group: Commanders Raksamala>\n<NUSV Enemy Rank: Commander>\n<NUSV Enemy Type: Demon>\n<NUSV Archetype: Controller>\n<NUSV Tier: T8>\n<NUSV Region: Raksamala Fortress>\n<NUSV Element: Dark>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Demonic, Caster, Corrupted>\n<NUSV Attack Type: Magic>\n[ACTION CONDITION NOTE] Umbral Veil: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Spirit Thread: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        20900,
+        357,
+        226,
+        214,
+        300,
+        231,
+        110,
+        88
+      ]
+    },
+    "skills": [
+      {
+        "id": 103,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "a.mat * 1.2 - b.mdf * 0.4",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Menggunakan teknik Abyssal Chains untuk menekan lawan atau membantu jalannya pertarungan.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 16,
+        "name": "Abyssal Chains",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 2,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 135,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 11,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Memanggil kekuatan kelam untuk mengganggu dan menekan lawan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 73,
+            "value1": 1,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 10,
+        "name": "Umbral Veil",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 0,
+        "stypeId": 2,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 104,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 1,
+          "formula": "a.mat * 2.0 - b.mdf * 0.6",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Memanggil kekuatan kelam untuk mengganggu dan menekan lawan.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 35,
+        "name": "Soul Rupture",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 5,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 84,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal kegelapan pekat yang menjadi salah satu bahan forge tingkat tinggi.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Kala Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Elemental Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Demon Commanders>\n<NUSV Region: Raksamala; Raksamala Fortress>\n[REMARKS] Material Tier 7.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 96,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Thread carrying spiritual resonance. Material Tier 7.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Thread",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Fiber>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Tirta Amarta>\n[REMARKS] Material Tier 7.",
+          "occasion": 3,
+          "price": 15000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 32,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Superb conductor for magical forging. Material Tier 6.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Orichalcum",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Ore>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 6.",
+          "occasion": 3,
+          "price": 5000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Legacy numbers preserved; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime mechanics require review before calibration."
+    ]
+  }
 }

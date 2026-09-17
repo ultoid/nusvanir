@@ -1,0 +1,22 @@
+{
+  "approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+    "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah."
+  },
+  "approved_markdown_sha256": {
+    "07_Bestiary/09_Laut_Rangkaruna/Hiu_Purba_Tulang.md": "6ad42967938c20a401ed70c07bd5e29730776170b916e4298d69d62b408bfe54",
+    "07_Bestiary/09_Laut_Rangkaruna/Hydra.md": "57f6d76491e075c91242a0d2aaaf10ea109e16d0fd4d917e5bddde188cf3372e",
+    "07_Bestiary/09_Laut_Rangkaruna/Kepiting_Batu_Karang.md": "e01e10aaf8b014513a126b5af7fa8aac485d6b1ae3488c66bd6d7cd698d8278c",
+    "07_Bestiary/09_Laut_Rangkaruna/Krakentis_Sang_Pemutar_Arus.md": "81feb4bac6f69ea8813c775f4f7f5430fd0d9b199d5024ccdf5ca0dc4630ed2c",
+    "07_Bestiary/09_Laut_Rangkaruna/Lintah_Palung.md": "ba6f283a29a1b9c04e90927fbcc94ffc4c71af3c5bac9c199af1faf2652e5783",
+    "07_Bestiary/09_Laut_Rangkaruna/Naga_Laut_Penghancur.md": "a1ad373f9986e12efb29c465f73912b3061f168f17060d67b108d28202b7b5c8",
+    "07_Bestiary/09_Laut_Rangkaruna/Pari_Kematian_Besi.md": "38f586880d4dde96f1d10ff106cce59ae11d40bee73d0ab6e4c140f304c3c077",
+    "07_Bestiary/09_Laut_Rangkaruna/Paus_Penelan_Armada.md": "022299a29e842fb1feb05b19a084efc38158e59065fcfb56019e307769966122",
+    "07_Bestiary/09_Laut_Rangkaruna/Sirenia_Kegelapan.md": "2fd84ba465b5f4a40fcb75b049f61cc1de025d75ce56ad58b22fcbb8dfbfe9f2",
+    "07_Bestiary/09_Laut_Rangkaruna/Ubur_Ubur_Pijar_Kematian.md": "c3fba73e8c57844b9fd656214a5b1f49b408140f3766bd8b22c2af69c7e388ed"
+  }
+}

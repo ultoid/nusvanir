@@ -1,13 +1,382 @@
-﻿{
-    "description":  "[COMMANDER] Mantan Jenderal Hanorok yang mengamuk, wujud dari amarah absolut.",
-    "id":  "Vraka_The_Wrathful",
-    "mp":  400000,
-    "weakness":  "Cahaya \u0026 Air",
-    "category":  "Bestiary Boss",
-    "element":  "Kegelapan \u0026 Api",
-    "class":  "Dark Knight (Tier 5)",
-    "location":  "Benteng Wrath (Kawah Raksamala)",
-    "hp":  1100000,
-    "title":  "Vraka The Wrathful",
-    "attack_type":  "Melee / Burst"
+{
+  "description": "[COMMANDER] Mantan Jenderal Hanorok yang mengamuk, wujud dari amarah absolut.",
+  "id": "Vraka_The_Wrathful",
+  "mp": 400000,
+  "weakness": "Cahaya & Air",
+  "category": "Bestiary Boss",
+  "element": "Kegelapan & Api",
+  "class": "Dark Knight (Tier 5)",
+  "location": "Benteng Wrath (Kawah Raksamala)",
+  "hp": 1100000,
+  "title": "Vraka The Wrathful",
+  "attack_type": "Melee / Burst",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "race": "Bhuta",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Vraka_The_Wrathful.md",
+    "game_data_source": "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Vraka_The_Wrathful.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan benteng, serta kisah tujuh komandan Raksamala.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Vraka_The_Wrathful.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan benteng, serta kisah tujuh komandan Raksamala.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_raksamala_commanders_narrative.json",
+    "sources": [
+      "05_Karakter & Tokoh Penting/09_Raksamala/Vraka The Wrathful.md",
+      "03_Region/10_Raksamala/Cities & Town/Fortress of Wrath.md",
+      "04_Ras/04_Drahkthar/Bhuta.md",
+      "03_Region/10_Raksamala/Faksi & Institusi/Kerajaan Drakhtar.md",
+      "03_Region/10_Raksamala/Threat.md"
+    ],
+    "unresolved": [
+      "Asal Hanorok dan transformasi menjadi Bhuta canon existing. Api yang tidak padam air biasa tidak menjadi blanket immunity; Bloodlust belum dikalibrasi."
+    ],
+    "category_note": "Seven sapient fortress commanders under Sangrahal; chronology distinguishes pre-destruction fortresses from post-Hector ruins.",
+    "historical_description": "[COMMANDER] Mantan Jenderal Hanorok yang mengamuk, wujud dari amarah absolut.",
+    "approval_record": "07_Bestiary/_audit/raksamala_commanders_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 70,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 285
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 291
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 294
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 84,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 96,
+          "denominator": 7,
+          "kind": 1
+        },
+        {
+          "dataId": 32,
+          "denominator": 10,
+          "kind": 1
+        }
+      ],
+      "exp": 8500,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 21,
+          "dataId": 2,
+          "value": 1.1
+        },
+        {
+          "code": 21,
+          "dataId": 3,
+          "value": 0.95
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 0.5
+        },
+        {
+          "code": 11,
+          "dataId": 2,
+          "value": 0.75
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 1.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.4
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.4
+        },
+        {
+          "code": 13,
+          "dataId": 17,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.4
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 2200,
+      "name": "Vraka The Wrathful",
+      "note": "<NUSV Bestiary Group: Commanders Raksamala>\n<NUSV Enemy Rank: Commander>\n<NUSV Enemy Type: Demon>\n<NUSV Archetype: Berserker>\n<NUSV Tier: T8>\n<NUSV Region: Raksamala Fortress>\n<NUSV Element: Dark/Fire>\n<NUSV Weakness: Light>\n<NUSV Combat Tags: Demonic, Frenzy, Large, Corrupted>\n<NUSV Attack Type: Melee>\n[PENDING ATTACK ELEMENT] Dark/Fire\n[ACTION CONDITION NOTE] Frenzy: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Wrathbound Carapace @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Spirit Thread: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        24200,
+        208,
+        368,
+        202,
+        183,
+        189,
+        116,
+        70
+      ]
+    },
+    "skills": [
+      {
+        "id": 285,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 1,
+          "formula": "a.atk * 1.9 - b.def * 0.3",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Melancarkan serangan fisik dengan teknik cepat dan penuh tenaga.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Raging Blow",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 8,
+        "tpGain": 0
+      },
+      {
+        "id": 291,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 1,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Membangkitkan semangat tempur untuk mengubah momentum pertarungan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 43,
+            "value1": 1,
+            "value2": 0
+          }
+        ],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Frenzy",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 25,
+        "tpGain": 0
+      },
+      {
+        "id": 294,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 1,
+          "formula": "a.atk * 1.55 - b.def * 0.10",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Menggunakan teknik Executioner's Wrath untuk menekan lawan atau membantu jalannya pertarungan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 6,
+            "value1": 1,
+            "value2": 0
+          }
+        ],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Executioner's Wrath",
+        "note": "[CUSTOM FORMULA/EFFECT] a.atk * 1.55 - b.def * 0.10 per hit (3 hits; ignores 15% DEF)\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for non-native formula or conditional effect.",
+        "occasion": 1,
+        "repeats": 3,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 5,
+        "successRate": 100,
+        "tpCost": 40,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 84,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal kegelapan pekat yang menjadi salah satu bahan forge tingkat tinggi.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Kala Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Elemental Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Demon Commanders>\n<NUSV Region: Raksamala; Raksamala Fortress>\n[REMARKS] Material Tier 7.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 96,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Thread carrying spiritual resonance. Material Tier 7.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Thread",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Fiber>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Tirta Amarta>\n[REMARKS] Material Tier 7.",
+          "occasion": 3,
+          "price": 15000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 32,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Superb conductor for magical forging. Material Tier 6.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Orichalcum",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Ore>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 6.",
+          "occasion": 3,
+          "price": 5000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Legacy numbers preserved; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime mechanics require review before calibration."
+    ]
+  }
 }

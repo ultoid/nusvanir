@@ -1,13 +1,366 @@
-﻿{
-    "description":  "Pemimpin legendaris Garuda pembawa petir langit pembelah awan.",
-    "id":  "Jenderal_Jatayu",
-    "mp":  500000,
-    "weakness":  "Tanah \u0026 Es",
-    "category":  "Bestiary Boss",
-    "element":  "Udara \u0026 Listrik",
-    "class":  "Sky Sovereign (Tier 5)",
-    "location":  "Kuil Angin Selatan Sayendra",
-    "hp":  650000,
-    "title":  "Jenderal Jatayu",
-    "attack_type":  "Melee / Aerial"
+{
+  "description": "Pemimpin legendaris Garuda pembawa petir langit pembelah awan.",
+  "id": "Jenderal_Jatayu",
+  "mp": 500000,
+  "weakness": "Tanah & Es",
+  "category": "Bestiary Boss",
+  "element": "Udara & Listrik",
+  "class": "Sky Sovereign (Tier 5)",
+  "location": "Kuil Angin Selatan Sayendra",
+  "hp": 650000,
+  "title": "Jenderal Jatayu",
+  "attack_type": "Melee / Aerial",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "race": "Garuda",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Jatayu.md",
+    "game_data_source": "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Jatayu.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah empat Sentinel Nusa Sayendra.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/07_Sentinels_of_Nusa_Sayendra/Jenderal_Jatayu.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah empat Sentinel Nusa Sayendra.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_sayendra_sentinels_narrative.json",
+    "sources": [
+      "05_Karakter & Tokoh Penting/07_Nusa Sayendra/Jenderal Jatayu.md",
+      "05_Karakter & Tokoh Penting/03_Avalerion/Ksatria Vayu.md",
+      "02_World/Nusa_Sayendra.md",
+      "04_Ras/02_Wuru Loka/Garuda.md",
+      "03_Region/07_Nusa Sayendra/Cities & Town/Puncak Emas Swargaloka.md",
+      "03_Region/07_Nusa Sayendra/Faksi & Institusi/Pasukan Ksatria Sayap Garuda.md",
+      "03_Region/07_Nusa Sayendra/Agama & Kepercayaan/Sumpah Penjaga Langit.md",
+      "03_Region/07_Nusa Sayendra/Threat.md"
+    ],
+    "unresolved": [
+      "Kuil Angin Selatan belum memiliki dokumen lokasi tersendiri. Ukuran sayap setengah pulau adalah kabar dalam dokumen pasukan, bukan ukuran numerik terverifikasi."
+    ],
+    "category_note": "Sapient Garuda sentinels; cardinal temples retained as duty stations, not new settlements.",
+    "historical_description": "Pemimpin legendaris Garuda pembawa petir langit pembelah awan.",
+    "approval_record": "07_Bestiary/_audit/sayendra_sentinels_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 60,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 65
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 179
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 44
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 110,
+          "denominator": 3,
+          "kind": 1
+        },
+        {
+          "dataId": 111,
+          "denominator": 5,
+          "kind": 1
+        },
+        {
+          "dataId": 96,
+          "denominator": 7,
+          "kind": 1
+        }
+      ],
+      "exp": 5600,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 22,
+          "dataId": 1,
+          "value": 0.05
+        },
+        {
+          "code": 11,
+          "dataId": 11,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 4,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 10,
+          "value": 0.5
+        },
+        {
+          "code": 11,
+          "dataId": 5,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.4
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.4
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.4
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 1500,
+      "name": "Jenderal Jatayu",
+      "note": "<NUSV Bestiary Group: Sentinels Nusa Sayendra>\n<NUSV Enemy Rank: Commander>\n<NUSV Enemy Type: Garuda>\n<NUSV Archetype: Fighter>\n<NUSV Tier: T7>\n<NUSV Region: Nusa Sayendra>\n<NUSV Element: Wind/Light>\n<NUSV Weakness: Earth>\n<NUSV Combat Tags: Flying, Holy, Wind>\n<NUSV Attack Type: Melee>\n[PENDING ATTACK ELEMENT] Wind/Light\n[ACTION CONDITION NOTE] Gale Force: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Jatayu Stormcrown @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Golden Sentinel Boots @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Garuda Storm Feather: source 35% -> MV 1/3 = 33.33%\n[DROP RATE APPROX] Spirit Thread: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        16275,
+        180,
+        250,
+        191,
+        160,
+        162,
+        90,
+        58
+      ]
+    },
+    "skills": [
+      {
+        "id": 65,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 1,
+          "formula": "a.atk * 2.7 - b.def * 0.1",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Melepaskan serangan jarak jauh yang terarah dan presisi ke sasaran.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Piercing Shot",
+        "note": "[CUSTOM SCOPE] 2 Line Enemies / Cover Target\n[CUSTOM FORMULA/EFFECT] a.atk * 2.7 - b.def * 0.1 (ignores 40% DEF)\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for non-native formula or conditional effect.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 26,
+        "tpGain": 0
+      },
+      {
+        "id": 179,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 5,
+          "formula": "a.mat * 1.3 - b.mdf * 0.3",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Menggerakkan arus udara dengan cepat untuk mengacaukan posisi lawan.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Gale Force",
+        "note": "[CUSTOM FORMULA/EFFECT] a.mat * 1.3 - b.mdef * 0.3",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 2,
+        "successRate": 100,
+        "tpCost": 20,
+        "tpGain": 0
+      },
+      {
+        "id": 44,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 1,
+          "formula": "a.atk * 4.2 - b.def * 0.05",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Melepaskan serangan jarak jauh yang terarah dan presisi ke sasaran.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 15,
+        "name": "Forestbreaker Arrow",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 5,
+        "successRate": 100,
+        "tpCost": 35,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 110,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Rare feather carrying storm resonance. Material Tier 7.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Garuda Storm Feather",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Nusa Sayendra>\n[REMARKS] Material Tier 7.",
+          "occasion": 3,
+          "price": 15000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 111,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Sacred scale from Garuda lineage. Material Tier 7.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Garuda Golden Scale",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Nusa Sayendra>\n[REMARKS] Material Tier 7.",
+          "occasion": 3,
+          "price": 15000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 96,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Thread carrying spiritual resonance. Material Tier 7.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Thread",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Fiber>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Tirta Amarta>\n[REMARKS] Material Tier 7.",
+          "occasion": 3,
+          "price": 15000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": null,
+      "balance_status": null,
+      "source_status": null
+    },
+    "legacy_note": "Existing top-level numbers preserved; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime implementation requires review before calibration."
+    ]
+  }
 }

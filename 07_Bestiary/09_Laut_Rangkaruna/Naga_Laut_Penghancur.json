@@ -1,4 +1,19 @@
 {
+  "Kategori": "09 Laut Rangkaruna",
+  "Elemen": "Petir/Air",
+  "Kelemahan": "Bumi",
+  "Tipe Serangan": "Melee/Magic",
+  "HP": 85000,
+  "MP": 60000,
+  "Spawn Location": "Zona Badai Abadi",
+  "id": "Naga_Laut_Penghancur",
+  "title": "Naga Laut Penghancur",
+  "category": "Bestiary",
+  "description": "Naga air purba tanpa mata yang berburu melalui sonar listrik.",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "legacy_values": {
     "Kategori": "09 Laut Rangkaruna",
     "Elemen": "Petir/Air",
     "Kelemahan": "Bumi",
@@ -6,4 +21,334 @@
     "HP": 85000,
     "MP": 60000,
     "Spawn Location": "Zona Badai Abadi"
+  },
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/09_Laut_Rangkaruna/Naga_Laut_Penghancur.md",
+    "game_data_source": "07_Bestiary/09_Laut_Rangkaruna/Naga_Laut_Penghancur.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/09_Laut_Rangkaruna/Naga_Laut_Penghancur.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_rangkaruna_narrative.json",
+    "sources": [
+      "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
+      "02_World/Laut_Rangkaruna.md"
+    ],
+    "unresolved": [
+      "Hubungan dengan Nagarasven tidak ditetapkan. Rupa sonar dan kisah ekologis telah disetujui pemilik."
+    ],
+    "category_note": "Rangkaruna fauna; no automatic relation to similarly named Thalantira creatures.",
+    "historical_description": null,
+    "approval_record": "07_Bestiary/_audit/rangkaruna_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 76,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 533
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 534
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 535
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 86,
+          "denominator": 5,
+          "kind": 1
+        },
+        {
+          "dataId": 112,
+          "denominator": 7,
+          "kind": 1
+        },
+        {
+          "dataId": 32,
+          "denominator": 10,
+          "kind": 1
+        }
+      ],
+      "exp": 5950,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 3,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 15,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 17,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.5
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 1540,
+      "name": "Naga Laut Penghancur",
+      "note": "<NUSV Bestiary Group: Laut Rangkaruna>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Dragon>\n<NUSV Archetype: Bruiser>\n<NUSV Tier: T8>\n<NUSV Region: Laut Rangkaruna>\n<NUSV Element: Water>\n<NUSV Weakness: Lightning>\n<NUSV Combat Tags: Aquatic, Large, Draconic>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Tidal Crash: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Primordial Crystal: source 22% -> MV 1/5 = 20.00%\n[DROP RATE APPROX] Storm Wyvern Fang: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        18400,
+        221,
+        303,
+        241,
+        182,
+        196,
+        99,
+        70
+      ]
+    },
+    "skills": [
+      {
+        "id": 533,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 3,
+          "formula": "a.atk * 1.15 - b.def * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Naga Laut Penghancur.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Sea Dragon Fang",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 534,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 3,
+          "formula": "a.atk * 1.45 - b.def * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Naga Laut Penghancur.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Tidal Crash",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 535,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "a.mat * 1.85 - b.mdf * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Naga Laut Penghancur.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Cataclysmic Breath",
+        "note": "[CUSTOM SKILL EFFECT] Signature/high-power action\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 86,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal purba yang menyimpan energi dunia sebelum peradaban modern.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Primordial Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Special Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Hydra Jurang; Behemoth Cangkang Hitam>\n<NUSV Region: Ancient Sites; Thalantira>\n[REMARKS] Material Tier 8.; Special forge drop; drop rate disarankan rendah.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 112,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Fang from Storm Wyvern. Material Tier 8.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Storm Wyvern Fang",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Thalantira>\n[REMARKS] Material Tier 8.",
+          "occasion": 3,
+          "price": 50000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 32,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Superb conductor for magical forging. Material Tier 6.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Orichalcum",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Ore>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 6.",
+          "occasion": 3,
+          "price": 5000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "legacy_note": "Original object preserved in legacy_values; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null
+  }
 }

@@ -1,13 +1,392 @@
-﻿{
-    "description":  "Dukun suku pemanipulasi air sungai dan getaran alam.",
-    "id":  "Nyai_Larasati",
-    "mp":  400000,
-    "weakness":  "Listrik \u0026 Besi",
-    "category":  "Bestiary Boss",
-    "element":  "Air \u0026 Suara",
-    "class":  "Elementalist (Tier 4)",
-    "location":  "Gua Air Mata Air Arkananta",
-    "hp":  320000,
-    "title":  "Nyai Larasati",
-    "attack_type":  "Magic / Healer"
+{
+  "description": "Dukun suku pemanipulasi air sungai dan getaran alam.",
+  "id": "Nyai_Larasati",
+  "mp": 130,
+  "weakness": "Lightning",
+  "category": "Bestiary Boss",
+  "element": "Water/Sound",
+  "class": "Elementalist (Tier 4)",
+  "location": "Pegunungan Arkananta",
+  "hp": 4940,
+  "title": "Nyai Larasati",
+  "attack_type": "Magic",
+  "rank": "Boss",
+  "tier": "T5",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "verified_source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+  "legacy_values": {
+    "hp": 320000,
+    "mp": 400000,
+    "element": "Air & Suara",
+    "weakness": "Listrik & Besi",
+    "attack_type": "Magic / Healer",
+    "location": "Gua Air Mata Air Arkananta"
+  },
+  "runtime_values": {
+    "hp": 4940,
+    "mp": 130,
+    "element": "Water/Sound",
+    "weakness": "Lightning",
+    "attack_type": "Magic",
+    "region": "Pegunungan Arkananta"
+  },
+  "race": "Rakshorien",
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/06_Chiefs_of_Arkananta/Nyai_Larasati.md",
+    "game_data_source": "07_Bestiary/06_Chiefs_of_Arkananta/Nyai_Larasati.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah tiga kepala suku Arkananta.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/06_Chiefs_of_Arkananta/Nyai_Larasati.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan wilayah, serta kisah tiga kepala suku Arkananta.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_arkananta_chiefs_narrative.json",
+    "sources": [
+      "05_Karakter & Tokoh Penting/05_Arkananta/Nyai Larasati.md",
+      "04_Ras/02_Wuru Loka/Rakshorien_(Dark_Elf).md",
+      "03_Region/05_Arkananta/Cities & Town/Gua Rakshorien.md",
+      "03_Region/05_Arkananta/Religion.md",
+      "03_Region/05_Arkananta/Economy.md",
+      "03_Region/05_Arkananta/Pegunungan Arkananta.md"
+    ],
+    "unresolved": [
+      "Gua Air Mata Air ditafsirkan sebagai ruang dalam kompleks Gua Rakshorien; belum ada dokumen lokasi terpisah. Detail tongkat dan mata air adalah usulan."
+    ],
+    "category_note": "Named sapient chiefs: Grok–Troliogoro, Krom–Butoraksa, Larasati–Rakshorien.",
+    "historical_description": "Dukun suku pemanipulasi air sungai dan getaran alam.",
+    "approval_record": "07_Bestiary/_audit/arkananta_chiefs_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 59,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 160
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 216
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 166
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 55,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 80,
+          "denominator": 5,
+          "kind": 1
+        },
+        {
+          "dataId": 93,
+          "denominator": 7,
+          "kind": 1
+        }
+      ],
+      "exp": 1540,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 1,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 9,
+          "value": 0.75
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.5
+        },
+        {
+          "code": 23,
+          "dataId": 7,
+          "value": 0.95
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 455,
+      "name": "Nyai Larasati",
+      "note": "<NUSV Bestiary Group: Chiefs Arkananta>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Humanoid>\n<NUSV Archetype: Controller>\n<NUSV Tier: T5>\n<NUSV Region: Pegunungan Arkananta>\n<NUSV Element: Water/Sound>\n<NUSV Weakness: Lightning>\n<NUSV Combat Tags: Caster, Water, Sonic>\n<NUSV Attack Type: Magic>\n[PENDING ATTACK ELEMENT] Water/Sound\n[ACTION CONDITION NOTE] Ultrasonic Pulse: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Larasati Tide Robe @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Larasati Waterglass Ring @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Larasati Resonance Relic @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Astradipa Silk: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        4940,
+        130,
+        92,
+        83,
+        121,
+        89,
+        57,
+        47
+      ]
+    },
+    "skills": [
+      {
+        "id": 160,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "a.mat * 1.9 - b.mdf * 0.2",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Mengendalikan aliran air untuk mengubah momentum pertarungan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 27,
+            "value1": 0.5,
+            "value2": 0
+          }
+        ],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Aqua Jet",
+        "note": "[CUSTOM FORMULA/EFFECT] a.mat * 1.9 - b.mdef * 0.2",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 2,
+        "successRate": 100,
+        "tpCost": 12,
+        "tpGain": 0
+      },
+      {
+        "id": 216,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 9,
+          "formula": "a.mat * 1.3 - b.mdf * 0.3",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Menggunakan teknik Ultrasonic Pulse untuk menekan lawan atau membantu jalannya pertarungan.",
+        "effects": [],
+        "hitType": 2,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Ultrasonic Pulse",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 2,
+        "successRate": 100,
+        "tpCost": 22,
+        "tpGain": 0
+      },
+      {
+        "id": 166,
+        "animationId": 0,
+        "damage": {
+          "critical": false,
+          "elementId": 3,
+          "formula": "0",
+          "type": 0,
+          "variance": 0
+        },
+        "description": "Mengendalikan aliran air untuk mengubah momentum pertarungan.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 80,
+            "value1": 1,
+            "value2": 0
+          }
+        ],
+        "hitType": 0,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Tidal Resonance",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 11,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 30,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 55,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Stone capable of holding spiritual resonance. Material Tier 6.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Stone",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Stone>\n<NUSV Rarity: Epic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Pegunungan Arkananta>\n[REMARKS] Material Tier 6.",
+          "occasion": 3,
+          "price": 5000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 80,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Crystal capable of storing magical energy. Material Tier 4.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Mana Crystal",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Crystal>\n<NUSV Rarity: Rare>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Arcane Deposits>\n[REMARKS] Material Tier 4.",
+          "occasion": 3,
+          "price": 700,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 93,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Fine silk produced within Astradipa. Material Tier 4.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Astradipa Silk",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Fiber>\n<NUSV Rarity: Rare>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Astradipa>\n[REMARKS] Material Tier 4.",
+          "occasion": 3,
+          "price": 700,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "previous_status": {
+      "stat_status": "VERIFIED",
+      "balance_status": "VERIFIED",
+      "source_status": "runtime_game_data"
+    },
+    "legacy_note": "Existing top-level numbers preserved for traceability; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null,
+    "unresolved": [
+      "Approved party/gear/progression and encounter targets absent.",
+      "Runtime placeholders and modifiers require implementation review before calibration."
+    ]
+  }
 }

@@ -1,0 +1,19 @@
+{
+  "approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, kedudukan dan benteng, serta kisah tujuh komandan Raksamala.",
+    "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah."
+  },
+  "approved_markdown_sha256": {
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.md": "02ef3d986a135cea8631e2fea8a1568c0f98e455406f9c6e491861396f433cd2",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Beelzebub.md": "ddbd9077bb93d841f1804c3d6c5af7944aa41762fe531b1e038ae13c6c921d05",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Belphegor.md": "988cf54443ed0860a7b6987eb7ce8b3c3497fb1b5965fd72ff545c4dbc0f7549",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Leviathanus.md": "e814ea3acadfe27bce062c22d631b0cfb80c40e8fb14fd3762d33490334f1e6f",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Luciferus.md": "e2191d52b8f7843c1c9fa4675fc0fab87b504f5a5c2bb3b96f1548a136807f14",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Mamon.md": "49d9fcb6acaf96244190d82bd9f9bc9bc2fe92cc46484425e015dfd57a97c2f8",
+    "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Vraka_The_Wrathful.md": "ff5a4d869773c982b12f37f0c424011378b215d2c04ce827bfaaab93d5a4eee3"
+  }
+}

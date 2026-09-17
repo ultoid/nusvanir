@@ -1,0 +1,16 @@
+{
+  "approval": {
+    "status": "APPROVED",
+    "date": "2026-09-17",
+    "authority": "project_owner",
+    "request": "untuk usulan aku setujui semua",
+    "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi benteng, dan kisah empat penjaga Avalerion; race Asevari mengikuti permintaan pemilik.",
+    "exclusions": "Kalibrasi game, konflik kelas Vayu, identitas komandan, dan pemetaan arah lama tetap belum diputuskan. Persetujuan ini tidak mencakup batch Thalantira."
+  },
+  "approved_markdown_sha256": {
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Aqua.md": "104b5417707f0daec46a076f6744c82cb9187085e1f947be90fd83fe5c56a4bc",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Solarius.md": "43cacd5588abbf596de3cc67a8c8c3c223a0611f71923e61fc1046f9a1dcf883",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Terra.md": "0a4c3ee9a63300124e9f9ed70f64112784fb54e3b45a2e940cb1ab2097b97a43",
+    "07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Vayu.md": "feaecf20e12e5ef23c67cf3b82ca5b23d634666d2bb4eb591cbc6e9a15002666"
+  }
+}

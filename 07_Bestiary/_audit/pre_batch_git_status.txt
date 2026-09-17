@@ -1,0 +1,37 @@
+ M 07_Bestiary/01_Alam_Liar/Babi_Hutan.json
+ M 07_Bestiary/01_Alam_Liar/Babi_Hutan.md
+ M 07_Bestiary/01_Alam_Liar/Beruang_Madu_Raksasa.json
+ M 07_Bestiary/01_Alam_Liar/Beruang_Madu_Raksasa.md
+ M 07_Bestiary/01_Alam_Liar/Macan_Kumbang.json
+ M 07_Bestiary/01_Alam_Liar/Macan_Kumbang.md
+ M 07_Bestiary/01_Alam_Liar/Sapi_Perah_Mandala.json
+ M 07_Bestiary/01_Alam_Liar/Sapi_Perah_Mandala.md
+ M 07_Bestiary/01_Alam_Liar/Serigala_Kelabu.json
+ M 07_Bestiary/01_Alam_Liar/Serigala_Kelabu.md
+ M 07_Bestiary/02_Jenggala/Goblin.json
+ M 07_Bestiary/02_Jenggala/Goblin.md
+ M 07_Bestiary/02_Jenggala/Wendigo.json
+ M 07_Bestiary/02_Jenggala/Wendigo.md
+ M 07_Bestiary/03_Thalantira/Void_Wyrm.json
+ M 07_Bestiary/03_Thalantira/Void_Wyrm.md
+ M 07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Aqua.json
+ M 07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Aqua.md
+ M 07_Bestiary/04_Guardians_of_Avalerion_Outpost/Ksatria_Solarius.md
+ M 07_Bestiary/05_Dragons_of_Agnitra_Nest/Blackhorn.json
+ M 07_Bestiary/05_Dragons_of_Agnitra_Nest/Blackhorn.md
+ M 07_Bestiary/05_Dragons_of_Agnitra_Nest/Goldenscale.json
+ M 07_Bestiary/05_Dragons_of_Agnitra_Nest/Goldenscale.md
+ M 07_Bestiary/06_Chiefs_of_Arkananta/Nyai_Larasati.json
+ M 07_Bestiary/06_Chiefs_of_Arkananta/Nyai_Larasati.md
+?? "06_Sistem Game & Ekonomi/CODEX_MASTER_PROMPT_BESTIARY_REWORK_V2.md"
+?? "06_Sistem Game & Ekonomi/MONSTER_BALANCE_FRAMEWORK.md"
+?? "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md"
+?? 07_Bestiary/BESTIARY_REWORK_AUDIT.md
+?? 07_Bestiary/BESTIARY_REWORK_CHANGELOG.md
+?? 07_Bestiary/BESTIARY_STANDARD_V2.md
+?? 07_Bestiary/CREATURE_TAXONOMY.md
+?? 07_Bestiary/_audit/
+?? "10_Game Project/"
+?? sync_bestiary_from_game.py
+?? temp_mass_bestiary_update.py
+?? tools/

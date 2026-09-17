@@ -1,4 +1,19 @@
 {
+  "Kategori": "09 Laut Rangkaruna",
+  "Elemen": "Bumi/Air",
+  "Kelemahan": "Petir",
+  "Tipe Serangan": "Melee (Area)",
+  "HP": 120000,
+  "MP": 20000,
+  "Spawn Location": "Tengah Laut Rangkaruna",
+  "id": "Paus_Penelan_Armada",
+  "title": "Paus Penelan Armada",
+  "category": "Bestiary",
+  "description": "Paus hitam sebesar gunung yang tidak sengaja memburu kapal, tetapi dapat menelan armada ketika membuka mulut untuk menyaring krill raksasa.",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "source_status": "legacy_with_runtime_observation",
+  "legacy_values": {
     "Kategori": "09 Laut Rangkaruna",
     "Elemen": "Bumi/Air",
     "Kelemahan": "Petir",
@@ -6,4 +21,348 @@
     "HP": 120000,
     "MP": 20000,
     "Spawn Location": "Tengah Laut Rangkaruna"
+  },
+  "presentation": {
+    "markdown_role": "lore_only",
+    "lore_source": "07_Bestiary/09_Laut_Rangkaruna/Paus_Penelan_Armada.md",
+    "game_data_source": "07_Bestiary/09_Laut_Rangkaruna/Paus_Penelan_Armada.json",
+    "narrative_status": "APPROVED",
+    "approval": {
+      "status": "APPROVED",
+      "date": "2026-09-17",
+      "authority": "project_owner",
+      "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
+      "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+      "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
+      "source": "07_Bestiary/09_Laut_Rangkaruna/Paus_Penelan_Armada.md"
+    },
+    "scope": "Seluruh deskripsi, bentuk, tingkah laku, habitat, serta kisah sepuluh fauna Laut Rangkaruna.",
+    "sync_policy": "Author lore in Markdown; game data stays in JSON."
+  },
+  "lore_review": {
+    "source_archive": "07_Bestiary/_audit/pre_rangkaruna_narrative.json",
+    "sources": [
+      "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
+      "02_World/Laut_Rangkaruna.md"
+    ],
+    "unresolved": [
+      "Perut tanpa dasar adalah hiperbola legacy; tidak dijadikan dimensi tak terbatas. Kisah ekologis usulan."
+    ],
+    "category_note": "Rangkaruna fauna; no automatic relation to similarly named Thalantira creatures.",
+    "historical_description": null,
+    "approval_record": "07_Bestiary/_audit/rangkaruna_lore_approval.json"
+  },
+  "runtime_observation": {
+    "status": "OBSERVED_ONLY",
+    "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+    "enemy": {
+      "id": 78,
+      "actions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 539
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 540
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.5,
+          "conditionType": 2,
+          "rating": 6,
+          "skillId": 541
+        }
+      ],
+      "battlerHue": 0,
+      "battlerName": "",
+      "dropItems": [
+        {
+          "dataId": 86,
+          "denominator": 4,
+          "kind": 1
+        },
+        {
+          "dataId": 55,
+          "denominator": 6,
+          "kind": 1
+        },
+        {
+          "dataId": 32,
+          "denominator": 10,
+          "kind": 1
+        }
+      ],
+      "exp": 5950,
+      "traits": [
+        {
+          "code": 31,
+          "dataId": 3,
+          "value": 1
+        },
+        {
+          "code": 11,
+          "dataId": 6,
+          "value": 1.5
+        },
+        {
+          "code": 11,
+          "dataId": 3,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 13,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 1,
+          "value": 0
+        },
+        {
+          "code": 13,
+          "dataId": 7,
+          "value": 0.5
+        },
+        {
+          "code": 13,
+          "dataId": 17,
+          "value": 0.75
+        },
+        {
+          "code": 13,
+          "dataId": 11,
+          "value": 0.5
+        },
+        {
+          "code": 22,
+          "dataId": 0,
+          "value": 0.95
+        }
+      ],
+      "gold": 1540,
+      "name": "Paus Penelan Armada",
+      "note": "<NUSV Bestiary Group: Laut Rangkaruna>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Aquatic>\n<NUSV Archetype: Tank>\n<NUSV Tier: T8>\n<NUSV Region: Laut Rangkaruna>\n<NUSV Element: Water>\n<NUSV Weakness: Lightning>\n<NUSV Combat Tags: Aquatic, Large, Ancient>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Abyssal Bellow: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Crown of Drowned Hunger @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Spirit Stone: source 18% -> MV 1/6 = 16.67%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "params": [
+        20000,
+        221,
+        250,
+        262,
+        182,
+        215,
+        88,
+        70
+      ]
+    },
+    "skills": [
+      {
+        "id": 539,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 3,
+          "formula": "a.atk * 1.15 - b.def * 0.45",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Paus Penelan Armada.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 11,
+            "value1": 0.25,
+            "value2": 0
+          }
+        ],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Hullbreaker Ram",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 540,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 11,
+          "formula": "a.atk * 1.45 - b.def * 0.35",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Paus Penelan Armada.",
+        "effects": [
+          {
+            "code": 21,
+            "dataId": 16,
+            "value1": 0.35,
+            "value2": 0
+          }
+        ],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Abyssal Bellow",
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 2,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      },
+      {
+        "id": 541,
+        "animationId": 0,
+        "damage": {
+          "critical": true,
+          "elementId": 3,
+          "formula": "a.atk * 1.85 - b.def * 0.25",
+          "type": 1,
+          "variance": 20
+        },
+        "description": "Enemy skill used by Paus Penelan Armada.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 0,
+        "message1": "",
+        "message2": "",
+        "mpCost": 0,
+        "name": "Devour Armada",
+        "note": "[CUSTOM SKILL EFFECT] Signature/high-power action; HP drain\n[IMPLEMENTATION] Plugin / Custom\n[PLUGIN] YEP_SkillCore\nUse SkillCore/custom notetag for conditional, signature, drain, priority, or multi-hit logic; BuffsStatesCore for advanced state handling.",
+        "occasion": 1,
+        "repeats": 1,
+        "requiredWtypeId1": 0,
+        "requiredWtypeId2": 0,
+        "scope": 1,
+        "speed": 0,
+        "stypeId": 3,
+        "successRate": 100,
+        "tpCost": 0,
+        "tpGain": 0
+      }
+    ],
+    "drop_records": [
+      {
+        "database": "Items",
+        "record": {
+          "id": 86,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Kristal purba yang menyimpan energi dunia sebelum peradaban modern.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Primordial Crystal",
+          "note": "<NUSV Category: Forge>\n<NUSV Subcategory: Special Crystal>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration; Hydra Jurang; Behemoth Cangkang Hitam>\n<NUSV Region: Ancient Sites; Thalantira>\n[REMARKS] Material Tier 8.; Special forge drop; drop rate disarankan rendah.; Forge / socket material.",
+          "occasion": 3,
+          "price": 20250,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 55,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Stone capable of holding spiritual resonance. Material Tier 6.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Spirit Stone",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Stone>\n<NUSV Rarity: Epic>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Pegunungan Arkananta>\n[REMARKS] Material Tier 6.",
+          "occasion": 3,
+          "price": 5000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      },
+      {
+        "database": "Items",
+        "record": {
+          "id": 32,
+          "animationId": 0,
+          "consumable": false,
+          "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+          },
+          "description": "Superb conductor for magical forging. Material Tier 6.",
+          "effects": [],
+          "hitType": 0,
+          "iconIndex": 0,
+          "itypeId": 1,
+          "name": "Orichalcum",
+          "note": "<NUSV Category: Material>\n<NUSV Subcategory: Ore>\n<NUSV Rarity: Legendary>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Agnitra>\n[REMARKS] Material Tier 6.",
+          "occasion": 3,
+          "price": 5000,
+          "repeats": 1,
+          "scope": 0,
+          "speed": 0,
+          "successRate": 100,
+          "tpGain": 0
+        }
+      }
+    ],
+    "meaning": "Snapshot only; does not establish calibrated balance."
+  },
+  "balance_review": {
+    "stat_status": "BLOCKED",
+    "legacy_note": "Original object preserved in legacy_values; not recalibrated.",
+    "authority": "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+    "simulation_result": null,
+    "playtest_evidence": null
+  }
 }

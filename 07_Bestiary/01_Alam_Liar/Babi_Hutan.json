@@ -1,12 +1,594 @@
-﻿{
-    "description":  "Akan menanduk jika merasa terancam.",
-    "id":  "Babi_Hutan",
-    "mp":  0,
-    "weakness":  "Api",
-    "category":  "Bestiary",
-    "element":  "Netral",
-    "location":  "Pinggiran Jenggala",
-    "hp":  150,
-    "title":  "Babi Hutan",
-    "attack_type":  "Melee"
+{
+  "id": "Babi_Hutan",
+  "name": "Babi Hutan",
+  "title": "Babi Hutan",
+  "category": "01 Alam Liar",
+  "creature_type": "Wildlife",
+  "encounter_type": "Normal",
+  "combat_role": "Bruiser",
+  "region": "Pinggiran Jenggala",
+  "biome": "Hutan campuran dan perbatasan pertanian",
+  "element": "Netral",
+  "primary_element": "Netral",
+  "weakness": "Api",
+  "attack_type": "Melee",
+  "stat_status": "BLOCKED",
+  "balance_status": "BLOCKED",
+  "legacy_values": {
+    "hp": 150,
+    "mp": 0,
+    "element": "Netral",
+    "weakness": "Api"
+  },
+  "source_status": "legacy_with_v2_evidence",
+  "description": "Babi hutan adalah fauna liar yang paling umum menemani pinggiran hutan dan ladang perbatasan Mandala. Ia bukan musuh utama, tetapi sangat berbahaya saat terprovokasi atau terdesak oleh pemburu, Jenggala, atau fluktuasi lingkungan.",
+  "ecology": "Memanfaatkan ekosistem hutan semak, tepi hutan, dan area lembap yang menyediakan akar, umbi, dan sisa tanaman budidaya.",
+  "behavior": "Menyukai serangan frontal, menggali tanah, dan menanduk saat merasa terpojok.",
+  "relationship_with_civilization": "Mengganggu lahan tani dan jalan pengiriman kecil di wilayah pinggiran.",
+  "drops": "TBD - belum ada item canon yang diverifikasi.",
+  "notes": "Angka numerik lama dipertahankan untuk traceability, tetapi tidak boleh dianggap final tanpa baseline progression dan formula damage aktif.",
+  "v2": {
+    "schema_version": "2.1",
+    "batch": "2026-09-17/01a",
+    "identity": {
+      "id": "Babi_Hutan",
+      "name": "Babi Hutan",
+      "alternative_names": [],
+      "canonical_slug": "Babi_Hutan",
+      "species": null,
+      "creature_family": null,
+      "origin": null,
+      "faction": null,
+      "region": null,
+      "biome": "Tepi hutan dan semak",
+      "sub_area": null
+    },
+    "classification": {
+      "creature_type": "Wildlife",
+      "basis": "kategori sumber Alam Liar; bukan klaim biologi baru",
+      "encounter_type": "Normal",
+      "encounter_type_basis": "runtime label, not calibrated",
+      "threat_rank": null,
+      "spawn_rarity": null,
+      "sentience_level": null,
+      "civilization_status": null
+    },
+    "gameplay": {
+      "progression_point": null,
+      "recommended_level": null,
+      "combat_role": "Bruiser",
+      "design_status": "proposal",
+      "attack_type": "Melee",
+      "primary_element": null,
+      "secondary_element": null,
+      "element_basis": "runtime attack-element trait; neutral is absence of cosmological affinity",
+      "ai_archetype": "Fighter",
+      "intended_counterplay": "Kenalkan ancaman serbuan melalui isyarat map; guard saat serbuan disiapkan adalah usulan, telegraph belum diimplementasikan.",
+      "troop_context": [
+        {
+          "id": 2,
+          "name": "Slime*2",
+          "members": [
+            {
+              "enemyId": 2,
+              "x": 337,
+              "y": 436,
+              "hidden": false
+            },
+            {
+              "enemyId": 2,
+              "x": 480,
+              "y": 436,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "balance_status": "BLOCKED"
+    },
+    "balance": {
+      "stat_status": "BLOCKED",
+      "balance_version": "2026-09-17-evidence-only",
+      "stats": {
+        "mhp": null,
+        "mmp": null,
+        "atk": null,
+        "def": null,
+        "mat": null,
+        "mdf": null,
+        "agi": null,
+        "luk": null
+      },
+      "source_dependencies": [
+        "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md",
+        "06_Sistem Game & Ekonomi/Mekanik_Efektivitas_Elemen.md",
+        "06_Sistem Game & Ekonomi/Sistem_Ekonomi_&_Crafting.md",
+        "10_Game Project/Tales of The Dark Time/data/System.json",
+        "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+        "10_Game Project/Tales of The Dark Time/data/Actors.json",
+        "10_Game Project/Tales of The Dark Time/data/Classes.json",
+        "10_Game Project/Tales of The Dark Time/data/Skills.json",
+        "10_Game Project/Tales of The Dark Time/data/States.json",
+        "10_Game Project/Tales of The Dark Time/data/Items.json",
+        "10_Game Project/Tales of The Dark Time/data/Weapons.json",
+        "10_Game Project/Tales of The Dark Time/data/Armors.json",
+        "10_Game Project/Tales of The Dark Time/data/Troops.json",
+        "10_Game Project/Tales of The Dark Time/js/plugins.js",
+        "10_Game Project/Tales of The Dark Time/js/rpg_objects.js"
+      ],
+      "source_sha256": {
+        "06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md": "d2b56b541544883fe989d32d2fd8b0c73f118ee533dc4aeb001baa2034a9155f",
+        "06_Sistem Game & Ekonomi/Mekanik_Efektivitas_Elemen.md": "0810a38db48b5ef23e0863a831e658c5e21900c4bfb79f8efbebc31332cb9fe3",
+        "06_Sistem Game & Ekonomi/Sistem_Ekonomi_&_Crafting.md": "bf287059b58ec75aa15f505379b4c417ebce1904eec760a90ffcd9a646f5d98c",
+        "10_Game Project/Tales of The Dark Time/data/System.json": "ebaaa0498e9b1522d49758d36944af9d52678ec04d44a6a348c0235109c48164",
+        "10_Game Project/Tales of The Dark Time/data/Enemies.json": "7256df0ea2b70a5afa4bc96b1eed62f89608b4158eaa0cf986c66324d645d7c5",
+        "10_Game Project/Tales of The Dark Time/data/Actors.json": "69ac5dd956a86c00db39e11a6aec2e062796a103f797ac14147593bedcaa584f",
+        "10_Game Project/Tales of The Dark Time/data/Classes.json": "df2b124e98f6696f785824f8a4d29b0fd7df100e8a61e7369f8d7d4f21fe814a",
+        "10_Game Project/Tales of The Dark Time/data/Skills.json": "6ab6cae4252bcf7ecb238675492c2238f31bd077e86ad5ceee2c06294b8e6859",
+        "10_Game Project/Tales of The Dark Time/data/States.json": "d5acf05d8d91bea1f44b56e1aeeb2cd566ae1b89e80dbd5c917b356b76ad62f5",
+        "10_Game Project/Tales of The Dark Time/data/Items.json": "d609afdf8551d38ec8c1e1baffd56635f3d184f921bbc89b2efcb52486d89f53",
+        "10_Game Project/Tales of The Dark Time/data/Weapons.json": "bd24ea71e89fc64fa2c307d5eea1d5e139781b470d7e1841abf93a7084beb9d4",
+        "10_Game Project/Tales of The Dark Time/data/Armors.json": "29ee0d087da7b4bc89d5eba1cd5c509f89360531661686cae8e46f30802e2550",
+        "10_Game Project/Tales of The Dark Time/data/Troops.json": "f723738952c2a9ef1c571f3ad06cc2a407be61e57712584a5c785f518793f89f",
+        "10_Game Project/Tales of The Dark Time/js/plugins.js": "5576f3bc1ad6184e220ea4f16a9d7daa5d8a936faf4d04befcf3b85701332563",
+        "10_Game Project/Tales of The Dark Time/js/rpg_objects.js": "f52edc719d2f55cf2b3bc61f6bbf5df3812dc445b2590305df54ba3d3d2b0f8a"
+      },
+      "party_reference": {
+        "size": null,
+        "level_range": null,
+        "equipment_tier": null,
+        "LOW": null,
+        "EXPECTED": null,
+        "HIGH": null
+      },
+      "target_encounter_duration": null,
+      "target_pressure": null,
+      "assumptions": [],
+      "calculation_summary": null,
+      "simulation_result": null,
+      "playtest_evidence": null,
+      "unresolved_blockers": [
+        "Titik progression, rentang level, dan gear legal LOW/EXPECTED/HIGH belum dipilih.",
+        "Target durasi, tekanan, komposisi troop, dan target EXP/Saka belum disetujui.",
+        "Runtime snapshot bukan bukti simulasi atau playtest.",
+        "Kondisi turn runtime tidak sama dengan peluang random dalam catatan AI.",
+        "Matchup runtime dan dokumen elemen berbeda; jangan ubah formula otomatis.",
+        "Resep material berbentuk catatan, belum tag executable NUSV_ItemSynthesis."
+      ]
+    },
+    "combat": {
+      "basic_attack_skill_id": 366,
+      "active_skill_ids": [
+        367,
+        368
+      ],
+      "passive": null,
+      "special_mechanic": null,
+      "ai_conditions": [
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0,
+          "conditionType": 0,
+          "rating": 5,
+          "skillId": 366
+        },
+        {
+          "conditionParam1": 2,
+          "conditionParam2": 1,
+          "conditionType": 1,
+          "rating": 4,
+          "skillId": 367
+        },
+        {
+          "conditionParam1": 0,
+          "conditionParam2": 0.4,
+          "conditionType": 2,
+          "rating": 4,
+          "skillId": 368
+        }
+      ],
+      "action_priority": "Runtime rating is weighted selection among eligible actions, not a guaranteed sequence.",
+      "target_selection": "Resolve each Skills.json scope and runtime target selection; no custom smart targeting assumed.",
+      "resource_use": [
+        {
+          "skill_id": 366,
+          "mp_cost": 0,
+          "tp_cost": 0
+        },
+        {
+          "skill_id": 367,
+          "mp_cost": 0,
+          "tp_cost": 0
+        },
+        {
+          "skill_id": 368,
+          "mp_cost": 0,
+          "tp_cost": 0
+        }
+      ],
+      "enrage_behavior": null,
+      "elemental_affinity": [
+        {
+          "code": 11,
+          "dataId": 2,
+          "value": 1.5
+        }
+      ],
+      "status_resistances": [],
+      "state_registry": [],
+      "pending_effect_skill_ids": []
+    },
+    "spawn": {
+      "region": null,
+      "biome": "Tepi hutan dan semak",
+      "sub_area": null,
+      "source_habitat": "Pinggiran Jenggala",
+      "time": null,
+      "weather": null,
+      "spawn_weight": null,
+      "pack_size": null,
+      "aggression": null,
+      "encounter_conditions": null,
+      "diet": null,
+      "predators": [],
+      "prey": [],
+      "migration_or_territory": null,
+      "status": "habitat retained; map/time/weather/food-web links unresolved"
+    },
+    "rewards": {
+      "status": "BLOCKED",
+      "exp": null,
+      "saka": null,
+      "common_drop": null,
+      "uncommon_drop": null,
+      "rare_drop": null,
+      "unique_drop": null,
+      "quest_drop": null,
+      "drops": [
+        {
+          "database": "Items",
+          "id": 99,
+          "name": "Beast Bone",
+          "rarity": "Common",
+          "runtime_denominator": 3,
+          "description": "Tulang monster umum yang digunakan untuk crafting dasar dan ritual.",
+          "source_note": "<NUSV Category: Material>\n<NUSV Subcategory: Bone>\n<NUSV Rarity: Common>\n<NUSV Source: Gathering / Monster Drop / Exploration; Various Monsters>\n<NUSV Region: Wild Beasts; Various>\n[REMARKS] Material Tier 1.; Digunakan pada recipe Jenggala Charm.",
+          "uses": [
+            {
+              "database": "Items",
+              "id": 289,
+              "name": "Jenggala Charm",
+              "evidence": "<NUSV Category: Key Item>\n<NUSV Subcategory: Summoning Catalyst>\n<NUSV Rarity: Uncommon>\n<NUSV Source: Crafting>\n<NUSV Region: Anywhere>\n[REMARKS] Konsep recipe: 3× Drakthar Essence + 1× Beast Bone. Terkait Summon: Jenggala milik Occultist.",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Weapons",
+              "id": 25,
+              "name": "Leather Knuckles",
+              "evidence": "<NUSV Rarity: Common>\n<NUSV Hand Slot: Dual-compatible Primary/Secondary>\n[PENDING WEAPON EFFECT] Fast melee\n[PENDING WEAPON EFFECT] dual-compatible\n<NUSV Acquisition: Normal Craft / Shop>\n<NUSV Craft Recipe: Deer Hide ×2 + Beast Bone ×1>\n<NUSV Region: Astradipa / Hanorok>\n[IMPLEMENTATION] Native MV",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Armors",
+              "id": 13,
+              "name": "Beastbone Bracelet",
+              "evidence": "<NUSV Rarity: Common>\n<NUSV Equip Slot: Accessory>\n<NUSV Armor Type: Accessory>\n[PENDING ARMOR TYPE CONFIG] `Accessory` is not currently defined in System.json armorTypes; using Basic Armor (atypeId 1) as runtime fallback.\n<NUSV Acquisition: Monster Drop / Craft>\n<NUSV Drop Source: Beast>\n<NUSV Craft Recipe: Beast Bone ×1 + Beast Fang ×1>\n<NUSV Region: Alam Liar>",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Armors",
+              "id": 19,
+              "name": "Direboar Skullhelm",
+              "evidence": "<NUSV Rarity: Uncommon>\n<NUSV Equip Slot: Helm>\n<NUSV Armor Type: Helm>\n[PENDING ARMOR TYPE CONFIG] `Helm` is not currently defined in System.json armorTypes; using Basic Armor (atypeId 1) as runtime fallback.\n<NUSV Acquisition: Monster Drop / Craft>\n<NUSV Drop Source: Direboar>\n<NUSV Craft Recipe: Direboar Hide ×2 + Beast Bone ×1>\n<NUSV Region: Jenggala>",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Armors",
+              "id": 34,
+              "name": "Wightbone Ring",
+              "evidence": "<NUSV Rarity: Uncommon>\n<NUSV Equip Slot: Accessory>\n<NUSV Armor Type: Accessory>\n[PENDING ARMOR TYPE CONFIG] `Accessory` is not currently defined in System.json armorTypes; using Basic Armor (atypeId 1) as runtime fallback.\n[PENDING ARMOR EFFECT] Dark Element Rate 97%\n<NUSV Acquisition: Monster Drop / Craft>\n<NUSV Drop Source: Wight>\n<NUSV Craft Recipe: Wight Shroud ×1 + Beast Bone ×1 + Cave Crystal ×1>\n<NUSV Region: Jenggala>",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Armors",
+              "id": 40,
+              "name": "Wendigo Bonehelm",
+              "evidence": "<NUSV Rarity: Rare>\n<NUSV Equip Slot: Helm>\n<NUSV Armor Type: Helm>\n[PENDING ARMOR TYPE CONFIG] `Helm` is not currently defined in System.json armorTypes; using Basic Armor (atypeId 1) as runtime fallback.\n[PENDING ARMOR EFFECT] Ice/Chill Rate 90%\n[PENDING ARMOR EFFECT] Chill State Rate 90%\n<NUSV Acquisition: Elite Drop / Craft>\n<NUSV Drop Source: Wendigo>\n<NUSV Craft Recipe: Wendigo Hide ×2 + Beast Bone ×2>\n<NUSV Region: Arkananta>",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Armors",
+              "id": 57,
+              "name": "Gondarwa Spirit Idol",
+              "evidence": "<NUSV Rarity: Rare>\n<NUSV Equip Slot: Relic>\n<NUSV Armor Type: Relic>\n[PENDING ARMOR TYPE CONFIG] `Relic` is not currently defined in System.json armorTypes; using Basic Armor (atypeId 1) as runtime fallback.\n<NUSV Acquisition: Elite Drop / Craft>\n<NUSV Drop Source: Gondarwa>\n<NUSV Craft Recipe: Spirit Stone ×1 + Mana Crystal ×1 + Beast Bone ×1>\n<NUSV Region: Jenggala>",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            }
+          ],
+          "canon_review": null
+        },
+        {
+          "database": "Items",
+          "id": 100,
+          "name": "Beast Fang",
+          "rarity": "Common",
+          "runtime_denominator": 5,
+          "description": "Common monster fang. Material Tier 1.",
+          "source_note": "<NUSV Category: Material>\n<NUSV Subcategory: Monster Parts>\n<NUSV Rarity: Common>\n<NUSV Source: Gathering / Monster Drop / Exploration>\n<NUSV Region: Wild Beasts>\n[REMARKS] Material Tier 1.",
+          "uses": [
+            {
+              "database": "Weapons",
+              "id": 27,
+              "name": "Obsidian Claws",
+              "evidence": "<NUSV Rarity: Rare>\n<NUSV Hand Slot: Dual-compatible Primary/Secondary>\n[PENDING WEAPON EFFECT] Fast melee\n<NUSV Acquisition: Normal Craft / Elite Drop>\n<NUSV Craft Recipe: Obsidian ×2 + Ahool Hide ×1 + Beast Fang ×1>\n<NUSV Region: Astradipa / Hanorok>\n[IMPLEMENTATION] Native MV",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Weapons",
+              "id": 32,
+              "name": "Steel Fang",
+              "evidence": "<NUSV Rarity: Uncommon>\n<NUSV Hand Slot: Dual-compatible Primary/Secondary>\n[PENDING WEAPON EFFECT] Fast\n[PENDING WEAPON EFFECT] dual-compatible\n<NUSV Acquisition: Normal Craft>\n<NUSV Craft Recipe: Steel ×2 + Beast Fang ×1>\n<NUSV Region: Mandala / Cakrawala>\n[IMPLEMENTATION] Native MV",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Armors",
+              "id": 13,
+              "name": "Beastbone Bracelet",
+              "evidence": "<NUSV Rarity: Common>\n<NUSV Equip Slot: Accessory>\n<NUSV Armor Type: Accessory>\n[PENDING ARMOR TYPE CONFIG] `Accessory` is not currently defined in System.json armorTypes; using Basic Armor (atypeId 1) as runtime fallback.\n<NUSV Acquisition: Monster Drop / Craft>\n<NUSV Drop Source: Beast>\n<NUSV Craft Recipe: Beast Bone ×1 + Beast Fang ×1>\n<NUSV Region: Alam Liar>",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Armors",
+              "id": 32,
+              "name": "Jenggala Fang Charm",
+              "evidence": "<NUSV Rarity: Uncommon>\n<NUSV Equip Slot: Accessory>\n<NUSV Armor Type: Accessory>\n[PENDING ARMOR TYPE CONFIG] `Accessory` is not currently defined in System.json armorTypes; using Basic Armor (atypeId 1) as runtime fallback.\n<NUSV Acquisition: Monster Drop / Craft>\n<NUSV Drop Source: Goblin / Gremlin / Lycan>\n<NUSV Craft Recipe: Jenggala Claw ×1 + Beast Fang ×1>\n<NUSV Region: Jenggala>",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            },
+            {
+              "database": "Armors",
+              "id": 33,
+              "name": "Lycan Fang Pendant",
+              "evidence": "<NUSV Rarity: Uncommon>\n<NUSV Equip Slot: Accessory>\n<NUSV Armor Type: Accessory>\n[PENDING ARMOR TYPE CONFIG] `Accessory` is not currently defined in System.json armorTypes; using Basic Armor (atypeId 1) as runtime fallback.\n<NUSV Acquisition: Monster Drop / Craft>\n<NUSV Drop Source: Lycan>\n<NUSV Craft Recipe: Beast Fang ×1 + Lycan Hide ×1 + Cave Crystal ×1>\n<NUSV Region: Jenggala>",
+              "implementation": "documented recipe only; no Synthesis Recipe tag"
+            }
+          ],
+          "canon_review": null
+        }
+      ],
+      "drop_slot_note": "MV slots have no common/rare semantics; rarity belongs to Items metadata.",
+      "economy_risk": "Respawn, encounter access, sale proceeds, recipe sinks and summon farming need measurement before rewards are calibrated."
+    },
+    "worldbuilding": {
+      "description": "Babi hutan adalah fauna liar yang paling umum menemani pinggiran hutan dan ladang perbatasan Mandala. Ia bukan musuh utama, tetapi sangat berbahaya saat terprovokasi atau terdesak oleh pemburu, Jenggala, atau fluktuasi lingkungan.",
+      "lore": null,
+      "origin": null,
+      "ecology": null,
+      "behavior": null,
+      "diet": null,
+      "predators": [],
+      "prey": [],
+      "relationship_with_civilization": null,
+      "cultural_significance": null,
+      "economic_value": null,
+      "known_uses": [
+        "Beast Bone",
+        "Beast Fang"
+      ],
+      "historical_notes": null,
+      "quest_relevance": null,
+      "story_relevance": null,
+      "proposal": "Draf menghubungkan gangguan ladang dengan ekonomi agraris Mandala; penempatan Mandala masih usulan karena lokasi sumber hanya Pinggiran Jenggala. Jalur makan dan mundur menjelaskan konflik dengan petani.",
+      "proposal_status": "owner review; not inserted into regional canon",
+      "source": "07_Bestiary/01_Alam_Liar/Babi_Hutan.json",
+      "regional_sources": [
+        "02_World/Mandala.md",
+        "02_World/Astradipa.md",
+        "02_World/Arkananta.md",
+        "03_Region/01_Mandala Kingdom/Economy.md",
+        "03_Region/02_Astradipa/Economy.md",
+        "03_Region/05_Arkananta/Economy.md"
+      ]
+    },
+    "runtime_observation": {
+      "status": "OBSERVED_ONLY",
+      "source": "10_Game Project/Tales of The Dark Time/data/Enemies.json",
+      "enemy": {
+        "id": 2,
+        "actions": [
+          {
+            "conditionParam1": 0,
+            "conditionParam2": 0,
+            "conditionType": 0,
+            "rating": 5,
+            "skillId": 366
+          },
+          {
+            "conditionParam1": 2,
+            "conditionParam2": 1,
+            "conditionType": 1,
+            "rating": 4,
+            "skillId": 367
+          },
+          {
+            "conditionParam1": 0,
+            "conditionParam2": 0.4,
+            "conditionType": 2,
+            "rating": 4,
+            "skillId": 368
+          }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+          {
+            "dataId": 99,
+            "denominator": 3,
+            "kind": 1
+          },
+          {
+            "dataId": 100,
+            "denominator": 5,
+            "kind": 1
+          },
+          {
+            "dataId": 1,
+            "denominator": 1,
+            "kind": 0
+          }
+        ],
+        "exp": 20,
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          }
+        ],
+        "gold": 8,
+        "name": "Babi Hutan",
+        "note": "<NUSV Bestiary Group: Alam Liar>\n<NUSV Enemy Rank: Normal>\n<NUSV Enemy Type: Beast>\n<NUSV Archetype: Fighter>\n<NUSV Tier: T1>\n<NUSV Region: Pinggiran Jenggala>\n<NUSV Element: Neutral>\n<NUSV Weakness: Fire>\n<NUSV Attack Type: Melee>\n[ACTION CONDITION NOTE] Tusk Gore: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[DROP RATE APPROX] Beast Bone: source 30% -> MV 1/3 = 33.33%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+        "params": [
+          126,
+          8,
+          21,
+          13,
+          11,
+          10,
+          15,
+          10
+        ]
+      },
+      "skills": [
+        {
+          "id": 366,
+          "animationId": 0,
+          "damage": {
+            "critical": true,
+            "elementId": 1,
+            "formula": "a.atk * 1.15 - b.def * 0.45",
+            "type": 1,
+            "variance": 20
+          },
+          "description": "Enemy skill used by Babi Hutan.",
+          "effects": [],
+          "hitType": 1,
+          "iconIndex": 0,
+          "message1": "",
+          "message2": "",
+          "mpCost": 0,
+          "name": "Boar Charge",
+          "note": "",
+          "occasion": 1,
+          "repeats": 1,
+          "requiredWtypeId1": 0,
+          "requiredWtypeId2": 0,
+          "scope": 1,
+          "speed": 0,
+          "stypeId": 3,
+          "successRate": 100,
+          "tpCost": 0,
+          "tpGain": 0
+        },
+        {
+          "id": 367,
+          "animationId": 0,
+          "damage": {
+            "critical": true,
+            "elementId": 1,
+            "formula": "a.atk * 1.45 - b.def * 0.35",
+            "type": 1,
+            "variance": 20
+          },
+          "description": "Enemy skill used by Babi Hutan.",
+          "effects": [],
+          "hitType": 1,
+          "iconIndex": 0,
+          "message1": "",
+          "message2": "",
+          "mpCost": 0,
+          "name": "Tusk Gore",
+          "note": "",
+          "occasion": 1,
+          "repeats": 1,
+          "requiredWtypeId1": 0,
+          "requiredWtypeId2": 0,
+          "scope": 1,
+          "speed": 0,
+          "stypeId": 3,
+          "successRate": 100,
+          "tpCost": 0,
+          "tpGain": 0
+        },
+        {
+          "id": 368,
+          "animationId": 0,
+          "damage": {
+            "critical": true,
+            "elementId": 1,
+            "formula": "a.atk * 1.85 - b.def * 0.25",
+            "type": 1,
+            "variance": 20
+          },
+          "description": "Enemy skill used by Babi Hutan.",
+          "effects": [],
+          "hitType": 1,
+          "iconIndex": 0,
+          "message1": "",
+          "message2": "",
+          "mpCost": 0,
+          "name": "Wild Rush",
+          "note": "",
+          "occasion": 1,
+          "repeats": 1,
+          "requiredWtypeId1": 0,
+          "requiredWtypeId2": 0,
+          "scope": 1,
+          "speed": 0,
+          "stypeId": 3,
+          "successRate": 100,
+          "tpCost": 0,
+          "tpGain": 0
+        }
+      ],
+      "meaning": "Unchanged runtime data, not proposed or calibrated stat values."
+    },
+    "legacy": {
+      "source": "07_Bestiary/_audit/pre_batch_2026-09-17.json",
+      "values": {
+        "hp": 150,
+        "mp": 0,
+        "element": "Netral",
+        "weakness": "Api"
+      },
+      "status": "legacy_candidate",
+      "prior_stat_status": "BLOCKED",
+      "compatibility": "All prior top-level fields retained as historical metadata; V2 takes precedence for this documentation batch."
+    },
+    "presentation": {
+      "markdown_role": "lore_only",
+      "lore_source": "07_Bestiary/01_Alam_Liar/Babi_Hutan.md",
+      "game_data_source": "07_Bestiary/01_Alam_Liar/Babi_Hutan.json",
+      "previous_markdown_archive": "07_Bestiary/_audit/pre_lore_split_markdown.json",
+      "sync_policy": "Edit lore in Markdown; edit game data in JSON. Do not render game data into Markdown.",
+      "worldbuilding_snapshot": "Existing JSON prose is historical context; Markdown is authoritative for current narrative.",
+      "lore_approval": {
+        "status": "APPROVED",
+        "date": "2026-09-17",
+        "authority": "project_owner",
+        "request": "usulan aku setujui semua",
+        "scope": "Deskripsi, bentuk, tingkah laku, habitat dan kisah pada batch narasi 15 Alam Liar.",
+        "source": "07_Bestiary/01_Alam_Liar/Babi_Hutan.md",
+        "exclusions": "Tidak menetapkan kalibrasi stat, spawn map runtime, atau usulan combat/crafting lama."
+      }
+    }
+  }
 }

@@ -32,7 +32,7 @@
   "lore_review": {
     "source_archive": "07_Bestiary/_audit/pre_jenggala_narrative.json",
     "sources": [
-      "02_World/Raksamala.md",
+      "03_Region/10_Raksamala/Raksamala.md",
       "08_Story/02_Prologue/03_Teror_di_Pesisir_Timur.md"
     ],
     "unresolved": [

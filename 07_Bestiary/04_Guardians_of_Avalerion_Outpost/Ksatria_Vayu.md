@@ -29,4 +29,4 @@ Angin berubah saat seorang pembawa pesan mencapai pelataran Bayu. Kain penandany
 
 Ia kemudian bergerak menuju pelataran penghubung, membawa pesan agar rombongan berikutnya bertahan di tempat terlindung. Cahaya melintas pendek di antara batu, lalu hilang di balik dinding pos. Ketika badai menutup pandangan, tidak ada orang yang masih berdiri menunggu di tepian terbuka. Hari itu kecepatannya berguna untuk menyampaikan peringatan sebelum orang lain harus berlari.
 
-> Acuan: [Outpost Bayu](../../03_Region/03_Avalerion/Cities%20%26%20Town/Outpost_Bayu.md); [Senopati Prabha](../../03_Region/03_Avalerion/Faksi%20%26%20Institusi/Senopati_Prabha.md); [Avalerion](../../02_World/Avalerion.md).
+> Acuan: [Outpost Bayu](../../03_Region/03_Avalerion/Cities%20%26%20Town/Outpost_Bayu.md); [Senopati Prabha](../../03_Region/03_Avalerion/Faksi%20%26%20Institusi/Senopati_Prabha.md); [Avalerion](../../03_Region/03_Avalerion/Avalerion.md).

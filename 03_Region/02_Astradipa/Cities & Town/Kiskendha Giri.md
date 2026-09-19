@@ -4,12 +4,18 @@ wilayah: "[[Astradipa]]"
 tags:
   - city
 ---
-# Benteng Kebijaksanaan Kiskendha Giri
+# Pusat Peradaban Hanorok Kiskendha Giri
 
-*Ibu kota dan markas petarung dari ras kera Hanorok.*
+Kiskendha Giri berada di bagian Hutan Astradipa yang mencapai lereng Pegunungan Arkananta. Tempat ini merupakan pusat peradaban ras Hanorok, tempat mereka bermukim, mencari makanan, dan menjalankan kehidupan bersama.
 
-Sebuah wilayah tersembunyi di Astradipa yang dipenuhi tebing batu berlumut dan reruntuhan candi kuno yang menyatu dengan akar pohon. Ini adalah ibu kota ras **Hanorok** yang mengutamakan keunggulan fisik, strategi, dan kebijaksanaan.
+Tebing batu berlumut dan reruntuhan candi kuno menyatu dengan akar pohon. Bangunan memadukan peninggalan batu dengan struktur kayu tebal buatan Hanorok.
 
-- **Fasilitas Pelatihan:** Tempat ini dipenuhi oleh arena latihan bela diri yang berpadu dengan alam, digunakan oleh Ordo Brahma-Kera.
-- **Pusat Pengetahuan Militer:** Menyimpan perpustakaan gulungan taktik perang rahasia dan ruang-ruang meditasi yang diukir langsung ke dalam tebing batu.
-- **Arsitektur Campuran:** Memadukan sisa-sisa peninggalan peradaban masa lalu (reruntuhan batu) dengan struktur fungsional kayu-kayu tebal buatan Hanorok.
+- **Fasilitas Pelatihan:** Arena bela diri yang berpadu dengan alam digunakan oleh Ordo Brahma-Kera.
+- **Pusat Pengetahuan Militer:** Perpustakaan gulungan taktik dan ruang meditasi berada di kawasan tebing.
+- **Penjagaan Hutan Bersama:** Dalam keadaan saat ini, Hanorok dan Asrivana bekerja sama menjaga Astradipa. Kiskendha Giri dan [[Luminasthana]] merupakan pusat peradaban masing-masing ras dalam kerja sama ini.
+
+Jalur dari bagian dalam hutan menuju Kiskendha Giri beralih ke medan lereng. Panjang rute dan waktu tempuh belum ditetapkan.
+
+## Markas institusi
+
+Kiskendha Giri merupakan markas utama Ordo Brahma-Kera.

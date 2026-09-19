@@ -28,4 +28,4 @@ Dalam kisah tambahan tentang dampak serbuan di pesisir Mandala, seorang pengangk
 
 Gerobak itu terangkat oleh taring sebelum jatuh dalam serpihan. Ia selamat bukan karena membawa senjata lebih kuat, melainkan karena berhenti menganggap kayu tipis sebagai tembok. Kisah ini tidak menambahkan peran baru pada tokoh utama Prologue.
 
-> Acuan: [Raksamala](../../02_World/Raksamala.md); [03 Teror di Pesisir Timur](../../08_Story/02_Prologue/03_Teror_di_Pesisir_Timur.md).
+> Acuan: [Raksamala](../../03_Region/10_Raksamala/Raksamala.md); [03 Teror di Pesisir Timur](../../08_Story/02_Prologue/03_Teror_di_Pesisir_Timur.md).

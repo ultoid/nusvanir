@@ -1,6 +1,6 @@
 ---
 title: Gua Rakshorien
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 tags:
   - kota
   - arkananta

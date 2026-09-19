@@ -28,4 +28,4 @@ Seorang pembawa perbekalan menuju Akar-Dipa hendak menarik tubuhnya melewati aka
 
 Mereka mundur dan memilih pijakan lain. Ular tersebut tidak mengejar, hanya mengencangkan tubuh pada tempatnya semula. Sesampainya di benteng, si pembawa perbekalan mengaku telah diselamatkan dari monster. Pengawalnya mengoreksi dengan tenang: ia diselamatkan dari kebiasaannya meraih sesuatu sebelum melihat.
 
-> Acuan: [Astradipa](../../02_World/Astradipa.md) dan [Akar-Dipa](<../../03_Region/02_Astradipa/Cities & Town/Akar Dipa.md>).
+> Acuan: [Astradipa](../../03_Region/02_Astradipa/Astradipa.md) dan [Akar-Dipa](<../../03_Region/02_Astradipa/Cities & Town/Akar Dipa.md>).

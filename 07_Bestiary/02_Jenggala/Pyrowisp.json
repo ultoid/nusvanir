@@ -32,7 +32,7 @@
   "lore_review": {
     "source_archive": "07_Bestiary/_audit/pre_jenggala_narrative.json",
     "sources": [
-      "02_World/Mandala.md",
+      "03_Region/01_Mandala Kingdom/Mandala.md",
       "03_Region/04_Agnitra/Cities & Town/Pyrowisp Caldera.md"
     ],
     "unresolved": [

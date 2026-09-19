@@ -1,7 +1,7 @@
 ---
 title: Tuan Midas
 wilayah: "[[Cakrawala]]"
-ras: "[[Wahanarsa]]"
+ras: "[[Pribumi]]"
 tags:
   - karakter
   - cakrawala
@@ -9,7 +9,8 @@ tags:
 
 # Tuan Midas
 
-**Identitas**: Pemilik Penginapan Koin Emas.
+**Identitas**: Seorang Pribumi yang bernaung di Cakrawala dan merupakan pemilik Penginapan Koin Emas.
+**Julukan**: Manusia paling kaya di Nusvanir, Sang Kolektor, dan Sang Tangan Emas.
 **Visual**: Pria flamboyan yang selalu memakai topeng separuh wajah yang terbuat dari emas murni. Kulit tangannya dicat emas.
 
 ### Latar Belakang & Lore

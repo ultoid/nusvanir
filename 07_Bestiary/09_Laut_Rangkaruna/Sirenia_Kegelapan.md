@@ -27,4 +27,4 @@ Karang berkabut Rangkaruna, tempat gema dan pandangan terbatas membuat arah suar
 
 Sirenia melolong dari kejauhan ketika kapal Rama telah tiga hari dihantam monster. Suara itu mencoba memasuki pikiran Hector, sementara kru yang kelelahan harus tetap menjaga arah. Mereka mempertahankan tugas dan menjauh dari karang tanpa mengejar penyanyi di kabut. Bertahan berarti menolak menjadikan setiap pikiran yang muncul sebagai perintah.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).

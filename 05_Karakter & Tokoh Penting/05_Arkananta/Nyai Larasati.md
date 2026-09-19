@@ -1,6 +1,6 @@
 ﻿---
 title: Nyai Larasati Sang Buangan
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 ras: "[[Rakshorien_(Dark_Elf)]]"
 tags:
   - karakter

@@ -1,6 +1,6 @@
 ﻿---
 title: Krom Batugilang
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 ras: "[[Butoraksa_(Orc)]]"
 tags:
   - karakter

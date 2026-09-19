@@ -43,7 +43,7 @@
     "source_archive": "07_Bestiary/_audit/pre_rangkaruna_narrative.json",
     "sources": [
       "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
-      "02_World/Laut_Rangkaruna.md",
+      "03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md",
       "08_Story/02_Prologue/01_Bisikan_Pulau_Terkutuk.md"
     ],
     "unresolved": [

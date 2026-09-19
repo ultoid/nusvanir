@@ -8,7 +8,7 @@ tags:
 Jalan Maharuha adalah jalan spiritual panteisme magis yang dianut oleh bangsa Asrivana (Elf) di wilayah Astradipa. Kepercayaan ini tidak berpusat pada penyembahan sosok dewa di langit, melainkan pengabdian untuk menjaga keseimbangan alam dan esensi kehidupan. Berikut rinciannya:
 
 ### Sang Hyang Wana & Vriskapala
-Bangsa Asrivana menghormati roh-roh penjaga alam, **[[Vriskapala]]**. Mereka meyakini bahwa Sang Hyang Cahaya memanifestasikan energinya ke dalam wujud kehidupan bumi, yang disebut **Sang Hyang Wana** (Roh Alam Semesta). Titik pusat spiritual mereka adalah **Maharuha**, sebuah pohon raksasa purba yang akar-akarnya dipercaya mengikat daratan benua Nusvanir agar tidak tercerai-berai.
+Bangsa Asrivana menghormati roh-roh penjaga alam, **[[Vriskapala]]**. Mereka meyakini bahwa Sang Hyang Cahaya memanifestasikan energinya ke dalam wujud kehidupan bumi, yang disebut **Sang Hyang Wana** (Roh Alam Semesta). Titik pusat spiritual mereka adalah **Maharuna**, Pohon Induk di Luminasthana, sebuah pohon raksasa purba yang akar-akarnya dipercaya mengikat daratan benua Nusvanir agar tidak tercerai-berai.
 
 ### Kidung Akar
 Mereka tidak mengenal kitab suci dalam bentuk tulisan atau kertas. Arsip suci mereka bernama **_Kidung Akar_**, sebuah jejak memori magis yang terekam di dalam getah dan jaringan akar pepohonan purba Astradipa. Untuk "membaca" Kidung Akar, seorang Asrivana harus bermeditasi dalam keheningan sambil menempelkan dahi dan telapak tangannya ke dahan pohon tertua.

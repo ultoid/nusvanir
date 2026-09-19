@@ -28,4 +28,4 @@ Dua pengelana menyangka cahaya di cekungan kering sebagai api unggun rombongan l
 
 Mereka baru berbalik ketika cahaya membesar dan lontaran api menyambar tanah tempat mereka semula berdiri. Dari lereng yang lebih tinggi, keduanya menyaksikan bara berputar di atas cekungan. Malam itu mereka memilih gelap yang mereka kenal daripada cahaya yang tidak mempunyai penjaga.
 
-> Acuan: [Mandala](../../02_World/Mandala.md); [Pyrowisp Caldera](../../03_Region/04_Agnitra/Cities%20%26%20Town/Pyrowisp%20Caldera.md).
+> Acuan: [Mandala](../../03_Region/01_Mandala%20Kingdom/Mandala.md); [Pyrowisp Caldera](../../03_Region/04_Agnitra/Cities%20%26%20Town/Pyrowisp%20Caldera.md).

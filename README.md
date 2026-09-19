@@ -6,6 +6,11 @@
 Repositori ini adalah pusat data untuk keseluruhan *world-building*, *lore*, basis data, dan jalan cerita dari proyek Nusvanir.
 Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* dan terorganisasi.
 
+## Navigasi Worldbuilding
+
+- [Atlas Nusvanir](02_World/Nusvanir.md): gambaran global dan indeks seluruh wilayah.
+- `03_Region`: profil utama dan detail masing-masing wilayah.
+
 ## 🎨 Galeri Concept Art (Karakter & Lokasi)
 
 ### Tokoh Utama

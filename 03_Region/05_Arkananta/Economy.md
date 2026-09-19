@@ -1,6 +1,6 @@
 ---
 title: Economy
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 tags:
   - region
   - ekonomi

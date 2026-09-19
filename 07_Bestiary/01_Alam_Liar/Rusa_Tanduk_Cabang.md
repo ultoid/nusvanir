@@ -28,4 +28,4 @@ Seorang penjaga muda Asrivana mengira ranting di dekat jalur patroli telah berub
 
 Seekor Rusa Tanduk-Cabang berdiri di balik akar besar, dengan anaknya berlindung pada sisi yang teduh. Penjaga itu menurunkan busur dan mengambil jalan memutar. Dalam laporan malamnya ia hanya mencatat jalur terhalang, tanpa merasa perlu mengusir penghuni hutan yang sudah lebih dahulu berada di sana.
 
-> Acuan: [Astradipa](../../02_World/Astradipa.md) dan [Akar-Dipa](<../../03_Region/02_Astradipa/Cities & Town/Akar Dipa.md>).
+> Acuan: [Astradipa](../../03_Region/02_Astradipa/Astradipa.md) dan [Akar-Dipa](<../../03_Region/02_Astradipa/Cities & Town/Akar Dipa.md>).

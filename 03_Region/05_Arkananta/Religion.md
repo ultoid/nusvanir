@@ -1,6 +1,6 @@
 ---
 title: Religion
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 tags:
   - region
   - agama

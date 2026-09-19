@@ -1,6 +1,6 @@
 ---
 title: Gua Troliogoro
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 tags:
   - kota
   - arkananta

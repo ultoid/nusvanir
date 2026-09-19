@@ -11,4 +11,13 @@ Tidak hanya dikenal karena kekayaan alamnya, Mandala juga menjadi rumah bagi par
 
 Kekayaan budaya dan spiritualitas Mandala ditenun erat dalam produksi tekstil sakralnya, di mana para pengrajin mendedikasikan hidup mereka untuk membuat kain dengan motif _kawung_ dan _parang_ yang dipercaya bukan sekadar hiasan, melainkan pelindung magis bagi pemakainya.
 
-Berkat letak geografisnya yang strategis di persimpangan benua serta sumber dayanya yang melimpah, Kerajaan Mandala telah berkembang pesat menjadi denyut nadi perekonomian, bertindak sebagai pusat perdagangan utama yang menghubungkan seluruh wilayah di Nusvanir.
+Mandala merupakan produsen sekaligus konsumen utama dalam hubungannya dengan [[Cakrawala]]. Hasil alam kerajaan dipasarkan ke seluruh Nusvanir melalui kota bebas tersebut. Pedagang Cakrawala membutuhkan pasokan Mandala sekaligus pembeli dari kerajaan ini.
+
+Pelayaran perdagangan melewati Selat Agnitra dan pesisir Cakrawala. Laut Rangkaruna yang dikuasai badai abadi menjadi tujuan ekspedisi pencarian kekayaan, bukan jalur perdagangan.
+## Pusat produksi dan distribusi
+
+Arthiska menjadi pusat pasokan pangan Mandala dan bekerja sama dengan Vana Kusuma di Astradipa dalam pertanian. Aqualis memusatkan transportasi laut, sedangkan Hermindar mengawasi perdagangan menuju dan dari Cakrawala. Lingkar Samodra di Mandala Capital menghimpun serta mendistribusikan sumber daya untuk kebutuhan penduduk dan kerajaan.
+
+## Ketidakpastian kebijakan pasca-Prologue
+
+Persaingan Dewan Candra Nawa dan kepemimpinan Prabu Mandalapati XI yang labil membuat kebijakan kerajaan berubah-ubah. Pihak yang tidak bertanggung jawab memanfaatkan keadaan untuk mengelabui pajak, mengakali hukum, dan melakukan pemalakan. Birokrasi rumit membebani kegiatan masyarakat serta perdagangan. Kekuatan produksi Mandala tetap besar, tetapi era pasca-Prologue menjadi titik terendah kerajaan karena ketidakstabilan internal ini.

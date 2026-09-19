@@ -27,4 +27,4 @@ Tengah Laut Rangkaruna, pada jalur migrasi krill raksasa dan air cukup dalam unt
 
 Kawanan krill berpindah mengikuti arus malam. Paus besar berbelok bersama mereka, dan beberapa bangkai kapal hanyut tepat di depan mulutnya. Ia menelan semuanya tanpa memperlambat gerak. Setelah kawanan turun, paus menutup mulut dan menyelam; permukaan baru menunjukkan gelombang panjang setelah tubuhnya menghilang.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md).

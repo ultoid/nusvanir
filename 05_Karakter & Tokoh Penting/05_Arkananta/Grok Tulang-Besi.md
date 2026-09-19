@@ -1,6 +1,6 @@
 ---
 title: Grok Tulang-Besi
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 ras: "[[Troliogoro_(Troll)]]"
 tags:
   - karakter

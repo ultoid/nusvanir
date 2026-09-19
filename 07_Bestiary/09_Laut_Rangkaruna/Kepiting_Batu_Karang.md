@@ -27,4 +27,4 @@ Gugusan karang dangkal di tepian Rangkaruna, khususnya jalur di luar Aqualis. Pa
 
 Penduduk Aqualis mengenal Rama sebagai satu-satunya nelayan yang berani mencari Kepiting Batu Karang langsung di habitatnya. Ia tidak menganggap setiap batu sebagai mangsa. Rama membaca buih, menunggu mata kecil terbuka di sela karang, lalu memilih jalan mendekat yang masih menyisakan arus untuk melarikan diri. Keberaniannya lahir dari pengetahuan laut, bukan keyakinan bahwa capit raksasa itu dapat diremehkan.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md); [03 Teror di Pesisir Timur](../../08_Story/02_Prologue/03_Teror_di_Pesisir_Timur.md); [Aqualis](../../03_Region/01_Mandala%20Kingdom/Cities%20%26%20Town/Aqualis.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [03 Teror di Pesisir Timur](../../08_Story/02_Prologue/03_Teror_di_Pesisir_Timur.md); [Aqualis](../../03_Region/01_Mandala%20Kingdom/Cities%20%26%20Town/Aqualis.md).

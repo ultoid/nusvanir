@@ -6,46 +6,57 @@ tags:
 ---
 # Ibu Kota Mandala
 
-***Mandala Capital** adalah jantung politik, ekonomi, dan keagamaan kerajaan.* 
+**Mandala Capital** berada di pusat wilayah Kerajaan Mandala dan menjadi pusat pemerintahan peradaban manusia terbesar di Nusvanir. Kompleks kerajaan berbentuk benteng-kastil dengan tembok tinggi untuk menghalau serangan dari luar. Arsitekturnya memadukan keraton Solo/Yogyakarta dengan kastil Jepang: istana utama berada di pusat, dikelilingi bangunan pemerintahan, pelataran, dan lapisan pertahanan.
 
-Dibangun dengan tata kota berbentuk geometris kosmik (mandala) yang melambangkan keteraturan absolut, kota ini dikelilingi oleh tembok batu putih raksasa yang memantulkan sinar matahari.
+Tata ibu kota tersusun dalam lima lingkar. Urutan dari pusat ke luar adalah **Surya -> Dharma -> Wira -> Samodra -> Bumi**. Lingkar-lingkar ini merupakan sektor Mandala Capital, sedangkan Kerajaan Mandala mencakup pula kota-kota dan wilayah di luar ibu kota.
 
-### 1. Lingkar Bumi (Distrik Akar & Kehidupan)
+## 1. Lingkar Surya - Istana dan pemerintahan
 
-Ini adalah lapisan paling luar, terluas, dan paling padat di Mandala Capital. Dikelilingi oleh tembok batu andesit tebal pertama, distrik ini adalah tempat berdetaknya urat nadi ekonomi Mandala
+Lingkar Surya adalah titik pusat Mandala Capital. Keraton atau Istana Raja Mandala berdiri di tengahnya, dengan bangunan pemerintahan di sekelilingnya. Raja dan para petinggi istana mengurus pemerintahan kerajaan dari sektor ini.
 
-- **Visual & Suasana:** Atap-atap sirap kayu dan tanah liat (terakota) bertumpuk rapat sejauh mata memandang. Jalanannya berdebu namun selalu hidup. Udaranya sarat dengan aroma rempah-rempah yang menyengat, keringat, dan dupa jalanan.
-- **Aktivitas Utama:** Rumah bagi rakyat jelata, pengrajin kecil, dan pendatang. Di sinilah terletak **Pasar Agung Bumi**, sebuah labirin raksasa tempat segala macam hal diperjualbelikan—mulai dari beras kualitas terbaik dari _Arthiska_, perhiasan murah, hingga hewan eksotis dari luar kerajaan.
-- **Fakta Unik:** Meskipun kumuh di beberapa sudut, Lingkar Bumi adalah tempat informasi paling cepat menyebar. Mata-mata, makelar, dan rumor tentang pergerakan suku _Jenggala_ atau bajak laut _Raksamala_ sering kali bocor di kedai-kedai tuak di distrik ini.
+- **Istana Cahaya:** Kediaman dan pusat kerja Raja Mandala, dengan pendopo, pelataran, serta bangunan istana yang menggabungkan corak keraton Jawa dan kastil Jepang.
+- **Pemerintahan:** Ruang kerja petinggi dan pusat pengambilan kebijakan kerajaan berada di sekitar istana.
+- **Markas institusi:** [[Dewan_Candra_Nawa|Dewan Candra Nawa]].
 
-### 2. Lingkar Samodra (Distrik Aliran & Logistik)
+## 2. Lingkar Dharma - Pengetahuan dan inovasi
 
-Berbatasan langsung dengan Lingkar Bumi namun memiliki otoritas terpisah, distrik ini dibangun di sepanjang jaringan kanal buatan dan tepian sungai besar yang membelah kota.
+Lingkar Dharma berada di luar Lingkar Surya. Sektor ini merupakan pusat riset, sekolah, universitas, penelitian, pusat guild, dan pusat sihir. Perkembangan pengetahuan di sini menjadi salah satu kekuatan utama Pribumi.
 
-- **Visual & Suasana:** Dinamis dan berbau air tawar, lumpur sungai, serta kayu kapal. Bangunannya didominasi gudang-gudang raksasa berdinding bata merah dengan atap melengkung, serta dermaga kayu ulin yang memanjang.
-- **Aktivitas Utama:** Menjadi gerbang logistik dari kota pesisir _Aqualis_ menuju ibu kota. Ribuan ton komoditas (beras, rempah, dan balok baja tempa) dibongkar muat setiap hari. Kapal-kapal dagang berbendera berbagai fraksi merayap pelan melintasi kanal-kanalnya.
-- **Fakta Unik:** Serikat Pekerja Panggul dan Serikat Bea Cukai memiliki kekuasaan besar di sini. Pada malam hari, Lingkar Samodra diterangi oleh ribuan lampion kertas penolak bala yang cahayanya memantul indah di permukaan air kanal.
+Pribumi merupakan manusia biasa yang paling lemah secara kemampuan bawaan dan tidak memiliki kekuatan sihir di dalam dirinya. Mereka berkembang sangat cepat melalui penemuan dan rekayasa: rune memungkinkan penggunaan sihir melalui perantara, sedangkan teknologi tempur dapat menghasilkan senjata yang mampu menembus sisik keras Nagarasven. Kemampuan tersebut berasal dari pengetahuan dan perangkat, bukan sihir bawaan Pribumi.
 
-### 3. Lingkar Wira (Distrik Baja & Keberanian)
+- **Fasilitas:** Sekolah, universitas, pusat riset, perpustakaan, serta tempat pengembangan sihir dan teknologi.
+- **Pusat guild:** Menampung kegiatan keilmuan dan pengembangan guild; markas pengawas guild Gilda Arthapasa berada di Lingkar Wira.
+- **Markas institusi:** [[Loka_Cakra|Pusat Riset Loka Cakra]].
 
-Lapisan menengah yang dilindungi oleh tembok pertahanan kedua yang jauh lebih kokoh. Ini adalah "otot" dari Mandala Capital.
+## 3. Lingkar Wira - Pertahanan sektor dalam
 
-- **Visual & Suasana:** Kaku, disiplin, dan mengintimidasi. Bangunannya berupa barak-barak militer berbatu balok simetris dan lapangan latihan yang dilapisi pasir besi hitam. Suasana selalu dipenuhi derap langkah prajurit berbaris, seruan komando, dan dentingan palu tempa.
-- **Aktivitas Utama:** Tempat berdirinya Akademi Militer Kerajaan. Para calon ksatria elit dan komandan perang dilatih fisik maupun taktik. Terdapat pula kompleks bengkel pandai besi istana—cabang dari para ahli di _Hermindar_—yang siang-malam menempa, merawat, dan memoles Senjata Baja Mandala milik pasukan khusus.
-- **Fakta Unik:** Hanya warga yang telah melewati seleksi fisik ekstrem atau memiliki keturunan ksatria yang diizinkan menetap secara permanen di sini. Udara di distrik ini selalu terasa hangat akibat panas tungku penempaan.
+Lingkar Wira berada di luar Lingkar Dharma dan menjadi pusat pertahanan militer ibu kota. Sektor ini merupakan benteng pertahanan terakhir untuk mencegah musuh memasuki lingkar dalam, tempat pusat pengetahuan dan pemerintahan berada.
 
-### 4. Lingkar Dharma (Distrik Pengetahuan & Kebijaksanaan)
+Prajurit, penyihir, dan pasukan guild elite bertugas menjaga keamanan Mandala dari sektor ini. Lingkar Wira juga menjadi gerbang pemeriksaan ketat bagi pihak luar dan rombongan diplomatik sebelum memperoleh akses ke sektor dalam Mandala Capital.
 
-Lapisan yang lebih tinggi dan dekat dengan pusat istana. Lingkar Dharma adalah otak dan nurani dari ibu kota, tempat berkumpulnya kaum cendekiawan.
+- **Pertahanan:** Garnisun, pasukan elite, dan fasilitas pengamanan ibu kota.
+- **Akses diplomatik:** Pemeriksaan dan pemberian akses menuju sektor dalam; terpisah dari pemeriksaan perdagangan lintas wilayah di Hermindar.
+- **Markas institusi:** [[Gilda_Arthapasa|Gilda Arthapasa]] dan [[Pasukan_Garuda_Kencana|Pasukan Garuda Kencana]].
+- **Hubungan pelatihan:** Pusat Akademi Ksatrya Mandalagiri berada di Valkindra; fungsi Lingkar Wira adalah pertahanan ibu kota.
 
-- **Visual & Suasana:** Hening, damai, dan asri. Arsitekturnya anggun; perpaduan ukiran kayu jati mahahal dan batu putih pualam, dihiasi taman-taman teratai dan kolam refleksi. Udaranya beraroma perkamen tua, tinta, dan teh melati.
-- **Aktivitas Utama:** Berdirinya **Graha Pustaka Agung** (perpustakaan raksasa yang menyimpan sejarah Nusvanir), sekolah filsafat politik, dan **Guild Sihir/Mistik**. Para penyihir istana bekerja memecahkan teka-teki magis, termasuk meneliti sihir terlarang dari masa lampau dan anomali dari _Thalantira_ untuk mencari penawarnya.
-- **Fakta Unik:** Banyak penduduknya berjalan tanpa alas kaki sebagai bentuk penghormatan terhadap tanah berilmu. Perdebatan teologis dan filosofis sering terdengar di pelataran-pelataran sekolah filsafat.
+## 4. Lingkar Samodra - Distribusi logistik kerajaan
 
-### 5. Lingkar Surya (Pusat Cahaya & Kekuasaan)
+Lingkar Samodra berada di luar Lingkar Wira. Sektor ini menghimpun sumber daya dari seluruh wilayah Mandala dan mengatur pemanfaatan serta distribusinya untuk penduduk dan kebutuhan kerajaan.
 
-Lingkar paling dalam, eksklusif, dan berada di titik dataran tertinggi di pusat kota. Ibarat Gunung Meru, ini adalah titik bertemunya manusia dan keilahian.
+Gudang, dermaga sungai, kanal, dan fasilitas bongkar muat menjadi bagian dari pusat logistik ini. Pasokan pangan berpusat di Arthiska, sementara arus transportasi laut melalui Aqualis; Lingkar Samodra mengoordinasikan logistik tersebut bagi seluruh kerajaan.
 
-- **Visual & Suasana:** Suci, megah, dan menyilaukan. Dikelilingi oleh tembok marmer putih berlapis ukiran emas yang memantulkan sinar matahari. Bangunan utamanya mengadaptasi gaya keraton atau _pendopo_ raksasa dengan atap menjulang, disangga pilar-pilar berukir relief mitologi _Serat Prabhawa_.
-- **Aktivitas Utama:** Pusat absolut pemerintahan dan agama. Di sini bersemayam **Istana Cahaya** (kediaman Raja Mandala) dan **Kuil Agung Agnihotra**, titik pusat penyembahan _Sang Hyang Cahaya_. Kompleks ini juga diisi oleh kediaman mewah para bangsawan tinggi darah biru dan _Brahmana Surya_ tingkat atas.
-- **Fakta Unik:** Sangat tertutup untuk umum. Penjagaan dilakukan oleh _Pasukan Pengawal Surya_ yang mengenakan zirah emas berkilau dan jubah bermotif parang suci. Di tata ruangnya, singgasana Raja dirancang secara presisi sehingga selalu disinari langsung oleh cahaya matahari dari jendela kubah langit-langit, melambangkan mandat surgawi.
+## 5. Lingkar Bumi - Permukiman masyarakat
+
+Lingkar Bumi adalah sektor terluar sekaligus kawasan paling ramai di Mandala Capital. Rumah-rumah, gedung, pasar, dan kegiatan harian penduduk memenuhi kawasan ini.
+
+Permukimannya membentang di dalam dan di luar benteng. Bagian dalam benteng mayoritas dihuni Wahanarsa, sedangkan bagian luar dihuni Pribumi. Pembagian ini menggambarkan susunan permukiman utama, bukan larangan mutlak keberadaan kelompok lain.
+
+## Jaringan jalan dari ibu kota
+
+
+- **Tenggara:** [[Aqualis]], kota pelabuhan Mandala.
+- **Timur laut:** [[Arthiska]], lumbung pangan Nusvanir di perbatasan Hutan Astradipa.
+- **Timur:** [[Hermindar]], pusat perdagangan dan pemeriksaan sebelum memasuki Cakrawala.
+- **Barat laut:** [[Valkindra]], pusat militer yang bersebelahan langsung dengan Avalerion.
+
+Keempat arah dihitung dari Mandala Capital. Lihat [Jalur dan Perjalanan](../../../02_World/Jalur_dan_Perjalanan.md) untuk aturan skala dan waktu tempuh.

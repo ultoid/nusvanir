@@ -27,4 +27,4 @@ Zona Badai Abadi Rangkaruna, antara permukaan yang disambar petir dan lapisan ai
 
 Petir menyambar laut dan garis biru bergerak di bawah kapal kosong yang hanyut. Naga Laut mengirim pulsa ke arah tiang, menerima gema, lalu melesat menabraknya. Kayu patah jatuh ke air. Makhluk itu berputar sekali, menyadari tidak ada mangsa hidup, dan kembali ke badai mengikuti sambaran berikutnya.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md).

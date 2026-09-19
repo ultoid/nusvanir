@@ -276,9 +276,9 @@
       "proposal_status": "owner review; not inserted into regional canon",
       "source": "07_Bestiary/01_Alam_Liar/Burung_Puyuh_Hutan.json",
       "regional_sources": [
-        "02_World/Mandala.md",
-        "02_World/Astradipa.md",
-        "02_World/Arkananta.md",
+        "03_Region/01_Mandala Kingdom/Mandala.md",
+        "03_Region/02_Astradipa/Astradipa.md",
+        "03_Region/05_Arkananta/Arkananta.md",
         "03_Region/01_Mandala Kingdom/Economy.md",
         "03_Region/02_Astradipa/Economy.md",
         "03_Region/05_Arkananta/Economy.md"

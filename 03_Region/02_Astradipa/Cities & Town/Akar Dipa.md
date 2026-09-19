@@ -4,12 +4,16 @@ wilayah: "[[Astradipa]]"
 tags:
   - city
 ---
-# Benteng Bawah Tanah Akar-Dipa
+# Benteng Bawah Tanah Akar Dipa
 
-*Garis pertahanan terdepan militer Asrivana di lantai hutan.*
+Akar Dipa adalah benteng pusat militer Asrivana di dasar hutan dan di bawah tanah pada lingkar [[Vana Kusuma]]. Tempat ini menjadi pusat pelatihan militer sekaligus **benteng pertahanan terakhir** Asrivana untuk menghalau ancaman yang membahayakan Pohon Induk Maharuna.
 
-Sementara sebagian besar populasi Astradipa hidup di atas pepohonan, Akar-Dipa terletak membumi di dasar hutan yang gelap. Ini adalah fasilitas militer kaku sekaligus benteng perbatasan yang berhadapan langsung dengan bahaya di dasar ekosistem.
+- **Pusat Pelatihan dan Garnisun:** Pasukan hutan, termasuk Ksatrya Sylvana, berlatih dan menjalankan kegiatan militer dari kompleks ini.
+- **Benteng Akar dan Bawah Tanah:** Barak serta pos pertahanan menyatu dengan jalinan akar di dasar hutan dan ruang bawah tanah. Pertahanan memanfaatkan struktur alami hutan.
+- **Perlindungan Maharuna:** Benteng menghalau Jenggala dan penyusup yang mengancam pusat kekuatan alam serta peradaban Asrivana di [[Luminasthana]].
 
-- **Garnisun Pasukan Hutan:** Markas operasional yang dihuni oleh para penjaga elit dan pemanah Asrivana (Ksatrya Sylvana).
-- **Benteng Akar Alami:** Barak-barak prajurit dan menara penjagaan disisipkan pada sela-sela jalinan akar raksasa Pohon Induk yang sangat tebal, berfungsi layaknya tembok benteng yang tak bisa ditembus.
-- **Zona Pencegahan Bahaya:** Menjadi pertahanan pertama untuk menangkal agresi dari monster Jenggala, anomali tanaman beracun, dan menjaga agar para penyusup gelap tidak memanjat ke kota-kota atas.
+Akar Dipa merupakan lapisan pertahanan terakhir bagi pusat Asrivana, bukan sekadar benteng perbatasan terluar Astradipa. Lingkar Vana Kusuma yang menaunginya, jumlah kompleks, dan jalur bawah tanahnya belum dipetakan secara rinci.
+
+## Markas institusi
+
+Akar Dipa merupakan markas utama Ksatrya Sylvana.

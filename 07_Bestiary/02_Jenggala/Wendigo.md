@@ -28,4 +28,4 @@ Dalam kisah perjalanan di Raksamala, dua pelintas berhenti ketika menghitung bay
 
 Rekannya tidak melihat tangan yang menyentuh leher itu. Ia menariknya mundur ke jalur tempat mereka datang, tanpa menunggu sosok tinggi tersebut melangkah. Setelah napas kembali, keduanya meninggalkan barang yang jatuh. Tidak ada yang mau naik lagi hanya untuk membuktikan ukuran bayangan tadi.
 
-> Acuan: [Raksamala](../../02_World/Raksamala.md).
+> Acuan: [Raksamala](../../03_Region/10_Raksamala/Raksamala.md).

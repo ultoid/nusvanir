@@ -1,8 +1,0 @@
----
-title: Hutan_Astradipa
-tags:
-  - Geografi_Wilayah
----
-# Hutan Astradipa
-
-Astradipa adalah wilayah hutan rimbun yang menjadi pusat kehidupan ras Asrivana. Pohon-pohon raksasa dengan tinggi menjulang hingga menembus awan menjadi ciri khas wilayah ini. Sebagian besar hutan dipenuhi tanaman bercahaya, terutama di malam hari, yang memberikan suasana magis. Di suatu tempat di wilayah Astradipa terdapat sebuah wilayah yang dihuni oleh ras Hanorok.

@@ -4,12 +4,15 @@ wilayah: "[[Astradipa]]"
 tags:
   - town
 ---
-# Paseban Perjanjian Rahasia Wana Prasetya
+# Wisma Diplomasi Wana Prasetya
 
-*Titik temu rahasia untuk urusan diplomasi antara Astradipa dan Kerajaan Mandala.*
+Wana Prasetya adalah tempat pertemuan khusus di sebuah pohon tersembunyi di Hutan Astradipa. Di sini Asrivana menjamu ras-ras lain, termasuk Pribumi, Garuda, Nagarasven, dan pihak lain yang datang untuk membicarakan hubungan diplomasi serta politik.
 
-Bukanlah sebuah kota besar maupun pasar dagang, Wana Prasetya adalah suaka kuno yang sangat tersembunyi di perbatasan terluar Astradipa. Tempat ini selalu diselimuti oleh kabut ilusi abadi, membuatnya mustahil ditemukan oleh siapapun tanpa izin dan sihir pemandu Asrivana.
+Bangunannya menyerupai hotel megah di pohon, dengan fasilitas penerimaan dan penginapan tamu yang layak serta mewah menurut tradisi Asrivana. Ruang jamuan, tempat beristirahat, dan balai perundingan menjadi bagian dari fungsi wisma ini.
 
-- **Fungsi Diplomasi Rahasia:** Tempat pertemuan antara diplomat tingkat tinggi Kerajaan Mandala (ras Pribumi/Wahanarsa) dengan tetua Asrivana dan jenderal militer Hanorok.
-- **Suaka Netral & Aman:** Pertemuan harus dirahasiakan untuk menghindari sabotase faksi radikal Asrivana (Sekte Bayang-Gugur) maupun mata-mata politikus Mandala yang korup.
-- **Paseban Kuno:** Di tengah-tengahnya terdapat balai tanpa dinding (Paseban) dengan meja bundar pualam sakral, tempat disepakatinya aliansi bayangan dan pertukaran informasi militer.
+- **Pertemuan Lintas Ras:** Pembicaraan tidak terbatas pada hubungan Mandala dan Astradipa; para tamu dari berbagai ras dapat bertemu di sini.
+- **Kerahasiaan Lokasi:** Pohonnya tersembunyi dan dilindungi kabut ilusi; akses memerlukan izin serta pemanduan Asrivana. Letak tepatnya belum ditentukan.
+- **Paseban Perundingan:** Balai pertemuan dengan meja bundar pualam menjadi tempat pembicaraan diplomatik dan politik.
+- **Keamanan Tamu:** Kerahasiaan dan penjagaan melindungi pertemuan dari penyusup serta sabotase faksi yang memusuhi hubungan dengan ras luar.
+
+Wana Prasetya adalah tujuan khusus bagi tamu, bukan pemberian akses bebas ke pusat kekuatan Maharuna atau seluruh kawasan [[Luminasthana]].

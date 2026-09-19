@@ -27,4 +27,4 @@ Permukaan Rangkaruna pada malam hari, terutama ketika arus membawa makanan dari 
 
 Kawanan Ubur-Ubur Pijar menghantam lambung kapal Rama di tengah tiga hari serangan. Cahaya biru menyala pada ombak, memaksa Hector dan Cassian melindungi kapal tanpa jatuh ke air. Di antara badai, keindahan pendar itu hanya memberi peringatan tentang tempat yang tidak boleh disentuh.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).

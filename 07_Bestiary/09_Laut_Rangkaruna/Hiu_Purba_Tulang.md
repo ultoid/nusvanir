@@ -27,4 +27,4 @@ Kuburan Kapal Laut Rangkaruna, terutama cekungan tempat arus mengumpulkan puing,
 
 Seekor ikan besar masuk ke lambung kapal tenggelam untuk menghindari badai. Tulang rusuk putih bergerak di balik tiang yang patah. Hiu Purba menembus bukaan tanpa menggeser satu papan pun, kabut gelap menarik rangkanya melewati reruntuhan. Ikan itu lolos melalui lubang kecil; sang hiu kembali mengitari bangkai, menunggu getaran berikutnya.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md).

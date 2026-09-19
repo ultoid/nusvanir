@@ -27,4 +27,4 @@ Perairan dalam dan Palung Kematian Rangkaruna. Ruang luas di dasar laut memungki
 
 Tentakel Krakentis menutup jalur kapal Oak hitam. Saat Hector bersiap menyerang, Rama meninggalkan kemudi dan melepaskan gelombang suara padat ke pusat saraf monster. Otot Krakentis membeku sesaat. Rama kembali merebut kemudi dan membawa kapal melewati celah tentakel sebelum makhluk itu pulih. Mereka menang bukan dengan membunuh sang pemutar arus, melainkan dengan menciptakan satu kesempatan untuk lolos.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).

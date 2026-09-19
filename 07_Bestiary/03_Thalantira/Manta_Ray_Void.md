@@ -28,4 +28,4 @@ Di bawah arus yang mengamuk, seekor pari melewati lereng batu dengan gerakan ham
 
 Cahaya berkumpul di depan mulutnya. Pemangsa berhenti, tetapi semburan telah membelah air di antara mereka. Endapan naik menutupi lereng. Ketika butir pasir kembali turun, pari sudah meluncur lebih dalam, meninggalkan lorong gelap yang sesaat tadi tampak menyala seperti langit.
 
-> Acuan: [Threat](../../03_Region/11_Thalantira/Threat.md); [Thalantira](../../02_World/Thalantira.md).
+> Acuan: [Threat](../../03_Region/11_Thalantira/Threat.md); [Thalantira](../../03_Region/11_Thalantira/Thalantira.md).

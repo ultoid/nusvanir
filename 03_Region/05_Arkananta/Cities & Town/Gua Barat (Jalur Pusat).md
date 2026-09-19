@@ -1,6 +1,6 @@
 ---
 title: Gua Barat (Jalur Pusat)
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 tags:
   - kota
   - arkananta

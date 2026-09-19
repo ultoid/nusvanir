@@ -28,4 +28,4 @@ Cahaya dari tongkat Cassian memasuki lorong Kuil Tanah. Hector berjalan dengan p
 
 Golem itu menjerit dan berlari menyembunyikan diri. Tidak ada serbuan, hanya decitan yang menghilang di percabangan. Hector menggerutu melihat monster ketakutan pada manusia. Perjalanan mereka berlanjut, tetapi kelucuan singkat itu menjadi bagian lain dari kedamaian yang terlalu mudah diterima sebelum kebenaran pulau terbuka.
 
-> Acuan: [07 Tiga Kuil Penjaga](../../08_Story/02_Prologue/07_Tiga_Kuil_Penjaga.md); [08 Ujian Para Pelindung](../../08_Story/02_Prologue/08_Ujian_Para_Pelindung.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md); [Thalantira](../../02_World/Thalantira.md).
+> Acuan: [07 Tiga Kuil Penjaga](../../08_Story/02_Prologue/07_Tiga_Kuil_Penjaga.md); [08 Ujian Para Pelindung](../../08_Story/02_Prologue/08_Ujian_Para_Pelindung.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md); [Thalantira](../../03_Region/11_Thalantira/Thalantira.md).

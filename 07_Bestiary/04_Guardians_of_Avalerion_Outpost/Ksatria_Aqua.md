@@ -29,4 +29,4 @@ Sebuah kapal patroli kembali ke Tirta dengan geladak licin dan seorang prajurit 
 
 Air suci bergerak mengikuti tangannya, tidak mengikuti oleng kapal. Setelah luka cukup tertangani untuk pemindahan, ia memberi isyarat kepada pembawa tandu. Prajurit itu dibawa melewati dermaga tanpa harus memaksakan langkah. Aqua baru bangkit ketika tandu mencapai pijakan yang kokoh; baginya, pertolongan belum selesai hanya karena darah berhenti mengalir.
 
-> Acuan: [Outpost Tirta](../../03_Region/03_Avalerion/Cities%20%26%20Town/Outpost_Tirta.md); [Senopati Prabha](../../03_Region/03_Avalerion/Faksi%20%26%20Institusi/Senopati_Prabha.md); [Avalerion](../../02_World/Avalerion.md).
+> Acuan: [Outpost Tirta](../../03_Region/03_Avalerion/Cities%20%26%20Town/Outpost_Tirta.md); [Senopati Prabha](../../03_Region/03_Avalerion/Faksi%20%26%20Institusi/Senopati_Prabha.md); [Avalerion](../../03_Region/03_Avalerion/Avalerion.md).

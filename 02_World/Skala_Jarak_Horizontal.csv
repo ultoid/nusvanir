@@ -1,0 +1,12 @@
+﻿Jarak horizontal perkiraan (km),Aqualis,Pesisir barat Raksamala,Mandala (titik acuan pedalaman),Cakrawala (titik acuan pesisir),Avalerion,Astradipa (titik acuan hutan),Arkananta (titik acuan utara),Tirta Amarta (titik acuan pesisir),Nusa Sayendra,Agnitra (pesisir utara),Thalantira (titik acuan pulau)
+Aqualis,0,840,380,480,900,650,900,1180,1010,300,1200
+Pesisir barat Raksamala,840,0,1160,530,1660,1010,1160,720,740,620,370
+Mandala (titik acuan pedalaman),380,1160,0,680,520,540,770,1320,1120,550,1500
+Cakrawala (titik acuan pesisir),480,530,680,0,1150,490,670,700,550,180,840
+Avalerion,900,1660,520,1150,0,810,930,1680,1460,1040,1990
+Astradipa (titik acuan hutan),650,1010,540,490,810,0,250,880,660,510,1270
+Arkananta (titik acuan utara),900,1160,770,670,930,250,0,840,620,740,1360
+Tirta Amarta (titik acuan pesisir),1180,720,1320,700,1680,880,840,0,230,880,680
+Nusa Sayendra,1010,740,1120,550,1460,660,620,230,0,730,810
+Agnitra (pesisir utara),300,620,550,180,1040,510,740,880,730,0,960
+Thalantira (titik acuan pulau),1200,370,1500,840,1990,1270,1360,680,810,960,0

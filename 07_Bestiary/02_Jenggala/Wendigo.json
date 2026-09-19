@@ -51,7 +51,7 @@
   "lore_review": {
     "source_archive": "07_Bestiary/_audit/pre_jenggala_narrative.json",
     "sources": [
-      "02_World/Raksamala.md"
+      "03_Region/10_Raksamala/Raksamala.md"
     ],
     "unresolved": [
       "Mekanisme cekikan dan komando/faksi khusus belum dipastikan."

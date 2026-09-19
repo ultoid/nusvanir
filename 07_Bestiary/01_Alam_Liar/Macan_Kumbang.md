@@ -28,4 +28,4 @@ Seorang pembawa pesan yang dipandu melintasi Astradipa melihat sepasang mata di 
 
 Setelah melewati pohon itu, mereka menemukan jejak kecil di tanah lunak. Pembawa pesan baru mengerti mengapa mata tersebut tidak beralih darinya. Yang mengawasi mereka bukan penjaga rahasia Asrivana, melainkan seekor induk yang menunggu orang-orang asing menjauh dari anaknya.
 
-> Acuan kanopi: [Astradipa](../../02_World/Astradipa.md).
+> Acuan kanopi: [Astradipa](../../03_Region/02_Astradipa/Astradipa.md).

@@ -29,4 +29,4 @@ Roda sebuah gerobak patah di jalur pemeriksaan Bumi. Orang-orang di belakang mul
 
 Dengan ruang yang kini kosong, para pengangkut dapat memindahkan peti satu per satu. Seorang pelintas mengeluh bahwa penjaga batu itu hanya memperlambat perjalanan. Lalu ikatan terakhir terlepas dan peti jatuh tepat di tempat kerumunan tadi berdiri. Terra menunggu serpihan disingkirkan sebelum membuka jalan kembali. Tidak ada musuh yang dikalahkan hari itu, tetapi tak seorang pun tertindih.
 
-> Acuan: [Outpost Bumi](../../03_Region/03_Avalerion/Cities%20%26%20Town/Outpost_Bumi.md); [Senopati Prabha](../../03_Region/03_Avalerion/Faksi%20%26%20Institusi/Senopati_Prabha.md); [Avalerion](../../02_World/Avalerion.md).
+> Acuan: [Outpost Bumi](../../03_Region/03_Avalerion/Cities%20%26%20Town/Outpost_Bumi.md); [Senopati Prabha](../../03_Region/03_Avalerion/Faksi%20%26%20Institusi/Senopati_Prabha.md); [Avalerion](../../03_Region/03_Avalerion/Avalerion.md).

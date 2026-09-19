@@ -1,6 +1,6 @@
 ---
 title: Threat
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 tags:
   - region
   - ancaman

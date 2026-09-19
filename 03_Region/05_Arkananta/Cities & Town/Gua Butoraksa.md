@@ -1,6 +1,6 @@
 ---
 title: Gua Butoraksa
-wilayah: "[[Pegunungan Arkananta]]"
+wilayah: "[[Arkananta]]"
 tags:
   - kota
   - arkananta

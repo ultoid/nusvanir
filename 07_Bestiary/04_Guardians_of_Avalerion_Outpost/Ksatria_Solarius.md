@@ -29,4 +29,4 @@ Patroli dari lereng Arkananta tiba di depan Agni ketika suara batu berguling men
 
 Ia menahan posisi sementara dua rekannya menarik prajurit itu ke pelataran. Ketika semua telah melewati pintu, barisan kembali rapat. Tidak ada sorak kemenangan. Solarius masih menghadap lereng, menunggu debu turun agar pasukan dapat membedakan bahaya yang sungguh mendekat dari bayangan yang dibesarkan kepanikan.
 
-> Acuan: [Outpost Agni](../../03_Region/03_Avalerion/Cities%20%26%20Town/Outpost_Agni.md); [Senopati Prabha](../../03_Region/03_Avalerion/Faksi%20%26%20Institusi/Senopati_Prabha.md); [Avalerion](../../02_World/Avalerion.md).
+> Acuan: [Outpost Agni](../../03_Region/03_Avalerion/Cities%20%26%20Town/Outpost_Agni.md); [Senopati Prabha](../../03_Region/03_Avalerion/Faksi%20%26%20Institusi/Senopati_Prabha.md); [Avalerion](../../03_Region/03_Avalerion/Avalerion.md).

@@ -4,12 +4,20 @@ wilayah: "[[Astradipa]]"
 tags:
   - city
 ---
-# Lumbung Nektar Emas Vana-Kusuma
+# Permukiman Agrikultur Vana Kusuma
 
-*Pemukiman agrikultur gantung milik ras Asrivana.*
+**Vana Kusuma** adalah sebutan bagi banyak permukiman agrikultur Asrivana yang tersebar di segala penjuru Hutan Astradipa. Nama ini tidak menunjuk satu kota atau satu distrik tunggal. Permukiman-permukiman tersebut menjadi lumbung sumber daya pertanian dan peternakan Asrivana.
 
-Sebuah distrik agrikultur Asrivana yang membentang luas di cabang-cabang pohon penghasil buah raksasa. Wilayah ini selalu memancarkan aroma manis karena dipenuhi warna-warni daun rimbun dan bunga bercahaya yang bermekaran sepanjang tahun.
+- **Pertanian Hutan:** Kebun vertikal, cabang pohon penghasil buah raksasa, dan tanaman magis menyediakan hasil pangan serta bahan penyembuhan. Kanopinya dihiasi dedaunan rimbun dan bunga bercahaya.
+- **Peternakan dan Simbiosis Hewan:** Asrivana memelihara hewan dalam lingkungan hutan, termasuk burung magis dan koloni lebah, serta mengelola hasil peternakan dan madu.
+- **Penyedia Sumber Daya:** Jaringan Vana Kusuma menopang kebutuhan peradaban Asrivana yang berpusat di [[Luminasthana]].
 
-- **Agrikultur Ketinggian:** Penduduknya hidup mengelola kebun vertikal yang bergantung pada dahan, memanen madu raksasa dan buah-buahan sihir penyembuh seperti Nektar Amarta.
-- **Simbiosis Hewan:** Penduduk Asrivana di sini hidup berdampingan dengan burung-burung magis eksotis dan memelihara koloni lebah penjaga.
-- **Cahaya Abadi:** Merupakan wilayah paling benderang di Astradipa pada malam hari karena konsentrasi tanaman bioluminesensi yang sangat tinggi, terlihat bersinar dari kejauhan.
+## Lingkar pertahanan
+
+[[Akar Dipa]] berada pada dasar hutan dan ruang bawah tanah di lingkar Vana Kusuma, sebagai pusat militer dan pertahanan terakhir untuk melindungi Pohon Maharuna. Penyebutan banyak Vana Kusuma tidak otomatis berarti setiap permukiman memiliki benteng Akar Dipa sendiri; jumlah kompleks dan batas lingkar pertahanannya belum ditentukan.
+
+Dalam catatan rute, tujuan harus menyebut Vana Kusuma yang dimaksud. Tidak ada satu koordinat atau waktu perjalanan yang berlaku bagi seluruh permukiman ini.
+
+## Kerja sama pertanian
+
+Vana Kusuma bekerja sama dalam bidang pertanian dengan [[Arthiska]], lumbung pangan Nusvanir di Mandala.

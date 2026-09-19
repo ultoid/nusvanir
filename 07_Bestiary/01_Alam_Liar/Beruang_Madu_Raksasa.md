@@ -28,4 +28,4 @@ Seorang pencari mineral berlindung dari hujan di bawah batu besar pada lereng Ar
 
 Ia meninggalkan bungkusan makanannya dan mundur tanpa mengambil kapak yang tersandar di dinding. Ketika kembali bersama rekannya, bungkus itu sudah terbuka dan kapaknya masih utuh. Sejak itu ia selalu memeriksa jejak sebelum menyebut sebuah gua kosong.
 
-> Acuan: [Arkananta](../../02_World/Arkananta.md).
+> Acuan: [Arkananta](../../03_Region/05_Arkananta/Arkananta.md).

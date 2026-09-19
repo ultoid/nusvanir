@@ -27,4 +27,4 @@ Berbagai perairan Rangkaruna, terutama perbatasan badai dan jalur kapal. Sebutan
 
 Begitu kapal Rama menembus badai, lambung bergetar oleh hisapan basah. Lintah Palung telah menempel dari bawah. Hector dan Cassian harus mengusir kawanan sambil mempertahankan kapal dari ombak. Ancaman itu tampak kecil dibanding monster yang datang kemudian, tetapi satu lambung yang lapuk akan mengakhiri perjalanan sebelum mereka melihat palung.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).

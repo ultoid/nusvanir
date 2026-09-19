@@ -27,4 +27,4 @@ Palung Kematian di Laut Rangkaruna. Kedalaman, arus naik, dan dinding palung mem
 
 Delapan bayangan memanjang muncul di bawah kapal pemburu. Awak mengira mereka melihat kawanan ular, sampai seluruh leher berbelok mengikuti satu tubuh. Kapal membuang muatan berbau tajam ke arah arus lain. Beberapa kepala mengejarnya, memberi waktu layar menangkap angin. Hydra kembali ke palung setelah kapal keluar dari batas wilayahnya.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md); [01 Bisikan Pulau Terkutuk](../../08_Story/02_Prologue/01_Bisikan_Pulau_Terkutuk.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [01 Bisikan Pulau Terkutuk](../../08_Story/02_Prologue/01_Bisikan_Pulau_Terkutuk.md).

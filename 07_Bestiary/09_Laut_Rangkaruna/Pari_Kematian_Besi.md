@@ -27,4 +27,4 @@ Perairan dangkal Rangkaruna dengan dasar cukup luas untuk memperoleh kecepatan d
 
 Selama tiga hari serangan Rangkaruna, Pari Kematian Besi melompat dari air dan mengayunkan ekor ke kubah Cassian. Tombak alaminya menghantam perlindungan tanpa mencapai geladak. Para pelaut tidak mengejarnya; mereka menjaga kubah dan terus bergerak, sebab satu serangan yang ditahan bukan jaminan makhluk itu telah pergi.
 
-> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../02_World/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).
+> Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [05 Rahasia Sang Echomancer](../../08_Story/02_Prologue/05_Rahasia_Sang_Echomancer.md).

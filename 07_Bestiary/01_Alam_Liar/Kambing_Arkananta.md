@@ -28,4 +28,4 @@ Seorang pencari mineral mengikuti Kambing Arkananta yang bergerak menuju singkap
 
 Ia terpaksa meninggalkan kantong mineral agar dapat memanjat kembali. Dari tempat aman, ia melihat kambing itu menunduk memakan rumput yang tumbuh di antara batu. Harta yang dikejar keduanya ternyata berbeda sejak awal.
 
-> Acuan: [Pegunungan Arkananta](<../../03_Region/05_Arkananta/Pegunungan Arkananta.md>).
+> Acuan: [Pegunungan Arkananta](<../../03_Region/05_Arkananta/Arkananta.md>).

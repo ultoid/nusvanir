@@ -4,12 +4,15 @@ wilayah: "[[Tirta Amarta]]"
 tags:
   - city
 ---
+
 # Kuil Cahaya
 
-*Pusat absolut dari seluruh Tirta Amarta, menara cahaya tak berbatas, rumah Sang Hyang Cahaya.*
+**Kuil Cahaya** adalah kuil terbesar di Tirta Amarta dan dipersembahkan kepada Sang Hyang Cahaya, dewa tertinggi sekaligus pencipta seluruh kehidupan Nusvanir.
 
-### 1. Singgasana Ketiadaan Terang
+Bagi mata biasa, kuil ini tampak sebagai kompleks candi tua dengan batu retak, tanaman rambat, pepohonan, dan bagian bangunan yang seolah telah runtuh. Wujud aslinya hanya terlihat oleh mereka yang memperoleh penglihatan suci.
 
-- **Visual & Suasana:** Tidak ada dinding, lantai, atau batas. Hanya ada ruang hampa yang sepenuhnya diisi oleh cahaya putih murni yang menembus hingga ke dasar sukma. Tidak menyilaukan, namun menguasai segalanya.
-- **Aktivitas Utama:** Pusat eksistensi [[Sang Hyang Cahaya]]. Tidak ada makhluk fana maupun malaikat yang berani mengucapkan sepatah kata pun di ruangan ini; keheningan adalah doa tertinggi di sini.
-- **Fakta Unik:** Sang Hyang Cahaya jarang mengambil wujud fisik di sini. Namun, kehendaknya (atau energinya) terasa begitu pekat sehingga siapapun yang melangkah masuk ke batas kuil ini akan melihat semua rekam jejak dosa dan kebaikan mereka berputar dalam sekejap mata.
+Asevari dan Garuda menjadi peziarah yang paling sering mengunjungi Kuil Cahaya. Mereka datang untuk berdoa, memperkuat hubungan dengan sumber cahaya, serta mengingat kembali kewajiban menjaga Nusvanir.
+
+## Lore
+
+Peziarah yang belum memperoleh penglihatan suci hanya melihat cahaya kecil menyusup dari celah batu kuil. Mereka yang telah melihat wujud aslinya jarang mampu menjelaskannya dengan kata-kata; sebagian hanya berkata bahwa reruntuhan itu tidak pernah benar-benar runtuh.

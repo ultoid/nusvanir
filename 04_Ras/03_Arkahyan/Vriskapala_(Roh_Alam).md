@@ -6,6 +6,6 @@ tags:
 
 # Vriskapala (Roh Alam)
 
-Entitas purba berbentuk roh alam, peri hutan kuno, maupun *Treant* (Pohon Hidup) raksasa. Mereka pada dasarnya adalah perwujudan akar kesadaran alam semesta.
+Malaikat penjaga alam Nusvanir yang dapat dikenal melalui berbagai wujud roh alam. Mereka dihormati oleh bangsa yang hidup dekat dengan hutan, tanah, dan kehidupan liar.
 
-Eksistensi fisik mereka banyak ditemui mengembara menjaga sudut terdalam hutan [[Astradipa]] atau Pegunungan Arkananta. Namun, entitas tertinggi dan sumber energi mutlak dari Vriskapala bersemayam jauh di luar dunia fana, yakni di **Kuil Vriskapala** yang melayang dalam dimensi [[Tirta Amarta]]. Dari kuil yang menyerupai rongga akar kosmik tersebut, Vriskapala tertinggi mengalirkan serbuk sari kehidupan dan mentransfer embun penyembuhan tanpa batas ke benua-benua bawah Nusvanir.
+Kuil Vriskapala berada di [[Tirta Amarta]] dan tampak sebagai reruntuhan yang menyatu dengan akar, pepohonan, lumut, serta tanaman rambat. Asrivana dan Hanorok datang ke kuil tersebut untuk menyampaikan rasa terima kasih serta pujian kepada penjaga alam. Wujud asli kuil hanya terlihat melalui penglihatan suci.

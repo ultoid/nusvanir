@@ -6,6 +6,6 @@ tags:
 
 # Langitara
 
-Malaikat agung penjaga batas langit Nusvanir yang mendiami Kuil Langitara, sebuah kuil tak kasat mata di dimensi [[Tirta Amarta]].
+Malaikat penjaga langit Nusvanir yang dihormati di Kuil Langitara, [[Tirta Amarta]]. Wujud asli kuil mereka hanya dapat dilihat oleh orang yang memperoleh penglihatan suci.
 
-Mereka adalah perantara mutlak dari doa-doa yang dipanjatkan oleh ras bersayap seperti [[Garuda]] dan ksatria suci [[Avalerion]] (Pemujaan Sumpah Penjaga Langit). Langitara tidak turun ke bumi; mereka menenun takdir melalui hembusan angin. Mendapatkan pencerahan atau penglihatan dari seorang Langitara adalah salah satu berkah spiritual tertinggi yang bisa dicapai oleh makhluk hidup.
+Bangsa [[Garuda]] sering berziarah ke Kuil Langitara untuk memohon perlindungan ketika terbang dan menjalankan tugas menjaga Nusvanir. Kemampuan khusus serta cara Langitara berhubungan dengan dunia fana belum ditetapkan.

@@ -3,8 +3,9 @@ title: Economy_Tirta_Amarta
 tags:
   - economy
 ---
-# Ekonomi Tirta Amarta (Kota Para Dewa)
 
-Di [[Tirta Amarta]], kata "ekonomi" kehilangan maknanya. Tidak ada pasar, tidak ada pertanian, dan tidak ada koin yang berpindah tangan. 
+# Ekonomi Tirta Amarta
 
-Segala bentuk kehidupan materiil dan spiritual sudah mencapai tingkat kelimpahan (abundance) absolut. Air terjun suci mengalirkan air yang bisa menyembuhkan, udara dipenuhi energi magis yang menghilangkan rasa lapar, dan tidak ada penderitaan fisik yang membutuhkan pemenuhan materi. Oleh karena itu, konsep kekayaan atau kemiskinan tidak pernah eksis di tanah suci para dewa ini.
+Tirta Amarta berfungsi sebagai wilayah suci dan pusat keagamaan, bukan kota perdagangan. Kegiatan sehari-harinya berpusat pada pemeliharaan kuil, pelayanan peziarah, pelaksanaan ritual, dan penjagaan wilayah oleh Biksu Cahaya.
+
+Sumber makanan, bahan bangunan, perlengkapan ritual, bentuk sumbangan peziarah, serta hubungan ekonomi Tirta Amarta dengan wilayah lain belum ditetapkan. Catatan lama mengenai kelimpahan absolut dan hilangnya kebutuhan makan belum diperlakukan sebagai fakta kanon.

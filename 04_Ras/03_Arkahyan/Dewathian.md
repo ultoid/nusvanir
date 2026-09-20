@@ -6,6 +6,6 @@ tags:
 
 # Dewathian
 
-Bangsa malaikat pelindung bersayap perak yang berdiam di Kuil Dewathian di ranah suci [[Tirta Amarta]].
+Bangsa malaikat pelindung cahaya Nusvanir yang dihormati di Kuil Dewathian, [[Tirta Amarta]]. Kuil mereka tampak sebagai reruntuhan tertutup vegetasi bagi mata biasa; wujud sucinya hanya terlihat melalui penglihatan suci.
 
-Tugas utama Dewathian bukanlah bertempur di garis depan menggunakan pedang, melainkan menyelimuti pikiran para pahlawan dunia fana dengan berkah pelindung. Melalui doa-doa yang dipanjatkan di Kuil Dewathian, mereka mampu menciptakan *barrier* gaib (perisai tak terlihat) untuk melindungi sebuah kota dari serangan korupsi sihir skala besar.
+Mereka dipuja sebagai penjaga cahaya yang melindungi Nusvanir dari pengaruh jahat dan gelap. Kemampuan khusus, cara kemunculan, dan hubungan langsung mereka dengan peziarah belum ditetapkan.

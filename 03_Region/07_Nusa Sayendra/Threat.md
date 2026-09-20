@@ -3,8 +3,17 @@ title: Ancaman_Nusa_Sayendra
 tags:
   - ancaman
 ---
-# Ancaman Invasi di Nusa Sayendra
 
-Ancaman absolut bagi kedamaian [[Nusa Sayendra]] adalah invasi buas dan tanpa henti dari [[Jenggala]], monster buas yang dimuntahkan dari daratan [[Raksamala]]. Monster-monster ini terus bermutasi dan melintasi lautan dengan niat buta untuk menghancurkan pilar-pilar pelindung cahaya di nusantara.
+# Ancaman Nusa Sayendra
 
-Karena keberadaannya yang suci dan dipenuhi kekuatan langit, Nusa Sayendra menjadi benteng pertama sekaligus garis depan perlawanan udara. Pasukan [[Garuda]] merespons ancaman ini dengan menjadi tulang punggung bantuan militer utama bagi ksatria [[Avalerion]]. Sering kali, utusan tempur Avalerion akan mendatangi puncak pulau ini untuk secara resmi meminta sayap bantuan dari para Garuda, bahu-membahu membantai Jenggala liar demi mencegah invasi kegelapan menyentuh inti Nusvanir.
+## Serangan Raksamala
+
+Ancaman utama Nusa Sayendra secara turun-temurun berasal dari Pulau Raksamala. Kedekatan pulau suci dengan jalur serangan dari selatan membuat Garuda selalu mempersiapkan kekuatan tempurnya untuk menghadapi pasukan gelap yang mencoba memasuki Nusvanir.
+
+Garuda bekerja bersama Asevari dalam pertahanan dunia. Ketenteraman Nusa Sayendra dijaga oleh kesiapan militer yang dapat dikerahkan ketika serangan Raksamala mengancam wilayah lain.
+
+## Invasi Void
+
+Pada masa kini, ancaman terbesar Nusa Sayendra adalah Void yang mulai menginvasi Nusvanir. Sifat Void menghadirkan bahaya yang berbeda dari serangan Raksamala dan mengancam sumber cahaya yang menopang kekuatan suci Garuda.
+
+Skala invasi, jalur masuk, serta cara Void berinteraksi dengan cahaya Tirta Amarta mengikuti perkembangan kisah era Light dan Dark Path.

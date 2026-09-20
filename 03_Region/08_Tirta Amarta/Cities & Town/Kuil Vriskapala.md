@@ -4,12 +4,15 @@ wilayah: "[[Tirta Amarta]]"
 tags:
   - city
 ---
+
 # Kuil Vriskapala
 
-*Kuil alam murni, jantung kehidupan dari roh-roh penjaga hutan semesta.*
+**Kuil Vriskapala** dipersembahkan kepada Vriskapala, malaikat penjaga alam Nusvanir. Ukurannya setara dengan Kuil Dewathian dan Kuil Langitara.
 
-### 1. Pohon Kehidupan Awal
+Reruntuhan kuil dipenuhi akar, lumut, tanaman rambat, dan pepohonan sehingga batas antara bangunan dan alam sulit dibedakan. Wujud sucinya hanya tampak bagi mereka yang memperoleh penglihatan suci.
 
-- **Visual & Suasana:** Kuil ini bukanlah struktur batu, melainkan berupa rongga raksasa di dalam akar sebuah Pohon Kehidupan yang melingkupi sebagian besar dataran bawah Tirta Amarta. Terdapat pancaran serbuk sari yang menyala keemasan.
-- **Aktivitas Utama:** Tempat berdiamnya bangsa [[Vriskapala]] tingkat tertinggi. Mereka mentransfer embun kehidupan ke benua bawah (termasuk ke [[Astradipa]]) melalui jaringan akar kosmik pohon tersebut.
-- **Fakta Unik:** Bagi entitas yang sedang sekarat—termasuk dewa atau malaikat sekalipun—meminum setetes embun dari pusat Kuil Vriskapala dapat merekonstruksi tubuh spiritual mereka sepenuhnya.
+Asrivana dan Hanorok sering berziarah ke tempat ini untuk menyampaikan rasa terima kasih dan pujian kepada dewa alam atas kehidupan, hutan, hasil bumi, serta keseimbangan alam.
+
+## Lore
+
+Para peziarah tidak membersihkan seluruh tumbuhan yang menutupi Kuil Vriskapala. Bagi mereka, akar dan daun bukan tanda penelantaran, melainkan bagian dari kuil itu sendiri. Hanya Biksu Cahaya yang mengetahui tanaman mana yang boleh dipangkas dan mana yang harus dibiarkan tumbuh.

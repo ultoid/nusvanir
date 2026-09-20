@@ -34,6 +34,10 @@ Pelayaran biasa melewati Selat Agnitra dan menyusuri pesisir Cakrawala. Jalur in
 
 Nagarasven menjalin hubungan diplomasi dengan Kerajaan Mandala dan dapat memberikan bala bantuan untuk menghadapi serangan Jenggala dari Pulau Raksamala. Kerja sama tersebut tidak memberi warga Mandala kebebasan menambang di Agnitra. Penambangan tanpa izin serta perburuan Nagarasven tetap dianggap ancaman berat oleh empat klan naga.
 
+## Ziarah menuju Tirta Amarta
+
+Tirta Amarta menjadi pusat keagamaan Nusvanir. Asevari dan Garuda mengunjungi Kuil Cahaya, Garuda berziarah ke Kuil Langitara, sedangkan Asrivana dan Hanorok memberikan pujian di Kuil Vriskapala. Biksu Cahaya memelihara kawasan, membimbing ritual padusan, dan menjaga peziarah dari serangan Jenggala. Hanya orang tertentu yang memperoleh penglihatan suci untuk melihat wujud asli kuil-kuil tersebut.
+
 ## Kerangka pengembangan hubungan
 
 Untuk setiap hubungan dua wilayah, catat kebutuhan masing-masing, barang atau pengetahuan yang dipertukarkan, rute perjalanan, pihak yang mengendalikan akses, dan sumber konflik. Perjanjian, aliansi, serta ketergantungan baru perlu ditetapkan secara eksplisit sebelum diperlakukan sebagai fakta dunia.

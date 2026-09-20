@@ -4,8 +4,11 @@ wilayah: "[[Nusa Sayendra]]"
 tags:
   - faksi
 ---
+
 # Pasukan Ksatria Sayap Garuda
 
-Barisan elit militer udara Nusvanir, yang diisi oleh individu-individu terkuat dari ras [[Garuda]].
+Pasukan Ksatria Sayap Garuda adalah barisan elit militer udara Nusvanir yang diisi oleh individu-individu terkuat dari ras [[Garuda]]. Pasukan ini menjaga Nusa Sayendra dan dipersiapkan untuk membantu Asevari mempertahankan Nusvanir.
 
-Faksi ini tidak mencampuri urusan politik daratan, namun memiliki perjanjian darah militer eksklusif dengan ksatria penunggang dari [[Avalerion]]. Ketika langit bergemuruh akibat invasi [[Jenggala]] atau ancaman dari [[Raksamala]], Pasukan Ksatria Sayap Garuda adalah baris depan yang memotong awan hitam dengan tombak petir dan cakar emas mereka. Komandan pasukan ini adalah sosok legenda yang dikabarkan memiliki ukuran sayap yang menutupi setengah pulau.
+Mereka bukan bawahan Asevari, melainkan kekuatan sekutu yang memiliki tujuan suci yang sama. Ketika serangan dari [[Raksamala]] atau invasi Void mengancam, Pasukan Ksatria Sayap Garuda dapat dikerahkan sebagai kekuatan tempur udara.
+
+Pada masa damai, para anggotanya berlatih, menjaga udara pulau, dan melindungi Puncak Emas Swargaloka. Jenderal Jatayu memegang komando operasional pasukan pada masa kini.

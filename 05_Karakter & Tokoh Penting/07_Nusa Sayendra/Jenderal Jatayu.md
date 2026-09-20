@@ -13,9 +13,9 @@ tags:
 **Visual**: Garuda raksasa dengan sayap perunggu yang memiliki banyak bekas patahan masa lalu. Matanya sangat tajam, mengenakan helm berhias bulu badai.
 
 ### Latar Belakang & Lore
-Jatayu adalah veteran perang udara yang paling berpengalaman di Nusa Sayendra. Saat Prabu Swarnapatra perlahan-lahan kehilangan kewarasannya akibat kutukan Feral, Jatayulah yang memegang kendali operasional atas seluruh armada udara Garuda untuk memastikan aliansi dengan Avalerion tetap berjalan. Ia sangat setia pada rajanya dan bersumpah akan mencari obat kutukan itu ke Tirta Amarta.
+Jatayu adalah veteran perang udara yang memegang komando operasional Pasukan Ksatria Sayap Garuda. Pada masa damai ia mengatur latihan dan penjagaan udara Nusa Sayendra. Pada masa ancaman, ia mempersiapkan pengerahan pasukan untuk membantu Asevari mempertahankan Nusvanir.
 
 ### Relasi Faksi
 - Komandan kedua di bawah **Prabu Swarnapatra**.
-- Sangat menghormati **Ksatria Vayu** (Avalerion).
+- Komandan **Pasukan Ksatria Sayap Garuda**.
 

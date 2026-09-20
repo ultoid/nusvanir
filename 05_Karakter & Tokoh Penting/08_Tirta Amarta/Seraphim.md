@@ -9,13 +9,13 @@ tags:
 
 # Seraphim (Sang Pencerah)
 
-**Identitas**: Malaikat Pemimpin Kuil Dewathian.
+**Identitas**: Tokoh Dewathian yang dikaitkan dengan Kuil Dewathian.
 **Visual**: Entitas suci bersayap empat yang memancarkan pendar cahaya keemasan. Ia mengenakan zirah tanpa bobot dan memegang pedang api pemurnian. Wajahnya selalu tenang, tanpa emosi.
 
 ### Latar Belakang & Lore
-Seraphim adalah ciptaan langsung dari Sang Hyang Cahaya. Ia menetap di Kuil Dewathian, menjaga percikan cahaya pertama yang menciptakan semesta Nusvanir. Ia bertugas memberikan "Berkat Pencerahan" kepada pahlawan fana (terutama dari Avalerion) yang berhasil mendaki Gunung Ungu. Berkat ini dapat membalikkan kutukan demon lord.
+Seraphim dikenal dalam catatan keagamaan sebagai salah satu Dewathian yang menjaga cahaya Nusvanir. Para peziarah menyebut namanya ketika memohon keteguhan menghadapi kekuatan jahat dan gelap. Kedudukan, kemampuan, dan cara kemunculannya belum ditetapkan.
 
 ### Relasi Faksi
-- Entitas penjaga yang membimbing **Ksatria Agung Galathius**.
-- Mewaspadai pergerakan sihir gelap dari **Luciferus** di Raksamala.
+- Dikaitkan dengan **Kuil Dewathian**.
+- Dihormati sebagai penjaga cahaya Nusvanir.
 

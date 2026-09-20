@@ -6,12 +6,14 @@ tags:
 
 # Garuda
 
-Ras manusia burung (*Avian/Beastmen*) bersayap emas abadi yang menjadikan wilayah suci [[Nusa Sayendra]] sebagai tanah air mereka. Mereka adalah entitas pelindung surgawi yang beroperasi di bawah komando Avesari dari [[Avalerion]].
+Ras manusia burung (*Avian/Beastmen*) bersayap emas yang menjadikan wilayah suci [[Nusa Sayendra]] sebagai tanah air mereka. Kekuatan mereka berasal dari cahaya Sang Hyang yang bersumber di Tirta Amarta. Mereka membantu Asevari dari [[Avalerion]] mempertahankan Nusvanir sebagai sekutu, bukan sebagai bawahan.
 
-### Keabadian dan Kekuatan Tak Terkalahkan
-Bisa dibilang, Garuda adalah ras abadi seutuhnya. Umur mereka dapat mencapai 10.000 tahun, dan bahkan bisa lebih dari itu. Fisik mereka adalah anomali ilahi: mereka mampu terbang menembus atmosfer teratas, bernapas dan bertahan hidup di ruang hampa udara, serta memiliki kecepatan terbang yang setara dengan kecepatan cahaya. 
+### Kekuatan Cahaya dan Penerbangan
 
-Tubuh mereka dilindungi oleh sayap dan sisik-sisik emas yang sangat keras. Cangkang alami ini mustahil ditembus oleh senjata fisik maupun hantaman sihir apa pun dari dunia fana. Kombinasi mobilitas cahaya dan pertahanan mutlak ini menjadikan Garuda makhluk suci yang tak terkalahkan.
+Garuda memiliki kemampuan terbang alami dan kekuatan tempur yang bersumber dari cahaya Sang Hyang. Sayap serta tubuh mereka mampu menyalurkan energi tersebut untuk pergerakan, pertahanan, dan pertempuran udara. Batas kecepatan, ketahanan fisik, serta kemampuan khusus setiap Garuda belum ditetapkan.
 
 ### Siklus Kehidupan yang Suci (*Sacred*)
-Berbeda dengan ras-ras penghuni Nusvanir lainnya, siklus hidup para Garuda sangatlah suci (*sacred*). Untuk menjaga keseimbangan atas kekuatan mutlak yang mereka miliki, peradaban Garuda terbangun dengan filosofi yang jauh dari peradaban ras lain. Keseluruhan eksistensi mereka sepenuhnya diabdikan kepada Sang Hyang Cahaya dan berfokus untuk membantu faksi suci Avalerion. Mereka tidak memiliki sedikit pun niat, hasrat menguasai dunia, atau motif duniawi semacamnya. Di Nusa Sayendra, mereka hidup dengan sangat damai dan mengatasi konflik dengan kebijaksanaan mutlak.
+
+Telur-telur suci Garuda ditetaskan di Puncak Emas Swargaloka. Para tetua bertapa di bagian tertinggi kota untuk menjaga hubungan dengan sumber cahaya di Tirta Amarta dan membimbing generasi berikutnya.
+
+Masyarakat Garuda hidup tenteram, tetapi tetap memelihara kekuatan militer untuk membantu Asevari melawan ancaman terhadap Nusvanir. Rentang umur dan tahapan pendewasaan mereka belum ditetapkan.

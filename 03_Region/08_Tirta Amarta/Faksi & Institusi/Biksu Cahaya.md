@@ -4,10 +4,11 @@ wilayah: "[[Tirta Amarta]]"
 tags:
   - faksi
 ---
+
 # Biksu Cahaya
 
-Satu-satunya kelompok makhluk setengah fana yang diizinkan untuk tinggal secara menetap di [[Tirta Amarta]].
+**Biksu Cahaya** adalah kelompok yang memelihara dan menjaga Tirta Amarta. Mereka merawat empat kuil utama, reruntuhan, pelataran, jalur peziarah, serta Padusan Tirta Amarta.
 
-Mereka bukanlah bangsa malaikat, melainkan pendeta, petapa, atau utusan fana yang telah mencapai tahapan pencerahan tertinggi dari sihir cahaya (The Cold Sanctity). Mereka telah sepenuhnya kehilangan keterikatan fana (nafsu biologis, ambisi, keluarga).
+Tugas mereka mencakup menjaga keutuhan bangunan, mempertahankan kesucian ritual, membimbing peziarah, dan membantu orang terpilih memahami penglihatan suci. Mereka juga mengawasi sungai yang mengalir dari Pegunungan Arkananta.
 
-Tugas mereka bukanlah bertarung, melainkan merawat keempat kuil agung (Kuil Langitara, Kuil Dewathian, Kuil Vriskapala, dan Kuil Cahaya) secara fisik, serta menjadi pemandu spiritual yang tenang bagi para pahlawan langka yang berhasil menemukan jalan ke kota para dewa ini. 
+Biksu Cahaya bukan sekadar pelayan kuil. Mereka menjadi pertahanan Tirta Amarta dan bertugas menghalau Jenggala yang mencoba memasuki wilayah suci. Bentuk tingkatan, metode pelatihan, serta susunan kepemimpinan mereka belum ditetapkan.

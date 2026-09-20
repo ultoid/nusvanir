@@ -4,8 +4,9 @@ wilayah: "[[Nusa Sayendra]]"
 tags:
   - agama
 ---
+
 # Sumpah Penjaga Langit
 
-Kepercayaan di [[Nusa Sayendra]] bersumber pada akar spiritual yang sama dengan bangsa Avesari di [[Avalerion]]. Mereka melakukan pemujaan suci dan absolut kepada [[Sang Hyang Cahaya]], sang dewa pencipta, namun medium spiritual mereka sedikit berbeda.
+Kepercayaan di [[Nusa Sayendra]] bersumber pada Sang Hyang Cahaya. Cahaya suci yang menguatkan bangsa Garuda mengalir dari Tirta Amarta dan menjadi penghubung antara kehidupan mereka dengan Sang Hyang.
 
-Para [[Garuda]] memanjatkan doa mereka melalui resonansi udara dengan perantara malaikat penjaga langit, yaitu [[Langitara]]. Mereka meyakini bahwa setiap kepakan sayap dan badai yang mereka hasilkan adalah bait-bait doa yang dibawa langsung oleh angin suci ke telinga Sang Hyang Cahaya. Menjaga kemurnian langit Nusvanir dari invasi makhluk gelap adalah ibadah dan takdir tertinggi mereka.
+Menjaga Nusa Sayendra dan membantu Asevari mempertahankan Nusvanir merupakan bentuk pengabdian mereka. Pertapaan para tetua di Puncak Emas Swargaloka dilakukan untuk mendekatkan diri kepada sumber cahaya serta menjaga kekuatan spiritual generasi Garuda berikutnya.

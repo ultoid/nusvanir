@@ -3,13 +3,26 @@ title: Nusa_Sayendra
 tags:
   - Geografi_Wilayah
 ---
+
 # Nusa Sayendra
 
-Nusa Sayendra adalah sebuah pulau mistis yang terletak di seberang Tirta Amarta. Pulau ini merupakan rumah bagi bangsa Garuda, makhluk agung berbentuk burung besar dengan sayap emas yang melambangkan kekuatan, keberanian, dan kemurnian. Garuda dipercaya sebagai pelindung dunia dan simbol kebesaran Sang Hyang Cahaya.
+Nusa Sayendra adalah pulau suci di sebelah barat Tirta Amarta yang dihuni dan dijaga oleh bangsa Garuda. Kekuatan suci Garuda berasal dari cahaya Sang Hyang dengan sumber yang terhubung kepada Tirta Amarta.
+
+Bangsa Garuda merupakan kekuatan tempur yang membantu Asevari mempertahankan Nusvanir. Kehidupan mereka di Nusa Sayendra berlangsung tenteram, tetapi kedamaian tersebut menyimpan kekuatan militer dahsyat yang dipersiapkan untuk menghadapi ancaman terhadap dunia.
+
+## Bentuk peradaban
+
+Bangunan Nusa Sayendra menyerupai arsitektur suci Avalerion, tetapi dibuat lebih tinggi dan banyak berbentuk menara. Bentuk tersebut mengikuti kebiasaan Garuda yang berpindah dengan terbang dan memasuki bangunan dari berbagai ketinggian.
+
+Kehidupan tidak hanya berlangsung di udara. Pada permukaan pulau, para Garuda juga berjalan kaki, bertemu, dan saling menyapa di antara bangunan dasar, pelataran, serta ruang kehidupan sehari-hari.
+
+## Puncak Emas Swargaloka
+
+Nusa Sayendra hanya memiliki satu kota, yaitu Puncak Emas Swargaloka. Kota ini melayang di angkasa tepat di atas pulau. Swargaloka menjadi pusat penetasan telur-telur suci Garuda sekaligus tempat para tetua Garuda bertapa di langit.
 
 ## Letak dan kenampakan pada peta
 
-Nusa Sayendra merupakan pulau di lepas pantai tenggara Tirta Amarta. Pulau ini terletak di timur laut Cakrawala dan di utara hingga timur laut Raksamala, terpisah dari daratan utama oleh perairan.
+Nusa Sayendra merupakan pulau di sebelah barat Tirta Amarta, berada di kawasan teluk antara Tirta Amarta dan Cakrawala. Pulau ini berada di utara Raksamala dan terpisah dari daratan utama oleh perairan.
 
 Acuan: [Peta Dunia Nusvanir](../../09_Maps/Nusvanir%20World%20Map.png), dibaca dengan utara di bagian atas.
 

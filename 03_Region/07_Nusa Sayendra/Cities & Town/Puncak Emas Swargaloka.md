@@ -4,14 +4,17 @@ wilayah: "[[Nusa Sayendra]]"
 tags:
   - city
 ---
+
 # Puncak Emas Swargaloka
 
-*Sebuah mahakarya yang tidak berpijak di atas tanah, melainkan melayang megah di antara awan-awan emas langit Nusa Sayendra.*
+**Puncak Emas Swargaloka** adalah satu-satunya kota di Nusa Sayendra. Kota suci ini melayang di angkasa tepat di atas permukaan pulau.
 
-Kota—atau lebih tepatnya habitat agung—ini adalah rumah utama dari bangsa [[Garuda]]. Arsitekturnya sepenuhnya terbuka karena penduduknya tidak berjalan kaki, melainkan selalu berada dalam posisi terbang atau bertengger.
+Bangunannya menyerupai gedung suci Avalerion, tetapi lebih tinggi dan didominasi menara, pelataran udara, serta pintu masuk pada berbagai ketinggian. Bentuk kota mengikuti kemampuan Garuda untuk bepergian dengan terbang. Meskipun demikian, bagian dasar tetap memiliki pelataran dan jalan tempat para Garuda berjalan kaki serta berinteraksi.
 
-### 1. Pelataran Awan Suci
+## Pelataran Awan Suci
 
-- **Visual & Suasana:** Terang benderang hingga menyilaukan mata bagi mereka yang tidak terbiasa. Menara-menara tinggi berlapis emas padat tertanam langsung ke formasi batuan melayang. Udara terasa sangat tipis namun dipenuhi energi magis yang mendamaikan batin.
-- **Aktivitas Utama:** Pusat inkubasi telur-telur suci Garuda dan tempat pertapaan para tetua penjaga langit. Angin di sini berhembus seperti melantunkan melodi.
-- **Fakta Unik:** Manusia biasa (Suku Bumi) tidak akan bisa bernapas di tempat ini karena tekanan udaranya yang suci. Hanya mereka yang mewarisi darah ksatria [[Avalerion]] atau yang mendapat berkah khusus dari [[Langitara]] yang dapat bertahan menjejakkan kaki di pelataran ini.
+Bagian tertinggi Swargaloka menjadi tempat penetasan telur-telur suci Garuda dan pertapaan para tetua di langit. Cahaya Sang Hyang yang bersumber dari Tirta Amarta mengalir ke dalam kehidupan spiritual kota serta kekuatan para penghuninya.
+
+## Lore
+
+Dari permukaan pulau, Swargaloka tampak seperti puncak emas yang tidak pernah menyentuh tanah. Ketika telur Garuda mendekati waktu menetas, menara-menara kota memantulkan cahaya yang dapat terlihat dari pesisir Tirta Amarta. Masyarakat di daratan menyebut cahaya itu sebagai tanda bahwa seorang penjaga langit baru telah lahir.

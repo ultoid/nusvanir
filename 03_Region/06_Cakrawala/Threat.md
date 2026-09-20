@@ -3,12 +3,29 @@ title: Ancaman_Cakrawala
 tags:
   - ancaman
 ---
+
 # Ancaman di Kota Bebas Cakrawala
 
-Di [[Cakrawala]], ancamannya sangat nyata dan berwujud fana. Anda tidak perlu khawatir akan amukan monster gunung berapi atau kutukan iblis kuno. Di sini, musuh paling berbahaya adalah sesama manusia dan pelancong.
+Cakrawala tidak menjamin keselamatan penghuni maupun pengunjung. Kebebasan mendirikan usaha dan menentukan harga membuat kota tumbuh tanpa tatanan tetap, sedangkan perlindungan bergantung pada kemampuan setiap orang menjaga dirinya sendiri.
 
-**1. Perampokan dan Pembunuhan Jalanan:** Faksi bandit buangan terus-menerus mengincar kereta kuda logistik yang melintas. Di gang-gang sempit, nyawa bisa melayang hanya karena sekantung koin tembaga.
+## Polisi dan pemalakan
 
-**2. Korupsi dan Pemerasan Instansi:** Ketertiban seharusnya dijaga oleh polisi, namun faksi ini berubah menjadi lintah. Mereka akan menahan barang dagangan, memeras biaya cukai palsu, atau menjebloskan petualang ke penjara bawah tanah jika tidak membayar "pajak perlindungan".
+Polisi Cakrawala merupakan tentara bayaran yang dibayar Serikat Pedagang. Mereka seharusnya menjaga ketertiban, tetapi banyak anggotanya menyalahgunakan kewenangan untuk meminta uang perlindungan, menahan barang, atau mengancam pedagang.
 
-**3. Perang Harga dan Sabotase:** Konflik tidak selalu memakai pedang. Sindikat pedagang dan konglomerat sering menyewa pembunuh bayaran untuk menyabotase gudang rival, meracuni persediaan makanan kompetitor, atau merusak alur distribusi.
+Pemalakan berulang kali memicu kemarahan dan pemberontakan pedagang terhadap Serikat. Karena polisi bekerja untuk Serikat, korban sering tidak memiliki lembaga lain yang dapat dimintai perlindungan.
+
+## Bandit Buangan
+
+Bandit Buangan mengincar pedagang, karavan, dan pengunjung yang bergerak melalui kawasan sepi di luar kepadatan oasis. Mereka melakukan pencurian, penyergapan, serta pembegalan, terutama ketika rombongan tidak membawa pengawal sendiri.
+
+## Perselisihan harga
+
+Tidak ada patokan harga yang berlaku bagi seluruh Cakrawala. Pedagang bebas menentukan harga dan melakukan tawar-menawar. Persaingan dapat berkembang menjadi penipuan, sabotase lapak, perusakan barang, perkelahian, atau pembalasan antara kelompok pedagang.
+
+## Tata kota yang tidak teratur
+
+Tenda, karavan, gudang, rumah tanah, dan tempat usaha berdiri tanpa pembagian sektor. Lorong dapat berubah ketika tenda dipindahkan atau bangunan baru didirikan. Keadaan ini mempersulit pengawasan, membantu pencuri bersembunyi, dan membuat kebakaran atau kerusuhan cepat menyebar.
+
+## Tanggung jawab pribadi
+
+Setiap orang harus mengamankan tubuh, uang, barang, tempat tinggal, dan rombongannya sendiri. Pedagang kaya menyewa pengawal, sementara pedagang kecil mengandalkan keluarga, rekan, atau kesepakatan perlindungan. Di Cakrawala, izin berdagang tidak pernah berarti jaminan pulang dengan selamat.

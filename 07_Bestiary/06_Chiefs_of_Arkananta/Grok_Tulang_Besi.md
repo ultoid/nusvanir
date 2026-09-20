@@ -21,7 +21,7 @@ Grok keras, curiga kepada orang luar, dan sangat menjaga tata ruang sakral. Kema
 
 ## Kedudukan dan Wilayah
 
-Grok memimpin Suku Troliogoro dari Gua Troliogoro yang terletak tinggi pada tebing curam Arkananta. Lorong besarnya menampung tubuh para troll, bengkel logam, serta susunan cairn yang digunakan dalam ritual. Lokasi Bestiary lama menyebut Lembah Batu Arkananta; lembah tersebut dipertahankan sebagai bagian wilayah patroli dan pengumpulan batu, sedangkan pusat kekuasaannya berada di gua sukunya. Hubungannya dengan Krom tegang karena sengketa batas dan perbedaan cara hidup.
+Grok memimpin Suku Troliogoro dari Gua Agnigarba di dataran tinggi Arkananta. Lorong besarnya menjulur menuju pusat magma serta menampung pemukiman, bengkel logam, dan susunan cairn yang digunakan dalam ritual. Lokasi Bestiary lama menyebut Lembah Batu Arkananta; lembah tersebut dipertahankan sebagai bagian wilayah patroli dan pengumpulan batu, sedangkan pusat kekuasaannya berada di gua sukunya. Hubungannya dengan Krom tegang karena sengketa batas dan perbedaan cara hidup.
 
 ## Kisah — Batu yang Harus Dikembalikan
 
@@ -29,4 +29,4 @@ Seorang pedagang yang tersesat mengambil batu pipih dari sebuah cairn untuk mena
 
 Grok menyuruhnya mengembalikan batu ke susunan semula. Pedagang itu tidak mengingat posisinya, sehingga para Troliogoro membimbingnya menyusun ulang cairn dari dasar. Pekerjaan berlangsung sampai gema pukulan batu kembali terdengar benar. Grok akhirnya membuka jalan keluar. Ia tidak menerima koin; bagi pemimpin itu, pelajaran untuk menghormati batu jauh lebih berharga daripada pembayaran yang dibawa orang asing.
 
-> Acuan: [Grok Tulang-Besi](../../05_Karakter%20%26%20Tokoh%20Penting/05_Arkananta/Grok%20Tulang-Besi.md); [Troliogoro (Troll)](../../04_Ras/02_Wuru%20Loka/Troliogoro_%28Troll%29.md); [Gua Troliogoro](../../03_Region/05_Arkananta/Cities%20%26%20Town/Gua%20Troliogoro.md); [Religion](../../03_Region/05_Arkananta/Religion.md); [Economy](../../03_Region/05_Arkananta/Economy.md); [Pegunungan Arkananta](../../03_Region/05_Arkananta/Arkananta.md).
+> Acuan: [Grok Tulang-Besi](../../05_Karakter%20%26%20Tokoh%20Penting/05_Arkananta/Grok%20Tulang-Besi.md); [Troliogoro (Troll)](../../04_Ras/02_Wuru%20Loka/Troliogoro_%28Troll%29.md); [Gua Agnigarba](../../03_Region/05_Arkananta/Cities%20%26%20Town/Gua%20Agnigarba.md); [Religion](../../03_Region/05_Arkananta/Religion.md); [Economy](../../03_Region/05_Arkananta/Economy.md); [Pegunungan Arkananta](../../03_Region/05_Arkananta/Arkananta.md).

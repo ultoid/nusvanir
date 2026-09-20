@@ -196,6 +196,17 @@ Rimbunnya hutan, peralihan ke lereng, dan gangguan Jenggala yang menyesatkan pel
 
 Hubungan spasial ini belum menentukan jalur langsung antarlokasi, urutan wajib mengunjungi kota, jarak tiap ruas, atau durasinya. Titik Astradipa sementara pada matriks tidak otomatis menjadi koordinat Luminasthana. Asrivana dan Hanorok saat ini bekerja sama menjaga hutan.
 
+## Jalur masuk Pegunungan Arkananta
+
+Arkananta memiliki dua jalur masuk yang diketahui dari wilayah selatan:
+
+| Jalur | Arah masuk | Kondisi dan fungsi |
+|---|---|---|
+| Lembah Arkapada | Barat, dari dataran Mandala | Relatif lebih aman; menjadi kawasan wisata dan titik awal pendakian warga Mandala. |
+| Gerbang Wana Larangan | Timur, melalui Hutan Astradipa | Hutan tertutup yang sangat berbahaya, dijaga Asrivana, dan digunakan sebagai jalur pembuangan menuju wilayah Rakshorien. Bukan rute umum. |
+
+Lembah Arkapada hanya aman secara relatif pada bagian bawah. Perjalanan menuju dataran tinggi harus memperhitungkan tanjakan, tebing batu, suhu rendah, udara tipis, dan salju. Puncak Jayasweta adalah titik tertinggi yang pernah dicapai manusia, sedangkan Mahapuncak Arkananta di atasnya belum pernah dicapai. Jarak, elevasi, serta durasi perjalanan setiap ruas belum ditetapkan.
+
 ## 8. Yang ditentukan setelah rute dijelaskan
 
 Tetapkan titik kota dan gerbang, gambar ruas perjalanan yang benar-benar dapat dilewati, pilih moda setiap ruas, lalu tambahkan kondisi medan serta pemberhentian. Waktu antarkerajaan memakai pasangan kota atau pos tertentu. Tidak ada durasi tunggal untuk seluruh wilayah Mandala, Astradipa, maupun Arkananta.

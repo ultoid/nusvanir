@@ -8,6 +8,8 @@ tags:
 
 Ras berbadan besar berkulit hijau gelap atau merah kecokelatan yang memiliki tenaga fisik luar biasa. Mereka adalah perwujudan dari ketangguhan dan kebrutalan di wilayah liar.
 
+Pusat peradaban Butoraksa berada di **Gua Garbhagiri**, sebuah jaringan gua luas yang menurun jauh ke bawah kawasan berbatu di barat Pegunungan Arkananta.
+
 ### Siklus Kehidupan dan Budaya Kematian
 Secara biologis, Butoraksa memiliki *lifespan* yang sedikit lebih panjang dari Pribumi manusia, yakni mampu mencapai umur 100 hingga 120 tahun. Namun pada kenyataannya, sangat jarang ada kaum *Orc* yang mati dengan tenang di usia tua.
 

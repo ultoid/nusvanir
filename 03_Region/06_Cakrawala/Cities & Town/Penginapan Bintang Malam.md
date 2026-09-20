@@ -6,9 +6,9 @@ tags:
 ---
 # Penginapan Bintang Malam (The Nightstar Inn)
 
-*Salah satu dari dua penginapan paling legendaris yang mengelilingi batas Pasar Pusat Cakrawala.*
+*Salah satu penginapan paling dikenal di antara bangunan yang tersebar bebas di Cakrawala.*
 
-Berdiri kokoh di sudut barat batas pasar, penginapan ini adalah surga bagi mereka yang mencari privasi absolut dan hiburan elegan setelah hari yang melelahkan dalam berniaga.
+Penginapan ini berdiri di antara tenda dagang, karavan, dan rumah tanah tanpa menjadi bagian dari sektor penginapan khusus. Tempat ini menjadi tujuan mereka yang mencari privasi dan hiburan elegan setelah berniaga.
 
 ### 1. Kedai Bawah Tanah
 

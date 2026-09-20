@@ -21,7 +21,7 @@ Krom berani, dominan, dan menikmati negosiasi yang membuat lawan mengungkap kebu
 
 ## Kedudukan dan Wilayah
 
-Krom memimpin Gua Butoraksa, pemukiman paling dangkal dan terbuka yang menjadi benteng pertama menghadapi monster luar. Suku di bawahnya menguasai area pertambangan luar dan memperdagangkan bijih kasar dengan pihak yang membawa senjata atau pasokan berguna. Jembatan Tebing Arkananta pada lokasi Bestiary lama menjadi jalur patroli serta titik pengawasan menuju tambang, bukan pusat pemukiman. Ornamen tulang, daging bakar, dan kulit samak memenuhi wilayah kekuasaannya.
+Krom memimpin Gua Garbhagiri, pusat peradaban Butoraksa yang meluas jauh ke bawah kawasan berbatu Arkananta barat. Suku di bawahnya menguasai area pertambangan luar dan memperdagangkan bijih kasar dengan pihak yang membawa senjata atau pasokan berguna. Jembatan Tebing Arkananta pada lokasi Bestiary lama menjadi jalur patroli serta titik pengawasan menuju tambang, bukan pusat pemukiman. Ornamen tulang, daging bakar, dan kulit samak memenuhi wilayah kekuasaannya.
 
 ## Kisah — Harga Sebuah Mata Palu
 
@@ -29,4 +29,4 @@ Seorang penempa dari luar membawa mata palu baja dan meminta bijih Arkananta seb
 
 Krom menjawab bahwa alat yang patah di gua dapat membunuh penambang yang menggunakannya. Ia menawarkan bijih lebih sedikit untuk baja yang tersisa. Sang penempa meminta kesempatan memperbaiki mata palu di tempat dan menunjukkan cara tempa yang lebih kuat. Krom menerima usulan itu. Saat pertukaran selesai, keduanya mendapat lebih dari benda: Butoraksa memperoleh pengetahuan, dan sang penempa pulang memahami bahwa kepala suku itu menguji nilai melalui keselamatan kaumnya.
 
-> Acuan: [Krom Batugilang](../../05_Karakter%20%26%20Tokoh%20Penting/05_Arkananta/Krom%20Batugilang.md); [Butoraksa (Orc)](../../04_Ras/02_Wuru%20Loka/Butoraksa_%28Orc%29.md); [Gua Butoraksa](../../03_Region/05_Arkananta/Cities%20%26%20Town/Gua%20Butoraksa.md); [Religion](../../03_Region/05_Arkananta/Religion.md); [Economy](../../03_Region/05_Arkananta/Economy.md); [Pegunungan Arkananta](../../03_Region/05_Arkananta/Arkananta.md).
+> Acuan: [Krom Batugilang](../../05_Karakter%20%26%20Tokoh%20Penting/05_Arkananta/Krom%20Batugilang.md); [Butoraksa (Orc)](../../04_Ras/02_Wuru%20Loka/Butoraksa_%28Orc%29.md); [Gua Garbhagiri](../../03_Region/05_Arkananta/Cities%20%26%20Town/Gua%20Garbhagiri.md); [Religion](../../03_Region/05_Arkananta/Religion.md); [Economy](../../03_Region/05_Arkananta/Economy.md); [Pegunungan Arkananta](../../03_Region/05_Arkananta/Arkananta.md).

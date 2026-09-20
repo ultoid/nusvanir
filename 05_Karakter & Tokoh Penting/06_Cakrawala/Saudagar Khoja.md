@@ -13,8 +13,11 @@ tags:
 **Visual**: Pria tambun berpakaian eksentrik dengan kain tenun dari berbagai wilayah. Ia memelihara burung kakaktua ajaib yang bisa menerjemahkan bahasa ras kuno.
 
 ### Latar Belakang & Lore
-Khoja adalah raja ekonomi legal di Cakrawala. Berbeda dengan Vorn yang memeras lewat kekerasan, Khoja menguasai pasar melalui monopoli komoditas vital seperti air bersih dan rempah-rempah dari Astradipa. Ia mendirikan serikat dagang untuk melawan dominasi faksi polisi, namun sebenarnya ia sama korupnya, hanya metodenya lebih elegan.
+Khoja memimpin administrasi Serikat dari Paviliun Serikat Pedagang di pesisir oasis. Ia mengawasi izin pembangunan lapak, gudang, penginapan, tenda tetap, dan rumah tanah. Karena tidak ada patokan harga atau tata kota tetap, keputusan pemberian izin menjadi sumber pengaruh terbesarnya.
+
+Polisi Cakrawala bekerja berdasarkan kontrak Serikat yang dipimpinnya. Khoja mempertahankan mereka karena membutuhkan kekuatan untuk meredam kekacauan, meskipun pemalakan para tentara bayaran berulang kali memicu pemberontakan pedagang.
 
 ### Relasi Faksi
-- Rival berat **Inspektur Vorn**.
-- Sering menyelundupkan barang bersama **Malekith si Buangan** untuk menghindari pajak Vorn.
+- Ketua **Serikat Pedagang Cakrawala**.
+- Pemberi kontrak resmi kepada **Inspektur Vorn** dan Polisi Cakrawala.
+- Mengelola perizinan dagang di bawah pengaruh kekuasaan **Tuan Midas**.

@@ -3,18 +3,27 @@ title: Economy_Cakrawala
 tags:
   - economy
 ---
-# Ekonomi Cakrawala (Kota Bebas)
 
-[[Cakrawala]] adalah satu-satunya tempat di Nusvanir di mana emas bernilai lebih dari nyawa. Ekonomi di sini sepenuhnya bergerak pada prinsip pasar bebas absolut. Tidak ada raja yang mengatur harga, tidak ada pembatasan suku bunga, dan tidak ada komoditas yang "ilegal" selama pembeli bisa membayar.
+# Ekonomi Cakrawala
 
-Perdagangan utama melibatkan komoditas silang ras: senjata baja dan beras dari [[Mandala]], rempah langka dari [[Astradipa]], logam curian dari [[Agnitra]], hingga artefak sihir pasar gelap yang menyelundup dari reruntuhan kuno.
+Cakrawala menjadi pusat pertukaran barang lintas ras di Nusvanir. Komoditas Mandala, hasil hutan Astradipa, karya logam, ramuan, artefak, hewan, jasa, dan informasi dapat berpindah tangan melalui lapak biasa maupun Zona Lelang Agung.
 
-Pajak ditarik bukan secara resmi oleh kerajaan, melainkan "uang keamanan" (extortion) yang dipungut paksa oleh faksi polisi. Di kota ini, mata uang campuran dari seluruh penjuru digunakan, namun koin emas tetap menjadi standar mutlak. Kesuksesan finansial adalah dewa baru bagi penghuni kota ini.
+## Kebebasan menentukan harga
+
+Serikat Pedagang Cakrawala tidak menetapkan patokan harga. Setiap pedagang bebas menentukan nilai barang, menawar, menolak pembeli, atau menggunakan bentuk pembayaran yang disepakati sendiri. Harga komoditas yang sama dapat berbeda jauh antara dua tenda yang berdiri bersebelahan.
+
+Kebebasan tersebut membuat perdagangan berkembang cepat, tetapi juga memicu penipuan, manipulasi persediaan, perselisihan harga, sabotase, dan perkelahian. Reputasi, kemampuan menawar, pengetahuan barang, dan kekuatan pengawal sering lebih menentukan daripada aturan tertulis.
+
+## Izin Serikat Pedagang
+
+Lapak, tenda tetap, gudang, penginapan, dan bangunan tanah memerlukan izin dari Serikat Pedagang Cakrawala. Izin mengakui hak menggunakan suatu tempat, tetapi tidak menjamin keamanan usaha atau barang di dalamnya.
+
+Serikat beroperasi dari Paviliun Serikat Pedagang di pesisir oasis. Biaya, hubungan pribadi, dan pengaruh pemohon dapat memengaruhi cepat atau lambatnya izin diberikan.
+
+## Lelang dan perdagangan terbuka
+
+Zona Lelang Agung menangani transaksi yang menarik banyak penawar. Barang langka, koleksi, hasil ekspedisi, dan komoditas dalam jumlah besar dipertontonkan sebelum ditawar. Tuan Midas memiliki pengaruh besar terhadap lelang karena kekayaan, koleksi, dan kediamannya berada di kawasan oasis.
 
 ## Hubungan dengan Mandala
 
-Hasil alam [[Mandala]] dipasarkan ke seluruh Nusvanir melalui transaksi lintas ras di Cakrawala. Pedagang kota bebas ini bergantung pada Mandala sebagai produsen dan konsumen. Pelayaran dagang melewati Selat Agnitra dan pesisir Cakrawala; Laut Rangkaruna merupakan tujuan ekspedisi harta karun, makhluk unik, dan mineral mahal.
-
-## Tuan Midas
-
-[[Tuan Midas]] adalah seorang Pribumi yang bernaung di Cakrawala, dikenal sebagai manusia paling kaya di Nusvanir, Sang Kolektor, dan Sang Tangan Emas.
+Hasil alam Mandala dipasarkan ke seluruh Nusvanir melalui Cakrawala. Sebaliknya, pedagang Cakrawala membutuhkan Mandala sebagai produsen dan konsumen. Arus dagang darat melewati Hermindar, sedangkan pelayaran biasa melalui Selat Agnitra dan pesisir Cakrawala.

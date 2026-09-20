@@ -6,7 +6,9 @@ tags:
 
 # Rakshorien (Dark Elf)
 
-Ras *Dark Elf* mengerikan yang mendiami kegelapan gua dan terowongan bawah tanah Gunung Arkananta. Pada dasarnya, mereka adalah cabang tak sempurna dari ras Asrivana. Karena berakar dari ras yang sama, Rakshorien memiliki rentang usia yang setara dengan *elf*, yakni hingga 1.000 tahun.
+Ras *Dark Elf* mengerikan yang mendiami kegelapan gua dan terowongan bawah tanah Gunung Arkananta. Mereka berasal dari Asrivana yang dibuang melalui Gerbang Wana Larangan di perbatasan timur Arkananta. Karena berakar dari ras yang sama, Rakshorien memiliki rentang usia yang setara dengan *elf*, yakni hingga 1.000 tahun.
+
+Pusat persembunyian mereka adalah **Gua Wisamaya**, gua gelap yang dipenuhi tumbuhan, jamur, dan spora beracun. Kekebalan terhadap racun memungkinkan Rakshorien hidup di bagian yang mematikan bagi kebanyakan ras lain.
 
 ### Fisiologi Kegelapan dan Kebrutalan
 Kehidupan di dalam tanah telah mengubah Rakshorien menjadi makhluk yang sangat menyeramkan. Kulit mereka pucat dan gelap, memiliki telinga yang meruncing ekstrem, kuku-kuku tangan dan kaki memanjang menghitam seperti cakar, serta sepasang mata yang menyala merah darah untuk menembus kegelapan abadi.

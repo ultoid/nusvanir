@@ -10,11 +10,17 @@ tags:
 
 # Pegunungan Arkananta
 
-**Pegunungan Arkananta** adalah rangkaian pegunungan besar yang menjulang tinggi di bagian utara daratan utama Nusvanir. Dengan puncaknya yang menjulang di atas awan dan lerengnya yang sangat curam, wilayah ini menjadi pembatas alami yang terisolasi dari peradaban luar. 
+**Pegunungan Arkananta** adalah rangkaian pegunungan terbesar di bagian utara daratan utama Nusvanir. Puncak sejatinya merupakan titik tertinggi di Nusvanir dan belum pernah berhasil dicapai. Rangkaian gunung ini membentuk benteng alam yang memisahkan wilayah Nusvanir yang dikenal dari kawasan utara yang belum pernah diinjak dan belum tercatat dalam kodex.
 
-Tidak ada yang tahu secara pasti apa yang ada di balik pegunungan atau di pusat intinya, karena tidak ada petualang yang pernah kembali untuk menceritakan kisahnya. Arkananta adalah rumah bagi berbagai makhluk buangan dan suku-suku kuno, termasuk bangsa [[Butoraksa_(Orc)]], [[Troliogoro_(Troll)]], dan ras Elf buangan yang dikenal sebagai [[Rakshorien_(Dark_Elf)]].
+Arkananta terdiri atas banyak pegunungan, dataran tinggi berbatu, lereng terjal, lembah, serta jaringan gua yang menembus jauh ke bawah tanah. Suhu terus menurun seiring pertambahan ketinggian. Vegetasi semakin jarang, bebatuan mendominasi bentang alam, dan salju menutupi kawasan tertinggi yang pernah dicapai manusia.
 
-Wilayah ini penuh dengan misteri dan bahaya, menjadikannya wilayah yang jarang dijelajahi oleh orang luar. Di sini tidak ada konsep kerajaan, kota megah, ataupun institusi formal. Peradaban Arkananta sepenuhnya terdiri dari faksi pemukiman gua yang bertahan hidup di lingkungan ekstrem.
+Arkananta menjadi rumah bagi bangsa [[Butoraksa_(Orc)]], [[Troliogoro_(Troll)]], dan para Asrivana buangan yang dikenal sebagai [[Rakshorien_(Dark_Elf)]]. Peradaban mereka berkembang di dalam gua dan mengikuti kondisi ekstrem pegunungan, bukan pola kerajaan atau kota terbuka seperti Mandala.
+
+## Puncak Jayasweta dan puncak sejati
+
+**Puncak Jayasweta** adalah titik tertinggi Arkananta yang pernah dicapai manusia dan dicatat oleh peneliti Mandala. Kawasannya telah tertutup salju dengan udara tipis serta suhu yang sangat rendah. Sebutan "puncak" berasal dari sudut pandang para pendaki, meskipun Jayasweta bukan puncak sejati Pegunungan Arkananta.
+
+Di atas Jayasweta masih menjulang bagian gunung yang lebih tinggi, disebut **Mahapuncak Arkananta** dalam catatan Mandala. Tidak ada ekspedisi yang berhasil mencapainya. Apa yang berada di balik benteng pegunungan maupun di wilayah utara Mahapuncak belum diketahui.
 
 ## Letak dan kenampakan pada peta
 
@@ -30,11 +36,17 @@ Acuan: [Peta Dunia Nusvanir](../../09_Maps/Nusvanir%20World%20Map.png), dibaca d
 
 ### Cities & Town
 
-- [Gua Barat (Jalur Pusat)](Cities%20%26%20Town/Gua%20Barat%20%28Jalur%20Pusat%29.md)
-- [Gua Butoraksa](Cities%20%26%20Town/Gua%20Butoraksa.md)
-- [Gua Rakshorien](Cities%20%26%20Town/Gua%20Rakshorien.md)
-- [Gua Timur (Jalur Pusat)](Cities%20%26%20Town/Gua%20Timur%20%28Jalur%20Pusat%29.md)
-- [Gua Troliogoro](Cities%20%26%20Town/Gua%20Troliogoro.md)
+- [Lembah Arkapada](Cities%20%26%20Town/Lembah%20Arkapada.md)
+- [Gerbang Wana Larangan](Cities%20%26%20Town/Gerbang%20Wana%20Larangan.md)
+- [Gua Garbhagiri](Cities%20%26%20Town/Gua%20Garbhagiri.md)
+- [Gua Wisamaya](Cities%20%26%20Town/Gua%20Wisamaya.md)
+- [Gua Agnigarba](Cities%20%26%20Town/Gua%20Agnigarba.md)
+
+### Faksi & Institusi
+
+- [Karsa Garbhagiri](Faksi%20%26%20Institusi/Karsa%20Garbhagiri.md) — peradaban Butoraksa.
+- [Pande Agnigarba](Faksi%20%26%20Institusi/Pande%20Agnigarba.md) — peradaban Troliogoro.
+- [Lingkar Wisamaya](Faksi%20%26%20Institusi/Lingkar%20Wisamaya.md) — peradaban Rakshorien.
 
 ## Navigasi
 

@@ -6,7 +6,7 @@ tags:
 
 # Troliogoro (Troll)
 
-Monster humanoid raksasa yang membangun markas dan peradaban mereka di pusat magma vulkanik Gunung Arkananta. Di balik wujud kasarnya, Troliogoro adalah ras pandai besi (*blacksmith*) yang paling terampil di seluruh penjuru Nusvanir. Mereka sangat cakap dalam mengolah, melebur, dan menempa segala macam logam.
+Bangsa humanoid raksasa berakal yang membangun pemukiman bawah tanah di Gua Agnigarba pada dataran tinggi Arkananta. Jaringan gua tersebut menjulur hingga mendekati pusat magma pegunungan. Di balik wujud kasarnya, Troliogoro adalah ras pandai besi (*blacksmith*) yang paling terampil di seluruh penjuru Nusvanir. Mereka sangat cakap dalam mengolah, melebur, dan menempa segala macam logam.
 
 ### Kutukan Matahari dan Evolusi Logam
 Troliogoro memiliki umur yang sangat panjang, bahkan bisa mencapai ribuan tahun. Namun, mereka memiliki satu kelemahan biologis yang sangat fatal: paparan sinar matahari. Jika kulit mereka terkena cahaya matahari langsung, kulit tersebut akan melepuh, mengelupas, dan terbakar hingga berujung pada kematian yang menyakitkan.

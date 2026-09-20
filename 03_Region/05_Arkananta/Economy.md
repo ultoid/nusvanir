@@ -9,13 +9,13 @@ tags:
 
 # Ekonomi Arkananta
 
-Secara umum, sistem mata uang Kerajaan Mandala tidak berlaku secara universal di **Pegunungan Arkananta**. Suku-suku yang mendiami wilayah ini sering kali mengandalkan sistem **Barter Kuno**.
+Secara umum, sistem mata uang Kerajaan Mandala tidak berlaku secara universal di **Pegunungan Arkananta**. Karsa Garbhagiri, Pande Agnigarba, dan Lingkar Wisamaya lebih sering mengandalkan sistem **barter kuno**.
 
 Mereka saling menukarkan komoditas survival dasar:
-- **Daging Monster & Tulang**: Diburu oleh Butoraksa dan kadang Troliogoro.
-- **Batu Kristal Gua & Mineral Kasar**: Ditambang oleh Butoraksa.
-- **Ramuan Jamur & Racun Gua**: Diramu oleh kaum Rakshorien.
-- **Senjata Baja dan Logam**: Ditempa oleh Troliogoro.
+- **Daging Monster & Tulang**: Diperoleh Pemburu Tulang dari Karsa Garbhagiri.
+- **Batu Kristal Gua & Mineral Kasar**: Ditambang Penggali Batu dari Karsa Garbhagiri.
+- **Ramuan Jamur & Racun Gua**: Diramu Lingkar Wisamaya.
+- **Senjata Baja dan Logam**: Ditempa Pande Agnigarba.
 
 Pertukaran sering kali diwarnai ketegangan dan bisa berujung pada pertumpahan darah. Petualang luar yang berhadapan dengan suku Butoraksa atau Rakshorien hanya bisa menyuap mereka dengan barang bernilai fungsional seperti daging, obat, atau pasokan makanan.
 

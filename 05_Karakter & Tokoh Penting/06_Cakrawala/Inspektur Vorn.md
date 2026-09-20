@@ -9,15 +9,13 @@ tags:
 
 # Inspektur Vorn
 
-**Identitas**: Pemimpin Faksi Polisi Kota Bebas Cakrawala.
+**Identitas**: Pemimpin tentara bayaran yang menjadi Polisi Cakrawala.
 **Visual**: Pria berpostur tegap dengan seragam militer modifikasi yang sarat medali (sebagian besar medali beli). Ia memiliki codet di pipi kirinya dan selalu mengisap cerutu daun emas.
 
 ### Latar Belakang & Lore
-Vorn pada awalnya adalah prajurit menjanjikan dari militer [[Mandala]] yang ditugaskan untuk mengamankan pasar bebas [[Cakrawala]]. Namun, aliran emas tanpa batas di kota tersebut perlahan membutakan idealismenya.
-
-Ia kini mendirikan monopoli keamanan bergaya preman berseragam. Tidak ada kargo berharga yang bisa masuk atau keluar Cakrawala tanpa membayar "pajak keamanan" kepadanya. Vorn dibekingi secara finansial oleh **Arta Dhanaprabha** dari Mandala, yang membuat posisinya di Cakrawala tak tersentuh hukum resmi kerajaan.
+Vorn memimpin pasukan tentara bayaran yang dikontrak Serikat Pedagang untuk mengamankan kegiatan perdagangan. Ia mengubah tugas tersebut menjadi monopoli keamanan bergaya preman berseragam. Pedagang dapat dipaksa membayar "uang perlindungan" agar barang, lapak, dan karavannya tidak diganggu.
 
 ### Relasi Faksi
-- Pemimpin mutlak (namun korup) **Faksi Polisi Cakrawala**.
-- Tangan kanan operasional dari **Arta Dhanaprabha**.
-- Sering memeras para petualang dari serikat pedagang maupun faksi bandit buangan jika mereka tidak setuju dengan skema potongannya.
+- Pemimpin korup **Polisi Cakrawala**.
+- Bekerja berdasarkan kontrak **Serikat Pedagang Cakrawala**.
+- Menjadi salah satu penyebab pemberontakan pedagang terhadap Serikat.

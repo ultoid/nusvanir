@@ -21,7 +21,7 @@ Larasati tenang, penuh pertimbangan, dan protektif kepada para pelarian yang mem
 
 ## Kedudukan dan Wilayah
 
-Larasati memimpin komunitas Rakshorien damai di Gua Rakshorien, wilayah lembap dan tersembunyi yang diterangi jamur bioluminesen. Kebun spora beracun serta jamur penyembuh menjadi sumber pangan, obat, ritual, dan barter. Gua Air Mata Air Arkananta pada catatan lama ditempatkan sebagai ruang mata air di dalam kompleks gua, tempat Larasati mengumpulkan air untuk ramuan dan melatih sihirnya. Penempatan ini menyelaraskan lokasi lama tanpa menciptakan permukiman Rakshorien kedua.
+Larasati memimpin komunitas kecil Rakshorien damai di Gua Wisamaya, wilayah gelap yang dipenuhi tumbuhan, jamur, dan spora beracun. Kebun spora serta jamur penyembuh menjadi sumber pangan, obat, ritual, dan barter. Gua Air Mata Air Arkananta pada catatan lama ditempatkan sebagai ruang mata air di dalam kompleks gua, tempat Larasati mengumpulkan air untuk ramuan dan melatih sihirnya. Penempatan ini menyelaraskan lokasi lama tanpa menciptakan permukiman Rakshorien kedua.
 
 ## Kisah — Barter di Bawah Cahaya Jamur
 
@@ -29,4 +29,4 @@ Krom datang melalui jalur tersembunyi dengan bungkusan daging monster. Larasati 
 
 Larasati meminta semua orang menunggu. Ia memperlihatkan perubahan warna pada serat daging dan menjelaskan racun gas yang terserap selama perjalanan. Krom memerintahkan bagian itu dibuang, lalu menambah kulit samak sebagai pengganti. Barter selesai tanpa pertumpahan darah. Sebelum berpisah, Larasati memberinya sedikit ramuan untuk jalur pulang. Hubungan mereka tetap rahasia dan penuh kewaspadaan, tetapi malam itu pengetahuan sang Nyai mencegah kedua suku mengubah kesalahan menjadi perang.
 
-> Acuan: [Nyai Larasati](../../05_Karakter%20%26%20Tokoh%20Penting/05_Arkananta/Nyai%20Larasati.md); [Rakshorien (Dark Elf)](../../04_Ras/02_Wuru%20Loka/Rakshorien_%28Dark_Elf%29.md); [Gua Rakshorien](../../03_Region/05_Arkananta/Cities%20%26%20Town/Gua%20Rakshorien.md); [Religion](../../03_Region/05_Arkananta/Religion.md); [Economy](../../03_Region/05_Arkananta/Economy.md); [Pegunungan Arkananta](../../03_Region/05_Arkananta/Arkananta.md).
+> Acuan: [Nyai Larasati](../../05_Karakter%20%26%20Tokoh%20Penting/05_Arkananta/Nyai%20Larasati.md); [Rakshorien (Dark Elf)](../../04_Ras/02_Wuru%20Loka/Rakshorien_%28Dark_Elf%29.md); [Gua Wisamaya](../../03_Region/05_Arkananta/Cities%20%26%20Town/Gua%20Wisamaya.md); [Religion](../../03_Region/05_Arkananta/Religion.md); [Economy](../../03_Region/05_Arkananta/Economy.md); [Pegunungan Arkananta](../../03_Region/05_Arkananta/Arkananta.md).

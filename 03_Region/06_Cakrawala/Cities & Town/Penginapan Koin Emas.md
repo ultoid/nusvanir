@@ -8,7 +8,7 @@ tags:
 
 *Penginapan rakyat yang paling populer, bising, dan penuh dengan rumor segar di Cakrawala.*
 
-Berada di timur batas pasar, penginapan ini kebalikan dari Bintang Malam. Jika Anda mencari teman seperjalanan, sewaan murah, atau informasi jalanan, ini adalah tempatnya.
+Penginapan ini berdiri di antara lapak dan hunian Cakrawala tanpa menjadi bagian dari sektor khusus. Jika seseorang mencari teman seperjalanan, sewaan murah, atau informasi jalanan, tempat ini menjadi salah satu tujuan paling ramai.
 
 ### 1. Aula Utama Koin Emas
 

@@ -6,7 +6,7 @@
 
 [Mandala](../03_Region/01_Mandala%20Kingdom/Mandala.md) adalah kerajaan utama Wahanarsa dan Pribumi (manusia). Mandala menjadi produsen hasil alam sekaligus pasar konsumen. [Ekonomi Mandala](../03_Region/01_Mandala%20Kingdom/Economy.md) merinci komoditas produksinya.
 
-[Cakrawala](../03_Region/06_Cakrawala/Cakrawala.md) adalah wilayah bebas tempat semua ras bertemu dan melakukan transaksi perdagangan. Hasil alam Mandala dipasarkan ke seluruh Nusvanir melalui Cakrawala. Sebaliknya, pedagang Cakrawala membutuhkan Mandala sebagai sumber barang dan pasar pembeli. Hubungan keduanya bertumpu pada ketergantungan antara produksi, distribusi lintas ras, dan konsumsi.
+[Cakrawala](../03_Region/06_Cakrawala/Cakrawala.md) adalah wilayah bebas yang tumbuh mengelilingi oasis misterius di tengah padang pasir dan menjadi tempat semua ras bertemu untuk melakukan transaksi perdagangan. Hasil alam Mandala dipasarkan ke seluruh Nusvanir melalui Cakrawala. Sebaliknya, pedagang Cakrawala membutuhkan Mandala sebagai sumber barang dan pasar pembeli. Hubungan keduanya bertumpu pada ketergantungan antara produksi, distribusi lintas ras, dan konsumsi.
 
 Cakrawala juga menjadi tempat bernaung [Tuan Midas](../05_Karakter%20%26%20Tokoh%20Penting/06_Cakrawala/Tuan%20Midas.md), seorang Pribumi yang dijuluki manusia paling kaya di Nusvanir, Sang Kolektor, dan Sang Tangan Emas. Kegiatan perdagangan kota dijabarkan dalam [Ekonomi Cakrawala](../03_Region/06_Cakrawala/Economy.md).
 
@@ -28,7 +28,7 @@ Harta karun, makhluk-makhluk unik bernilai tinggi, dan mineral mahal menarik ban
 
 Pelayaran biasa melewati Selat Agnitra dan menyusuri pesisir Cakrawala. Jalur ini menjadi koridor pelayaran perdagangan; memasuki Laut Rangkaruna merupakan ekspedisi tersendiri ke wilayah badai abadi.
 
-[Arkananta](../03_Region/05_Arkananta/Arkananta.md) membentang di utara daratan utama; cabangnya membatasi Astradipa dari kawasan Mandala dan Avalerion. Pegunungan ini merupakan pembatas alami dengan permukiman yang terisolasi. Hubungan dagang dan jalur lintas pegunungannya masih perlu dikembangkan.
+[Arkananta](../03_Region/05_Arkananta/Arkananta.md) membentang di utara daratan utama; cabangnya membatasi Astradipa dari kawasan Mandala dan Avalerion. Pegunungan ini merupakan pembatas alami menuju wilayah utara yang belum dijelajahi. Lembah Arkapada menghubungkan dataran Mandala dengan kaki gunung dan menjadi jalur wisata serta pendakian. Gerbang Wana Larangan berada di sisi Astradipa, dijaga ketat oleh Asrivana, dan digunakan sebagai jalur pembuangan Rakshorien.
 
 ## Hubungan pertahanan Mandala dan Agnitra
 

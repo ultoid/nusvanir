@@ -6,6 +6,6 @@ tags:
 ---
 # Faksi Bandit Buangan (The Outcast Rogues)
 
-Faksi liar yang bersembunyi di pemukiman-pemukiman kumuh kecil di pinggiran batas kota. 
+Faksi liar yang bersembunyi di antara permukiman renggang, jalur karavan, dan padang pasir pada pinggiran Cakrawala.
 
-Berisi orang-orang buangan dari berbagai ras (manusia yang kabur dari [[Mandala]], ras [[Rakshorien]] yang lari dari gunung, hingga prajurit bayaran yang putus asa). Mereka bertahan hidup murni dari merampok kereta dagang dan petualang yang sedang melakukan perjalanan masuk atau keluar dari Cakrawala. Mereka tidak memiliki pemimpin absolut, beroperasi dalam sel-sel kecil yang mematikan.
+Berisi orang-orang buangan dari berbagai ras, termasuk manusia yang kabur dari [[Mandala]], Rakshorien, dan prajurit bayaran yang putus asa. Mereka mencuri barang, menyergap karavan, serta membegal pedagang yang bergerak masuk atau keluar dari Cakrawala. Mereka tidak memiliki satu rantai komando untuk seluruh faksi dan sering beroperasi dalam kelompok kecil.

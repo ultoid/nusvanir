@@ -4,10 +4,13 @@ wilayah: "[[Raksamala]]"
 tags:
   - faksi
 ---
+
 # Kerajaan Drakhtar
 
-Institusi absolut tunggal yang berkuasa penuh atas seluruh wilayah [[Raksamala]].
+Kerajaan Drakhtar adalah tatanan kekuasaan tunggal di Raksamala. Sebutan kerajaan dipakai oleh para pencatat Nusvanir karena tidak ada padanan yang lebih tepat bagi wilayah yang seluruh penghuninya terikat kepada satu penguasa.
 
-Berbeda dengan institusi di dunia fana yang penuh perdebatan dan diplomasi, Kerajaan Drakhtar berjalan layaknya sarang semut yang dikendalikan oleh satu ratu mutlak, yakni Demon Lord [[Sangrahal]]. Semua panglima [[Bhuta]] yang menjaga 7 Fortress of Sins dan komandan pasukan [[Jenggala]] mengabdi langsung padanya.
+Sangrahal berdiri sebagai raja, sumber kuasa, dan pemilik seluruh jiwa. Di bawahnya, tujuh panglima Bhuta menguasai benteng dosa dan memimpin penyerbuan. Dhemit menjadi budak pemerintahan dan pasukan tanpa kehendak, sedangkan Jenggala dipelihara sebagai kawanan pemburu serta monster perang.
 
-Tidak ada faksi oposisi, serikat pekerja, atau pemberontak di Raksamala, karena setiap entitas yang bernapas di pulau kegelapan ini terikat kontrak nyawa kuno sejak mereka diciptakan atau dibangkitkan.
+Kerajaan ini tidak memiliki dewan, hukum bersama, atau hak untuk menolak perintah. Para Bhuta dapat saling bersaing dan menunjukkan hawa nafsu masing-masing, tetapi ikatan mereka kepada Sangrahal tidak dapat diputuskan melalui kehendak biasa. Kekuasaan tidak berpindah melalui garis keturunan; ia mengalir langsung dari Sangrahal kepada siapa pun yang diberinya wewenang.
+
+Pusat pemerintahan Kerajaan Drakhtar berada di [[Mahadurg Kalaniskala]]. Tujuh **Segel Dosa** yang dipegang para panglima berfungsi sebagai lapis pertahanan sekaligus kunci menuju singgasana tersebut.

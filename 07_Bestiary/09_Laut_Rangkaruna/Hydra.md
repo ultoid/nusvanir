@@ -21,7 +21,7 @@ Buas dan teritorial. Kepala-kepalanya dapat mengawasi kapal, mangsa, dan ancaman
 
 ## Habitat
 
-Palung Kematian di Laut Rangkaruna. Kedalaman, arus naik, dan dinding palung memberi ruang bagi tubuh utamanya untuk tersembunyi sebelum kepala mencapai permukaan.
+Palung Kematian pada jalur menuju Pulau Raksamala. Kedalaman, arus naik, dan dinding palung memberi ruang bagi tubuh utamanya untuk tersembunyi sebelum kepala mencapai permukaan.
 
 ## Kisah - Delapan Bayangan di Bawah Lunas
 

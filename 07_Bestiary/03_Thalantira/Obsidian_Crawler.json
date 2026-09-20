@@ -35,12 +35,12 @@
       "03_Region/11_Thalantira/Threat.md",
       "08_Story/02_Prologue/08_Ujian_Para_Pelindung.md",
       "08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md",
-      "03_Region/11_Thalantira/Cities & Town/Gunung Ungu.md"
+      "03_Region/11_Thalantira/Cities & Town/Kuil Udara Gunung Ungu.md"
     ],
     "unresolved": [
       "Racun, bahan crafting, dan kekebalan lahar tidak ditetapkan; mikrohabitat serta rupa detail disetujui pemilik."
     ],
-    "category_note": "Thalantira endemic category; not a blanket Drahkthar/Jenggala/Bhuta/Dhemit or Voidborn origin. Behavior is contextual to Prologue phases.",
+    "category_note": "Proyeksi Void yang diciptakan Uru, bukan spesies biologis atau populasi endemik. Wujudnya nyata selama dipertahankan kehendak Uru; perilakunya mengikuti penerimaan Uru terhadap tamu dan konteks fase Prologue.",
     "historical_description": "Kalajengking batu hitam seukuran rumah.",
     "approval_record": "07_Bestiary/_audit/thalantira_lore_approval.json"
   },

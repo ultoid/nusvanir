@@ -6,6 +6,10 @@ tags:
 
 # Eclipse Falcon
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Elang Thalantira yang menyelubungi jalur buruannya dengan kegelapan sebelum menukik. Bayangannya dapat terasa seperti awan yang mendadak menutup matahari, padahal langit di sekeliling masih terbuka. Kecepatan serangannya membuat selang antara hilangnya cahaya dan datangnya cakar terasa sangat singkat.

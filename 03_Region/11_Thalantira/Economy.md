@@ -1,10 +1,17 @@
 ---
-title: Economy_Thalantira
+title: Economy Thalantira
 tags:
   - economy
 ---
-# Ekonomi Thalantira (Pulau Misterius)
 
-Sistem ekonomi, perdagangan, maupun peradaban sama sekali tidak eksis di [[Thalantira]]. Pulau ini adalah daratan kosong yang murni dan tak tersentuh oleh tangan makhluk berakal. Tidak ada jejak kaki manusia, reruntuhan bangunan, apalagi pasar dagang.
+# Ekonomi dan Sumber Daya Thalantira
 
-Di dalam pulau ini, keseimbangan alam berjalan secara damai tanpa intervensi. Hewan-hewan lokal hidup dalam ekosistem yang tertutup rapat dari dunia luar. Tidak ada logam yang ditempa, tidak ada koin yang dicetak, dan tidak ada sumber daya yang dieksploitasi. Thalantira berdiri sebagai sebuah monumen ketiadaan peradaban yang sempurna di dunia Nusvanir.
+Thalantira tidak memiliki ekonomi, perdagangan, atau kepemilikan. Tidak ada penduduk tetap yang menambang, bertani, maupun memperdagangkan hasil pulau. Wujud alam dan penghuninya adalah bagian dari penjara serta proyeksi Uru, sehingga sumber daya yang terlihat belum tentu tetap ada ketika kehendak Uru berubah.
+
+## Void Crystal
+
+Sumber daya nyata dan paling berbahaya di Thalantira adalah Void Crystal, bagian tubuh Uru yang mengkristal ketika disegel. Serpihan kecilnya saja menyimpan kekuatan yang melampaui material biasa dan dapat menjadi saluran pengaruh Uru di luar pulau.
+
+Void Crystal bukan komoditas yang dapat ditambang secara aman. Mengambil serpihan berarti menyentuh bagian dari entitas Void yang telah terbangun. Nilainya tidak dapat diukur dengan mata uang Nusvanir, sedangkan penyalahgunaannya dapat mengubah keseimbangan dunia.
+
+Serpihan yang dibawa Hector menjadi satu-satunya sampel yang tercatat berhasil mencapai daratan utama. Avalerion kemudian menyegel dan menelitinya secara tertutup.

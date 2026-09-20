@@ -5,7 +5,7 @@
   "Tipe Serangan": "Magic",
   "HP": 25000,
   "MP": 80000,
-  "Spawn Location": "Karang Berkabut Rangkaruna",
+  "Spawn Location": "Kuburan Kapal",
   "id": "Sirenia_Kegelapan",
   "title": "Sirenia Kegelapan",
   "category": "Bestiary",
@@ -20,7 +20,7 @@
     "Tipe Serangan": "Magic",
     "HP": 25000,
     "MP": 80000,
-    "Spawn Location": "Karang Berkabut Rangkaruna"
+    "Spawn Location": "Kuburan Kapal"
   },
   "presentation": {
     "markdown_role": "lore_only",

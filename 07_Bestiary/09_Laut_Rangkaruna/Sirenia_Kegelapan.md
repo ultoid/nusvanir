@@ -21,7 +21,7 @@ Memikat dari jarak jauh dan menghindari perlawanan langsung. Sirenia memindahkan
 
 ## Habitat
 
-Karang berkabut Rangkaruna, tempat gema dan pandangan terbatas membuat arah suara sulit dinilai. Jalur kapal di sekitar batu tajam menyediakan akibat mematikan bahkan tanpa serangan fisik.
+Kuburan Kapal di dalam Zona Badai Abadi, tempat kabut, gema, bangkai, dan karang tinggi membuat arah suara sulit dinilai. Jalur sempit di sekitar batu tajam menyediakan akibat mematikan bahkan tanpa serangan fisik.
 
 ## Kisah - Lolong di Hari Ketiga
 

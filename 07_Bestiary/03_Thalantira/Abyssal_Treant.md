@@ -6,6 +6,10 @@ tags:
 
 # Abyssal Treant
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Pohon berjalan yang membawa aura korupsi di hutan Thalantira. Diamnya menyerupai ketenangan batang tua, tetapi akar dapat terangkat dan bergerak mengejar. Pertemuannya dengan Rama memperlihatkan bahaya yang lebih ganjil daripada pemangsaan: ia menyerang orang yang hendak menyelamatkan Shinta sambil membiarkan perempuan itu tetap berada dalam kedamaian palsu pulau.

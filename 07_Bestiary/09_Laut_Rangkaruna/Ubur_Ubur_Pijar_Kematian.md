@@ -21,7 +21,7 @@ Mengikuti arus dalam kawanan dan tidak perlu mengejar korban. Kontak tentakel me
 
 ## Habitat
 
-Permukaan Rangkaruna pada malam hari, terutama ketika arus membawa makanan dari kedalaman. Pendar mudah terlihat dalam air gelap, tetapi tentakel dapat menjangkau jauh di luar inti cahaya.
+Permukaan Zona Badai Abadi pada malam hari, terutama ketika arus membawa makanan dari kedalaman. Pendar mudah terlihat dalam air gelap, tetapi tentakel dapat menjangkau jauh di luar inti cahaya.
 
 ## Kisah - Laut yang Menyala
 

@@ -13,9 +13,11 @@ tags:
 **Visual**: Sosok kolosal setinggi 4 meter yang terbungkus zirah bayangan berasap. Wajah aslinya tidak pernah terlihat karena tertutup helm baja berbentuk tengkorak bertanduk enam. Ia menggunakan pedang raksasa bernama *Doombringer* yang konon terbuat dari pecahan meteorit kiamat.
 
 ### Latar Belakang & Lore
-Sangrahal bukanlah makhluk fana; ia adalah manifestasi atau proyektil dari Dewa Kehancuran (Kala Laksana) ke dunia fisik. Tujuan eksistensinya hanya satu: mengembalikan seluruh materi di alam semesta ke dalam ketiadaan. 
+Sangrahal bukanlah makhluk fana; ia adalah manifestasi Kala Laksana di dunia fisik. Ia menjadi sumber tunggal yang mempertahankan keberadaan seluruh Drahkthar di Raksamala. Jika Sangrahal benar-benar mati, Bhuta, Dhemit, dan tatanan gelap pulau itu akan sirna bersamanya.
 
-Ia menciptakan *Rift* portal untuk menyedot jutaan jiwa makhluk hidup dari [[Mandala]] dan [[Astradipa]] sebagai bahan bakar (tumbal). Sangrahal menyadari keberadaan [[Kala Laksana]] dan esensi kiamat di dalamnya, namun dimensi itu disegel oleh kekuatan kosmik yang menolak sihir gelapnya. Oleh karena itu, ia diam-diam memanipulasi para petualang rakus dari Faksi Makar di Mandala (lewat agen) untuk memecah segel Kala Laksana bagi dirinya.
+Ia membuka portal menuju daratan utama dan mengirim Jenggala untuk memburu jiwa manusia, Asrivana, serta ras lain sebagai tumbal. Ia juga menerima mereka yang datang dengan sukarela demi kekuatan atau pemenuhan keinginan. Setiap permohonan yang dikabulkan mengikat jiwa pemohon kepadanya; setelah mati, pemohon akan menjadi Dhemit pelayannya. Bahkan kekuatan yang diberikan "tanpa kendali" tetap menyisakan hak Sangrahal atas jiwa penerimanya setelah kematian.
+
+Pada masa Prologue, Sangrahal memerintah dari [[Mahadurg Kalaniskala]]. Jalan menuju singgasananya dilindungi tujuh benteng dosa dan tujuh panglima Bhuta.
 
 ### Relasi Faksi
 - Majikan absolut bagi komandan [[Bhuta]] dan pasukan [[Jenggala]].

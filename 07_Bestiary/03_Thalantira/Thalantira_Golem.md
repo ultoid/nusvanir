@@ -6,9 +6,13 @@ tags:
 
 # Thalantira Golem
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
-Makhluk batu kuno yang menjaga kawasan kuil terlarang Thalantira. Wujudnya menyatukan kesan benda tak bergerak dan tubuh yang dapat menghalangi jalan. Nama Golem tidak menjelaskan siapa pembuatnya; di pulau ini, bahkan susunan batu yang tampak sederhana dapat menjadi bagian dari lingkungan yang menyembunyikan keadaan aslinya.
+Makhluk batu yang diproyeksikan Uru untuk menjaga kawasan kuil Thalantira. Wujudnya menyatukan kesan benda tak bergerak dan tubuh yang dapat menghalangi jalan; bahkan susunan batu yang tampak sederhana dapat menjadi bagian dari ilusi pulau yang menunggu perintah penciptanya.
 
 ## Bentuk
 
@@ -20,7 +24,7 @@ Perilakunya harus dibaca sesuai keadaan pulau. Pada kunjungan awal Hector dan Ca
 
 ## Habitat
 
-Kawasan kuil di darat Thalantira, dengan lorong bercabang Kuil Tanah sebagai lokasi perjumpaan yang jelas. Ambang ruangan dan jalan berbatu di sekitarnya cocok untuk penempatan penjaga tambahan. Bangunan ini mengikuti cerita Prologue meskipun catatan regional umum menggambarkan pulau tanpa jejak peradaban; keberadaannya tidak menetapkan pencipta atau usia suatu kerajaan.
+Uru biasa memproyeksikannya di kawasan kuil, terutama lorong bercabang Kuil Tanah. Ambang ruangan dan jalan berbatu memberi tempat bagi tubuh penjaga untuk melebur dengan lingkungan. Kuil serta Golem merupakan bagian dari susunan ilusi dan tidak membuktikan pernah adanya kerajaan atau pemukiman di Thalantira.
 
 ## Kisah — Suara Kecil di Lorong Batu
 

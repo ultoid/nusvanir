@@ -1,5 +1,5 @@
 {
-  "description": "[COMMANDER] Demon Lord Hawa Nafsu yang memanipulasi pikiran lewat melodi kutukan.",
+  "description": "[COMMANDER] Panglima Bhuta Hawa Nafsu yang memanipulasi hasrat dan pikiran melalui suara serta ilusi.",
   "id": "Asmodea",
   "mp": 600000,
   "weakness": "Cahaya & Besi",
@@ -13,7 +13,7 @@
   "stat_status": "BLOCKED",
   "balance_status": "BLOCKED",
   "source_status": "legacy_with_runtime_observation",
-  "race": "Dhemit",
+  "race": "Bhuta",
   "presentation": {
     "markdown_role": "lore_only",
     "lore_source": "07_Bestiary/08_Commanders_of_Raksamala_Fortress/Asmodea.md",
@@ -41,10 +41,8 @@
       "03_Region/10_Raksamala/Faksi & Institusi/Kerajaan Drakhtar.md",
       "03_Region/10_Raksamala/Threat.md"
     ],
-    "unresolved": [
-      "Profil tokoh menyebut Dhemit, sedangkan dokumen benteng menyebut bos Bhuta Succubus/Incubus. Race mengikuti profil; konflik taxonomy belum diselesaikan."
-    ],
-    "category_note": "Seven sapient fortress commanders under Sangrahal; chronology distinguishes pre-destruction fortresses from post-Hector ruins.",
+    "unresolved": [],
+    "category_note": "Panglima Bhuta penjaga Fortress of Lust; taxonomy diselaraskan dengan hierarki Raksamala.",
     "historical_description": "[COMMANDER] Demon Lord Hawa Nafsu yang memanipulasi pikiran lewat melodi kutukan.",
     "approval_record": "07_Bestiary/_audit/raksamala_commanders_lore_approval.json"
   },

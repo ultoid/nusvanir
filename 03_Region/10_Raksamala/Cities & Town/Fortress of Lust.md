@@ -3,14 +3,25 @@ title: Fortress of Lust
 wilayah: "[[Raksamala]]"
 tags:
   - city
-  - dungeon
+  - fortress
 ---
-# Fortress of Lust (Benteng Hawa Nafsu)
 
-*Dungeon berbentuk istana harem bawah tanah yang menggoda nafsu paling primitif dari makhluk hidup.*
+# Fortress of Lust — Benteng Hawa Nafsu
 
-### 1. Taman Gairah Palsu
+Benteng [[Asmodea]] tampak sebagai istana dan taman bawah tanah yang terus berubah mengikuti pengunjungnya. Bagi seseorang ia menjadi rumah yang hangat; bagi yang lain, tempat kekuasaan, pemujaan, cinta, keindahan, atau kenikmatan yang selama ini tidak pernah dimiliki. Di balik wujud itu terdapat lorong berduri, kolam racun, dan tubuh para korban yang tidur sambil perlahan mengering.
 
-- **Visual & Suasana:** Terlihat seperti taman sutra yang dihiasi bunga-bunga eksotis dan air mancur anggur. Pencahayaan temaram bernuansa merah muda menyamarkan duri-duri beracun di balik tirai. Suara rintihan pelan dan aroma feromon pekat memenuhi udara.
-- **Aktivitas Utama:** Dijaga oleh wujud ilusi para [[Dhemit]] berparas rupawan tak bercela yang menggoda setiap langkah. Bos utama adalah [[Bhuta]] tipe *Succubus/Incubus* mutan tingkat tinggi yang menyerang dengan memanipulasi hasrat dan pikiran lawan.
-- **Fakta Unik:** Seluruh ilusi di sini menargetkan hasrat terdalam secara personal (bisa berupa hasrat seksual, haus kasih sayang, atau dominasi). Tunduk pada godaan ini berarti menyerahkan kontrol tubuh sepenuhnya kepada sang Bhuta, yang akan langsung mencabik jantung sang korban tanpa perlawanan.
+## Godaan dan ujian
+
+Hawa nafsu di benteng ini mencakup segala keinginan yang hendak memiliki atau dikuasai olehnya: kasih sayang, tubuh, pengakuan, kendali, dan kerinduan. Asmodea mengambil rupa sosok yang paling mampu membuat sasaran menurunkan kewaspadaan. Ia tidak memaksa korban; ia membuat penyerahan diri terasa seperti keputusan yang bebas.
+
+Mereka yang menerima ilusi akan hidup dalam mimpi sempurna, sementara tubuh aslinya layu dan jiwanya dipintal menjadi pelayan Dhemit. Rasa sakit tidak dapat mematahkan pesona karena kebahagiaan palsu itulah jeratnya.
+
+Untuk bertahan, penyusup harus membedakan keinginan dari hak untuk memiliki. Ilusi melemah ketika seseorang mengakui hasratnya tanpa menjadikan orang lain sebagai benda pemuasnya.
+
+## Segel Dosa
+
+Segel Hawa Nafsu tersembunyi di balik wajah asli Asmodea. Segel baru terlihat ketika penyusup menolak seluruh rupa yang ia tawarkan dan memandang sang panglima sebagaimana adanya.
+
+## Lore
+
+Banyak penjelajah ditemukan masih tersenyum ketika tubuhnya telah mengering. Dalam mimpinya mereka percaya telah pulang, dicintai, dan hidup bahagia. Hanya bayangan mereka yang mengetahui bahwa tak satu pun dari janji itu pernah nyata.

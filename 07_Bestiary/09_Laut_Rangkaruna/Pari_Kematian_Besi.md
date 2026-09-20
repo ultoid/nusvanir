@@ -21,7 +21,7 @@ Buas ketika sesuatu melintas di atas wilayah dangkalnya. Ia mengumpulkan kecepat
 
 ## Habitat
 
-Perairan dangkal Rangkaruna dengan dasar cukup luas untuk memperoleh kecepatan dan karang sebagai perlindungan. Individu dapat memasuki jalur badai ketika mengikuti kapal.
+Perairan Dangkal Rangkaruna di bagian utara dan barat laut, dengan dasar cukup luas untuk memperoleh kecepatan dan karang sebagai perlindungan. Individu dapat memasuki Zona Badai Abadi ketika mengikuti kapal.
 
 ## Kisah - Tombak dari Bawah Ombak
 

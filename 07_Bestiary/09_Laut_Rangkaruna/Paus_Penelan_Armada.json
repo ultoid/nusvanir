@@ -5,7 +5,7 @@
   "Tipe Serangan": "Melee (Area)",
   "HP": 120000,
   "MP": 20000,
-  "Spawn Location": "Tengah Laut Rangkaruna",
+  "Spawn Location": "Laut Lepas Zona Badai Abadi",
   "id": "Paus_Penelan_Armada",
   "title": "Paus Penelan Armada",
   "category": "Bestiary",
@@ -20,7 +20,7 @@
     "Tipe Serangan": "Melee (Area)",
     "HP": 120000,
     "MP": 20000,
-    "Spawn Location": "Tengah Laut Rangkaruna"
+    "Spawn Location": "Laut Lepas Zona Badai Abadi"
   },
   "presentation": {
     "markdown_role": "lore_only",

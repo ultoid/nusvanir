@@ -6,6 +6,10 @@ tags:
 
 # Nebula Eye
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Mata kosmis melayang yang melepaskan sinar mematikan ke arah pandangannya. Kehadirannya membuat ruang terbuka di Thalantira terasa seperti tempat yang terus diawasi. Ia tidak perlu mengepakkan sayap untuk mengubah ketinggian, dan diamnya di udara dapat disangka cahaya ganjil sampai pupil berputar mengikuti gerakan di bawah.

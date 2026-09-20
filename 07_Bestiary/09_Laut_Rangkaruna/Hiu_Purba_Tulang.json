@@ -5,7 +5,7 @@
   "Tipe Serangan": "Melee",
   "HP": 65000,
   "MP": 10000,
-  "Spawn Location": "Kuburan Kapal Laut Rangkaruna",
+  "Spawn Location": "Kuburan Kapal",
   "id": "Hiu_Purba_Tulang",
   "title": "Hiu Purba Tulang",
   "category": "Bestiary",
@@ -20,7 +20,7 @@
     "Tipe Serangan": "Melee",
     "HP": 65000,
     "MP": 10000,
-    "Spawn Location": "Kuburan Kapal Laut Rangkaruna"
+    "Spawn Location": "Kuburan Kapal"
   },
   "presentation": {
     "markdown_role": "lore_only",

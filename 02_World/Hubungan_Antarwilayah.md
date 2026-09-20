@@ -28,6 +28,22 @@ Harta karun, makhluk-makhluk unik bernilai tinggi, dan mineral mahal menarik ban
 
 Pelayaran biasa melewati Selat Agnitra dan menyusuri pesisir Cakrawala. Jalur ini menjadi koridor pelayaran perdagangan; memasuki Laut Rangkaruna merupakan ekspedisi tersendiri ke wilayah badai abadi.
 
+Dari utara dan barat laut, ekspedisi memasuki Perairan Dangkal Rangkaruna sebelum mencapai Zona Badai Abadi. Kuburan Kapal berada di antara karang tinggi dalam kawasan badai. Lebih jauh menuju Raksamala terdapat Palung Kematian dengan perubahan kedalaman dan pusaran air berbahaya.
+
+## Ancaman Raksamala terhadap daratan utama
+
+Raksamala tidak menjalin hubungan diplomasi atau perdagangan dengan wilayah Nusvanir. Sangrahal memandang penduduk daratan utama sebagai sumber jiwa yang mempertahankan keberadaan Drahkthar. Portal gelap digunakan untuk mengirim Jenggala berburu tumbal, sedangkan pemuja Sangrahal dapat membuka jalan dari dalam masyarakat melalui ritual dan pengorbanan.
+
+Mandala dan Astradipa menjadi sasaran perburuan manusia serta Asrivana. Avalerion dan Nusa Sayendra mempertahankan Nusvanir dari serangan Drakhtar, sementara Agnitra dapat memberi bala bantuan kepada Mandala untuk menghadapi Jenggala. Laut Rangkaruna memperlambat serangan terbuka dari pulau itu, tetapi tidak dapat mencegah perpindahan melalui portal.
+
+Pada akhir Prologue, Hector menghancurkan tujuh benteng dosa dan mencapai Sangrahal. Kerusakan tersebut mematahkan tatanan militer Raksamala pada masa itu, tetapi tidak memusnahkan seluruh Drahkthar karena Sangrahal tetap hidup. Pada era Light dan Dark Path, penahanan Sangrahal di bawah Avalerion menjadikan penjara tersebut titik yang menentukan kelangsungan Raksamala.
+
+## Thalantira dan kebangkitan Uru
+
+Thalantira berada di tenggara Raksamala dan tersembunyi oleh cincin karang, badai, serta ilusi Uru. Pulau ini tidak memiliki hubungan diplomasi. Ia menerima atau menolak pengunjung sesuai kehendak Uru, sehingga rute dan keadaan yang dialami satu ekspedisi tidak dapat dianggap tetap untuk perjalanan berikutnya.
+
+Pada akhir Prologue, Hector dan Cassian membangunkan Uru serta membawa satu serpihan Void Crystal ke daratan utama. Avalerion menyegel serpihan itu untuk penelitian, sedangkan Uru mulai mengarahkan peristiwa agar Hector menjadi wadah barunya. Sejak saat itu, ancaman Thalantira tidak lagi terbatas pada pulau: bagian tubuh Uru telah memasuki Nusvanir dan dapat menjadi penghubung bagi pengaruhnya.
+
 [Arkananta](../03_Region/05_Arkananta/Arkananta.md) membentang di utara daratan utama; cabangnya membatasi Astradipa dari kawasan Mandala dan Avalerion. Pegunungan ini merupakan pembatas alami menuju wilayah utara yang belum dijelajahi. Lembah Arkapada menghubungkan dataran Mandala dengan kaki gunung dan menjadi jalur wisata serta pendakian. Gerbang Wana Larangan berada di sisi Astradipa, dijaga ketat oleh Asrivana, dan digunakan sebagai jalur pembuangan Rakshorien.
 
 ## Hubungan pertahanan Mandala dan Agnitra

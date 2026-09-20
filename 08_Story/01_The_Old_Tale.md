@@ -53,3 +53,11 @@ Semua sihir, pahlawan, intrik, dan evolusi kekuatan yang terjadi di benua Nusvan
 
 Sebuah masa di mana kristal ilusi itu akan pecah, dan Uru Sang Void akan membuka matanya.
 Legenda kuno yang dihapus dari ingatan dunia menyebut peristiwa yang tak terhindarkan ini dengan satu nama: **Kiamat (Doomsday)**.
+
+## Catatan Pasca-Prologue
+
+Ramalan tersebut terpenuhi ketika Hector dan Cassian mencapai inti Thalantira serta menyentuh tubuh kristal Uru. Sang Entitas Void terbangun, pulau runtuh, dan seluruh proyeksinya memperlihatkan wujud mematikan.
+
+Namun, tidur panjang di dalam ilusi Sang Hyang telah mengubah Uru. Ia tidak lagi memandang Nusvanir hanya sebagai dunia yang harus dihancurkan. Uru ingin memilikinya, mendominasinya, dan mengalami kehidupan melalui tubuh baru. Tubuh Hector menjadi wadah terbaik yang ditemukannya untuk menerima kekuatan Void tanpa segera hancur.
+
+Seluruh kuil, pelindung, dan entitas Void di Thalantira diketahui sebagai proyeksi Uru. Void Crystal yang tersebar di pulau bukan mineral biasa, melainkan serpihan tubuh Uru yang mengkristal selama penyegelan.

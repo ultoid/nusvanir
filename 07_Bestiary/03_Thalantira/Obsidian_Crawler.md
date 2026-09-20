@@ -6,6 +6,10 @@ tags:
 
 # Obsidian Crawler
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Kalajengking batu hitam sebesar rumah yang menyusuri daratan Thalantira. Tubuhnya dapat tersamarkan di antara bongkah vulkanik sampai kaki-kakinya membuka jalan. Bunyi gesekan batu sering mendahului kemunculannya, tetapi di dekat gunung api suara itu mudah tenggelam dalam gemuruh lereng.
@@ -28,4 +32,4 @@ Hujan mengisi sebuah celah dengan kerikil. Dari bawah bongkah hitam, capit muncu
 
 Makhluk yang bersembunyi di dekat mulut celah segera menyingkir. Crawler menahan posisi dengan ekor terangkat sampai jalan di depannya kosong. Setelah itu ia berjalan menuju hamparan batu, dan kilau hujan kembali menyamarkannya di antara bongkah lain.
 
-> Acuan: [Threat](../../03_Region/11_Thalantira/Threat.md); [08 Ujian Para Pelindung](../../08_Story/02_Prologue/08_Ujian_Para_Pelindung.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md); [Gunung Ungu](../../03_Region/11_Thalantira/Cities%20%26%20Town/Gunung%20Ungu.md).
+> Acuan: [Threat](../../03_Region/11_Thalantira/Threat.md); [08 Ujian Para Pelindung](../../08_Story/02_Prologue/08_Ujian_Para_Pelindung.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md); [Kuil Udara Gunung Ungu](../../03_Region/11_Thalantira/Cities%20%26%20Town/Kuil%20Udara%20Gunung%20Ungu.md).

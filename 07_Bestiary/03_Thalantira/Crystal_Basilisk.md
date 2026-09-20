@@ -6,6 +6,10 @@ tags:
 
 # Crystal Basilisk
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Kadal raksasa dengan tatapan yang dikenal membekukan korbannya. Di bawah cahaya ungu Thalantira, tubuhnya dapat disangka gugusan kristal sebelum kepala bergerak mengikuti sesuatu yang lewat. Bahayanya tidak hanya datang dari rahang: menatap balik untuk memastikan bentuknya dapat menjadi bagian paling buruk dari sebuah perjumpaan.
@@ -20,7 +24,7 @@ Teritorial dan berbahaya bila didekati. Ia menahan tubuh di tempat, mengangkat k
 
 ## Habitat
 
-Darat Thalantira adalah habitat sumber. Teras batu teduh di peralihan hutan dan lereng Gunung Ungu menjadi tempat berdiamnya, dengan celah untuk menyembunyikan tubuh panjangnya. Penempatan ini tidak berarti Basilisk hidup di dalam lahar atau menghuni ruang inti kristal gunung. Permukaan dingin yang terlindung dan jalur mangsa lebih sesuai dengan perilakunya.
+Uru biasa memproyeksikan Basilisk pada teras batu di peralihan hutan dan lereng Gunung Ungu, dengan celah yang menyembunyikan tubuh panjangnya. Penempatan ini membentuk perilaku berburu yang meyakinkan, meskipun makhluk tersebut tidak memiliki habitat biologis dan dapat dibentuk kembali di tempat lain oleh penciptanya.
 
 ## Kisah — Kristal yang Menoleh
 
@@ -28,4 +32,4 @@ Seekor pemangsa kecil menyusuri tepian batu, mengikuti gerakan di balik semak. D
 
 Kepala Basilisk terangkat perlahan. Pemangsa itu mundur ke balik akar, memutus pandangan sebelum seluruh tubuh panjang muncul dari ceruk. Basilisk tidak mengejar ke hutan rapat. Ia kembali merendahkan kepala, dan lereng kembali tampak seperti batu yang tidak dihuni apa pun.
 
-> Acuan: [Threat](../../03_Region/11_Thalantira/Threat.md); [Gunung Ungu](../../03_Region/11_Thalantira/Cities%20%26%20Town/Gunung%20Ungu.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md).
+> Acuan: [Threat](../../03_Region/11_Thalantira/Threat.md); [Kuil Udara Gunung Ungu](../../03_Region/11_Thalantira/Cities%20%26%20Town/Kuil%20Udara%20Gunung%20Ungu.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md).

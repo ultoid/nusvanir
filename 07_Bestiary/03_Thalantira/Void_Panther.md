@@ -6,6 +6,10 @@ tags:
 
 # Void Panther
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Macan kosmis yang berpindah seketika untuk menyergap dari arah tak terduga. Jejak kakinya dapat berakhir di tanah terbuka tanpa jalan keluar yang terlihat. Di hutan Thalantira, ketidakhadirannya di depan tidak berarti pemburu ini telah meninggalkan tempat perburuan.

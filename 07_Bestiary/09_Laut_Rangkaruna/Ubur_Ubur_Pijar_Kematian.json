@@ -5,7 +5,7 @@
   "Tipe Serangan": "Magic (Area)",
   "HP": 15000,
   "MP": 50000,
-  "Spawn Location": "Permukaan Rangkaruna Malam Hari",
+  "Spawn Location": "Permukaan Zona Badai Abadi",
   "id": "Ubur_Ubur_Pijar_Kematian",
   "title": "Ubur-Ubur Pijar Kematian",
   "category": "Bestiary",
@@ -20,7 +20,7 @@
     "Tipe Serangan": "Magic (Area)",
     "HP": 15000,
     "MP": 50000,
-    "Spawn Location": "Permukaan Rangkaruna Malam Hari"
+    "Spawn Location": "Permukaan Zona Badai Abadi"
   },
   "presentation": {
     "markdown_role": "lore_only",

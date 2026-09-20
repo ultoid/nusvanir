@@ -6,6 +6,10 @@ tags:
 
 # Kraken Tentacle
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Bagian tentakel raksasa yang menyerang kapal di perairan Thalantira. Apa yang terlihat di permukaan hanyalah anggota tubuh, bukan ukuran utuh pemiliknya. Satu lengkungan yang disangka gelombang dapat berubah menjadi belitan yang menahan lambung, sementara bagian lain tetap bergerak jauh di bawah air.

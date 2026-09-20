@@ -6,6 +6,10 @@ tags:
 
 # Storm Wyvern
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Naga terbang yang menguasai petir dan badai setempat di langit Thalantira. Ukurannya lebih kecil daripada para penjaga kolosal pulau, tetapi tetap cukup besar untuk mendominasi jalur angin. Kilat yang bergerak melawan arah awan dapat menandai kehadirannya sebelum bentuk sayap terlihat.

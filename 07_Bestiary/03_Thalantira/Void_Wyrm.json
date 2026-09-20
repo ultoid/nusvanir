@@ -55,12 +55,12 @@
       "08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md",
       "05_Karakter & Tokoh Penting/11_Entitas_Purba/Uru.md",
       "08_Story/03_The_Untold_Story/03_Penjaga_Kuil_Api_Neraka.md",
-      "03_Region/11_Thalantira/Cities & Town/Gunung Ungu.md"
+      "03_Region/11_Thalantira/Cities & Town/Kuil Udara Gunung Ungu.md"
     ],
     "unresolved": [
       "Label lama Endgame Final Boss bukan penetapan urutan cerita. Void bukan elemen System yang baru. Pemulihan Behemoth tidak dijadikan resurrection gameplay universal."
     ],
-    "category_note": "Thalantira endemic category; not a blanket Drahkthar/Jenggala/Bhuta/Dhemit or Voidborn origin. Behavior is contextual to Prologue phases.",
+    "category_note": "Proyeksi Void yang diciptakan Uru, bukan spesies biologis atau populasi endemik. Wujudnya nyata selama dipertahankan kehendak Uru; perilakunya mengikuti penerimaan Uru terhadap tamu dan konteks fase Prologue.",
     "historical_description": "[BOSS UDARA] Naga kosmik bersayap raksasa sebesar gunung pelahap realita (Endgame Final Boss).",
     "approval_record": "07_Bestiary/_audit/thalantira_lore_approval.json"
   },

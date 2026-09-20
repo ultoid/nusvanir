@@ -6,6 +6,10 @@ tags:
 
 # Abyssal Piranha
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Ikan pemangsa Thalantira yang rahangnya mampu merobek zirah adamantite. Tubuh yang jauh lebih kecil daripada para raksasa laut pulau ini membuatnya mudah terabaikan. Kilatan singkat di antara karang dapat menjadi satu-satunya tanda sebelum air yang semula kosong dipenuhi gerakan menggigit.
@@ -20,7 +24,7 @@ Buas dan cepat bereaksi terhadap mangsa yang terdesak. Kawanan menyebar mengikut
 
 ## Habitat
 
-Perairan Thalantira merupakan habitat asal. Celah pada cincin karang, saluran sempit dengan arus deras, dan kantong air terlindung di balik batu cocok sebagai wilayah jelajah tambahan. Tempat itu menyediakan ruang bagi ikan kecil untuk berlindung dari raksasa laut. Kemunculan kawanan dalam kekacauan di daratan Prologue tidak menetapkan bahwa spesies ini lazim hidup tanpa air.
+Uru biasa memproyeksikan kawanan ini di perairan Thalantira, terutama celah cincin karang, saluran sempit berarus deras, dan kantong air di balik batu. Kemunculannya di daratan pada kekacauan Prologue terjadi karena Uru dapat membentuk proyeksi tanpa mengikuti batas perpindahan populasi biologis.
 
 ## Kisah — Kilatan di Celah Karang
 

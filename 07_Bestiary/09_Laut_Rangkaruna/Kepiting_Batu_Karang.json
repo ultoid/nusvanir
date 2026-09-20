@@ -5,7 +5,7 @@
   "Tipe Serangan": "Melee",
   "HP": 45000,
   "MP": 5000,
-  "Spawn Location": "Gugusan Karang Rangkaruna",
+  "Spawn Location": "Perairan Dangkal Rangkaruna",
   "id": "Kepiting_Batu_Karang",
   "title": "Kepiting Batu Karang",
   "category": "Bestiary",
@@ -20,7 +20,7 @@
     "Tipe Serangan": "Melee",
     "HP": 45000,
     "MP": 5000,
-    "Spawn Location": "Gugusan Karang Rangkaruna"
+    "Spawn Location": "Perairan Dangkal Rangkaruna"
   },
   "presentation": {
     "markdown_role": "lore_only",

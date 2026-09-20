@@ -5,7 +5,7 @@
   "Tipe Serangan": "Melee",
   "HP": 90000,
   "MP": 35000,
-  "Spawn Location": "Perairan Dalam Rangkaruna",
+  "Spawn Location": "Palung Kematian",
   "id": "Krakentis_Sang_Pemutar_Arus",
   "title": "Krakentis Sang Pemutar Arus",
   "category": "Bestiary",
@@ -20,7 +20,7 @@
     "Tipe Serangan": "Melee",
     "HP": 90000,
     "MP": 35000,
-    "Spawn Location": "Perairan Dalam Rangkaruna"
+    "Spawn Location": "Palung Kematian"
   },
   "presentation": {
     "markdown_role": "lore_only",

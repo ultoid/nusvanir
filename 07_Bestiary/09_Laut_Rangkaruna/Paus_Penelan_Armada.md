@@ -21,7 +21,7 @@ Cenderung tenang dan tidak sengaja menyerang. Ia mengikuti kawanan krill, membuk
 
 ## Habitat
 
-Tengah Laut Rangkaruna, pada jalur migrasi krill raksasa dan air cukup dalam untuk tubuhnya. Ia tidak lazim masuk ke pelabuhan atau karang dangkal.
+Laut lepas Zona Badai Abadi, pada jalur migrasi krill raksasa dan air yang cukup dalam untuk tubuhnya. Ia menghindari Perairan Dangkal serta gugusan karang Kuburan Kapal.
 
 ## Kisah - Jalur Makan yang Berubah
 

@@ -3,11 +3,19 @@ title: Mitos Kiamat Purba
 wilayah: "[[Thalantira]]"
 tags:
   - agama
+  - Lore_Tersembunyi
 ---
-# Mitos Kiamat Purba (Legenda Thalantira)
 
-Karena tidak ada penghuni berakal di [[Thalantira]], tidak ada praktik agama atau pemujaan yang dilakukan di sana. Namun, dari sudut pandang penduduk daratan fana Nusvanir, pulau ini adalah objek dari berbagai mitos dan manuskrip kuno yang menakutkan.
+# Mitos Kiamat Purba
 
-Dalam berbagai kitab ras di Nusvanir, pulau ini memiliki banyak sebutan: *Mysterious Island, Pulau Ujung, Pulau Terlarang,* atau *Pulau Terkutuk*. Tidak ada satupun ras fana yang menyebutnya dengan nama "Thalantira" karena memang tidak pernah ada yang berhasil kembali dari sana.
+Masyarakat Nusvanir mengenal Thalantira melalui nama seperti Pulau Misterius, Pulau Ujung, dan Pulau Terkutuk. Sebagian besar ajaran menganggapnya legenda atau tempat kekuatan kiamat disegel. Hanya sedikit naskah yang menyebut nama Uru.
 
-Menurut legenda dan manuskrip dari makhluk-makhluk pertama Nusvanir, pulau tersebut menyimpan kekuatan absolut yang sengaja disegel agar tidak disalahgunakan. Konon, kekuatan yang tertidur di sana setara dengan kekuatan [[Sang Hyang Cahaya]] dan [[Kala Laksana]] jika disatukan. Jika segel itu sampai pecah atau kekuatannya jatuh ke tangan yang salah, hal tersebut akan menjadi pemicu kiamat absolut—titik akhir dari eksistensi dunia Nusvanir.
+## Kebenaran The Old Tale
+
+*The Old Tale* menyimpan sejarah yang dihapus dari pengetahuan umum. Uru adalah penjelajah Void yang pernah mengalahkan Sang Hyang Cahaya. Thalantira diciptakan sebagai jebakan indah untuk memancing rasa ingin tahunya, kemudian menjadi penjara yang mempertahankan Uru dalam hipnosis.
+
+Kala Laksana, Raksamala, badai, dan pertahanan di sekitar pulau merupakan bagian dari persiapan menghadapi hari ketika Uru terbangun. Peristiwa itu dikenal sebagai Doomsday, meskipun setelah Prologue tujuan Uru berkembang dari kehancuran menjadi dominasi atas Nusvanir.
+
+## Kesalahan pemahaman umum
+
+Monster Thalantira bukan dewa yang disembah penduduk pulau, sebab tidak ada masyarakat yang tinggal di sana. Tiga Pelindung Kuil adalah proyeksi Uru. Kuil-kuilnya juga bukan pusat agama, melainkan bagian dari susunan ilusi yang mengarahkan tamu menuju tubuh kristal Uru.

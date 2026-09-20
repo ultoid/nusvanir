@@ -12,7 +12,7 @@
 | [Arkananta](../03_Region/05_Arkananta/Arkananta.md) | Pegunungan dan dataran tinggi berbatu; suhu turun sesuai ketinggian, kawasan Jayasweta tertutup salju, serta terdapat jaringan permukiman gua. |
 | [Cakrawala](../03_Region/06_Cakrawala/Cakrawala.md) | Padang pasir tandus dengan permukiman yang tumbuh mengelilingi oasis misterius di dekat pesisir. |
 | [Tirta Amarta](../03_Region/08_Tirta%20Amarta/Tirta_Amarta.md) | Kawasan candi, kuil, dan reruntuhan yang dipenuhi tanaman rambat serta pepohonan, dialiri sungai suci dari Pegunungan Arkananta. |
-| [Rangkaruna](../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md) | Perairan ekstrem dengan badai abadi dan ekosistem laut dalam. |
+| [Rangkaruna](../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md) | Perairan dangkal berkarang di utara dan barat laut, badai abadi di selatan serta tenggara, kawasan bangkai kapal, dan palung laut dalam menuju Raksamala. |
 
 ## Pertanyaan pengembangan
 

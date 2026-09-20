@@ -41,10 +41,8 @@
       "03_Region/10_Raksamala/Threat.md",
       "08_Story/02_Prologue/10_Jalan_yang_Terbelah.md"
     ],
-    "unresolved": [
-      "Kisah merangkum Prologue bab 10. Tuan Midas dan komunikasi koin tetap relasi profil, tetapi tidak dikembangkan menjadi peristiwa baru."
-    ],
-    "category_note": "Seven sapient fortress commanders under Sangrahal; chronology distinguishes pre-destruction fortresses from post-Hector ruins.",
+    "unresolved": [],
+    "category_note": "Relasi langsung dengan Tuan Midas dihapus; Mamon memengaruhi saudagar korup secara umum melalui koin terkutuk.",
     "historical_description": "[COMMANDER] Demon Lord Keserakahan penguasa pasukan golem logam karatan.",
     "approval_record": "07_Bestiary/_audit/raksamala_commanders_lore_approval.json"
   },

@@ -6,6 +6,10 @@ tags:
 
 # Manta Ray Void
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Pari dari kedalaman Thalantira yang meluncur dengan tenang sebelum melepaskan energi mematikan. Tubuhnya menyerupai bayangan lebar yang terlepas dari dasar laut. Pada air gelap, cahaya yang berkumpul di depannya lebih mudah terlihat daripada gerakan sirip yang membawanya mendekat.

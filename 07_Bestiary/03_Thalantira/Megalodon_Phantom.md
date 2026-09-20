@@ -6,6 +6,10 @@ tags:
 
 # Megalodon Phantom
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Hiu hantu Thalantira yang dapat menembus karang ketika memburu. Tempat berlindung yang menghentikan pemangsa lain tidak selalu memutus jalurnya. Siluetnya kadang hilang di balik batu sebelum muncul kembali dari sisi yang tidak memiliki celah cukup lebar untuk tubuh sebesar itu.

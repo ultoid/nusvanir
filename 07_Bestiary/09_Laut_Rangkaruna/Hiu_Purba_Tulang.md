@@ -21,7 +21,7 @@ Agresif terhadap gerakan dan getaran di wilayah bangkai kapal. Ia mengitari sasa
 
 ## Habitat
 
-Kuburan Kapal Laut Rangkaruna, terutama cekungan tempat arus mengumpulkan puing, jangkar, dan tulang pelaut. Struktur kapal tenggelam memberi jalur berlindung sekaligus perangkap bagi mangsa.
+Kuburan Kapal di dalam Zona Badai Abadi, terutama cekungan tempat arus mengumpulkan puing, jangkar, dan tulang pelaut. Struktur kapal tenggelam memberi jalur berlindung sekaligus perangkap bagi mangsa.
 
 ## Kisah - Rahang di Antara Tiang Patah
 

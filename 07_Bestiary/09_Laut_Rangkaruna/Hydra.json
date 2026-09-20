@@ -5,7 +5,7 @@
   "Tipe Serangan": "Melee/Ranged",
   "HP": 75000,
   "MP": 40000,
-  "Spawn Location": "Palung Laut Rangkaruna",
+  "Spawn Location": "Palung Kematian",
   "id": "Hydra",
   "title": "Hydra",
   "category": "Bestiary",
@@ -20,7 +20,7 @@
     "Tipe Serangan": "Melee/Ranged",
     "HP": 75000,
     "MP": 40000,
-    "Spawn Location": "Palung Laut Rangkaruna"
+    "Spawn Location": "Palung Kematian"
   },
   "presentation": {
     "markdown_role": "lore_only",

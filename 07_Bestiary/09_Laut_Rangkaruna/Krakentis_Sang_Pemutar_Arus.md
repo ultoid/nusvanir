@@ -21,7 +21,7 @@ Buas ketika kapal memasuki arus buruannya. Ia memutar tentakel di dasar laut seb
 
 ## Habitat
 
-Perairan dalam dan Palung Kematian Rangkaruna. Ruang luas di dasar laut memungkinkan tentakel membangun putaran arus sebelum tubuh utama terlihat. Krakentis ini tidak otomatis sama dengan pemilik Kraken Tentacle di Thalantira.
+Palung Kematian dan perairan dalam di sekitarnya pada jalur menuju Raksamala. Ruang luas di dasar laut memungkinkan tentakel membangun putaran arus sebelum tubuh utama terlihat. Krakentis ini tidak otomatis sama dengan pemilik Kraken Tentacle di Thalantira.
 
 ## Kisah - Teriakan Sang Echomancer
 

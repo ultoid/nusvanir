@@ -6,6 +6,10 @@ tags:
 
 # Deepwater Siren
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Penyanyi ilusi dari perairan Thalantira yang dapat menarik pelaut menuju kematian. Suaranya memberi kesan bahwa sesuatu yang dicari berada sedikit lebih dekat daripada kenyataan. Di laut dengan karang tajam dan arus mustahil, kesalahan kecil dalam menilai arah sudah cukup untuk membawa pendengar keluar dari jalur selamat.

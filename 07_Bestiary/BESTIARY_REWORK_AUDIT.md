@@ -1,5 +1,11 @@
 # Audit Rework Bestiary Nusvanir
 
+## Penetapan hakikat entitas Thalantira — 2026-09-21
+
+Pemilik proyek menetapkan bahwa seluruh entitas Void di Thalantira adalah proyeksi ciptaan Uru. Mereka bukan fauna endemik atau spesies biologis, meskipun memiliki bentuk, perilaku, dan tempat kemunculan menyerupai ekologi alami. Proyeksi dapat bersikap ramah kepada tamu yang dikehendaki Uru serta berubah buas kepada tamu yang ditolak. Luka dan kematian yang ditimbulkannya tetap nyata.
+
+Penetapan ini menyelesaikan pertanyaan lama tentang asal para Pelindung Kuil, hubungan sebutan Ayah, dan status monster Thalantira. Delapan belas Markdown dan JSON kategori Thalantira telah diberi keterangan ontologis yang sama. Catatan historis di bawah yang menyatakan asal mereka belum pasti atau bukan seluruhnya proyeksi Uru telah digantikan oleh keputusan ini.
+
 ## Persetujuan menyeluruh — 2026-09-17
 
 Pemilik proyek menyetujui semua usulan narasi di `07_Bestiary`. Dua puluh delapan entri yang sebelumnya masih berstatus usulan pada batch 05–09 kini `APPROVED`, sehingga seluruh 80 pasangan Markdown–JSON memiliki persetujuan narasi. Manifest persetujuan per batch menyimpan ruang lingkup dan hash Markdown yang disetujui. Penyebutan status usulan pada bagian historis di bawah merujuk pada keadaan saat audit batch itu dibuat.
@@ -82,14 +88,14 @@ Empat pasangan / delapan file telah diperluas. Sumber utama ialah empat dokumen 
 
 18 pasangan / 36 file telah dipisahkan menjadi lore Markdown dan data JSON. Teks sebelum batch tersimpan di `_audit/pre_thalantira_narrative.json`; hash workspace di `_audit/pre_thalantira_hashes.json`; hasil pemeriksaan di `_audit/thalantira_verification.json`. Tambahan narasi masih usulan. Wildlife dan Jenggala yang telah disetujui tidak diubah.
 
-Acuan utama: Threat Thalantira, World Thalantira, Gunung Ungu, profil Uru, Prologue bab 6–9, dan Penjaga Kuil Api Neraka. Bentuk Behemoth mengikuti koreksi eksplisit bab 8: banteng/reptil purba, tanduk ungu, cakar emas, ekor berduri; tafsiran gajah dari peta bab 7 bukan anatomi sebenarnya. Void Wyrm mengikuti warna serta wujud ksatria perak dalam bab 8. Hydra tidak otomatis diberi banyak kepala.
+Acuan utama: Threat Thalantira, profil wilayah Thalantira, Kuil Udara Gunung Ungu, profil Uru, Prologue bab 6–9, dan Penjaga Kuil Api Neraka. Bentuk Behemoth mengikuti koreksi eksplisit bab 8: banteng/reptil purba, tanduk ungu, cakar emas, ekor berduri; tafsiran gajah dari peta bab 7 bukan anatomi sebenarnya. Void Wyrm mengikuti warna serta wujud ksatria perak dalam bab 8. Hydra tidak otomatis diberi banyak kepala.
 
 Keputusan dan batas yang tetap terbuka:
 
-- Catatan wilayah tanpa jejak peradaban bertentangan dengan kuil dan gerbang buatan dalam Prologue. Entri memakai lokasi kuil yang diceritakan tanpa menciptakan kerajaan, pembangun, atau sejarah pemukiman baru. Dokumen wilayah tidak diubah.
-- Keramahan Hydra/Behemoth, serangan setelah pengaruh kristal, dan penampilan sadar saat berlutut kepada Uru dicatat sesuai urutan. Mutasi paksa yang disebut Untold Story tidak dijadikan bukti bahwa kesadaran para penjaga hilang permanen. Sebutan Ayah/saudara tidak menetapkan silsilah biologis.
+- Catatan lama wilayah tanpa jejak peradaban pernah bertentangan dengan kuil dan gerbang dalam Prologue. Konflik ini kemudian diselesaikan: bangunan tersebut merupakan bagian dari susunan ilusi Uru dan tidak membuktikan keberadaan kerajaan atau pemukiman lama.
+- Keramahan Hydra/Behemoth, serangan setelah pengaruh kristal, dan penampilan sadar saat berlutut kepada Uru dicatat sesuai urutan. Ketiganya kini ditetapkan sebagai proyeksi Uru yang diberi kepribadian; sebutan Ayah/saudara menjelaskan hubungan pencipta dan ciptaan, bukan silsilah biologis.
 - Golem kecil yang takut pada pengunjung tidak otomatis disamakan dengan individu besar sesudah pengungkapan. Treant yang menyerang Rama sambil melindungi Shinta tidak menjadi aturan keramahan universal. Penampakan Shinta menjelang kematian Rama bukan mekanisme kebangkitan baru.
-- Manta Ray Void dan Gargoyle tidak disebut khusus pada daftar kemunculan bab 9. Kisah keduanya merupakan usulan ekologis, bukan tambahan peran dalam adegan tersebut. Kraken Tentacle tetap bagian tubuh; Phantom tidak berarti otomatis Dhemit; fauna pulau tidak ditetapkan seluruhnya Voidborn.
+- Manta Ray Void dan Gargoyle tidak disebut khusus pada daftar kemunculan bab 9. Kisah keduanya tetap tidak menambah peran dalam adegan tersebut. Seluruh entitas kategori Thalantira kini ditetapkan sebagai proyeksi Void Uru; istilah habitat pada profilnya menunjukkan lokasi kemunculan, bukan ekologi biologis.
 - Mikrohabitat baru diturunkan dari karang, laut dalam, hutan, padang batu barat, dan lereng gunung yang sudah ada. Tidak ada kota/pelaut menetap atau saksi ekspedisi baru diciptakan. Kuil Api selatan milik masa Hector dibedakan dari Kuil Udara utara.
 - Angka Void Wyrm serta `legacy_values`/`runtime_values` dipertahankan. Label VERIFIED menjadi BLOCKED. Label historis Endgame Final Boss tidak menetapkan urutan akhir cerita; Void tidak didaftarkan sebagai elemen System baru. Ketahanan absolut dan pembekuan permanen belum memiliki spesifikasi gameplay terkalibrasi.
 
@@ -217,7 +223,7 @@ Repositori Nusvanir saat ini terdiri dari dokumentasi lore dan pengaturan sistem
 - `Argentfang` memiliki angka besar dalam catatan lore/legacy, tetapi tidak punya bukti sumber runtime atau hasil playtest.
 - `Thalantira` memiliki entri dengan nilai HP dan variabel yang tidak terukur dari sistem yang sedang dipakai.
 - Terdapat duplikasi nama pada lokasi/region: `Raksamala` dan `Raksmala` (varian nama yang berpotensi menimbulkan kebingungan).
-- Beberapa file seperti `Pulau_Kegelapan_Raksamala.json` dan `Pulau_Kegelapan_Raksmala.json` tampak sebagai duplikasi nama yang sama dengan varian ejaan berbeda.
+- Duplikasi `Pulau_Kegelapan_Raksamala.json` dan `Pulau_Kegelapan_Raksmala.json` telah diselesaikan; ejaan baku yang dipertahankan adalah `Raksamala`.
 
 ### 2.3 Masalah terminologi
 

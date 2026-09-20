@@ -1,12 +1,16 @@
 ---
-title: Ancaman_Raksamala
+title: Threat
+wilayah: "[[Raksamala]]"
 tags:
-  - ancaman
+  - threat
 ---
-# Ancaman Invasi Raksamala
 
-Di [[Raksamala]], tidak ada ancaman internal seperti pengkhianatan politik atau pemberontakan sipil. Seluruh ras (seperti [[Bhuta]], [[Dhemit]], dan [[Jenggala]]) terikat sumpah darah dan sistem kontrak nyawa yang tak dapat dibantah dengan Demon Lord [[Sangrahal]]. Kepatuhan mereka adalah mutlak.
+# Ancaman Raksamala
 
-Ancaman sesungguhnya—bagi Raksamala maupun dunia luar—adalah fenomena krisis kelaparan sihir (Magic Depletion). Sumber daya kekuatan kegelapan perlahan semakin menipis. Untuk mencegah kerajaan hancur, Raksamala membutuhkan sumber daya baru, yakni tumbal jiwa hidup.
+Ancaman utama Raksamala adalah perburuan jiwa yang dilakukan melalui portal-portal gelap. Jenggala dikirim ke daratan utama untuk membantai dan membawa tumbal, sedangkan Bhuta memimpin penyerbuan yang memerlukan kekuatan lebih besar. Manusia, Asrivana, dan ras Nusvanir lainnya sama-sama dipandang sebagai sumber kehidupan bagi Sangrahal.
 
-Secara diam-diam, Sangrahal memerintahkan penciptaan *Rift* (portal dimensional kecil) yang terhubung langsung ke daratan Nusantara (wilayah [[Mandala]] dan Arkananta). Melalui Rift ini, para Jenggala dan Bhuta pemburu dikirim untuk menculik ras manusia, elf, dan penduduk lokal guna dijadikan persembahan energi. Agar tidak mengundang invasi total dari pasukan gabungan Mandala dan [[Avalerion]], kerajaan Raksamala memanipulasi diplomasi bayangan, mengklaim bahwa Rift tersebut hanyalah anomali alam akibat ketidakstabilan sihir Nusvanir, bukan sebuah operasi invasi yang disengaja.
+Raksamala juga mengancam dari dalam batin korbannya. Janji kekuatan, kekayaan, cinta, kemenangan, istirahat, atau pembalasan menarik orang-orang yang bersedia membuka jalan bagi Drahkthar. Para pemuja semacam ini dapat menyediakan tumbal dan portal tanpa perlu serangan terbuka.
+
+Bagi siapa pun yang memasuki pulau, tujuh benteng dosa merupakan pertahanan utama. Masing-masing mengubah kelemahan penyusup menjadi senjata. Bahkan keberhasilan fisik tidak menjamin keselamatan apabila penyusup menerima godaan benteng dan kehilangan kehendaknya sendiri.
+
+Kelemahan terbesar Raksamala juga merupakan bahaya terbesarnya: seluruh keberadaan Drahkthar bergantung kepada Sangrahal. Kematiannya akan memusnahkan tatanan pulau, tetapi usaha membunuhnya mengharuskan penyerang melewati tujuh benteng dan berhadapan langsung dengan sumber kuasa seluruh Raksamala. Pada era Light dan Dark Path, Sangrahal berada di penjara bawah tanah Avalerion; upaya membebaskan atau membunuhnya dapat menentukan nasib semua Drahkthar.

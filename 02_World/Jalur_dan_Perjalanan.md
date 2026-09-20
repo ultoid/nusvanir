@@ -48,7 +48,7 @@ Koordinat memakai bingkai gambar tampil **2048 x 1158**, dengan asal di kiri ata
 | Agnitra (pesisir utara) | 1020 | 790 |
 | Thalantira (titik acuan pulau) | 1800 | 980 |
 
-Nusa Sayendra pada peta terbaru berada di sekitar teluk antara Cakrawala dan Tirta Amarta; posisinya lebih ke barat dibandingkan peta ilustrasi lama. Thalantira juga digambarkan dengan garis pantai. Untuk pengukuran ini, posisi peta terbaru yang digunakan. Letak detail kawasan suci maupun akses masuknya tetap belum ditentukan.
+Nusa Sayendra pada peta terbaru berada di sekitar teluk antara Cakrawala dan Tirta Amarta; posisinya lebih ke barat dibandingkan peta ilustrasi lama. Thalantira juga digambarkan dengan garis pantai. Untuk pengukuran ini, posisi peta terbaru yang digunakan. Bentuk pesisir dan jalur masuk Thalantira dapat berubah dalam pengalaman pelancong karena ilusi Uru, sehingga titik pada tabel hanya menjadi acuan jarak geografis.
 
 ## 3. Jarak dasar antartitik
 
@@ -150,6 +150,8 @@ Contoh Astradipa dan Arkananta memakai satu medan dominan untuk ilustrasi. Bila 
 ## 7. Rangkaruna dan acuan Prologue
 
 **Tujuh hari adalah waktu dasar Aqualis-pesisir Raksamala tanpa hambatan, bukan jadwal penyeberangan yang aman.** Rangkaruna tetap benteng badai Sang Hyang Cahaya, bukan jalur perdagangan. Perjalanan biasa melalui Selat Agnitra dan pesisir Cakrawala; ekspedisi memasuki Rangkaruna mempunyai tujuan dan risiko tersendiri.
+
+Urutan medan pelayaran menuju Raksamala adalah **lautan Nusvanir -> Perairan Dangkal Rangkaruna -> Zona Badai Abadi -> Kuburan Kapal -> Palung Kematian -> pesisir Raksamala**. Kuburan Kapal merupakan bagian berkarang di dalam zona badai. Rute nyata dapat berbelok untuk menghindari karang atau pusaran sehingga jaraknya lebih panjang daripada garis horizontal.
 
 Sebagai rentang skenario yang berhasil: `7 x (1,00-1,15) x (1,50-2,50) + (0-3 hari)` memberi sekitar **11-24 hari** setelah pembulatan. Ini bukan probabilitas selamat atau batas maksimum; kapal dapat tersesat, berbalik, atau tenggelam. Rentang tersebut hanyalah simulasi desain dengan asumsi efek badai dominan sepanjang lintasan, bukan durasi resmi atau hasil pembuktian dari acuan sejarah kapal. Untuk perhitungan rute sebenarnya, penalti badai hanya diterapkan pada segmen yang terkena badai; ruas tenang dihitung terpisah setelah batas dan lintasannya ditetapkan.
 

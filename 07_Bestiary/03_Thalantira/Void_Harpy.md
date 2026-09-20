@@ -6,6 +6,10 @@ tags:
 
 # Void Harpy
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Makhluk burung-manusia yang memanah energi dari balik awan Thalantira. Siluetnya dapat menyerupai sosok yang menggantung di udara sebelum sayap terbuka. Ia memburu ruang terbuka di bawahnya, tempat sasaran harus memperlihatkan gerakan untuk berpindah dari satu perlindungan ke perlindungan lain.

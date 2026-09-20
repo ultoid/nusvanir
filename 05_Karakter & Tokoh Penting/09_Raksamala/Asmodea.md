@@ -1,7 +1,7 @@
 ---
 title: Asmodea
 wilayah: "[[Raksamala]]"
-ras: "[[Dhemit]]"
+ras: "[[Bhuta]]"
 tags:
   - karakter
   - raksamala
@@ -9,12 +9,14 @@ tags:
 
 # Asmodea (Panglima Hasrat)
 
-**Identitas**: Boss Penjaga Fortress of Lust.
-**Visual**: Dhemit Succubus kelas tertinggi. Penampilannya bisa berubah menyerupai orang yang paling dicintai atau paling dihasrati oleh musuhnya.
+**Identitas**: Panglima Bhuta dan penjaga [[Fortress of Lust]].
+**Visual**: Bhuta pengubah rupa. Penampilannya dapat menyerupai orang yang paling dicintai, dirindukan, atau dihasrati oleh sasarannya.
 
 ### Latar Belakang & Lore
-Asmodea adalah penipu ulung. Fortress of Lust yang ia pimpin tidak mematikan secara fisik, melainkan secara psikologis. Ia menciptakan labirin mimpi indah di mana para petualang terjebak dalam hasrat terdalam mereka dan tidak ingin bangun. Tubuh asli petualang di dunia nyata akan perlahan layu dan menjadi hantu pembantu Asmodea. Ia tidak memiliki senjata fisik, namun suaranya dapat mengontrol pikiran yang lemah.
+Asmodea menguasai hasrat dalam segala bentuknya: cinta, kerinduan, kenikmatan, pengakuan, dan keinginan untuk memiliki. Ia menciptakan mimpi yang terasa lebih layak dihuni daripada kenyataan. Korban yang menerimanya akan tetap tersenyum ketika tubuh aslinya layu dan jiwanya dipintal menjadi Dhemit.
+
+Asmodea jarang memaksa. Ia membuat korban merasa memilih sendiri, sebab penyerahan sukarela menghasilkan ikatan yang lebih kuat. Segel Hawa Nafsu berada di balik wajah aslinya dan hanya tampak kepada orang yang menolak seluruh rupa yang ia tawarkan.
 
 ### Relasi Faksi
 - Bawahan **Demon Lord Sangrahal**.
-- Secara rahasia menyusupkan agen bayangannya (Dhemit kelas rendah) ke Penginapan Koin Emas milik **Tuan Midas** di Cakrawala.
+- Memerintah Dhemit yang terlahir dari para korban mimpi di Fortress of Lust.

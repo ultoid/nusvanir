@@ -21,7 +21,7 @@ Pemangsa aktif yang mengikuti pantulan suara dan medan listrik. Ia mengitari kap
 
 ## Habitat
 
-Zona Badai Abadi Rangkaruna, antara permukaan yang disambar petir dan lapisan air tempat gema merambat jauh. Ia naik untuk menyerap energi lalu kembali berburu di bawah gelombang.
+Zona Badai Abadi di selatan dan tenggara Rangkaruna, antara permukaan yang disambar petir dan lapisan air tempat gema merambat jauh. Ia naik untuk menyerap energi lalu kembali berburu di bawah gelombang.
 
 ## Kisah - Tiang yang Menjawab Petir
 

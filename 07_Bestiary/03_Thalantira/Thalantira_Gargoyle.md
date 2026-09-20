@@ -6,13 +6,17 @@ tags:
 
 # Thalantira Gargoyle
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Patung batu bersayap yang dapat meninggalkan tempat bertenggernya dan bergerak sebagai ancaman hidup. Permukaan keras membuat tubuhnya tampak tidak terganggu oleh benturan ringan. Di Thalantira, membedakan hiasan batu dari sesuatu yang sedang mengawasi menjadi sulit ketika sayap terlipat mengikuti bentuk tebing.
 
 ## Bentuk
 
-Tubuhnya tegap dan berat, dengan lengan bercakar, kepala berahang menonjol, serta kaki yang menekuk untuk mencengkeram tepian. Sepasang sayap batu terlipat bertingkat di belakang bahu seperti bidang pahatan. Retakan tipis dan bercak mineral membedakan permukaannya dari makhluk bersisik. Mata terletak dalam cekungan yang hampir selalu gelap. Saat bergerak, debu jatuh dari lipatan sayap, tetapi tubuh tidak pecah mengikuti garis retak yang terlihat. Wujud tersebut tidak memastikan siapa yang memahat atau membangkitkannya.
+Tubuhnya tegap dan berat, dengan lengan bercakar, kepala berahang menonjol, serta kaki yang menekuk untuk mencengkeram tepian. Sepasang sayap batu terlipat bertingkat di belakang bahu seperti bidang pahatan. Retakan tipis dan bercak mineral membedakan permukaannya dari makhluk bersisik. Mata terletak dalam cekungan yang hampir selalu gelap. Saat bergerak, debu jatuh dari lipatan sayap, tetapi tubuh tidak pecah mengikuti garis retak yang terlihat. Bentuk pahatan itu diproyeksikan langsung oleh Uru dan tidak memerlukan pemahat fisik.
 
 ## Tingkah Laku
 

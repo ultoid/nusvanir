@@ -21,7 +21,7 @@ Penyergap yang cenderung diam sampai lambung, jangkar, atau mangsa menyentuh wil
 
 ## Habitat
 
-Gugusan karang dangkal di tepian Rangkaruna, khususnya jalur di luar Aqualis. Pasir dan karang hidup menyamarkan tubuhnya; lokasi itu juga cukup dekat untuk dijangkau perahu pemburu.
+Perairan Dangkal Rangkaruna di bagian utara dan barat laut, khususnya gugusan karang pada jalur di luar Aqualis. Pasir dan karang hidup menyamarkan tubuhnya; lokasi itu juga cukup dekat untuk dijangkau perahu pemburu.
 
 ## Kisah - Buruan Pak Tua Rama
 

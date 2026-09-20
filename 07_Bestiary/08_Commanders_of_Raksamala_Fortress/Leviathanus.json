@@ -40,10 +40,8 @@
       "03_Region/10_Raksamala/Faksi & Institusi/Kerajaan Drakhtar.md",
       "03_Region/10_Raksamala/Threat.md"
     ],
-    "unresolved": [
-      "Profil menggambarkan ular laut bertentakel; dokumen benteng menyebut Bhuta kembar siam. Wujud belum direkonsiliasi. Pencurian stat/skill bukan mekanik yang ditambahkan."
-    ],
-    "category_note": "Seven sapient fortress commanders under Sangrahal; chronology distinguishes pre-destruction fortresses from post-Hector ruins.",
+    "unresolved": [],
+    "category_note": "Wujud kanon Leviathanus adalah Bhuta amfibi menyerupai ular laut bertentakel; konflik dengan deskripsi benteng lama telah diselesaikan.",
     "historical_description": "[COMMANDER] Demon Lord Kecemburuan bertentakel beku penarik nyawa.",
     "approval_record": "07_Bestiary/_audit/raksamala_commanders_lore_approval.json"
   },

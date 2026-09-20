@@ -21,7 +21,7 @@ Parasit berkelompok yang mengikuti getaran serta mineral pada kapal. Ia tidak pe
 
 ## Habitat
 
-Berbagai perairan Rangkaruna, terutama perbatasan badai dan jalur kapal. Sebutan semua perairan pada data lama menunjukkan persebaran luas, bukan kepadatan sama di setiap tempat.
+Terutama batas Perairan Dangkal dan Zona Badai Abadi, tempat mereka mulai mengikuti jalur kapal. Persebarannya luas hingga perairan sekitar Palung Kematian, tetapi kepadatannya tidak sama di setiap kawasan.
 
 ## Kisah - Hisapan Pertama dalam Badai
 

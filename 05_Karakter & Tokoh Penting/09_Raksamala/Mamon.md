@@ -9,12 +9,12 @@ tags:
 
 # Mamon (Panglima Keserakahan)
 
-**Identitas**: Boss Penjaga Fortress of Greed.
+**Identitas**: Panglima Bhuta dan penjaga [[Fortress of Greed]].
 **Visual**: Iblis kurus berlapis koin emas yang tertanam di dagingnya. Tangannya berbentuk cakar pemungut.
 
 ### Latar Belakang & Lore
-Mamon adalah penguasa korupsi materi. Fortress of Greed dipenuhi ilusi harta karun tanpa batas. Setiap koin emas yang diambil petualang dari bentengnya akan menambah beban kutukan pada jiwanya, hingga tubuh mereka hancur. Ia sering berkomunikasi dengan para saudagar korup melalui koin emas yang terkutuk.
+Mamon adalah penguasa korupsi materi dan perjanjian kepemilikan. Setiap harta yang diambil dari bentengnya menambah beban pada jiwa pemiliknya. Ia menawarkan pertukaran yang tampak setara, lalu menagih kebebasan, nama orang terkasih, atau masa hidup sebagai harga sebenarnya. Segel Ketamakan terpasang pada neraca hitam di perbendaharaan terdalam.
 
 ### Relasi Faksi
 - Bawahan **Demon Lord Sangrahal**.
-- Secara tidak sadar (dan tidak langsung) dipuja oleh **Tuan Midas** di Cakrawala.
+- Membisikkan perjanjian kepada saudagar korup melalui koin-koin terkutuk yang lolos ke daratan utama.

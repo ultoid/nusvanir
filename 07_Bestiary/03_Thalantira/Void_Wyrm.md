@@ -6,6 +6,10 @@ tags:
 
 # Void Wyrm
 
+## Hakikat Entitas
+
+Entitas ini bukan spesies biologis asli Thalantira, melainkan proyeksi Void yang diciptakan Uru. Tubuhnya dapat menyentuh materi, melukai, dan membunuh selama dipertahankan oleh kehendak Uru. Sikapnya dapat berubah dari tenang atau membantu menjadi buas ketika Uru menolak seorang tamu. Habitat yang dicatat di bawah menunjukkan tempat Uru biasa memproyeksikan wujud ini, bukan ekologi tetap atau populasi yang berkembang biak secara alami.
+
 ## Deskripsi
 
 Penjaga Kuil Udara di utara Thalantira, seekor wyvern kolosal yang dapat merobek ruang dengan serangannya. Kehadirannya membuat gunung tempat ia muncul tampak terlalu kecil. Di antara tiga penjaga, ia tampil sebagai kakak sulung yang angkuh, lebih cepat menunjukkan kuasa daripada mendengarkan permohonan.
@@ -28,4 +32,4 @@ Hydra dan Behemoth telah menghadang serangan kakaknya demi kedua pengunjung. Hec
 
 Perintah dari kuasa yang dihormatinya menghentikan serangan. Naga turun sebagai ksatria perak, lalu membebaskan kedua adiknya. Namun perdebatan masih berlangsung sebelum emblem akhirnya dilemparkan kepada Cassian. Mereka meninggalkan kawah dengan kunci yang dibutuhkan, mengetahui bahwa perjalanan turun itu diizinkan oleh kepatuhan sang penjaga, bukan oleh belas kasihnya.
 
-> Acuan: [08 Ujian Para Pelindung](../../08_Story/02_Prologue/08_Ujian_Para_Pelindung.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md); [Uru](../../05_Karakter%20%26%20Tokoh%20Penting/11_Entitas_Purba/Uru.md); [03 Penjaga Kuil Api Neraka](../../08_Story/03_The_Untold_Story/03_Penjaga_Kuil_Api_Neraka.md); [Gunung Ungu](../../03_Region/11_Thalantira/Cities%20%26%20Town/Gunung%20Ungu.md).
+> Acuan: [08 Ujian Para Pelindung](../../08_Story/02_Prologue/08_Ujian_Para_Pelindung.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md); [Uru](../../05_Karakter%20%26%20Tokoh%20Penting/11_Entitas_Purba/Uru.md); [03 Penjaga Kuil Api Neraka](../../08_Story/03_The_Untold_Story/03_Penjaga_Kuil_Api_Neraka.md); [Kuil Udara Gunung Ungu](../../03_Region/11_Thalantira/Cities%20%26%20Town/Kuil%20Udara%20Gunung%20Ungu.md).

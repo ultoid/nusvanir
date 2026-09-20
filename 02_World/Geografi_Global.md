@@ -26,9 +26,9 @@ Agnitra, Nusa Sayendra, dan Raksamala digambarkan sebagai pulau yang terpisah da
 | [Cakrawala](../03_Region/06_Cakrawala/Cakrawala.md) | Cakrawala merupakan permukiman padang pasir yang tumbuh mengelilingi oasis misterius di pesisir bagian tengah-timur daratan utama. Wilayah ini berada di timur Mandala dan selatan hingga tenggara Astradipa serta menghadap teluk yang membuka ke Laut Rangkaruna. Agnitra berada di lepas pantai selatannya; Tirta Amarta dan Nusa Sayendra berada di arah timur laut. |
 | [Nusa Sayendra](../03_Region/07_Nusa%20Sayendra/Nusa_Sayendra.md) | Nusa Sayendra merupakan pulau suci di sebelah barat Tirta Amarta, berada di kawasan teluk antara Tirta Amarta dan Cakrawala. Pulau ini berada di utara Raksamala dan terpisah dari daratan utama oleh perairan. |
 | [Tirta Amarta](../03_Region/08_Tirta%20Amarta/Tirta_Amarta.md) | Tirta Amarta adalah kawasan suci di ujung timur laut daratan utama, pada sisi timur Pegunungan Arkananta. Wilayahnya dipenuhi reruntuhan candi dan kuil yang ditumbuhi tanaman, serta dialiri sungai suci dari Arkananta. Astradipa berada di barat daya, sedangkan Nusa Sayendra berada di sebelah baratnya. |
-| [Laut Rangkaruna](../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md) | Laut Rangkaruna membentang di selatan dan tenggara daratan utama. Pada peta, namanya ditempatkan di perairan antara kawasan Cakrawala-Agnitra dan Pulau Raksamala. Laut ini memisahkan Raksamala dari daratan utama dan bukan merupakan jalur perdagangan. Batas penamaan laut di pesisir barat dan utara tidak ditunjukkan secara tegas. |
+| [Laut Rangkaruna](../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md) | Laut Rangkaruna membentang di selatan dan tenggara daratan utama sebagai benteng menuju Pulau Raksamala. Dari utara dan barat laut, perairannya berurutan menjadi Perairan Dangkal, Zona Badai Abadi beserta Kuburan Kapal, lalu Palung Kematian menuju Raksamala. Laut ini bukan jalur perdagangan. |
 | [Raksamala](../03_Region/10_Raksamala/Raksamala.md) | Raksamala merupakan pulau terpisah di tenggara Nusvanir, di seberang Laut Rangkaruna dari daratan utama. Pulau ini berada di tenggara Cakrawala dan Agnitra, serta di selatan hingga barat daya Nusa Sayendra. Peta menampilkannya sebagai daratan gelap dengan pepohonan mati dan retakan berpijar; penanda Thalantira berada lebih jauh di tenggaranya. |
-| [Thalantira](../03_Region/11_Thalantira/Thalantira.md) | Penanda Thalantira berada di sudut tenggara peta, di tenggara Pulau Raksamala. Kawasannya diselimuti kabut dan diberi label "Mysterious Island (Thalantira)". Garis pantai serta bentuk pulau tidak diperlihatkan dengan jelas, sehingga penanda ini menjadi acuan arah, bukan ukuran atau bentuk pasti daratannya. |
+| [Thalantira](../03_Region/11_Thalantira/Thalantira.md) | Penanda Thalantira berada di sudut tenggara peta, di tenggara Pulau Raksamala. Kawasannya diselimuti kabut dan diberi label "Mysterious Island (Thalantira)". Garis pantai, bentuk pulau, serta jalur di dalamnya tidak dapat dipastikan karena selubung ilusi Uru mengubah pengalaman setiap tamu. |
 
 ## Selat Agnitra dan Laut Rangkaruna
 
@@ -38,10 +38,12 @@ Laut Rangkaruna merupakan benteng pemisah antara Pulau Raksamala dan dataran uta
 
 Harta karun, makhluk-makhluk unik bernilai tinggi, dan mineral mahal menarik banyak pelaut untuk mengadakan ekspedisi ke Rangkaruna. Mereka mempertaruhkan keselamatan demi memperoleh kekayaan tersebut. Nilai ekonomi Rangkaruna berasal dari hasil ekspedisi, bukan arus pelayaran dagang rutin.
 
+Urutan perjalanan dari lautan Nusvanir menuju Raksamala adalah Perairan Dangkal Rangkaruna, Zona Badai Abadi, kawasan karang Kuburan Kapal, dan Palung Kematian. Kuburan Kapal merupakan bagian berkarang dari zona badai, sedangkan Palung Kematian berada lebih dekat ke Raksamala.
+
 ## Batas pembacaan peta
 
 - Raksamala memakai sebutan **pulau**, sesuai bentuk daratan terpisah pada peta dan nama profil wilayahnya.
 - Ikon kapal dan garis putus-putus merupakan ilustrasi pelayaran. Lore menetapkan rute biasa melalui Selat Agnitra dan pesisir Cakrawala; peta belum menentukan batas jalur, tingkat keamanan, atau lama perjalanan.
 - Peta tidak menetapkan batas politik yang terukur maupun posisi kota-kota kecil, gua, benteng, dan kuil individual dalam catatan wilayah.
-- Batas penamaan Laut Rangkaruna di sisi barat dan utara daratan utama belum ditunjukkan tegas.
+- Garis batas tepat antara lautan Nusvanir dan Perairan Dangkal Rangkaruna belum diberi koordinat.
 - Gunung dan air terjun pada peta menunjukkan kenampakan umum; elevasi, aliran sungai lengkap, dan mekanisme perairan bertingkat Tirta Amarta masih perlu dikembangkan.

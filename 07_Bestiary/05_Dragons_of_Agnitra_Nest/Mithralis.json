@@ -1,6 +1,6 @@
 {
   "description": "Naga penguasa badai api dari udara.",
-  "id": "Silverwing",
+  "id": "Mithralis",
   "mp": 550000,
   "weakness": "Air & Tanah",
   "category": "Bestiary Boss",
@@ -9,15 +9,15 @@
   "race": "Nagarasven",
   "location": "Langit Kawah Mahasvara",
   "hp": 780000,
-  "title": "Silverwing",
+  "title": "Mithralis",
   "attack_type": "Ranged / Aerial",
   "stat_status": "BLOCKED",
   "balance_status": "BLOCKED",
   "source_status": "legacy_with_runtime_observation",
   "presentation": {
     "markdown_role": "lore_only",
-    "lore_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Silverwing.md",
-    "game_data_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Silverwing.json",
+    "lore_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Mithralis.md",
+    "game_data_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Mithralis.json",
     "narrative_status": "APPROVED",
     "approval": {
       "status": "APPROVED",
@@ -26,7 +26,7 @@
       "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
       "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi nest, serta kisah empat naga Agnitra.",
       "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
-      "source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Silverwing.md"
+      "source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Mithralis.md"
     },
     "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi nest, serta kisah empat naga Agnitra.",
     "sync_policy": "Author lore in Markdown; game data stays in JSON."
@@ -37,7 +37,7 @@
       "03_Region/04_Agnitra/Cities & Town/Mithril Nest.md",
       "03_Region/04_Agnitra/Agnitra.md",
       "04_Ras/02_Wuru Loka/Nagarasven_(Naga).md",
-      "03_Region/04_Agnitra/Cities & Town/Pyrowisp Caldera.md",
+      "03_Region/04_Agnitra/Cities & Town/Balairung Kaldera Mahasvara.md",
       "03_Region/04_Agnitra/Cities & Town/Silver Nest.md",
       "03_Region/04_Agnitra/Faksi & Institusi/Dewan Keseimbangan Agnitra.md"
     ],
@@ -45,7 +45,7 @@
       "Identitas nest/material kini diselaraskan atas arahan pemilik. Field location, description, element, serta runtime lama tetap diarsipkan; bukan sumber lokasi naratif terkini.",
       "Sifat material naratif belum dikalibrasi menjadi immunity, state, drop rate, recipe, atau angka game. Rincian visual, kepribadian, dan kisah telah disetujui pemilik."
     ],
-    "category_note": "Blackhorn–Adamantine, Goldenscale–Orichalcum, Moonfang–Silver, Silverwing–Mithril; penjaga berakal, bukan Feral.",
+    "category_note": "Blackhorn–Adamantite, Orichalor–Orichalcum, Argentfang–Silver, Mithralis–Mithril; penjaga berakal, bukan Feral.",
     "historical_description": "Naga penguasa badai api dari udara.",
     "approval_record": "07_Bestiary/_audit/agnitra_lore_approval.json"
   },
@@ -155,8 +155,8 @@
         }
       ],
       "gold": 1050,
-      "name": "Silverwing",
-      "note": "<NUSV Bestiary Group: Dragons Agnitra>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Dragon>\n<NUSV Archetype: Sniper>\n<NUSV Tier: T7>\n<NUSV Region: Agnitra Nest>\n<NUSV Element: Wind/Light>\n<NUSV Weakness: Earth>\n<NUSV Combat Tags: Flying, Large, Draconic>\n<NUSV Attack Type: Ranged>\n[PENDING ATTACK ELEMENT] Wind/Light\n[ACTION CONDITION NOTE] Gale Wing: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Silverwing Visor @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Silverwing Mantle @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Silverwing Boots @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Astral Crystal: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "name": "Mithralis",
+      "note": "<NUSV Bestiary Group: Dragons Agnitra>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Dragon>\n<NUSV Archetype: Sniper>\n<NUSV Tier: T7>\n<NUSV Region: Agnitra Nest>\n<NUSV Element: Wind/Light>\n<NUSV Weakness: Earth>\n<NUSV Combat Tags: Flying, Large, Draconic>\n<NUSV Attack Type: Ranged>\n[PENDING ATTACK ELEMENT] Wind/Light\n[ACTION CONDITION NOTE] Gale Wing: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Mithralis Visor @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Mithralis Mantle @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Mithralis Boots @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Astral Crystal: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
       "params": [
         10170,
         188,
@@ -179,7 +179,7 @@
           "type": 1,
           "variance": 20
         },
-        "description": "Enemy skill used by Silverwing.",
+        "description": "Enemy skill used by Mithralis.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 0,
@@ -209,7 +209,7 @@
           "type": 1,
           "variance": 20
         },
-        "description": "Enemy skill used by Silverwing.",
+        "description": "Enemy skill used by Mithralis.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 0,
@@ -239,7 +239,7 @@
           "type": 0,
           "variance": 0
         },
-        "description": "Enemy skill used by Silverwing.",
+        "description": "Enemy skill used by Mithralis.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,

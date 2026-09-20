@@ -22,3 +22,11 @@ Ia menciptakan *Rift* portal untuk menyedot jutaan jiwa makhluk hidup dari [[Man
 - Dalang di balik kebuntuan militer dengan **Ksatria Agung Galathius**.
 - Entitas yang paling ingin dicegah kebangkitan totalnya oleh **Biksu Pencerahan**.
 
+## Keadaan pada era Light dan Dark Path
+
+Setelah masa Prologue, Sangrahal kehilangan akal sehat dan akhirnya ditahan di penjara suci bawah tanah Avalerion. Pada era Light dan Dark Path, seorang Lumina tersembunyi menjaganya tanpa sepengetahuan masyarakat Avalerion.
+
+Kepala Sangrahal menjadi incaran banyak pemburu dan *bounty hunter*. Upaya mereka mencapai tahanan tersebut menjadi ancaman bagi keamanan Avalerion dan segel penjara. Dalam Dark Path, Damian berusaha membebaskannya.
+
+Waktu, pelaku, dan cara penangkapannya belum ditetapkan.
+

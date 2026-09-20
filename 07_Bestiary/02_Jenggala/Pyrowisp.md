@@ -20,7 +20,7 @@ Agresif dan berbahaya untuk didekati. Ia dapat melayang menghadapi gangguan, men
 
 ## Habitat
 
-Rawa Kering adalah lokasi lama yang belum terpetakan. Cekungan rawa yang mengering di pinggiran hutan Mandala menjadi habitatnya. Kesamaan nama dengan Pyrowisp Caldera tidak membuktikan bahwa makhluk ini berasal dari ibu kota Nagarasven di Agnitra.
+Rawa Kering adalah lokasi lama yang belum terpetakan. Cekungan rawa yang mengering di pinggiran hutan Mandala menjadi habitatnya. Kesamaan nama dengan Balairung Kaldera Mahasvara tidak membuktikan bahwa makhluk ini berasal dari ibu kota Nagarasven di Agnitra.
 
 ## Kisah — Api yang Menunggu
 
@@ -28,4 +28,4 @@ Dua pengelana menyangka cahaya di cekungan kering sebagai api unggun rombongan l
 
 Mereka baru berbalik ketika cahaya membesar dan lontaran api menyambar tanah tempat mereka semula berdiri. Dari lereng yang lebih tinggi, keduanya menyaksikan bara berputar di atas cekungan. Malam itu mereka memilih gelap yang mereka kenal daripada cahaya yang tidak mempunyai penjaga.
 
-> Acuan: [Mandala](../../03_Region/01_Mandala%20Kingdom/Mandala.md); [Pyrowisp Caldera](../../03_Region/04_Agnitra/Cities%20%26%20Town/Pyrowisp%20Caldera.md).
+> Acuan: [Mandala](../../03_Region/01_Mandala%20Kingdom/Mandala.md); [Balairung Kaldera Mahasvara](../../03_Region/04_Agnitra/Cities%20%26%20Town/Balairung%20Kaldera%20Mahasvara.md).

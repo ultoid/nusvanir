@@ -30,6 +30,10 @@ Pelayaran biasa melewati Selat Agnitra dan menyusuri pesisir Cakrawala. Jalur in
 
 [Arkananta](../03_Region/05_Arkananta/Arkananta.md) membentang di utara daratan utama; cabangnya membatasi Astradipa dari kawasan Mandala dan Avalerion. Pegunungan ini merupakan pembatas alami dengan permukiman yang terisolasi. Hubungan dagang dan jalur lintas pegunungannya masih perlu dikembangkan.
 
+## Hubungan pertahanan Mandala dan Agnitra
+
+Nagarasven menjalin hubungan diplomasi dengan Kerajaan Mandala dan dapat memberikan bala bantuan untuk menghadapi serangan Jenggala dari Pulau Raksamala. Kerja sama tersebut tidak memberi warga Mandala kebebasan menambang di Agnitra. Penambangan tanpa izin serta perburuan Nagarasven tetap dianggap ancaman berat oleh empat klan naga.
+
 ## Kerangka pengembangan hubungan
 
 Untuk setiap hubungan dua wilayah, catat kebutuhan masing-masing, barang atau pengetahuan yang dipertukarkan, rute perjalanan, pihak yang mengendalikan akses, dan sumber konflik. Perjanjian, aliansi, serta ketergantungan baru perlu ditetapkan secara eksplisit sebelum diperlakukan sebagai fakta dunia.

@@ -1,6 +1,6 @@
 {
   "description": "Naga keemasan penembak laser suci bersuhu matahari.",
-  "id": "Goldenscale",
+  "id": "Orichalor",
   "mp": 167,
   "weakness": "Dark",
   "category": "Bestiary Boss",
@@ -9,7 +9,7 @@
   "race": "Nagarasven",
   "location": "Agnitra Nest",
   "hp": 14125,
-  "title": "Goldenscale",
+  "title": "Orichalor",
   "attack_type": "Melee",
   "rank": "Boss",
   "tier": "T7",
@@ -35,8 +35,8 @@
   },
   "presentation": {
     "markdown_role": "lore_only",
-    "lore_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Goldenscale.md",
-    "game_data_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Goldenscale.json",
+    "lore_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Orichalor.md",
+    "game_data_source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Orichalor.json",
     "narrative_status": "APPROVED",
     "approval": {
       "status": "APPROVED",
@@ -45,7 +45,7 @@
       "request": "cek ulang semua yang ada di 07_Bestiary, aku menyetujui semua usulanmu",
       "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi nest, serta kisah empat naga Agnitra.",
       "exclusions": "Kalibrasi game serta pertanyaan canon, taksonomi, dan mekanika yang belum pernah dijawab tetap terpisah.",
-      "source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Goldenscale.md"
+      "source": "07_Bestiary/05_Dragons_of_Agnitra_Nest/Orichalor.md"
     },
     "scope": "Seluruh deskripsi, bentuk, kepribadian dan sikap, lokasi nest, serta kisah empat naga Agnitra.",
     "sync_policy": "Author lore in Markdown; game data stays in JSON."
@@ -62,7 +62,7 @@
       "Identitas nest/material kini diselaraskan atas arahan pemilik. Field location, description, element, serta runtime lama tetap diarsipkan; bukan sumber lokasi naratif terkini.",
       "Sifat material naratif belum dikalibrasi menjadi immunity, state, drop rate, recipe, atau angka game. Rincian visual, kepribadian, dan kisah telah disetujui pemilik."
     ],
-    "category_note": "Blackhorn–Adamantine, Goldenscale–Orichalcum, Moonfang–Silver, Silverwing–Mithril; penjaga berakal, bukan Feral.",
+    "category_note": "Blackhorn–Adamantite, Orichalor–Orichalcum, Argentfang–Silver, Mithralis–Mithril; penjaga berakal, bukan Feral.",
     "historical_description": "Naga keemasan penembak laser suci bersuhu matahari.",
     "approval_record": "07_Bestiary/_audit/agnitra_lore_approval.json"
   },
@@ -177,8 +177,8 @@
         }
       ],
       "gold": 1050,
-      "name": "Goldenscale",
-      "note": "<NUSV Bestiary Group: Dragons Agnitra>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Dragon>\n<NUSV Archetype: Tank>\n<NUSV Tier: T7>\n<NUSV Region: Agnitra Nest>\n<NUSV Element: Light/Fire>\n<NUSV Weakness: Dark>\n<NUSV Combat Tags: Flying, Large, Draconic, Armored>\n<NUSV Attack Type: Melee>\n[PENDING ATTACK ELEMENT] Light/Fire\n[ACTION CONDITION NOTE] Solar Scale Guard: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Goldenscale Crown @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Goldenscale Aegisplate @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Goldenscale Greaves @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Astral Crystal: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
+      "name": "Orichalor",
+      "note": "<NUSV Bestiary Group: Dragons Agnitra>\n<NUSV Enemy Rank: Boss>\n<NUSV Enemy Type: Dragon>\n<NUSV Archetype: Tank>\n<NUSV Tier: T7>\n<NUSV Region: Agnitra Nest>\n<NUSV Element: Light/Fire>\n<NUSV Weakness: Dark>\n<NUSV Combat Tags: Flying, Large, Draconic, Armored>\n<NUSV Attack Type: Melee>\n[PENDING ATTACK ELEMENT] Light/Fire\n[ACTION CONDITION NOTE] Solar Scale Guard: Native turn condition mapped; 50% random chance requires AI/custom handling.\n[EXTRA DROP - CUSTOM] Orichalor Crown @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Orichalor Aegisplate @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[EXTRA DROP - CUSTOM] Orichalor Greaves @ 5% (Boss/Unique Drop); RPG Maker MV native enemy data has only 3 drop slots.\n[DROP RATE APPROX] Astral Crystal: source 15% -> MV 1/7 = 14.29%\n[IMPLEMENTATION] Native MV + YEP/custom as needed",
       "params": [
         14125,
         167,
@@ -201,7 +201,7 @@
           "type": 1,
           "variance": 20
         },
-        "description": "Enemy skill used by Goldenscale.",
+        "description": "Enemy skill used by Orichalor.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 0,
@@ -231,7 +231,7 @@
           "type": 0,
           "variance": 0
         },
-        "description": "Enemy skill used by Goldenscale.",
+        "description": "Enemy skill used by Orichalor.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -261,7 +261,7 @@
           "type": 1,
           "variance": 20
         },
-        "description": "Enemy skill used by Goldenscale.",
+        "description": "Enemy skill used by Orichalor.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 0,

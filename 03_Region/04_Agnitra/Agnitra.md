@@ -5,7 +5,24 @@ tags:
 ---
 # Pulau Naga Agnitra
 
-Agnitra, dikenal sebagai Pulau Para Naga, adalah wilayah yang penuh kekuatan dan keagungan yang tidak tertandingi. Pulau ini menjadi tempat tinggal eksklusif bagi Nagarasven, bangsa naga yang memiliki hubungan erat dengan elemen api dan magma. Dengan sebuah gunung api besar bernama Gunung Mahasvara sebagai pusat pulau.
+Agnitra adalah pulau tempat hidup bangsa Nagarasven. Satu gunung berapi raksasa bernama **Mahasvara** berdiri di tengah pulau dan menjadi pusat alam sekaligus pusat peradaban mereka.
+
+Nagarasven hidup dalam wujud naga bersayap. Perjalanan antarkawasan dilakukan dengan terbang; pulau ini tidak dibangun mengikuti kebutuhan jalan darat manusia. Rumah-rumah mereka berupa gua pada lereng Mahasvara dan tebing-tebing terjal di seluruh pulau.
+
+## Struktur peradaban Mahasvara
+
+**Balairung Kaldera Mahasvara** berada di dalam kawah. Di sana Ignatius Naga Agung bersarang dan naga-naga terkuat berkumpul untuk menjaga kedamaian serta mengatur Agnitra.
+
+**Sabuk Sarang Mahasvara** meliputi lereng gunung dan kawasan hunian naga di seluruh pulau. Gua-gua kediaman tersebar pada tebing yang hanya mudah dicapai melalui penerbangan. Empat nest mineral berada dalam bentang peradaban ini:
+
+| Nest | Kekayaan utama | Pemimpin penjaga |
+|---|---|---|
+| Adamantite Nest | Adamantite | Blackhorn |
+| Mithril Nest | Mithril | Mithralis |
+| Orichalcum Nest | Orichalcum | Orichalor |
+| Silver Nest | Silver | Argentfang |
+
+Keempat nest berbentuk jaringan gua berliku seperti dungeon. Kandungan mineralnya dilindungi ketat oleh klan penjaga, dan bentuk lorongnya menyulitkan siapa pun yang mencoba mengeksplorasi tanpa izin.
 
 ## Letak dan kenampakan pada peta
 
@@ -16,6 +33,10 @@ Acuan: [Peta Dunia Nusvanir](../../09_Maps/Nusvanir%20World%20Map.png), dibaca d
 ## Perairan sekitar
 
 Selat Agnitra dilalui rute pelayaran biasa yang juga melewati pesisir Cakrawala. Rute perdagangan ini dibedakan dari ekspedisi ke Laut Rangkaruna yang dikuasai badai abadi.
+
+## Diplomasi dan pertahanan
+
+Nagarasven menjalin hubungan diplomasi dengan Kerajaan Mandala. Agnitra dapat memberikan bala bantuan untuk melawan serangan Jenggala dari Pulau Raksamala. Hubungan ini hidup berdampingan dengan sikap ketat bangsa naga terhadap penambang liar dan pemburu naga yang mencoba mengeksploitasi Agnitra.
 
 ## Detail wilayah
 
@@ -28,16 +49,17 @@ Selat Agnitra dilalui rute pelayaran biasa yang juga melewati pesisir Cakrawala.
 
 ### Cities & Town
 
-- [Adamantine Nest](Cities%20%26%20Town/Adamantine%20Nest.md)
+- [Adamantite Nest](Cities%20%26%20Town/Adamantite%20Nest.md)
 - [Mithril Nest](Cities%20%26%20Town/Mithril%20Nest.md)
 - [Orichalcum Nest](Cities%20%26%20Town/Orichalcum%20Nest.md)
-- [Pyrowisp Caldera](Cities%20%26%20Town/Pyrowisp%20Caldera.md)
+- [Balairung Kaldera Mahasvara](Cities%20%26%20Town/Balairung%20Kaldera%20Mahasvara.md)
+- [Sabuk Sarang Mahasvara](Cities%20%26%20Town/Sabuk%20Sarang%20Mahasvara.md)
 - [Silver Nest](Cities%20%26%20Town/Silver%20Nest.md)
 
 ### Faksi & Institusi
 
 - [Dewan Keseimbangan Agnitra](Faksi%20%26%20Institusi/Dewan%20Keseimbangan%20Agnitra.md)
-- [Klan Adamantine](Faksi%20%26%20Institusi/Klan%20Adamantine.md)
+- [Klan Adamantite](Faksi%20%26%20Institusi/Klan%20Adamantite.md)
 - [Klan Mithril](Faksi%20%26%20Institusi/Klan%20Mithril.md)
 - [Klan Orichalcum](Faksi%20%26%20Institusi/Klan%20Orichalcum.md)
 - [Klan Silver](Faksi%20%26%20Institusi/Klan%20Silver.md)

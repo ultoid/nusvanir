@@ -53,16 +53,16 @@
   "lore_review": {
     "source_archive": "07_Bestiary/_audit/pre_agnitra_narrative.json",
     "sources": [
-      "03_Region/04_Agnitra/Cities & Town/Adamantine Nest.md",
+      "03_Region/04_Agnitra/Cities & Town/Adamantite Nest.md",
       "03_Region/04_Agnitra/Agnitra.md",
       "04_Ras/02_Wuru Loka/Nagarasven_(Naga).md",
-      "03_Region/04_Agnitra/Cities & Town/Pyrowisp Caldera.md"
+      "03_Region/04_Agnitra/Cities & Town/Balairung Kaldera Mahasvara.md"
     ],
     "unresolved": [
       "Identitas nest/material kini diselaraskan atas arahan pemilik. Field location, description, element, serta runtime lama tetap diarsipkan; bukan sumber lokasi naratif terkini.",
       "Sifat material naratif belum dikalibrasi menjadi immunity, state, drop rate, recipe, atau angka game. Rincian visual, kepribadian, dan kisah telah disetujui pemilik."
     ],
-    "category_note": "Blackhorn–Adamantine, Goldenscale–Orichalcum, Moonfang–Silver, Silverwing–Mithril; penjaga berakal, bukan Feral.",
+    "category_note": "Blackhorn–Adamantite, Orichalor–Orichalcum, Argentfang–Silver, Mithralis–Mithril; penjaga berakal, bukan Feral.",
     "historical_description": "Naga lapis baja hitam dengan semburan magma murni.",
     "approval_record": "07_Bestiary/_audit/agnitra_lore_approval.json"
   },
@@ -404,8 +404,8 @@
     ]
   },
   "lore_identity": {
-    "nest": "Adamantine Nest",
-    "signature_material": "Adamantine",
+    "nest": "Adamantite Nest",
+    "signature_material": "Adamantite",
     "nest_location": "dasar lereng barat Gunung Mahasvara",
     "role": "Penjaga nest",
     "basis": "Penyesuaian identitas material tiap nest atas arahan pemilik; rincian narasi tetap usulan.",

@@ -31,6 +31,6 @@ Banyak Avesari transcendence memilih bertapa di Tirta Amarta agar lebih dekat de
 
 Di bawah tanah Avalerion terdapat Lumina lain yang tersembunyi, bertugas menjaga penjara suci dan Sangrahal. Keberadaannya tidak diketahui siapa pun, termasuk bangsa Avesari; karena itu ia tidak termasuk tiga penasihat yang dikenal di Holy City. Namanya belum ditentukan.
 
-Dalam kisah Dark Path, Lumina penjaga ini bertarung dengan Damian yang berusaha membebaskan Sangrahal. Sang peneliti kodex berhasil menghimpun rahasia ini melalui sumber tersembunyi; bentuk buku, artefak, atau rekaman yang menjadi sumbernya belum ditentukan. Informasi ini bukan pengetahuan umum warga atau para penasihat.
+Pada era Light dan Dark Path, Sangrahal telah kehilangan akal sehat dan ditahan di penjara tersebut. Banyak pemburu serta *bounty hunter* mengincar kepalanya. Dalam kisah Dark Path, Lumina penjaga bertarung dengan Damian yang berusaha membebaskan Sangrahal. Sang peneliti kodex berhasil menghimpun rahasia ini melalui sumber tersembunyi; bentuk buku, artefak, atau rekaman yang menjadi sumbernya belum ditentukan. Informasi ini bukan pengetahuan umum warga atau para penasihat.
 
-Waktu dan proses penahanan Sangrahal belum ditentukan. Pada Prologue ia masih tampil di singgasana Raksamala; hubungan kronologis antara peristiwa itu dan penjara bawah tanah perlu ditetapkan saat pengembangan Dark Path.
+Pada Prologue Sangrahal masih tampil di singgasana Raksamala. Penangkapannya terjadi setelah masa tersebut dan sebelum atau pada awal era Light–Dark Path. Waktu, pelaku, dan proses penahanannya belum ditentukan.

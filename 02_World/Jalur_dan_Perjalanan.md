@@ -203,3 +203,9 @@ Tetapkan titik kota dan gerbang, gambar ruas perjalanan yang benar-benar dapat d
 ## Orientasi Avalerion dari Mandala
 
 Avalerion berada di barat laut Mandala, bersebelahan dengan Valkindra. Hubungan diplomasi dan pelatihan militer berlangsung melalui Outpost Bumi di selatan Avalerion, di bawah komando Ksatria Terra. Orientasi outpost lain: Agni di utara ke Arkananta, Bayu di timur ke Astradipa, dan Tirta di barat ke perairan barat Nusvanir. Arah hadap tidak otomatis berarti tersedia jalan langsung menembus medan tersebut. Jarak dan waktu antarpos belum ditentukan.
+
+## Perjalanan di Agnitra
+
+Agnitra merupakan peradaban naga bersayap. Perjalanan normal bangsa Nagarasven dilakukan dengan terbang antara gua-gua Sabuk Sarang Mahasvara, empat nest mineral, dan Balairung Kaldera di dalam kawah. Tidak terdapat jaringan jalan darat yang menghubungkan seluruh permukiman seperti di Mandala.
+
+Perjalanan di pulau harus memperhitungkan jarak horizontal, perubahan ketinggian, arus panas, abu vulkanik, serta izin melintasi wilayah klan. Ras yang tidak dapat terbang memerlukan pemandu, pengangkutan udara, atau jalur khusus. Karena rute penerbangan dan elevasi belum dipetakan, waktu perjalanan antarnest belum ditetapkan.

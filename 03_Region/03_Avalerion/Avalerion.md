@@ -49,3 +49,7 @@ Holy City menjadi pusat peradaban, markas Pawiyatan Prabha Suci, dan markas Seno
 ## Lingkar benteng dan outpost
 
 Benteng fisik melingkari Avalerion dan diselubungi pelindung sihir. Agni berada di utara menghadap Arkananta (Solarius); Bayu di timur menghadap Astradipa (Vayu); Bumi di selatan berhadapan dengan Valkindra di Mandala (Terra); Tirta di barat menghadap perairan barat Nusvanir (Aqua).
+
+## Perubahan ancaman menurut era
+
+Musuh utama Avalerion pada masa sebelum Light dan Dark Path adalah bangsa Drahkthar serta kekuatan Pulau Raksamala. Pada era Light dan Dark Path, Void dan Uru menjadi ancaman baru. Pada era tersebut Sangrahal yang telah kehilangan akal sehat ditahan secara rahasia di bawah Avalerion dan menjadi incaran pemburu hadiah. Rinciannya terdapat pada [ancaman Avalerion](Threat.md).

@@ -8,6 +8,8 @@ tags:
 
 Ras reptil purba raksasa dengan akal budi tinggi yang menguasai ekosistem vulkanik di [[Agnitra]].
 
+Nagarasven berbentuk naga bersayap. Di Agnitra mereka melakukan perjalanan dengan terbang dan membangun tempat tinggal berupa gua-gua pada lereng terjal Gunung Mahasvara. Bentuk peradaban mereka mengikuti kemampuan terbang, bukan jaringan jalan ras darat.
+
 Nagarasven adalah makhluk kuno yang sangat dihormati. Namun, ancaman terbesar ras ini adalah ketika naga-naga tertentu kehilangan akal budi dan menyerah pada insting buas, berubah menjadi Naga Liar (*Feral Dragons*).
 
 ### Umur dan Keabadian Sang Penjaga

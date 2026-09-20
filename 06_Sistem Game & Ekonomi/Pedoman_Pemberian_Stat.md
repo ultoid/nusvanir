@@ -433,7 +433,7 @@ Hitung tiap phase secara terpisah, lalu uji encounter utuh. Jika phase memakai H
 - Tetapkan jumlah pemain/party dan aturan scaling lebih dulu.
 - Bedakan scaling stat, scaling jumlah aksi, dan scaling mekanik.
 - Jangan mengambil angka Thalantira lama sebagai baseline hanya karena nilainya besar.
-- Nilai seperti HP `720000` pada Moonfang atau lonjakan HP makhluk Thalantira adalah **legacy candidate** sampai dapat dibuktikan oleh progression dan damage party aktual.
+- Nilai seperti HP `720000` pada Argentfang atau lonjakan HP makhluk Thalantira adalah **legacy candidate** sampai dapat dibuktikan oleh progression dan damage party aktual.
 
 ---
 
@@ -588,7 +588,7 @@ Temuan yang harus diperlakukan sebagai batasan, bukan diisi dengan asumsi:
 1. `Mekanik_Class_Job.md` sudah menetapkan jalur dan Tier class, tetapi belum menyediakan growth curve parameter.
 2. `Mekanik_Efektivitas_Elemen.md` sudah menetapkan multiplier matchup; aturan ini dapat digunakan setelah elemen target jelas.
 3. Entri Alam Liar seperti Babi Hutan dan Beruang Madu Raksasa baru memiliki HP/MP, elemen, kelemahan, attack type, dan deskripsi singkat.
-4. Entri boss seperti Moonfang memiliki HP/MP besar dan class, tetapi belum menunjukkan dasar perhitungan terhadap party, equipment, formula skill, phase, atau target durasi.
+4. Entri boss seperti Argentfang memiliki HP/MP besar dan class, tetapi belum menunjukkan dasar perhitungan terhadap party, equipment, formula skill, phase, atau target durasi.
 5. Database runtime RPG Maker MV dan spreadsheet sistem terbaru belum berada di repository lore yang diaudit.
 
 Akibatnya:

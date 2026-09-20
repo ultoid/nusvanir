@@ -60,7 +60,7 @@ Examples include:
 
 - Babi Hutan HP 150;
 - Beruang Madu Raksasa HP 850;
-- Moonfang HP 720000 / MP 450000;
+- Argentfang HP 720000 / MP 450000;
 - large HP values assigned to Thalantira creatures;
 - old class or Tier labels attached to bosses.
 

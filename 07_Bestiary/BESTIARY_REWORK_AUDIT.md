@@ -49,17 +49,17 @@ Narasi baru masih usulan. Tidak ada perubahan stat numerik, kelas legacy, runtim
 
 ## Penguatan material nest Agnitra ? 2026-09-17
 
-Atas arahan pemilik, setiap naga kini mewakili satu nest/material: Blackhorn?Adamantine (zirah dan peredaman sihir, barat), Goldenscale?Orichalcum (konduktivitas sihir, selatan kawah), Moonfang?Silver (dingin dan pemurnian, utara), Silverwing?Mithril (ringan dan kuat, timur). Bentuk, kepribadian, ujian, lokasi, serta kisah diselaraskan. Moonfang menjadi penjaga pemurnian, bukan pembunuh yang menguji dengan kematian.
+Atas arahan pemilik, setiap naga kini mewakili satu nest/material: Blackhorn?Adamantine (zirah dan peredaman sihir, barat), Orichalor?Orichalcum (konduktivitas sihir, selatan kawah), Argentfang?Silver (dingin dan pemurnian, utara), Mithralis?Mithril (ringan dan kuat, timur). Bentuk, kepribadian, ujian, lokasi, serta kisah diselaraskan. Argentfang menjadi penjaga pemurnian, bukan pembunuh yang menguji dengan kematian.
 
-Pemetaan ini menggantikan kehati-hatian afiliasi pada catatan sebelumnya. JSON `lore_identity` menyimpan identitas terkini; field legacy dan snapshot runtime tetap utuh untuk jejak historis. Lokasi Goldenscale berpindah dari puncak timur ke Orichalcum selatan; Moonfang dari gua tanpa koordinat ke Silver utara; Silverwing bersarang di Mithril timur dengan jelajah kawah. Tidak ada perubahan stat, drop, recipe, atau runtime. Rincian narasi tetap PROPOSED_ADDITIONS sampai disetujui.
+Pemetaan ini menggantikan kehati-hatian afiliasi pada catatan sebelumnya. JSON `lore_identity` menyimpan identitas terkini; field legacy dan snapshot runtime tetap utuh untuk jejak historis. Lokasi Orichalor berpindah dari puncak timur ke Orichalcum selatan; Argentfang dari gua tanpa koordinat ke Silver utara; Mithralis bersarang di Mithril timur dengan jelajah kawah. Tidak ada perubahan stat, drop, recipe, atau runtime. Rincian narasi tetap PROPOSED_ADDITIONS sampai disetujui.
 
 ## Batch narasi Agnitra ? 2026-09-17
 
-Empat pasangan Blackhorn, Goldenscale, Moonfang, dan Silverwing memakai Deskripsi, Bentuk, Kepribadian dan Sikap, Lokasi Nest, serta Kisah. Narasi baru berstatus PROPOSED_ADDITIONS. Lokasi legacy dipertahankan; klan dan jabatan pemimpin tidak disimpulkan dari warna, nama, atau kemampuan. Kisah baru menampilkan naga berakal sesuai Nagarasven, bukan menetapkan mereka Feral.
+Empat pasangan Blackhorn, Orichalor, Argentfang, dan Mithralis memakai Deskripsi, Bentuk, Kepribadian dan Sikap, Lokasi Nest, serta Kisah. Narasi baru berstatus PROPOSED_ADDITIONS. Lokasi legacy dipertahankan; klan dan jabatan pemimpin tidak disimpulkan dari warna, nama, atau kemampuan. Kisah baru menampilkan naga berakal sesuai Nagarasven, bukan menetapkan mereka Feral.
 
-Blackhorn tetap di lereng bawah Mahasvara, Goldenscale di puncak timur, Moonfang di Gua Gelap Agnitra yang belum dipetakan, dan Silverwing di langit kawah. Mikrohabitat istirahat merupakan usulan. Sarang regional dipakai sebagai konteks, bukan pemetaan otomatis: Orichalcum berada di selatan, Mithril di timur, Silver di utara, Adamantine di dasar lereng barat.
+Blackhorn tetap di lereng bawah Mahasvara, Orichalor di puncak timur, Argentfang di Gua Gelap Agnitra yang belum dipetakan, dan Mithralis di langit kawah. Mikrohabitat istirahat merupakan usulan. Sarang regional dipakai sebagai konteks, bukan pemetaan otomatis: Orichalcum berada di selatan, Mithril di timur, Silver di utara, Adamantine di dasar lereng barat.
 
-Angka, ID, kelas, dan field legacy dipertahankan. VERIFIED Blackhorn/Goldenscale diganti BLOCKED; perbedaan elemen Blackhorn dan label serangan Goldenscale terhadap runtime dicatat tanpa rekonsiliasi sepihak. Snapshot runtime hanya observasi. Tidak ada perubahan runtime, item, skill, spawn, atau batch sebelumnya. Arsip: `_audit/pre_agnitra_narrative.json` dan `_audit/pre_agnitra_hashes.json`; hasil: `_audit/agnitra_verification.json`. Pemeriksaan: `python tools/verify_agnitra_lore.py`, audit inventaris, verifier workspace, dan `git diff --check`. Tidak dilakukan simulasi balance atau playtest.
+Angka, ID, kelas, dan field legacy dipertahankan. VERIFIED Blackhorn/Orichalor diganti BLOCKED; perbedaan elemen Blackhorn dan label serangan Orichalor terhadap runtime dicatat tanpa rekonsiliasi sepihak. Snapshot runtime hanya observasi. Tidak ada perubahan runtime, item, skill, spawn, atau batch sebelumnya. Arsip: `_audit/pre_agnitra_narrative.json` dan `_audit/pre_agnitra_hashes.json`; hasil: `_audit/agnitra_verification.json`. Pemeriksaan: `python tools/verify_agnitra_lore.py`, audit inventaris, verifier workspace, dan `git diff --check`. Tidak dilakukan simulasi balance atau playtest.
 
 ## Persetujuan seluruh narasi Thalantira ? 2026-09-17
 
@@ -109,7 +109,7 @@ Konflik/keputusan yang tetap terbuka:
 - Pulau Asrivana pada Leyak belum ditemukan padanan geografisnya; penempatan Astradipa adalah usulan, bukan perubahan Astradipa menjadi pulau.
 - Gunung Emas pada Lycan tidak disamakan dengan Puncak Emas Swargaloka yang melayang. Penempatan lereng Arkananta masih usulan.
 - Hutan Bayangan, Gunung Bebatuan, Rawa Kering, dan rawa Wisp belum terpetakan pasti; penempatan regional naratif tidak mengubah spawn database.
-- Pyrowisp tidak dinyatakan berasal dari Pyrowisp Caldera hanya karena nama sama; tidak ditetapkan berevolusi dari Wisp.
+- Pyrowisp tidak dinyatakan berasal dari Balairung Kaldera Mahasvara hanya karena nama sama; tidak ditetapkan berevolusi dari Wisp.
 - Semua detail baru dan vignette ditandai usulan. Kisah Wight merangkum kejadian Prologue existing. Reproduksi, asal korupsi universal, ritual, dan subtype Dhemit lain tidak diciptakan.
 
 Goblin/Wendigo tidak lagi memakai VERIFIED sebagai status kalibrasi JSON. Seluruh Jenggala memakai BLOCKED tanpa mengganti angka lama. Runtime 15 enemy, skill dan drop direferensikan melalui snapshot; belum ada simulasi atau playtest, dan batch ini tidak mengklaim rework combat/boss selesai.
@@ -214,7 +214,7 @@ Repositori Nusvanir saat ini terdiri dari dokumentasi lore dan pengaturan sistem
 
 - `Babi_Hutan.md` dan `Babi_Hutan.json` menyimpan `HP: 150` dan `weakness: Api`, namun belum ada bukti bahwa angka tersebut berasal dari progression atau formula game yang valid.
 - `Beruang_Madu_Raksasa.md` menyimpan `HP: 850`, namun `Pedoman_Pemberian_Stat.md` secara eksplisit menolak angka seperti itu sebagai final tanpa baseline party dan formula yang benar.
-- `Moonfang` memiliki angka besar dalam catatan lore/legacy, tetapi tidak punya bukti sumber runtime atau hasil playtest.
+- `Argentfang` memiliki angka besar dalam catatan lore/legacy, tetapi tidak punya bukti sumber runtime atau hasil playtest.
 - `Thalantira` memiliki entri dengan nilai HP dan variabel yang tidak terukur dari sistem yang sedang dipakai.
 - Terdapat duplikasi nama pada lokasi/region: `Raksamala` dan `Raksmala` (varian nama yang berpotensi menimbulkan kebingungan).
 - Beberapa file seperti `Pulau_Kegelapan_Raksamala.json` dan `Pulau_Kegelapan_Raksmala.json` tampak sebagai duplikasi nama yang sama dengan varian ejaan berbeda.
@@ -262,7 +262,7 @@ Yang aman untuk diterapkan tanpa mengubah canon inti:
 - apakah `Drahkthar` adalah istilah umum untuk entitas demonic/warborn atau identitas etnis/civilizational yang mapan;
 - apakah `Void` akan dijadikan elemen resmi atau tetap dikelola sebagai entitas kosmik tanpa rating 10-elemen;
 - level cap, party size, class curves, dan progression baseline yang valid untuk semua stat final;
-- apakah `Moonfang` dan boss Thalantira akan diturunkan dari legacy value atau tetap di-backlog sampai data game saat ini tersedia.
+- apakah `Argentfang` dan boss Thalantira akan diturunkan dari legacy value atau tetap di-backlog sampai data game saat ini tersedia.
 
 ## 6. Conclusion
 

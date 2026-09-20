@@ -6,15 +6,30 @@ tags:
   - Ancaman
 ---
 
-# Ancaman Terhadap Avalerion
+# Ancaman terhadap Avalerion
 
-Avalerion adalah benteng terakhir dan terkuat bagi umat cahaya di Nusvanir. Prajurit manusia super ([[Avesari]]) yang bermukim di sini memiliki tugas absolut: melindungi keseimbangan dan keadilan seluruh dunia dari kehancuran.
+Ancaman Avalerion berubah mengikuti era. Sebagai kota dan benteng terakhir Avesari, Avalerion berdiri untuk menjaga Nusvanir dari kekuatan yang mengancam keseimbangan dunia.
 
-### 1. Kekuatan Kegelapan
-Ancaman permanen dan yang paling utama bagi Avalerion adalah kekuatan kegelapan yang bersumber dari [[Pulau Raksamala]] dan [[Poros Thalantira]]. Ras Avesari selalu menjadi garda terdepan untuk menghalau invasi iblis ([[Bhuta]]), monster liar ([[Jenggala]]), dan jiwa-jiwa tersesat ([[Dhemit]]).
+## Ancaman utama sebelum era Light dan Dark Path
 
-### 2. Kemurkaan Drahkthar
-Selain kegelapan murni, ancaman fisik terkuat datang dari ras [[Drahkthar]] (Naga penguasa elemen yang buas). Ketika elemen alam tidak seimbang atau para naga mengamuk (baik karena korupsi sihir atau insting teritorial), kekuatan destruktif mereka tidak bisa ditahan oleh prajurit biasa. 
+Musuh utama Avalerion berasal dari bangsa **Drahkthar** dan kekuatan Pulau [[Raksamala]]. Bhuta, Dhemit, Jenggala, serta kekuatan gelap yang tunduk kepada Sangrahal menjadi alasan pertahanan Avalerion terus disiagakan.
 
-### 3. Panggilan Terakhir (The Last Resort)
-Karena posisinya sebagai benteng keadilan, Avalerion menanggung beban seluruh Nusvanir. Apabila ada serangan besar di suatu wilayah atau kota (seperti di [[Mandala Kingdom]] atau [[Astradipa]]) dan prajurit lokal sudah tidak sanggup menangani, memanggil prajurit Avalerion adalah **pilihan dan harapan terakhir**. Mereka akan turun bagaikan komet bercahaya dari langit untuk membalikkan keadaan di medan laga.
+Nagarasven dari Agnitra bukan bagian dari Drahkthar dan bukan ancaman bawaan bagi Avalerion. Bangsa naga tersebut justru menjalin hubungan pertahanan dengan wilayah lain di Nusvanir.
+
+## Ancaman era Light dan Dark Path
+
+Pada era Light Path dan Dark Path, ancaman utama berkembang melampaui Raksamala. **Void** dan **Uru** menjadi bahaya baru bagi Avalerion serta seluruh Nusvanir. Pengetahuan Avesari mengenai cahaya dan kegelapan tidak serta-merta cukup untuk memahami kekuatan Void.
+
+Besarnya ancaman Uru dan hubungan tepatnya dengan peristiwa kedua jalur mengikuti perkembangan kisah Light Path dan Dark Path.
+
+## Lore Tersembunyi - Penjara Sangrahal
+
+Pada era Light dan Dark Path, Sangrahal telah kehilangan akal sehat dan ditahan di penjara suci bawah tanah Avalerion. Penjara tersebut dijaga oleh seorang Lumina tersembunyi yang keberadaannya bahkan tidak diketahui masyarakat Avesari.
+
+Keberadaan Sangrahal di bawah kota menciptakan ancaman tersendiri. Banyak pemburu dan *bounty hunter* mengincar kepalanya. Upaya menyusup, memburu, atau membebaskannya dapat membahayakan segel penjara serta Avalerion. Dalam Dark Path, Damian berusaha membebaskan Sangrahal dan harus menghadapi Lumina penjaga.
+
+Waktu, pelaku, dan cara Sangrahal ditangkap belum ditetapkan. Pada masa Prologue ia masih berada di Raksamala; penahanannya terjadi setelah peristiwa tersebut dan telah berlangsung pada era Light–Dark Path.
+
+## Avalerion sebagai bantuan terakhir
+
+Avalerion tetap menjadi pihak yang dipanggil ketika pertahanan wilayah lain tidak mampu menghadapi ancaman berskala besar. Peran ini merupakan tanggung jawab suci Avesari.

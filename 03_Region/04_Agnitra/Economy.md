@@ -7,6 +7,8 @@ tags:
 
 Perekonomian di [[Agnitra]] tidak digerakkan oleh koin layaknya manusia, melainkan oleh kekuatan material vulkanik dan penguasaan atas logam mulia. Sebagai pulau yang didominasi oleh Gunung Mahasvara, wilayah ini adalah sumber utama material terkuat di dunia.
 
-Kekayaan utama mereka berasal dari empat jenis logam mulia kosmik: **Mithril, Adamantine, Orichalcum,** dan **Silver** murni. Logam-logam ini tidak ditambang oleh budak, melainkan dijaga dan dibentuk langsung oleh [[Nagarasven]] (bangsa naga) melalui napas naga mereka yang panasnya melampaui lava. 
+Kekayaan utama mereka berasal dari empat jenis logam mulia kosmik: **Mithril, Adamantite, Orichalcum,** dan **Silver** murni. Setiap mineral terkonsentrasi dalam nest tersendiri dan dijaga oleh satu klan: Blackhorn di Adamantite Nest, Mithralis di Mithril Nest, Orichalor di Orichalcum Nest, serta Argentfang di Silver Nest.
 
-Senjata dan zirah yang ditempa di Agnitra adalah komoditas pamungkas yang diidamkan oleh seluruh pejuang dari penjuru Nusvanir. Namun, benda-benda legendaris ini tidak bisa sekadar "dibeli". Untuk mendapatkan senjata berkekuatan logam terkuat tersebut, seorang petualang harus membuktikan kelayakannya dengan mengalahkan naga pemimpin dari salah satu Nest (Sarang) penjaga elemen logam. Jika berhasil, naga yang takluk akan menganugerahkan serpihan esensi atau senjata logam mulia tersebut secara langsung sebagai tanda penghormatan absolut.
+Logam-logam tersebut tidak ditambang oleh budak. Nagarasven menjaga, menggali, dan membentuk material melalui cakar serta napas naga yang panasnya melampaui lava. Jaringan gua nest sekaligus berfungsi sebagai tempat hidup, pertahanan, dan ruang penyimpanan kekayaan klan.
+
+Senjata dan zirah yang ditempa di Agnitra adalah komoditas pamungkas yang diidamkan oleh pejuang di seluruh Nusvanir. Namun, mineral dan pusaka nest tidak dapat sekadar dibeli. Pendatang harus memperoleh izin klan serta membuktikan kelayakannya melalui ujian yang ditentukan penjaga. Bentuk ujian tidak selalu berupa pertarungan sampai kalah; kewenangan pemberian mineral tetap berada pada pemimpin klan.

@@ -39,3 +39,13 @@ Acuan: [Peta Dunia Nusvanir](../../09_Maps/Nusvanir%20World%20Map.png), dibaca d
 
 - [Atlas Nusvanir](../../02_World/Nusvanir.md)
 - [Hubungan antarwilayah](../../02_World/Hubungan_Antarwilayah.md)
+
+## Kota terakhir dan tugas suci
+
+Avalerion adalah kota sekaligus benteng terakhir Avesari, manusia super berkekuatan cahaya dari Sang Hyang Cahaya. Dahulu mereka membantu Sang Hyang melawan Uru dan Kala Laksana. Kini mereka mengabdikan diri untuk menjaga kedamaian Nusvanir.
+
+Holy City menjadi pusat peradaban, markas Pawiyatan Prabha Suci, dan markas Senopati Prabha. Tiga Pendeta Agung Lumina yang telah mencapai transcendence menjadi cahaya melayani sebagai penasihat: Adiprabha (Lumina pertama), Jnanaprabha (sihir), dan Wiraprabha (militer). Masyarakat Avesari setara tanpa kasta; peran institusi dan komandan adalah pembagian tugas.
+
+## Lingkar benteng dan outpost
+
+Benteng fisik melingkari Avalerion dan diselubungi pelindung sihir. Agni berada di utara menghadap Arkananta (Solarius); Bayu di timur menghadap Astradipa (Vayu); Bumi di selatan berhadapan dengan Valkindra di Mandala (Terra); Tirta di barat menghadap perairan barat Nusvanir (Aqua).

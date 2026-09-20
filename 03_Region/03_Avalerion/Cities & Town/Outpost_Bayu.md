@@ -8,7 +8,18 @@ tags:
 
 # Outpost Bayu (Pos Pertahanan Angin)
 
-Dibangun di tebing-tebing tinggi yang berbatasan langsung dengan perbatasan kanopi raksasa hutan [[Astradipa]]. Outpost Bayu mewakili elemen Angin dan merupakan markas bagi pasukan udara.
+Outpost Bayu berada di sisi **timur** benteng Avalerion, menghadap langsung ke Astradipa. Pos ini mewakili elemen **Angin** dan dipimpin oleh [[Ksatria Vayu]].
 
-### Fungsi dan Pasukan
-Dipimpin oleh seorang Komandan Avesari yang ahli dalam mobilitas udara dan serangan jarak jauh. Kontingen pasukan di Outpost Bayu berfokus pada kecepatan dan ketepatan. Pasukan ini dapat terbang cepat (sering kali dibantu oleh ras [[Garuda]] dari [[Nusa Sayendra]]) untuk memberikan serangan balik kilat dan dukungan logistik ke seluruh penjuru Nusvanir kapan pun wilayah lain mengirimkan sinyal bahaya.
+## Fungsi dan pasukan
+
+Spesialis serangan dan pertahanan udara. Ksatria Vayu menunggang Griffin raksasa dalam tugasnya.
+
+Outpost ini merupakan bagian dari benteng fisik yang melingkari Avalerion dan berada dalam sistem perlindungan sihir kota. Penugasan komandannya adalah fungsi pertahanan, bukan kasta sosial Avesari.
+
+## Lore
+
+*Seorang pembawa pesan resmi.*
+
+Angin merebut lembar teratas suratku ketika aku membuka tas. Aku menangkapnya dengan kedua tangan, disambut tawa pendek Avesari muda yang mengawalku. Ia menunjukkan sudut yang lebih terlindung untuk memeriksa segel sebelum surat diserahkan.
+
+Bayangan besar tiba-tiba melintasi kami. Seekor Griffin menurunkan kaki di tempat pendaratan, dan aku mundur sampai punggung menyentuh batu. Pengawalku menyebut penunggangnya: Ksatria Vayu. Setelah itu aku nyaris tidak mendengar penjelasan berikutnya. Mataku mengikuti sayap yang dilipat, bulu yang bergerak tertiup angin, dan prajurit yang sudah bersiap menerima perintah. Di balik benteng timur, kanopi Astradipa membentang luas. Aku senang tugasku hari itu hanya menyerahkan surat.

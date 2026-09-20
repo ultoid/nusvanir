@@ -1,7 +1,7 @@
 ---
 title: Ksatria Terra
 wilayah: "[[Avalerion]]"
-ras: "[[Dewantara]]"
+ras: "[[Avesari_(Demigod)|Avesari]]"
 tags:
   - karakter
   - avalerion
@@ -17,4 +17,8 @@ Terra adalah penahan garis pertahanan absolut. Posnya melindungi rute suplai pan
 
 ### Relasi Faksi
 - Saudari seperjuangan dari **Ksatria Aqua**.
-- Selalu membenci kelambatan respons bantuan militer dari **Kerajaan Mandala**.
+- Mengembangkan kerja sama pelatihan dan diplomasi militer dengan **Valkindra, Kerajaan Mandala**.
+
+## Penempatan
+
+Outpost Bumi, sisi selatan Avalerion, menghadap Mandala. Berhadapan langsung dengan Valkindra. Calon prajurit Mandala dilatih di bawah komando Ksatria Terra; outpost ini menjadi penghubung diplomasi militer dengan Mandala.

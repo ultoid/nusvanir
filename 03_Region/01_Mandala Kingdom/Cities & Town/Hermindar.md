@@ -16,3 +16,11 @@ tags:
 ## Pemeriksaan barang masuk
 
 Selain memeriksa warga Mandala yang hendak menuju Cakrawala, Hermindar memeriksa barang yang masuk dari Cakrawala ke Mandala demi keamanan kerajaan. Fungsi ini menjadikan Hermindar gerbang pengawasan perdagangan lintas wilayah; pemeriksaan pihak luar menuju sektor dalam ibu kota berlangsung di Lingkar Wira.
+
+## Lore
+
+*Seorang pedagang yang hendak ke Cakrawala.*
+
+Aku sudah bisa mencium asap tungku Hermindar ketika kusadari surat dagangku tertinggal di dasar peti. Antrean di depanku bergerak pendek-pendek. Setiap orang menyiapkan jawaban, dokumen, dan kesabarannya sebelum diperiksa untuk melintas ke Cakrawala.
+
+Di jalur sebelah, peti barang yang dibawa pulang dari kota bebas dibuka satu per satu. Seorang pedagang mengeluh kainnya akan kotor; petugas tetap meminta lapisan paling bawah diperlihatkan. Aku memeriksa kembali hitungan barangku. Bila tertahan sampai besok, biaya makan dan pakan bertambah. Ketika namaku akhirnya dipanggil, aku menyerahkan surat dengan kedua tangan dan berusaha tidak terdengar gugup.

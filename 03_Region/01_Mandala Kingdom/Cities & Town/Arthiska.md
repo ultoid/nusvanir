@@ -19,3 +19,11 @@ Arthiska terletak di timur laut [[Mandala Capital]], pada perbatasan Mandala den
 ## Pangan dan kerja sama agrikultur
 
 Ladang, peternakan, dan area pertanian menjadikan Arthiska pusat pangan Mandala sekaligus lumbung pangan Nusvanir. Pasokan pangan Mandala dipusatkan melalui kota ini dan didistribusikan untuk kebutuhan kerajaan. Arthiska bekerja sama dengan jaringan permukiman Vana Kusuma di Astradipa dalam bidang pertanian.
+
+## Lore
+
+*Seorang petani yang mengantar hasil panen.*
+
+Roda gerobakku terbenam di tepi ladang saat matahari baru naik. Dua tetangga membantu mendorong, sementara anakku menenangkan ternak yang menariknya. Dari tempat kami berdiri, sawah berundak memantulkan langit. Orang menyebut Arthiska lumbung Nusvanir; bagiku, pagi itu, seluruh dunia terasa seberat karung-karung yang harus sampai ke tempat pengumpulan.
+
+Di sana, seorang Asrivana dari Vana Kusuma sedang berbicara dengan para pengelola pertanian. Aku tak memahami semua istilahnya, tetapi ketika ia berjongkok memeriksa akar tanaman, aku ikut mendekat. Ia memberi ruang agar aku bisa melihat. Anakku menarik lengan bajuku, meminta dijelaskan. Untuk sekali itu, kami pulang lebih lambat bukan karena roda terbenam, melainkan karena aku terlalu banyak bertanya.

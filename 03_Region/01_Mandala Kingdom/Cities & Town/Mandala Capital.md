@@ -60,3 +60,11 @@ Permukimannya membentang di dalam dan di luar benteng. Bagian dalam benteng mayo
 - **Barat laut:** [[Valkindra]], pusat militer yang bersebelahan langsung dengan Avalerion.
 
 Keempat arah dihitung dari Mandala Capital. Lihat [Jalur dan Perjalanan](../../../02_World/Jalur_dan_Perjalanan.md) untuk aturan skala dan waktu tempuh.
+
+## Lore
+
+*Seorang pengantar barang dari Lingkar Bumi.*
+
+Dari rumah kami di luar benteng, atap istana tampak kecil di antara menara. Ibu selalu menyuruhku berangkat sebelum jalan dipenuhi gerobak. Pagi itu aku membawa pesanan perkakas ke gudang Lingkar Samodra, melewati rumah-rumah yang makin rapat dan penjaga yang memeriksa muatan. Di dalam tembok, selokan lebih bersih. Aku menunduk melihat lumpur yang kubawa pada sandal.
+
+Di dekat gudang, seorang pemuda memperbaiki alat berukir rune. Cahaya kecil menyala di sela jemarinya, padahal ia Pribumi seperti aku. Katanya ia belajar di Lingkar Dharma. Aku hendak bertanya cara mendaftar ketika juru gudang memanggil: surat pengirimanku harus diperiksa lagi karena aturan berubah. Aku duduk di atas peti sampai siang, memandangi cahaya alat pemuda itu dari seberang jalan.

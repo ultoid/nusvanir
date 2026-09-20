@@ -11,7 +11,8 @@ tags:
 
 # Prabu Mandalapati XI (Raja Mandala)
 
-**Identitas**: Penguasa tertinggi Kerajaan [[Mandala]], seorang [[Wahanarsa]]. Prabu Mandalapati adalah gelar raja; penguasa saat ini adalah Prabu Mandalapati XI.
+**Identitas**: Penguasa tertinggi Kerajaan [[Mandala]], seorang [[Wahanarsa]]. **Prabu Mandalapati** adalah gelar takhta, bukan nama asli. Gelar ini diikuti nomor urut penguasa dalam angka Romawi. Penguasa saat ini menyandang gelar **Prabu Mandalapati XI**, yaitu pemegang gelar urutan kesebelas.
+**Nama asli**: Belum ditentukan.
 **Visual**: Pria paruh baya dengan rambut beruban keperakan, mengenakan mahkota emas bertahtakan batu safir laut. Penampilan kerajaan yang berwibawa tidak mencerminkan kematangan pengambilan keputusannya.
 
 ## Watak dan kepemimpinan

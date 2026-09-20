@@ -199,3 +199,7 @@ Hubungan spasial ini belum menentukan jalur langsung antarlokasi, urutan wajib m
 ## 8. Yang ditentukan setelah rute dijelaskan
 
 Tetapkan titik kota dan gerbang, gambar ruas perjalanan yang benar-benar dapat dilewati, pilih moda setiap ruas, lalu tambahkan kondisi medan serta pemberhentian. Waktu antarkerajaan memakai pasangan kota atau pos tertentu. Tidak ada durasi tunggal untuk seluruh wilayah Mandala, Astradipa, maupun Arkananta.
+
+## Orientasi Avalerion dari Mandala
+
+Avalerion berada di barat laut Mandala, bersebelahan dengan Valkindra. Hubungan diplomasi dan pelatihan militer berlangsung melalui Outpost Bumi di selatan Avalerion, di bawah komando Ksatria Terra. Orientasi outpost lain: Agni di utara ke Arkananta, Bayu di timur ke Astradipa, dan Tirta di barat ke perairan barat Nusvanir. Arah hadap tidak otomatis berarti tersedia jalan langsung menembus medan tersebut. Jarak dan waktu antarpos belum ditentukan.

@@ -6,12 +6,24 @@ tags:
 
 # Avesari (Demigod)
 
-Ras manusia super yang diberikan kekuatan dewa. Mereka biasanya hidup menetap di pegunungan tinggi atau puncak awan, dan bertindak sebagai utusan para dewa kepada penghuni dunia fana.
+Ras manusia super (Demigod) dengan kekuatan cahaya dari Sang Hyang Cahaya. Avalerion merupakan kota dan benteng terakhir mereka. Pada masa dahulu Avesari membantu Sang Hyang melawan Uru dan Kala Laksana; kini tugas suci mereka adalah menjaga kedamaian Nusvanir.
 
 ### Manusia Setengah Dewa
 Avesari adalah individu-individu langka yang mewarisi darah atau berkat langsung dari entitas Arkahyan. Siklus kehidupan (*lifespan*) mereka sangat panjang, berada di rentang 180 hingga 200 tahun. Berbeda dengan manusia biasa, Avesari baru mencapai masa prima fisik dan magis mereka pada usia 70 hingga 80 tahun. Selain kebal racun dan sihir gelap, mereka sering dilahirkan dengan tanda kosmik. Ras ini jarang mencampuri konflik manusia biasa kecuali ada ancaman berskala besar dari Drahkthar atau Demon Lord.
 
 ### Akhir Siklus Kehidupan
 Seorang Avesari tua memiliki dua kemungkinan akhir di penghujung usianya:
-1. **Menjadi Immortal:** Sebagai tahap akhir penguasaan sihir cahaya, seorang Avesari dapat meraih keabadian (*immortality*). Namun, hal ini mengharuskan mereka melepaskan sisi kemanusiaan dan wujud fana Avesari mereka sepenuhnya. Avesari yang mencapai tahap ini biasanya mengabdikan sisa keabadiannya sebagai konsultan kebijaksanaan di Avalerion, atau sepenuhnya mengabdi kepada *Sang Hyang Cahaya* di pusaran magis *Tirta Amarta*.
+1. **Transcendence menjadi cahaya:** Sebagai tahap akhir penguasaan sihir cahaya, seorang Avesari dapat meraih keabadian (*immortality*). Namun, hal ini mengharuskan mereka melepaskan sisi kemanusiaan dan wujud fana Avesari mereka sepenuhnya. Avesari yang mencapai tahap ini biasanya mengabdikan sisa keabadiannya sebagai konsultan kebijaksanaan di Avalerion, atau sepenuhnya mengabdi kepada *Sang Hyang Cahaya* di pusaran magis *Tirta Amarta*.
 2. **Kematian dan Reinkarnasi:** Pilihan lain adalah menemui ajalnya, baik karena gugur di medan perang, menderita penyakit, atau mati karena usia tua. Arwah Avesari yang meninggal akan kembali kepada Sang Pencipta dan akan bereinkarnasi di kehidupan selanjutnya menjadi entitas lain, bergantung secara mutlak pada *karma* yang telah mereka perbuat selama hidup saat ini.
+
+## Masyarakat dan pengabdian
+
+Avesari tidak mengenal kasta atau tingkatan nilai sosial. Semua dipandang setara; kepemimpinan penasihat dan komando militer merupakan pembagian tugas. Sebagai perpaduan manusia dan dewa, Avesari masih memiliki keinginan manusiawi di dalam hatinya. Pada usia muda, ambisi, rasa ingin tahu, kasih sayang, ketakutan, dan kepentingan pribadi dapat hidup berdampingan dengan tugas suci mereka. Seiring pendewasaan dan semakin kuatnya cahaya dalam tubuh, sifat kemanusiaan itu berangsur memudar dan pengabdian kepada Sang Hyang serta perlindungan Nusvanir semakin dominan.
+
+Hubungan keluarga dapat memiliki kedekatan emosional, terutama pada Avesari muda. Pada mereka yang semakin matang dalam cahaya, hubungan tersebut cenderung berfokus pada keberlangsungan ras. Pelepasan penuh nafsu kemanusiaan terjadi saat transcendence menjadi cahaya, bukan sejak lahir.
+
+Avesari yang mencapai transcendence melepaskan wujud fana dan menjadi cahaya. Tiga Pendeta Agung Lumina dikenal sebagai penasihat Avalerion, sementara banyak Avesari transcendence bertapa di Tirta Amarta atau tempat lain di Nusvanir.
+
+## Cassian dan Hector pada masa Prologue
+
+Cassian dan Hector merupakan Avesari muda pada masa Prologue. Ambisi pribadi, rasa takut, dan keterikatan emosional mereka merupakan bagian dari sisi manusiawi yang masih kuat, sehingga tidak bertentangan dengan asal-usul mereka sebagai Avesari. Mereka belum mencapai transcendence. Usia numerik keduanya belum ditetapkan oleh keterangan ini.

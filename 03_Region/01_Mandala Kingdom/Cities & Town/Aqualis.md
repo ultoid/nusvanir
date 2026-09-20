@@ -22,3 +22,11 @@ Pada peta garis terbaru penulis, Aqualis ditandai di pesisir tenggara Mandala. J
 ## Pusat transportasi laut Mandala
 
 Seluruh perjalanan dan transportasi laut kerajaan dipusatkan melalui Aqualis, termasuk pengiriman logistik, sumber daya, serta pergerakan militer. Kota ini sekaligus merupakan benteng pertahanan militer di pesisir Mandala. Arus logistik laut terhubung dengan pengelolaan dan distribusi kerajaan di Lingkar Samodra.
+
+## Lore
+
+*Seorang buruh pelabuhan.*
+
+Aku mengenali kapal ayah dari tambalan layarnya sebelum bisa melihat wajahnya. Di Aqualis, mata kami terbiasa mencari hal sekecil itu di antara tiang kapal, tali, dan burung yang berebut sisa ikan. Pagi belum selesai ketika gudang sudah meminta tambahan tenaga. Karung pangan harus turun lebih dahulu, lalu peti perlengkapan prajurit.
+
+Di dermaga sebelah, beberapa pelaut sedang menyiapkan ekspedisi ke Rangkaruna. Seorang di antaranya menunjukkan tempat kosong dalam petinya, seolah mineral mahal dari laut itu sudah pasti akan mengisinya. Ayah mendengarkan tanpa tersenyum. Setelah upah bongkar muat dibagikan, ia membeli ikan kecil untuk makan malam dan mengajakku pulang. Sepanjang jalan, tangannya masih berbau tali basah.

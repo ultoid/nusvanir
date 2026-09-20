@@ -6,6 +6,8 @@
 
 Posisi relatif wilayah mengikuti peta dunia, dengan utara di bagian atas, timur di kanan, selatan di bawah, dan barat di kiri. Peta ilustrasi berwarna tidak mencantumkan skala jarak. Skala kerja kini ditetapkan dalam [Jalur dan Perjalanan](Jalur_dan_Perjalanan.md) berdasarkan peta garis terbaru dari penulis dan patokan Aqualis-Raksamala tujuh hari kapal. Ukuran ikon pada peta berwarna bukan alat ukur. Posisi rinci Nusa Sayendra dan bentuk Thalantira pada peta terbaru berbeda dari ilustrasi lama; tabel di bawah masih merangkum ilustrasi lama, sedangkan perhitungan jarak mengikuti peta terbaru.
 
+Uraian hubungan arah memakai [perspektif penyusun Pribumi Mandala](Perspektif_Kodex.md). Arah mata angin tetap objektif, tetapi pemilihan jalur, pintu masuk, dan kedekatan wilayah mengikuti pengalaman perjalanan dari Mandala.
+
 ## Susunan daratan dan perairan
 
 Daratan utama membentang dari kawasan Mandala di barat daya hingga Tirta Amarta di timur laut. Pegunungan Arkananta mendominasi sisi utara, dengan cabang yang memisahkan Astradipa dari kawasan Mandala dan Avalerion. Astradipa mengisi kawasan hutan di selatan bentang utama pegunungan. Cakrawala berada pada teluk di pesisir bagian tengah-timur.

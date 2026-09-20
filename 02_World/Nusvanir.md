@@ -4,12 +4,21 @@ Folder ini memuat gambaran global Nusvanir. Profil dan detail setiap wilayah ber
 
 Posisi relatif wilayah mengacu pada [Peta Dunia Nusvanir](../09_Maps/Nusvanir%20World%20Map.png). Uraian arah dan batas pembacaannya tersedia di [Geografi Global](Geografi_Global.md).
 
+## Sudut pandang kodex
+
+Worldbuilding Nusvanir disajikan sebagai kodex yang dihimpun oleh seorang **peneliti Pribumi dari Kerajaan Mandala**, representasi penulis di dalam dunia. Karena itu, Mandala menjadi titik pusat pembacaan arah, perjalanan, politik, dan hubungan antarwilayah. Sebutan seperti “wilayah luar”, “pintu masuk”, “dekat”, atau “jauh” mengikuti pengalaman masyarakat Mandala, bukan ukuran nilai yang mutlak bagi seluruh ras.
+
+Sang peneliti sangat pandai dan mempunyai sumber yang menjangkau seluruh Nusvanir: perjalanan, kesaksian, arsip, laporan, buku kuno, serta artefak misterius yang dapat diterjemahkan. Ia berfungsi hampir mahatahu sehingga kodex dapat memuat kisah tersembunyi. Pengetahuan itu tidak otomatis diketahui tokoh atau masyarakat di dalam cerita; rahasia semacam itu ditandai sebagai **Lore Tersembunyi**.
+
+Pedoman lengkapnya tersedia di [Perspektif Kodex](Perspektif_Kodex.md).
+
 ## Gambaran global
 
 - [Geografi global](Geografi_Global.md)
 - [Iklim dan bioma](Iklim_dan_Bioma.md)
 - [Hubungan antarwilayah](Hubungan_Antarwilayah.md)
 - [Jalur, skala jarak, dan waktu perjalanan](Jalur_dan_Perjalanan.md)
+- [Perspektif dan sumber pengetahuan kodex](Perspektif_Kodex.md)
 - [Peta dunia](../09_Maps/Nusvanir%20World%20Map.png)
 
 ## Atlas wilayah
@@ -33,3 +42,4 @@ Posisi relatif wilayah mengacu pada [Peta Dunia Nusvanir](../09_Maps/Nusvanir%20
 - Tulis uraian ekonomi, ancaman, kota, faksi, dan kepercayaan pada catatan detail wilayah.
 - Gunakan tautan untuk merujuk detail; hindari menyalin uraian yang sama.
 - Bedakan fakta yang sudah tertulis dari pertanyaan pengembangan yang belum ditetapkan.
+- Pertahankan Mandala sebagai titik pandang penyusun, lalu tandai informasi yang tidak diketahui masyarakat sebagai Lore Tersembunyi.

@@ -8,7 +8,18 @@ tags:
 
 # Outpost Bumi (Pos Pertahanan Tanah)
 
-Terletak di wilayah darat perbatasan antara Avalerion dan [[Mandala Kingdom]]. Outpost Bumi mewakili elemen Tanah dan berdiri sebagai gerbang diplomatik sekaligus pertahanan darat utama.
+Outpost Bumi berada di sisi **selatan** benteng Avalerion, menghadap langsung ke Mandala. Pos ini mewakili elemen **Tanah** dan dipimpin oleh [[Ksatria Terra]].
 
-### Fungsi dan Pasukan
-Dipimpin oleh seorang Komandan Avesari yang memiliki daya tahan fisik luar biasa dan sihir perlindungan tektonik. Kontingen pasukan di sini adalah prajurit infanteri berat yang menggunakan perisai-perisai suci raksasa. Selain sebagai pasukan perang yang siap merespons panggilan darurat dari Mandala, outpost ini juga berfungsi untuk menyeleksi dan mengawasi setiap individu fana yang memohon izin memasuki wilayah Avalerion.
+## Fungsi dan pasukan
+
+Berhadapan langsung dengan Valkindra. Calon prajurit Mandala dilatih di bawah komando Ksatria Terra; outpost ini menjadi penghubung diplomasi militer dengan Mandala.
+
+Outpost ini merupakan bagian dari benteng fisik yang melingkari Avalerion dan berada dalam sistem perlindungan sihir kota. Penugasan komandannya adalah fungsi pertahanan, bukan kasta sosial Avesari.
+
+## Lore
+
+*Seorang calon prajurit dari Valkindra.*
+
+Kami datang dari Valkindra dengan perisai yang sudah dibersihkan sejak malam. Di Outpost Bumi, pemeriksaan selesai lebih cepat daripada kegugupanku. Aku berdiri dalam barisan dan berusaha tidak menoleh ketika Ksatria Terra mendekat.
+
+Saat latihan dimulai, aku terlalu sibuk menahan serangan ke arahku sampai lupa prajurit di sebelah. Terra menghentikan latihan dan meminta kami mengulang. Kali ini ia menunjukkan celah di antara dua perisai kami. Begitu kulihat, aku malu sendiri: cukup lebar untuk membahayakan kawanku. Pada percobaan berikutnya aku bergeser mendekat. Kami masih terdorong mundur, tetapi tidak lagi tercerai. Sore itu, perjalanan kembali ke tempat beristirahat terasa sedikit lebih ringan.

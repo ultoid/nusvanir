@@ -16,3 +16,11 @@ Bangunannya menyerupai hotel megah di pohon, dengan fasilitas penerimaan dan pen
 - **Keamanan Tamu:** Kerahasiaan dan penjagaan melindungi pertemuan dari penyusup serta sabotase faksi yang memusuhi hubungan dengan ras luar.
 
 Wana Prasetya adalah tujuan khusus bagi tamu, bukan pemberian akses bebas ke pusat kekuatan Maharuna atau seluruh kawasan [[Luminasthana]].
+
+## Lore
+
+*Seorang pencatat rombongan diplomatik Mandala.*
+
+Aku tidak bisa menunjukkan jalan pulang ke Wana Prasetya sekalipun diminta mengulang perjalanan pagi tadi. Kami mengikuti pemandu melewati kabut, lalu sebuah bangunan muncul di antara dahan. Setelah sepatu berlumpur kami dibersihkan, seorang pelayan mengantar kami ke ruang istirahat yang jauh lebih nyaman daripada penginapan mana pun yang pernah kubayar sendiri.
+
+Di ruang pertemuan, kursi-kursi telah disiapkan untuk para tamu dari ras lain. Aku duduk di belakang utusan Mandala, mengeluarkan pena, dan mencoba tidak menatap terlalu lama. Jamuan harum tiba sebelum pembicaraan dimulai. Tanganku masih gemetar saat menyalin kalimat pembuka; aku takut satu kata yang keliru akan terbawa pulang sebagai maksud kerajaan.

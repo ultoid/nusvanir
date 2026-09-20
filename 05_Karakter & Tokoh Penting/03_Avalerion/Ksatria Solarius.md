@@ -1,7 +1,7 @@
 ---
 title: Ksatria Solarius
 wilayah: "[[Avalerion]]"
-ras: "[[Dewantara]]"
+ras: "[[Avesari_(Demigod)|Avesari]]"
 tags:
   - karakter
   - avalerion
@@ -13,9 +13,12 @@ tags:
 **Visual**: Demigod yang selalu diliputi aura panas membara. Menggunakan pedang dua tangan (claymore) yang bisa membelah batu dengan api.
 
 ### Latar Belakang & Lore
-Ignacius adalah spesialis penyerangan ofensif di perbatasan selatan Avalerion yang paling dekat dengan lautan Rangkaruna. Ia bertugas membumihanguskan gelombang Jenggala yang berhasil mendarat sebelum mereka mencapai batas kota suci.
+Solarius memimpin Outpost Agni di utara Avalerion, menghadap Pegunungan Arkananta. Ia menjadi komandan pada benteng yang paling sering menahan serangan makhluk dari pegunungan.
 
 ### Relasi Faksi
 - Loyalis **Ksatria Agung Galathius**.
 - Bertukar taktik tempur dengan naga dari klan Adamantine di Agnitra.
 
+## Penempatan
+
+Outpost Agni, sisi utara Avalerion, menghadap Arkananta. Benteng yang paling sering menahan serangan makhluk dari Pegunungan Arkananta. Pasukan api mempertahankan sisi utara Avalerion.

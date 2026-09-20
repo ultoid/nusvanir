@@ -23,3 +23,11 @@ Para tetua menenun sihir pelindung hutan di pusat ini. Kediaman pemimpin dan tem
 ## Markas institusi
 
 Dewan Rimba Seta bermarkas di pusat Luminasthana, di area Pohon Maharuna.
+
+## Lore
+
+*Seorang pembantu utusan yang mendapat izin masuk.*
+
+Pemandu kami berhenti sebelum jembatan pertama dan menunggu sampai seluruh rombongan berkumpul. Aku masih menatap ke atas. Rumah-rumah berada di tempat yang biasanya hanya kutemukan sarang burung; di antaranya, orang membawa keranjang dan saling memberi jalan. Luminasthana terdengar hidup, penuh langkah kaki pada kayu dan percakapan yang tidak kumengerti.
+
+Baru ketika kanopi terbuka, aku melihat Maharuna. Leherku pegal sebelum mataku menemukan ujung dahan-dahannya. Pemandu mengingatkan agar kami tetap di jalur yang diizinkan. Aku merapat pada rombongan sambil memeluk map surat. Di seberang jembatan, seorang Asrivana menjemur kain. Pekerjaan yang begitu biasa itu membuat kota yang menjulang di hadapanku terasa sedikit lebih dekat.

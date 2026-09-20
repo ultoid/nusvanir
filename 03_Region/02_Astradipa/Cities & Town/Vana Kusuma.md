@@ -21,3 +21,11 @@ Dalam catatan rute, tujuan harus menyebut Vana Kusuma yang dimaksud. Tidak ada s
 ## Kerja sama pertanian
 
 Vana Kusuma bekerja sama dalam bidang pertanian dengan [[Arthiska]], lumbung pangan Nusvanir di Mandala.
+
+## Lore
+
+*Seorang petani Arthiska dalam kunjungan kerja sama.*
+
+Aku datang membawa kebiasaan menghitung lahan dengan langkah kaki. Di Vana Kusuma yang kami kunjungi, aku kebingungan menentukan dari mana harus mulai: tanaman tumbuh di ketinggian yang berbeda, dan dengung lebah terdengar dari arah yang tidak bisa kulihat. Tuan rumah mengajakku mengikuti jalur kebun sambil menunjuk bagian-bagian yang sedang dikelola.
+
+Ketika ia menyebut Vana Kusuma lain di bagian hutan berbeda, barulah aku mengerti mengapa pemandu selalu bertanya tujuan kami dengan begitu rinci. Menjelang pulang, aku duduk mencatat di tepi kebun. Bau manis bunga menempel pada bajuku. Aku ingin membawa pulang sebanyak mungkin pengetahuan, tetapi halaman pertamaku hanya berisi gambar akar dan pertanyaan tentang air.

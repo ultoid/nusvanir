@@ -17,3 +17,15 @@ tags:
 ## Kerja sama pertahanan Nusvanir
 
 Valkindra merupakan pusat militer Nusvanir tempat manusia bekerja sama dengan Avesari dari Avalerion untuk mengembangkan kekuatan militer yang kokoh, menjaga keutuhan dan kedamaian Nusvanir. [[Ksatrya_Mandalagiri|Akademi Ksatrya Mandalagiri]] bermarkas di kota ini, menjadi pusat pendidikan dan pengembangan militer.
+
+## Penghubung Avalerion
+
+Valkindra berhadapan langsung dengan Outpost Bumi di selatan Avalerion. Pelatihan calon prajurit Mandala oleh Avesari berada di bawah komando Ksatria Terra, sebagai bagian kerja sama diplomasi militer.
+
+## Lore
+
+*Seorang calon prajurit Mandala.*
+
+Pada hari pertama di Valkindra, aku menyangka pedang baru akan membuatku tampak seperti prajurit. Menjelang sore, aku bahkan tidak sanggup mengangkatnya dengan benar. Instruktur memintaku memperbaiki pijakan, lalu mengulang gerakan yang sama. Di kejauhan, arah Avalerion tampak terang di balik udara berkabut.
+
+Seorang pelatih Avesari menghampiri barisan kami. Aku menunggu teguran, tetapi ia hanya menggeser sikuku sedikit dan menyuruhku mencoba lagi. Kali ini perisai tidak menghantam lutut. Malamnya, di tempat tidur, aku menulis kepada ibu bahwa latihan berjalan baik. Surat itu pendek. Telapak tanganku terlalu perih untuk menggenggam pena lama-lama.

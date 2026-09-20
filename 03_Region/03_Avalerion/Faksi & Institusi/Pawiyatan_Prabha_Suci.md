@@ -14,3 +14,7 @@ Pawiyatan Prabha Suci adalah institusi kedua terpenting di Avalerion. Tempat ini
 Institusi ini berisi para penyihir paling kuat dan suci di dunia. Berbeda dengan penelitian teknologi magis buatan yang dikembangkan di *Loka Cakra* milik [[Mandala Kingdom]], sihir yang dipelajari di sini adalah penyaluran langsung dari elemen cahaya murni. Karena prestisenya, penyihir-penyihir berbakat dari seluruh penjuru Nusvanir berbondong-bondong datang untuk memohon izin agar bisa belajar dan memperdalam ilmu sihir mereka di akademi ini. 
 
 Mereka yang berhasil lulus dari akademi ini akan diakui sebagai *High Mage* atau pendeta agung di wilayah asal mereka.
+
+## Markas dan penasihat
+
+Markas institusi berada di Avalerion Holy City. Lumina Jnanaprabha berasal dari institusi ini dan memberi kebijaksanaan mengenai sihir. Jabatan komando dan pendidikan merupakan pembagian tugas pelayanan dalam masyarakat Avesari yang setara.

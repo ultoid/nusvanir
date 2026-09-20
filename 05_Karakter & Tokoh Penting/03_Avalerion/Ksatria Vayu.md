@@ -1,7 +1,7 @@
 ---
 title: Ksatria Vayu
 wilayah: "[[Avalerion]]"
-ras: "[[Dewantara]]"
+ras: "[[Avesari_(Demigod)|Avesari]]"
 tags:
   - karakter
   - avalerion
@@ -18,3 +18,7 @@ Vayu bertanggung jawab atas patroli udara dan mencegat ancaman yang menyerang da
 ### Relasi Faksi
 - Anggota kavaleri udara elit **Senopati Prabha**.
 - Menjalin hubungan persahabatan erat dengan Jenderal Jatayu dari Nusa Sayendra.
+
+## Penempatan
+
+Outpost Bayu, sisi timur Avalerion, menghadap Astradipa. Spesialis serangan dan pertahanan udara. Ksatria Vayu menunggang Griffin raksasa dalam tugasnya.

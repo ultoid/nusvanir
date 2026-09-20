@@ -15,3 +15,7 @@ Institusi ini bertindak sebagai pusat komando militer tertinggi bagi seluruh wil
 
 ### Hubungan Politik dengan Raksamala
 Hal yang paling mengejutkan dari Senopati Prabha adalah mereka memiliki jalur hubungan politik tak resmi dengan [[Pulau Raksamala]] (wilayah Iblis). Meskipun sering bersitegang dan merupakan musuh bebuyutan dalam berbagai perang (yang tercatat dalam sejarah berdarah), komunikasi rahasia tetap dijaga semata-mata untuk mencegah kepunahan masal dan memastikan batas keseimbangan dunia tidak dilanggar oleh kedua belah pihak.
+
+## Markas dan penasihat
+
+Markas institusi berada di Avalerion Holy City. Lumina Wiraprabha berasal dari institusi ini dan memberi kebijaksanaan mengenai militer. Jabatan komando dan pendidikan merupakan pembagian tugas pelayanan dalam masyarakat Avesari yang setara.

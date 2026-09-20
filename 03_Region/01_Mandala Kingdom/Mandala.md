@@ -9,7 +9,7 @@ Mandala adalah pusat peradaban manusia, peradaban terbesar, dan wilayah dengan p
 
 Mandala berada di barat daya daratan utama Nusvanir dan menjadi salah satu pusat perdagangan serta politik. Cabang Pegunungan Arkananta menjadi pembatas di utara hingga timur laut, sementara pesisir selatan dan tenggaranya menghadap kawasan Laut Rangkaruna.
 
-Sistem Pemerintahan: Monarki Terpimpin. Raja bergelar 'Prabu Mandalapati' didampingi oleh [[Dewan_Candra_Nawa|Dewan Candra Nawa]] (9 penasehat utama).
+Sistem Pemerintahan: Monarki Terpimpin. Raja menyandang gelar takhta **Prabu Mandalapati** diikuti nomor urut penguasa dalam angka Romawi (contoh: Prabu Mandalapati XI). Gelar tersebut bukan nama asli; nama asli penguasa saat ini belum ditentukan. Raja didampingi oleh [[Dewan_Candra_Nawa|Dewan Candra Nawa]] (9 penasehat utama).
 
 ## Ibu kota dan jaringan kota
 

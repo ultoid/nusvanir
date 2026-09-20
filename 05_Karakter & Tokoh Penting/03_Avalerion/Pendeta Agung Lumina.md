@@ -1,7 +1,7 @@
 ---
 title: Pendeta Agung Lumina
 wilayah: "[[Avalerion]]"
-ras: "[[Dewantara]]"
+ras: "Avesari - transcendence menjadi cahaya"
 tags:
   - karakter
   - avalerion
@@ -9,13 +9,28 @@ tags:
 
 # Pendeta Agung Lumina
 
-**Identitas**: Kepala Akademi Pawiyatan Prabha Suci.
-**Visual**: Wanita anggun bersayap tunggal (sayap kanannya hilang dalam perang). Mengenakan jubah suci putih dan memegang kitab cahaya beraura emas.
+**Pendeta Agung Lumina** adalah sebutan pemimpin spiritual tertinggi Avalerion yang telah mencapai transcendence. Mereka berasal dari Avesari, telah menjadi cahaya, dan meninggalkan nafsu kemanusiaan. Sebutan ini tidak menunjuk hanya satu individu.
 
-### Latar Belakang & Lore
-Lumina adalah cendekiawan tertinggi di Avalerion. Ia mendedikasikan hidupnya untuk mendidik para ksatria muda dan pendeta tentang cara membaca konstelasi takdir dari malaikat [[Langitara]]. Di akademi yang ia pimpin, ia menyimpan banyak artefak sejarah yang selamat dari kejatuhan dunia lama. 
+## Tiga penasihat Avalerion saat ini
 
-### Relasi Faksi
-- Penasihat spiritual bagi **Ksatria Agung Galathius**.
-- Sering berdebat melalui surat magis dengan **Profesor Mantrawisesa** (Mandala) mengenai sains vs iman.
+- **Lumina Adiprabha:** Lumina pertama yang agung. Memberikan kebijaksanaan utama dalam pengabdian kepada Sang Hyang dan tugas suci Avalerion.
+- **Lumina Jnanaprabha:** Berasal dari Pawiyatan Prabha Suci. Memberikan kebijaksanaan terkait sihir.
+- **Lumina Wiraprabha:** Berasal dari Senopati Prabha. Memberikan kebijaksanaan terkait militer.
 
+Ketiganya melayani sebagai penasihat tertinggi, bukan kasta penguasa yang menempatkan nilai diri mereka di atas Avesari lain. Mekanisme keputusan bersama belum dirinci.
+
+## Avesari yang memilih pertapaan
+
+Banyak Avesari transcendence memilih bertapa di Tirta Amarta agar lebih dekat dengan Sang Hyang Cahaya; sebagian lainnya bertapa di berbagai wilayah Nusvanir. Tidak semua yang mencapai transcendence bertugas sebagai penasihat di Holy City.
+
+## Acuan Prologue
+
+[Chapter 10](../../08_Story/02_Prologue/10_Jalan_yang_Terbelah.md) menyebut Pendeta Agung Lumina mengawasi penelitian Void Crystal, menganugerahkan gelar Inventor dan Pahlawan Nusvanir, serta menyampaikan keputusan pemisahan Hiro dan Damian. Naskah belum menentukan siapa dari tiga Lumina yang tampil pada tiap adegan; pembagian tersebut belum ditetapkan ulang.
+
+## Lore Tersembunyi - Lumina penjaga penjara
+
+Di bawah tanah Avalerion terdapat Lumina lain yang tersembunyi, bertugas menjaga penjara suci dan Sangrahal. Keberadaannya tidak diketahui siapa pun, termasuk bangsa Avesari; karena itu ia tidak termasuk tiga penasihat yang dikenal di Holy City. Namanya belum ditentukan.
+
+Dalam kisah Dark Path, Lumina penjaga ini bertarung dengan Damian yang berusaha membebaskan Sangrahal. Sang peneliti kodex berhasil menghimpun rahasia ini melalui sumber tersembunyi; bentuk buku, artefak, atau rekaman yang menjadi sumbernya belum ditentukan. Informasi ini bukan pengetahuan umum warga atau para penasihat.
+
+Waktu dan proses penahanan Sangrahal belum ditentukan. Pada Prologue ia masih tampil di singgasana Raksamala; hubungan kronologis antara peristiwa itu dan penjara bawah tanah perlu ditetapkan saat pengembangan Dark Path.

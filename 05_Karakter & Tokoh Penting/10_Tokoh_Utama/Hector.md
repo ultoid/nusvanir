@@ -1,7 +1,7 @@
 ---
 title: "Hector"
 wilayah: "[[Thalantira]]"
-ras: "[[Wahanarsa]]"
+ras: "[[Avesari_(Demigod)|Avesari]]"
 tags:
   - karakter
   - tokoh_utama
@@ -24,3 +24,7 @@ Sepuluh tahun mendekam dalam tahanan, Hector akhirnya dibebaskan namun dijatuhi 
 - Ayah angkat dari **Damian**.
 - Mantan sahabat seperjuangan **Cassian**.
 - Berada di bawah sumpah pada **Uru**.
+
+## Kedewasaan pada masa Prologue
+
+Hector merupakan Avesari muda pada masa Prologue, belum mencapai transcendence. Sisi manusiawinya masih kuat, termasuk ambisi dan keterikatan emosional. Pada Avesari, sifat tersebut memudar secara bertahap seiring pendewasaan dan menguatnya cahaya, bukan hilang sejak lahir.

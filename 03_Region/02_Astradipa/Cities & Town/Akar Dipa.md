@@ -17,3 +17,11 @@ Akar Dipa merupakan lapisan pertahanan terakhir bagi pusat Asrivana, bukan sekad
 ## Markas institusi
 
 Akar Dipa merupakan markas utama Ksatrya Sylvana.
+
+## Lore
+
+*Seorang pembawa perlengkapan dengan izin terbatas.*
+
+Pengawal menghentikanku di tempat serah terima Akar Dipa. Aku boleh menurunkan barang, tetapi tidak mengikuti prajurit yang membawanya lebih jauh. Di atas kami, akar-akar besar melengkung melewati tanah; dari bagian dalam terdengar aba-aba latihan yang teredam.
+
+Aku bertanya apakah Maharuna dapat terlihat dari sini. Penjaga menunjuk ke arah atas, lalu kembali mengawasi jalur. Aku teringat rumah-rumah di kanopi dan orang-orang yang bekerja di kebun Vana Kusuma. Saat seorang prajurit keluar membawa peti kosong, ada tanah basah pada ujung pakaiannya. Aku menerima peti itu, mengikatnya di punggung, dan menunggu pengawal mengantarku kembali. Tidak ada seorang pun yang menawarkan jalan-jalan melihat benteng.

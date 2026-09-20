@@ -19,3 +19,11 @@ Jalur dari bagian dalam hutan menuju Kiskendha Giri beralih ke medan lereng. Pan
 ## Markas institusi
 
 Kiskendha Giri merupakan markas utama Ordo Brahma-Kera.
+
+## Lore
+
+*Seorang pengantar perlengkapan yang diundang.*
+
+Udara makin dingin ketika pemandu Hanorok memberi tanda untuk berhenti. Aku menurunkan bawaan di samping batu berlumut dan mencoba menyembunyikan napas yang tersengal. Di atas kami, bangunan Kiskendha Giri mengikuti lereng, terselip di antara akar dan sisa candi.
+
+Seorang Hanorok yang lewat membawa makanan berhenti untuk menunjukkan tempat duduk yang kering. Dari sana aku melihat latihan di pelataran: hentakan kaki, jeda, lalu gerakan yang diulang sampai tepat. Pengawalku menunggu tanpa mengeluh. Begitu napasku pulih, ia mengangkat bagiannya dan menoleh kepadaku. Aku buru-buru berdiri. Rupanya keramahan mereka tidak membuat lereng berikutnya menjadi lebih landai.

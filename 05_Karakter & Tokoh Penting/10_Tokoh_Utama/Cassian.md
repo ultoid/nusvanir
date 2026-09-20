@@ -1,7 +1,7 @@
 ---
 title: "Cassian"
 wilayah: "[[Mandala]]"
-ras: "[[Wahanarsa]]"
+ras: "[[Avesari_(Demigod)|Avesari]]"
 tags:
   - karakter
   - tokoh_utama
@@ -24,3 +24,7 @@ Setelah dibebaskan dengan status pahlawan namun terasing, Cassian mengambil tang
 - Ayah angkat **Hiro**.
 - Suami dari **Jane**.
 - Mantan sahabat karib **Hector**.
+
+## Kedewasaan pada masa Prologue
+
+Cassian merupakan Avesari muda pada masa Prologue, belum mencapai transcendence. Sisi manusiawinya masih kuat, termasuk ambisi dan keterikatan emosional. Pada Avesari, sifat tersebut memudar secara bertahap seiring pendewasaan dan menguatnya cahaya, bukan hilang sejak lahir.

@@ -29,4 +29,4 @@ Seorang tawanan dilemparkan ke ruang jamuan setelah berhari-hari tanpa makanan. 
 
 Tawanan itu melihat Jenggala yang telah berubah merangkak di bawah meja dan menyadari harga jamuan tersebut. Ia membalik piring agar aroma tertutup kuah hitam. Beelzebub mengaum, marah bukan karena kehilangan makanan, melainkan karena rasa lapar gagal menguasai keputusan korbannya.
 
-> Acuan: [Beelzebub](../../05_Karakter%20%26%20Tokoh%20Penting/09_Raksamala/Beelzebub.md); [Fortress of Gluttony](../../03_Region/10_Raksamala/Cities%20%26%20Town/Fortress%20of%20Gluttony.md); [Bhuta](../../04_Ras/04_Drahkthar/Bhuta.md); [Kerajaan Drakhtar](../../03_Region/10_Raksamala/Faksi%20%26%20Institusi/Kerajaan%20Drakhtar.md); [Threat](../../03_Region/10_Raksamala/Threat.md).
+> Acuan: [Beelzebub](../../05_Karakter%20%26%20Tokoh%20Penting/09_Raksamala/Beelzebub.md); [Fortress of Gluttony](../../03_Region/10_Raksamala/Cities%20%26%20Town/Fortress%20of%20Gluttony.md); [Bhuta](../../04_Ras/04_Drahkthar/Bhuta.md); [Kerajaan Drahkthar](../../03_Region/10_Raksamala/Faksi%20%26%20Institusi/Kerajaan%20Drahkthar.md); [Threat](../../03_Region/10_Raksamala/Threat.md).

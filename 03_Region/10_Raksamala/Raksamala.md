@@ -7,6 +7,8 @@ tags:
 
 # Raksamala
 
+Raksamala terletak pada jalur tenggara antara daratan utama Nusvanir dan Thalantira. Sang Hyang membentuk pulau ini sebagai barrier pertahanan dan penyamaran: siapa pun yang datang dari Nusvanir harus lebih dahulu melewati Rangkaruna serta menghadapi Raksamala sebelum dapat mengetahui keberadaan penjara Uru yang tersembunyi lebih jauh di tenggara. Pulau ini tidak mengelilingi Thalantira secara geografis.
+
 Raksamala adalah pulau kegelapan di seberang [[Laut Rangkaruna]], antitesis dari kehidupan yang dipelihara cahaya di daratan utama Nusvanir. Tanahnya tidak menumbuhkan kehidupan sejati. Yang bergerak di atasnya adalah para Drahkthar: keberadaan gelap yang bertahan melalui kuasa [[Sangrahal]]. Tidak ada masyarakat harmonis di pulau ini; tatanannya dibangun dari perbudakan, ketakutan, dan jiwa-jiwa yang tidak pernah memperoleh ketenangan.
 
 ## Tatanan Drahkthar
@@ -42,7 +44,7 @@ Setiap panglima memegang satu **Segel Dosa**. Ketujuh segel harus dipatahkan aga
 
 Di pusat Raksamala berdiri [[Mahadurg Kalaniskala]], kastel gelap tempat Singgasana Sangrahal berada. Seluruh jalur benteng mengarah ke sana, seolah-olah pulau itu sendiri merupakan tubuh raksasa dan mahadurg tersebut adalah jantungnya.
 
-Pada akhir Prologue, Hector menjadi satu-satunya makhluk fana yang tercatat berhasil menaklukkan ketujuh panglima, mematahkan tujuh segel, dan mencapai singgasana Sangrahal. Benteng-benteng dosa dibakar dan peradaban Drakhtar diporak-porandakan, tetapi Sangrahal tetap hidup. Catatan setiap benteng dalam kodex ini menggambarkan keadaannya sebelum kehancuran tersebut.
+Pada akhir Prologue, Hector menjadi satu-satunya makhluk fana yang tercatat berhasil menaklukkan ketujuh panglima, mematahkan tujuh segel, dan mencapai singgasana Sangrahal. Benteng-benteng dosa dibakar dan peradaban Drahkthar diporak-porandakan, tetapi Sangrahal tetap hidup. Catatan setiap benteng dalam kodex ini menggambarkan keadaannya sebelum kehancuran tersebut.
 
 Setelah peristiwa itu, Sangrahal memperoleh Void Crystal, kehilangan akal sehat pada masa yang belum ditetapkan, dan kemudian dipenjara di bawah Avalerion. Karena ia masih hidup, ikatan keberadaan Raksamala belum terputus. Cara penangkapannya dan keadaan pulau setelah penahanan itu belum diketahui oleh penyusun kodex ini.
 

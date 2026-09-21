@@ -16,8 +16,11 @@ Pedoman lengkapnya tersedia di [Perspektif Kodex](Perspektif_Kodex.md).
 
 - [Geografi global](Geografi_Global.md)
 - [Iklim dan bioma](Iklim_dan_Bioma.md)
+- [Kronologi Nusvanir](Kronologi_Nusvanir.md)
 - [Hubungan antarwilayah](Hubungan_Antarwilayah.md)
 - [Jalur, skala jarak, dan waktu perjalanan](Jalur_dan_Perjalanan.md)
+- [Jaringan perjalanan resmi](Jaringan_Perjalanan_Resmi.md)
+- [Skala populasi dan permukiman](Skala_Populasi_dan_Permukiman.md)
 - [Perspektif dan sumber pengetahuan kodex](Perspektif_Kodex.md)
 - [Peta dunia](../09_Maps/Nusvanir%20World%20Map.png)
 

@@ -6,7 +6,7 @@ tags:
 
 # Bhuta
 
-Ras iblis elit dan komandan perang utama di Kerajaan Drakhtar, [[Raksamala]]. Secara hierarki, mereka berada langsung di bawah Sangrahal. Sama halnya dengan Dhemit, Bhuta adalah makhluk yang sejatinya sudah mati sehingga tidak memiliki batas usia alami. Keberadaan mereka ditopang oleh kuasa Sangrahal; apabila ia benar-benar mati, mereka akan sirna bersamanya.
+Ras iblis elit dan komandan perang utama di Kerajaan Drahkthar, [[Raksamala]]. Secara hierarki, mereka berada langsung di bawah Sangrahal. Sama halnya dengan Dhemit, Bhuta adalah makhluk yang sejatinya sudah mati sehingga tidak memiliki batas usia alami. Keberadaan mereka ditopang oleh kuasa Sangrahal; apabila ia benar-benar mati, mereka akan sirna bersamanya.
 
 ### Antitesis Avesari dan *Death Knight*
 Berbeda drastis dengan Dhemit yang tak berakal, Bhuta masih mempertahankan kesadaran penuh dan hawa nafsu duniawi mereka. Walaupun begitu, kehendak bebas mereka sepenuhnya berada dalam genggaman dan kendali mutlak Sangrahal.

@@ -8,7 +8,7 @@ tags:
 
 # Mahadurg Kalaniskala
 
-Mahadurg Kalaniskala adalah kastel pusat Kerajaan Drakhtar dan singgasana [[Sangrahal]]. Namanya diterjemahkan oleh penyusun kodex sebagai **Benteng Agung Kegelapan Tak Berwujud**, sebab menara dan lorongnya tidak selalu berada pada tempat yang sama. Bangunan itu berdiri dari obsidian, tulang, serta bayangan yang mengeras di tengah Raksamala.
+Mahadurg Kalaniskala adalah kastel pusat Kerajaan Drahkthar dan singgasana [[Sangrahal]]. Namanya diterjemahkan oleh penyusun kodex sebagai **Benteng Agung Kegelapan Tak Berwujud**, sebab menara dan lorongnya tidak selalu berada pada tempat yang sama. Bangunan itu berdiri dari obsidian, tulang, serta bayangan yang mengeras di tengah Raksamala.
 
 ## Gerbang Tujuh Segel
 

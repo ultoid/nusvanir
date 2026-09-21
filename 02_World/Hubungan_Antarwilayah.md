@@ -34,13 +34,13 @@ Dari utara dan barat laut, ekspedisi memasuki Perairan Dangkal Rangkaruna sebelu
 
 Raksamala tidak menjalin hubungan diplomasi atau perdagangan dengan wilayah Nusvanir. Sangrahal memandang penduduk daratan utama sebagai sumber jiwa yang mempertahankan keberadaan Drahkthar. Portal gelap digunakan untuk mengirim Jenggala berburu tumbal, sedangkan pemuja Sangrahal dapat membuka jalan dari dalam masyarakat melalui ritual dan pengorbanan.
 
-Mandala dan Astradipa menjadi sasaran perburuan manusia serta Asrivana. Avalerion dan Nusa Sayendra mempertahankan Nusvanir dari serangan Drakhtar, sementara Agnitra dapat memberi bala bantuan kepada Mandala untuk menghadapi Jenggala. Laut Rangkaruna memperlambat serangan terbuka dari pulau itu, tetapi tidak dapat mencegah perpindahan melalui portal.
+Mandala dan Astradipa menjadi sasaran perburuan manusia serta Asrivana. Avalerion dan Nusa Sayendra mempertahankan Nusvanir dari serangan Drahkthar, sementara Agnitra dapat memberi bala bantuan kepada Mandala untuk menghadapi Jenggala. Laut Rangkaruna memperlambat serangan terbuka dari pulau itu, tetapi tidak dapat mencegah perpindahan melalui portal.
 
 Pada akhir Prologue, Hector menghancurkan tujuh benteng dosa dan mencapai Sangrahal. Kerusakan tersebut mematahkan tatanan militer Raksamala pada masa itu, tetapi tidak memusnahkan seluruh Drahkthar karena Sangrahal tetap hidup. Pada era Light dan Dark Path, penahanan Sangrahal di bawah Avalerion menjadikan penjara tersebut titik yang menentukan kelangsungan Raksamala.
 
 ## Thalantira dan kebangkitan Uru
 
-Thalantira berada di tenggara Raksamala dan tersembunyi oleh cincin karang, badai, serta ilusi Uru. Pulau ini tidak memiliki hubungan diplomasi. Ia menerima atau menolak pengunjung sesuai kehendak Uru, sehingga rute dan keadaan yang dialami satu ekspedisi tidak dapat dianggap tetap untuk perjalanan berikutnya.
+Thalantira berada di tenggara Raksamala dan tersembunyi oleh pertahanan berlapis. Dari daratan utama, Laut Rangkaruna memutus pelayaran biasa; Raksamala kemudian berdiri pada jalur pendekatan sebagai barrier yang menutupi keberadaan pulau penjara; cincin karang, badai setempat, dan ilusi Uru menjaga lapisan terakhir. Raksamala tidak mengelilingi Thalantira secara geografis. Thalantira tidak memiliki hubungan diplomasi. Ia menerima atau menolak pengunjung sesuai kehendak Uru, sehingga rute dan keadaan yang dialami satu ekspedisi tidak dapat dianggap tetap untuk perjalanan berikutnya.
 
 Pada akhir Prologue, Hector dan Cassian membangunkan Uru serta membawa satu serpihan Void Crystal ke daratan utama. Avalerion menyegel serpihan itu untuk penelitian, sedangkan Uru mulai mengarahkan peristiwa agar Hector menjadi wadah barunya. Sejak saat itu, ancaman Thalantira tidak lagi terbatas pada pulau: bagian tubuh Uru telah memasuki Nusvanir dan dapat menjadi penghubung bagi pengaruhnya.
 

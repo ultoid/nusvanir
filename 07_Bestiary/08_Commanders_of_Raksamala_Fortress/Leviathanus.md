@@ -29,4 +29,4 @@ Dua penyusup melihat masa depan berbeda di dalam cermin: satu dipuji sebagai pah
 
 Salah seorang memecahkan cerminnya sendiri dan meminta rekannya melakukan hal sama. Bayangan sempurna runtuh menjadi pecahan yang hanya memperlihatkan wajah lelah mereka. Leviathanus menyerang dari danau, marah karena perbandingan itu kehilangan permukaan tempat tumbuh.
 
-> Acuan: [Leviathanus](../../05_Karakter%20%26%20Tokoh%20Penting/09_Raksamala/Leviathanus.md); [Fortress of Envy](../../03_Region/10_Raksamala/Cities%20%26%20Town/Fortress%20of%20Envy.md); [Bhuta](../../04_Ras/04_Drahkthar/Bhuta.md); [Kerajaan Drakhtar](../../03_Region/10_Raksamala/Faksi%20%26%20Institusi/Kerajaan%20Drakhtar.md); [Threat](../../03_Region/10_Raksamala/Threat.md).
+> Acuan: [Leviathanus](../../05_Karakter%20%26%20Tokoh%20Penting/09_Raksamala/Leviathanus.md); [Fortress of Envy](../../03_Region/10_Raksamala/Cities%20%26%20Town/Fortress%20of%20Envy.md); [Bhuta](../../04_Ras/04_Drahkthar/Bhuta.md); [Kerajaan Drahkthar](../../03_Region/10_Raksamala/Faksi%20%26%20Institusi/Kerajaan%20Drahkthar.md); [Threat](../../03_Region/10_Raksamala/Threat.md).

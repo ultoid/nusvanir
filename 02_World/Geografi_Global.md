@@ -4,7 +4,7 @@
 
 ## Acuan pembacaan
 
-Posisi relatif wilayah mengikuti peta dunia, dengan utara di bagian atas, timur di kanan, selatan di bawah, dan barat di kiri. Peta ilustrasi berwarna tidak mencantumkan skala jarak. Skala kerja kini ditetapkan dalam [Jalur dan Perjalanan](Jalur_dan_Perjalanan.md) berdasarkan peta garis terbaru dari penulis dan patokan Aqualis-Raksamala tujuh hari kapal. Ukuran ikon pada peta berwarna bukan alat ukur. Posisi rinci Nusa Sayendra dan bentuk Thalantira pada peta terbaru berbeda dari ilustrasi lama; tabel di bawah masih merangkum ilustrasi lama, sedangkan perhitungan jarak mengikuti peta terbaru.
+Posisi relatif wilayah mengikuti peta dunia, dengan utara di bagian atas, timur di kanan, selatan di bawah, dan barat di kiri. Peta ilustrasi berwarna tidak mencantumkan skala jarak. Skala kerja kini ditetapkan dalam [Jalur dan Perjalanan](Jalur_dan_Perjalanan.md) berdasarkan peta garis terbaru dari penulis dan patokan Aqualis-Raksamala tujuh hari kapal. Koridor yang dipakai masyarakat dirangkum dalam [Jaringan Perjalanan Resmi](Jaringan_Perjalanan_Resmi.md). Ukuran ikon pada peta berwarna bukan alat ukur. Posisi rinci Nusa Sayendra dan bentuk Thalantira pada peta terbaru berbeda dari ilustrasi lama; tabel di bawah masih merangkum ilustrasi lama, sedangkan perhitungan jarak mengikuti peta terbaru.
 
 Uraian hubungan arah memakai [perspektif penyusun Pribumi Mandala](Perspektif_Kodex.md). Arah mata angin tetap objektif, tetapi pemilihan jalur, pintu masuk, dan kedekatan wilayah mengikuti pengalaman perjalanan dari Mandala.
 
@@ -29,6 +29,8 @@ Agnitra, Nusa Sayendra, dan Raksamala digambarkan sebagai pulau yang terpisah da
 | [Laut Rangkaruna](../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md) | Laut Rangkaruna membentang di selatan dan tenggara daratan utama sebagai benteng menuju Pulau Raksamala. Dari utara dan barat laut, perairannya berurutan menjadi Perairan Dangkal, Zona Badai Abadi beserta Kuburan Kapal, lalu Palung Kematian menuju Raksamala. Laut ini bukan jalur perdagangan. |
 | [Raksamala](../03_Region/10_Raksamala/Raksamala.md) | Raksamala merupakan pulau terpisah di tenggara Nusvanir, di seberang Laut Rangkaruna dari daratan utama. Pulau ini berada di tenggara Cakrawala dan Agnitra, serta di selatan hingga barat daya Nusa Sayendra. Peta menampilkannya sebagai daratan gelap dengan pepohonan mati dan retakan berpijar; penanda Thalantira berada lebih jauh di tenggaranya. |
 | [Thalantira](../03_Region/11_Thalantira/Thalantira.md) | Penanda Thalantira berada di sudut tenggara peta, di tenggara Pulau Raksamala. Kawasannya diselimuti kabut dan diberi label "Mysterious Island (Thalantira)". Garis pantai, bentuk pulau, serta jalur di dalamnya tidak dapat dipastikan karena selubung ilusi Uru mengubah pengalaman setiap tamu. |
+
+Raksamala berada pada jalur pendekatan dari daratan utama menuju Thalantira. Sang Hyang membentuknya sebagai barrier pertahanan sekaligus pengalih: penjelajah dari Nusvanir akan menghadapi Rangkaruna dan Raksamala sebelum dapat mengetahui bahwa Thalantira berada lebih jauh di tenggara. Hubungan ini bersifat berlapis menurut arah perjalanan; Raksamala tidak mengelilingi Thalantira secara geografis.
 
 ## Selat Agnitra dan Laut Rangkaruna
 

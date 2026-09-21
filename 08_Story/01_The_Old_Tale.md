@@ -37,13 +37,13 @@ Terpesona dan penasaran dengan pulau ajaib tersebut, Uru lengah. Pada saat itula
 
 Hingga detik ini, kristal tersebut memproyeksikan ilusi absolut ke dalam benak Uru. Di dalam segelnya, Uru merasa masih bebas mengamati, bermain, dan bersenang-senang dengan dunia ciptaan Sang Hyang. Namun, Sang Hyang tahu ilusi ini tak akan bertahan selamanya. Suatu saat nanti, ilusi itu akan pudar, Uru akan tersadar dari mimpinya, dan kemarahannya karena dikurung akan memporak-porandakan seluruh tatanan penciptaan demi membalas dendam.
 
-## Cincin Pengepungan Raksamala dan Penjaga Terakhir
+## Benteng Raksamala dan Penjaga Terakhir
 
 Sebagai langkah antisipasi mutlak atas kebangkitan Uru, Sang Hyang Cahaya membelah eksistensinya secara permanen dan memberikan wujud independen kepada Kegelapan miliknya, melahirkan **Kala Laksana**. 
 
-Alih-alih iblis penghancur dunia, Kala Laksana pada hakikatnya adalah "Sipir Penjara" tertinggi. Sang Hyang sengaja menciptakan benua iblis **Raksamala** di sekeliling Thalantira. Tempat bersemayam Kala Laksana dan seluruh pasukannya itu bukanlah sarang kejahatan murni, melainkan Garis Pertahanan Pertama (*First Line of Defense*) yang mengepung Thalantira secara absolut apabila Uru memecahkan kristalnya. 
+Alih-alih iblis penghancur dunia, Kala Laksana pada hakikatnya adalah "Sipir Penjara" tertinggi. Sang Hyang sengaja menciptakan pulau kegelapan **Raksamala** pada jalur antara daratan utama Nusvanir dan Thalantira. Tempat bersemayam Kala Laksana dan seluruh pasukannya itu menjadi Garis Pertahanan Pertama (*First Line of Defense*): penghalang yang harus dihadapi sebelum siapa pun dari Nusvanir dapat menemukan penjara Uru. Keberadaannya sekaligus menutupi Thalantira di balik ancaman yang lebih dahulu terlihat oleh para pelaut.
 
-Sementara itu, barier tak kasat mata, badai abadi, arus mengerikan, dan makhluk super-kuat di sekeliling Thalantira diciptakan bukan untuk mengurung bahaya di dalam, melainkan sebagai barikade agar **tidak ada satu pun manusia atau entitas yang bisa menginjakkan kaki ke pulau itu**, demi mencegah apa pun yang bisa tanpa sengaja membangunkan Uru.
+Sementara itu, barier tak kasat mata, badai abadi Rangkaruna, arus mengerikan, Raksamala, serta cincin karang dan ilusi di sekitar Thalantira membentuk pertahanan berlapis. Semuanya menghalangi manusia atau entitas yang hendak menginjakkan kaki ke pulau penjara, demi mencegah siapa pun membangunkan Uru tanpa sengaja.
 
 ## Persiapan Menuju Hari Akhir (Doomsday)
 

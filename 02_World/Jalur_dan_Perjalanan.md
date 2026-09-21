@@ -1,8 +1,10 @@
 # Jalur dan Perjalanan Nusvanir
 
-[Atlas Nusvanir](Nusvanir.md) | [Geografi global](Geografi_Global.md) | [Hubungan antarwilayah](Hubungan_Antarwilayah.md)
+[Atlas Nusvanir](Nusvanir.md) | [Geografi global](Geografi_Global.md) | [Hubungan antarwilayah](Hubungan_Antarwilayah.md) | [Jaringan perjalanan resmi](Jaringan_Perjalanan_Resmi.md)
 
 ## Status dan acuan
+
+Dokumen ini memuat metode ukur, kecepatan dasar, dan cara menghitung hambatan. Daftar koridor yang dikenal, status akses, dan rentang waktu yang dapat langsung dipakai dalam cerita tersedia di [Jaringan Perjalanan Resmi](Jaringan_Perjalanan_Resmi.md).
 
 Patokan penulis: perjalanan Aqualis menuju pesisir barat Pulau Raksamala memerlukan sekitar **7 hari pada kecepatan kapal relatif konstan**. Dalam Prologue, bantuan aeromancy Rama memungkinkan perjalanan lebih cepat. Patokan ini dipakai sebagai waktu dasar sebelum hambatan, sesuai permintaan penyusunan skala horizontal dahulu.
 

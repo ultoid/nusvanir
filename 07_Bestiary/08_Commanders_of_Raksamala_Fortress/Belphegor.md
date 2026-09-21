@@ -29,4 +29,4 @@ Seorang penyusup melihat tempat tidur bersih di tengah kabut dan berjanji hanya 
 
 Ia menjatuhkan ransel agar tubuh lebih ringan, lalu mengambil satu langkah. Setelah setiap langkah ia mengulang nama orang yang ingin diselamatkan. Belphegor tetap diam, yakin tekad itu akan habis. Ketika suara langkah mencapai ruang singgasana, untuk pertama kalinya batu di tubuh sang panglima bergerak.
 
-> Acuan: [Belphegor](../../05_Karakter%20%26%20Tokoh%20Penting/09_Raksamala/Belphegor.md); [Fortress of Sloth](../../03_Region/10_Raksamala/Cities%20%26%20Town/Fortress%20of%20Sloth.md); [Bhuta](../../04_Ras/04_Drahkthar/Bhuta.md); [Kerajaan Drakhtar](../../03_Region/10_Raksamala/Faksi%20%26%20Institusi/Kerajaan%20Drakhtar.md); [Threat](../../03_Region/10_Raksamala/Threat.md).
+> Acuan: [Belphegor](../../05_Karakter%20%26%20Tokoh%20Penting/09_Raksamala/Belphegor.md); [Fortress of Sloth](../../03_Region/10_Raksamala/Cities%20%26%20Town/Fortress%20of%20Sloth.md); [Bhuta](../../04_Ras/04_Drahkthar/Bhuta.md); [Kerajaan Drahkthar](../../03_Region/10_Raksamala/Faksi%20%26%20Institusi/Kerajaan%20Drahkthar.md); [Threat](../../03_Region/10_Raksamala/Threat.md).

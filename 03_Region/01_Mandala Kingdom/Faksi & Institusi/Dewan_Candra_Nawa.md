@@ -44,3 +44,21 @@ Konflik ini jarang diumbar secara lantang, tetapi terus berlangsung di balik keg
 ## Hubungan dengan raja dan keadaan pasca-Prologue
 
 [[Prabu Mandalapati|Prabu Mandalapati XI]] bersifat labil dan emosional, jarang mengamati keadaan rakyat secara langsung, serta hanya memperoleh informasi melalui dewan. Persaingan anggota dan ketergantungan raja pada laporan mereka membuat kebijakan berubah-ubah. Pada era pasca-Prologue, keadaan ini membawa Mandala ke titik terendahnya, meskipun dewan secara formal tetap mengurus pilar-pilar pemerintahan kerajaan.
+
+## Pengangkatan anggota dan pejabat tinggi
+
+Anggota Dewan Candra Nawa dan pejabat tinggi lainnya dipilih dan diangkat langsung oleh raja berdasarkan keputusan dewan. Jabatan tidak diwariskan kepada anak pemegangnya. Pribumi dapat menduduki jabatan tinggi tanpa otomatis menjadi Wahanarsa. Pewarisan jabatan hanya berlaku bagi takhta Mandalapati, dengan anak penerus ditentukan oleh raja.
+
+## Status bangsawan dan kepemilikan tanah
+
+Dewan memeriksa dan memberikan rekomendasi [[Anugerah_Wahanarsa|Anugerah Wahanarsa]], sedangkan pengesahannya berada pada raja. Pengusul di dalam dewan atau anggota yang memiliki hubungan keluarga langsung dengan calon wajib menyatakan kepentingannya dan tidak ikut memberikan suara. Pembatalan atau pencabutan status juga memerlukan pemeriksaan dewan dan keputusan raja.
+
+Dewan mengatur kepemilikan tanah Mandala. Pribumi maupun Wahanarsa harus memperoleh dan mengesahkan hak tanah sebelum mendirikan properti. Petugas wilayah menangani pencatatan sehari-hari di bawah aturan dewan. Pajak dan harga tanah dibahas dalam [Ekonomi Mandala](../Economy.md).
+
+## Pendidikan dan pelaksanaan kebijakan
+
+Pada era pasca-Prologue, Cassian merancang [[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]]: sembilan tahun wajib yang dijamin kerajaan, kontribusi hasil produksi sesuai kemampuan, dan kelanjutan opsional hingga total lima belas tahun. Kebijakan tersebut berkaitan dengan bidang pendidikan, anggaran, sumber hayati, serta pertahanan yang dikelola dewan. Reformasi pendidikan berlangsung di tengah konflik politik yang tetap memengaruhi pelaksanaan kebijakan.
+
+## Hubungan dengan Agama Surya
+
+Agama Surya merupakan agama resmi kerajaan yang bebas dianut atau tidak. Dewan dan kerajaan dapat menyokong Dharma Surya Adhi bersama donasi umat. Pemimpin agama bergelar Mahabrahmana Surya dan dipilih Brahmana senior; jabatan Arta Surya Pandita di dewan tetap diangkat raja berdasarkan keputusan dewan. Tokoh saat ini memegang keduanya, tanpa menjadikan salah satu pengangkatan otomatis memberikan jabatan lainnya.

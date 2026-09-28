@@ -22,7 +22,7 @@ Lingkar Surya adalah titik pusat Mandala Capital. Keraton atau Istana Raja Manda
 
 Lingkar Dharma berada di luar Lingkar Surya. Sektor ini merupakan pusat riset, sekolah, universitas, penelitian, pusat guild, dan pusat sihir. Perkembangan pengetahuan di sini menjadi salah satu kekuatan utama Pribumi.
 
-Pribumi merupakan manusia biasa yang paling lemah secara kemampuan bawaan dan tidak memiliki kekuatan sihir di dalam dirinya. Mereka berkembang sangat cepat melalui penemuan dan rekayasa: rune memungkinkan penggunaan sihir melalui perantara, sedangkan teknologi tempur dapat menghasilkan senjata yang mampu menembus sisik keras Nagarasven. Kemampuan tersebut berasal dari pengetahuan dan perangkat, bukan sihir bawaan Pribumi.
+Pribumi merupakan manusia biasa yang paling lemah secara kemampuan bawaan dan tidak dapat mengeluarkan sihir secara alami; media mengonversi energi kehidupan dalam tubuh menjadi mana. Mereka berkembang sangat cepat melalui penemuan dan rekayasa: rune memungkinkan penggunaan sihir melalui perantara, sedangkan teknologi tempur dapat menghasilkan senjata yang mampu menembus sisik keras Nagarasven. Kemampuan tersebut berasal dari pengetahuan dan perangkat, bukan sihir bawaan Pribumi.
 
 - **Fasilitas:** Sekolah, universitas, pusat riset, perpustakaan, serta tempat pengembangan sihir dan teknologi.
 - **Pusat guild:** Menampung kegiatan keilmuan dan pengembangan guild; markas pengawas guild Gilda Arthapasa berada di Lingkar Wira.
@@ -68,3 +68,9 @@ Keempat arah dihitung dari Mandala Capital. Lihat [Jalur dan Perjalanan](../../.
 Dari rumah kami di luar benteng, atap istana tampak kecil di antara menara. Ibu selalu menyuruhku berangkat sebelum jalan dipenuhi gerobak. Pagi itu aku membawa pesanan perkakas ke gudang Lingkar Samodra, melewati rumah-rumah yang makin rapat dan penjaga yang memeriksa muatan. Di dalam tembok, selokan lebih bersih. Aku menunduk melihat lumpur yang kubawa pada sandal.
 
 Di dekat gudang, seorang pemuda memperbaiki alat berukir rune. Cahaya kecil menyala di sela jemarinya, padahal ia Pribumi seperti aku. Katanya ia belajar di Lingkar Dharma. Aku hendak bertanya cara mendaftar ketika juru gudang memanggil: surat pengirimanku harus diperiksa lagi karena aturan berubah. Aku duduk di atas peti sampai siang, memandangi cahaya alat pemuda itu dari seberang jalan.
+
+## Budaya dan kehidupan masyarakat
+
+Di Lingkar Bumi, pasar dan rumah tangga terhubung dengan pekerjaan pemerintahan, logistik, dan pendidikan di lingkar lain. Wahanarsa mayoritas tinggal di dalam benteng dan Pribumi di luar, tanpa larangan mutlak perpindahan kedua golongan. Busana berlapis, mutu tenun, serta lambang keluarga atau jabatan menunjukkan kedudukan. Nasi menjadi makanan pokok; bubur pagi Lingkar Bumi memakai beras, sedangkan jamuan elite menghadirkan bahan dan lauk yang lebih mewah. Hari Pengikraran menandai penerimaan tanggung jawab, termasuk pengangkatan bangsawan.
+
+Lihat [Budaya dan Kehidupan Mandala](../Budaya_dan_Kehidupan.md) untuk tradisi bersama, busana, dan makanan. Pendidikan pasca-Prologue mengikuti [[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]].

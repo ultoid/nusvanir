@@ -28,3 +28,9 @@ Setelah dibebaskan dengan status pahlawan namun terasing, Cassian mengambil tang
 ## Kedewasaan pada masa Prologue
 
 Cassian merupakan Avesari muda pada masa Prologue, belum mencapai transcendence. Sisi manusiawinya masih kuat, termasuk ambisi dan keterikatan emosional. Pada Avesari, sifat tersebut memudar secara bertahap seiring pendewasaan dan menguatnya cahaya, bukan hilang sejak lahir.
+
+## Reformasi pendidikan Mandala
+
+Pada era pasca-Prologue, setelah menjadi peneliti di Mandala, Cassian merancang **Sistem Widya Mandala** dan jaringan **[[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]]**. Program ini membuka pendidikan untuk seluruh anak, termasuk Pribumi miskin yang sebelumnya sulit bersekolah dan diarahkan menjadi pekerja kasar.
+
+Pendidikan wajib sembilan tahun dijamin kerajaan; kontribusi keluarga dapat berbentuk hasil pertanian, laut, bumi, atau sumber daya lain sesuai kemampuan, dengan pembebasan bagi yang tidak mampu. Pendidikan lanjutan bersifat opsional hingga total lima belas tahun. Kurikulum wajib mencakup latihan militer dasar sebagai bekal cadangan pertahanan kerajaan. Tahun tepat pendirian belum ditetapkan.

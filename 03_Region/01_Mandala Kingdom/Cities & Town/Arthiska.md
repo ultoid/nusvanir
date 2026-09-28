@@ -27,3 +27,9 @@ Ladang, peternakan, dan area pertanian menjadikan Arthiska pusat pangan Mandala 
 Roda gerobakku terbenam di tepi ladang saat matahari baru naik. Dua tetangga membantu mendorong, sementara anakku menenangkan ternak yang menariknya. Dari tempat kami berdiri, sawah berundak memantulkan langit. Orang menyebut Arthiska lumbung Nusvanir; bagiku, pagi itu, seluruh dunia terasa seberat karung-karung yang harus sampai ke tempat pengumpulan.
 
 Di sana, seorang Asrivana dari Vana Kusuma sedang berbicara dengan para pengelola pertanian. Aku tak memahami semua istilahnya, tetapi ketika ia berjongkok memeriksa akar tanaman, aku ikut mendekat. Ia memberi ruang agar aku bisa melihat. Anakku menarik lengan bajuku, meminta dijelaskan. Untuk sekali itu, kami pulang lebih lambat bukan karena roda terbenam, melainkan karena aku terlalu banyak bertanya.
+
+## Budaya dan kehidupan masyarakat
+
+Keseharian mengikuti pengairan, musim tanam, panen, peternakan, pengobatan, serta pekerjaan tenun. Hubungan agrikultur dengan Vana Kusuma mempertemukan manusia dan Asrivana. Pakaian kerja ladang berdampingan dengan tenun sakral kawung dan parang yang dibuat bersama doa Kidung Fajar. Dalam Pembukaan Lumbung Arthiska, cadangan pangan dihitung dan disimpan sebelum pesta panen. Nasi dari beras menjadi makanan pokok, disertai sayur, hasil ternak, serta rempah setempat; gandum menjadi makanan tambahan.
+
+Lihat [Budaya dan Kehidupan Mandala](../Budaya_dan_Kehidupan.md) untuk tradisi bersama, busana, dan makanan. Pendidikan pasca-Prologue mengikuti [[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]].

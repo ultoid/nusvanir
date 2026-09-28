@@ -20,3 +20,13 @@ Meskipun fana, Pribumi adalah ras yang paling fleksibel dalam hal penentuan takd
 ### Pengetahuan, rune, dan teknologi
 
 Ketiadaan sihir bawaan diimbangi oleh perkembangan ilmu dan penemuan yang sangat cepat. Pribumi menggunakan rune serta perangkat sebagai perantara untuk mengeluarkan sihir, dan mengembangkan alat tempur yang mampu menembus sisik keras Nagarasven. Pusat pengembangan ilmu tersebut berada di Lingkar Dharma, Mandala Capital, termasuk Loka Cakra.
+
+### Mana, pendidikan, dan kedudukan
+
+Ketiadaan sihir bawaan berarti manusia tidak dapat mengeluarkan sihir secara alami. Melalui media, energi atau cahaya kehidupan dalam tubuh dikonversi menjadi mana. Penggunaan berlebih menguras energi kehidupan; Pengaman Ambang Hayat pada perangkat memutus fungsi saat cadangan pengguna mencapai batas aman. Aturan ini berlaku pula bagi Wahanarsa. Lihat [[Metode_Penguasaan_Sihir|Metode Penguasaan Sihir]].
+
+Pada masa pra-Prologue, Pribumi miskin sulit mengakses pendidikan dan diarahkan menjadi pekerja kasar. Setelah Cassian menjadi peneliti di Mandala pada era pasca-Prologue, [[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]] menyediakan sembilan tahun pendidikan wajib yang dibiayai kerajaan, dengan kontribusi hasil produksi sesuai kemampuan dan pembebasan bagi keluarga yang tidak mampu, serta jalur opsional hingga total lima belas tahun.
+
+Pribumi dapat menjadi pedagang kaya, peneliti terkemuka, atau pejabat tinggi. Jasa luar biasa dapat menjadi dasar pengangkatan melalui [[Anugerah_Wahanarsa|Anugerah Wahanarsa]], tetapi jabatan tinggi sendiri tidak otomatis mengubah status. Keduanya adalah golongan dalam ras biologis manusia yang sama.
+
+Nasi dari beras merupakan makanan pokok. Corak pekerjaan, busana, tradisi, dan lauk berbeda menurut kota; lihat [[Budaya_dan_Kehidupan|Budaya dan Kehidupan Mandala]].

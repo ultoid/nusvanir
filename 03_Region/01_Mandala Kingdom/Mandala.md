@@ -65,3 +65,26 @@ Acuan: [Peta Dunia Nusvanir](../../09_Maps/Nusvanir%20World%20Map.png), dibaca d
 Penguasa saat ini adalah [[Prabu Mandalapati|Prabu Mandalapati XI]], raja yang labil dan emosional, berbeda dari para pendahulunya yang bijaksana. Ia jarang melihat keadaan rakyat langsung dan hanya mendapat informasi dari Dewan Candra Nawa. Kesembilan anggota dewan sulit mencapai musyawarah, hampir selalu memakai suara terbanyak, menyimpan dendam, dan saling berebut pengaruh atas raja demi kepentingan pribadi.
 
 Kebijakan yang berubah-ubah menyebabkan ketidakstabilan dan membuka celah pengakalan hukum, pengelabuan pajak, pemalakan, serta birokrasi rumit. Era pasca-Prologue merupakan titik terendah kerajaan. Rincian terdapat pada [ancaman Mandala](Threat.md) dan [Dewan Candra Nawa](Faksi%20%26%20Institusi/Dewan_Candra_Nawa.md).
+
+## Suksesi takhta
+
+Takhta diwariskan kepada anak yang ditentukan oleh raja; anak sulung tidak memiliki hak otomatis. Sepanjang pemerintahan Prabu Mandalapati I–X, penerus yang dipilih umumnya anak laki-laki. Ada kasus anak laki-laki kedua atau ketiga diangkat karena anak pertama gugur atau tidak kompeten; rincian kisah dan penguasanya belum ditetapkan.
+
+Belum pernah ada anak perempuan diangkat menjadi ratu penguasa. Riwayat ini belum menetapkan larangan hukum terhadap penerus perempuan. Berbeda dari takhta, kursi Dewan Candra Nawa dan jabatan tinggi lain diangkat langsung oleh raja berdasarkan keputusan dewan, bukan diwariskan.
+
+## Masyarakat dan reformasi pendidikan
+
+Pribumi dan Wahanarsa merupakan satu ras biologis manusia. Wahanarsa adalah kedudukan bangsawan melalui keturunan dan pengangkatan resmi. Keduanya menggunakan media yang mengonversi energi kehidupan menjadi mana; status bangsawan tidak memberikan sihir bawaan.
+
+Pra-Prologue, Pribumi miskin sulit mengakses pendidikan. Pada era pasca-Prologue setelah menjadi peneliti Mandala, Cassian membangun Pawiyatan Widya Mandala dengan sembilan tahun wajib dan kelanjutan opsional hingga total lima belas tahun. Kerajaan menjamin pendidikan wajib, dengan kontribusi sumber daya sesuai kemampuan keluarga. Reformasi ini berlangsung di tengah ketidakstabilan pemerintahan.
+
+- [Anugerah Wahanarsa dan aturan keluarga](Anugerah_Wahanarsa.md)
+- [Pawiyatan Widya Mandala](Faksi%20%26%20Institusi/Pawiyatan_Widya_Mandala.md)
+- [Budaya, busana, tradisi, dan makanan](Budaya_dan_Kehidupan.md)
+- [Mana dan media sihir manusia](../../01_Hukum%20Sihir/Metode_Penguasaan_Sihir.md)
+
+## Agama resmi dan kebebasan kepercayaan
+
+[[Agama Surya]] adalah agama resmi sekaligus agama mayoritas Mandala; rakyat bebas menganutnya atau tidak. Pemujaan Vriskapala dan kepercayaan leluhur diperbolehkan, sedangkan pemujaan Drahkthar dilarang. Nama agama lain belum ditetapkan. Hak atas bantuan, pendidikan, dan perlindungan hukum tidak bergantung pada perpindahan agama.
+
+Dharma Surya Adhi menerima donasi dan sokongan kerajaan atau dewan, sambil mengatur ajaran serta pengangkatan pendetanya sendiri. Kitab utamanya Serat Prabhawa, disertai Himpunan Suluh Dharma untuk penafsiran lintas zaman. Lihat [[Kalender_Agama_Surya|Kalender Agama Surya]] untuk ibadah dan perayaan.

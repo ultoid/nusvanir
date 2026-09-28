@@ -31,3 +31,9 @@ Era pasca-Prologue merupakan titik terendah Kerajaan Mandala. Ketidakstabilan ke
 - **Pasukan Garuda Kencana:** Pasukan elite kerajaan yang bermarkas di Lingkar Wira dan menjadi perisai pertahanan istana.
 
 Profil raja ini menggantikan gambaran lama tentang penguasa yang bijaksana dan dicintai karena kebijakan ekonominya yang adil. Riwayat kepahlawanan serta pencarian artefak penyembuh pada catatan lama belum ditetapkan kembali bagi Prabu Mandalapati XI.
+
+## Suksesi takhta
+
+Takhta diwariskan kepada anak yang ditentukan oleh raja; anak sulung tidak memiliki hak otomatis. Sepanjang pemerintahan Prabu Mandalapati I–X, penerus yang dipilih umumnya anak laki-laki. Ada kasus anak laki-laki kedua atau ketiga diangkat karena anak pertama gugur atau tidak kompeten; rincian kisah dan penguasanya belum ditetapkan.
+
+Belum pernah ada anak perempuan diangkat menjadi ratu penguasa. Riwayat ini belum menetapkan larangan hukum terhadap penerus perempuan. Berbeda dari takhta, kursi Dewan Candra Nawa dan jabatan tinggi lain diangkat langsung oleh raja berdasarkan keputusan dewan, bukan diwariskan.

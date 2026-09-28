@@ -5,26 +5,94 @@ tags:
 ---
 # Agama Surya
 
-Agama Surya adalah kepercayaan mayoritas di Kerajaan Mandala yang berpusat pada pemujaan cahaya, keteraturan, dan kehidupan. Berikut adalah rinciannya:
+Agama Surya adalah agama resmi Kerajaan Mandala sekaligus kepercayaan mayoritas penduduknya. Rakyat bebas menganutnya atau tidak. Pemujaan Vriskapala dan kepercayaan leluhur diperbolehkan; nama resmi agama-agama lain tersebut belum ditetapkan. Pemujaan Drahkthar merupakan kepercayaan terlarang.
 
-### Sang Hyang Cahaya 
-Umat Agama Surya menyembah [[01_Sang_Hyang_Cahaya]] (atau sering disebut Sang Maha Pencipta). Ia bukanlah wujud manusia, melainkan entitas kosmik purba yang mewakili kebenaran mutlak, keadilan, dan kehidupan itu sendiri. Matahari di langit tidak dianggap sebagai dewa itu sendiri, melainkan dipandang sebagai "Mata Sang Hyang Cahaya" yang menatap turun ke bumi, memberikan kehangatan bagi yang berbuat baik dan menghanguskan mereka yang menyimpan sihir terlarang (kegelapan) di dalam hatinya.
+## Sang Hyang Cahaya
 
-### Serat Prabhawa
-Kitab suci mereka bernama **Serat Prabhawa** (Kitab Pancaran Cahaya). Kitab ini aslinya tidak ditulis di atas kertas, melainkan diukir di atas lembaran tembaga tipis berlapis emas agar tidak bisa lapuk atau terbakar. _Serat Prabhawa_ berisi:
+Umat menyembah [[01_Sang_Hyang_Cahaya|Sang Hyang Cahaya]], Tuhan, Sang Maha Pencipta, dan dewa tertinggi yang menjadi sumber kehidupan, kebenaran, keadilan, serta keteraturan. Ia tidak dibatasi wujud manusia. Matahari adalah lambang yang disebut **Mata Sang Hyang Cahaya**, bukan Tuhan itu sendiri. Dalam pengajaran agama, kehangatan dan teriknya melambangkan pemeliharaan kehidupan serta penghakiman terhadap keburukan.
 
-- _Kidung Fajar_: Kumpulan mantra dan puji-pujian suci.
-- _Dharma Tarang_: Pedoman hukum moral, tata cara bertani yang diselaraskan dengan musim, dan panduan menempa baja suci.
-- _Nubuat Gerhana_: Ramalan eskatologis tentang masa di mana cahaya akan meredup dan iblis dari Pulau Terkutuk (*[[Thalantira]]*) akan datang, yang mengharuskan Mandala bersiap menghadapi perang akhir zaman.
+## Kitab dan penafsiran
 
-### Maharsi Divakara
+**[[Serat_Prabhawa|Serat Prabhawa]]** adalah satu-satunya kitab utama. Umat meyakini ayatnya disusun langsung oleh Sang Hyang Cahaya dan diwahyukan kepada Maharsi Divakara. Tiga bagiannya adalah Kidung Fajar, Dharma Tarang, dan Nubuat Gerhana. Nama ini menyatukan penyebutan lama Kitab Prabha. Ayatnya tidak dapat diubah oleh Brahmana maupun raja.
+
+**[[Himpunan_Suluh_Dharma|Himpunan Suluh Dharma]]** memuat petuah, tafsir, dan ketetapan Brahmana lintas zaman. Penerapan ajaran dapat diperbarui untuk menjawab perubahan masyarakat, tanpa mengubah ayat kitab utama.
+
+## Maharsi Divakara
 Penyebar ajaran ini dan penerima wahyu pertama adalah seorang manusia suci bernama **Maharsi Divakara**. Menurut legenda kuno Mandala, pada masa ketika benua Nusvanir masih diselimuti malam yang panjang akibat kabut sihir gelap, Maharsi Divakara bertapa di [[Tirta_Amarta]] (Kota Para Dewa). Ia bertapa tanpa makan dan minum hingga tubuhnya mengeras seperti batu. Pada hari ke-40, langit terbelah dan wujud agung burung api raksasa turun membawa percikan Matahari Pertama, menembus mata sang Maharsi. Ia tidak menjadi buta, matanya justru memancarkan cahaya keemasan. Sejak saat itu, ia kembali ke Mandala dengan membawa _Serat Prabhawa_ untuk menuntun manusia keluar dari kegelapan.
 
-### Sembahyang
-Tata cara penyembahan dalam Agama Surya sangat terstruktur dan bersih (tidak melibatkan kurban darah/nyawa):
+## Lima Laku Cahaya
 
-- **Surya Sewana (Ibadah Harian):** Dilakukan tiga kali sehari (fajar, titik tengah hari, dan senja). Umat wajib menghadap langsung ke arah matahari. Mereka menyatukan kedua telapak tangan di depan dada, memejamkan mata untuk merasakan kehangatan cahaya, lalu merapalkan _Kidung Fajar_.
+Lima Laku Cahaya merangkum pengajaran Dharma Tarang.
 
-- **Agnihotra (Ritual Api Suci):** Cara utama mengirimkan doa adalah melalui medium api. Para Pendeta (disebut _Brahmana Surya_) akan menyalakan perapian di altar candi. Umat memberikan persembahan berupa benda-benda murni yang mudah terbakar: ghee (mentega murni), cendana, madu, kelopak bunga berwarna kuning/merah, dan segenggam beras panen pertama. Dipercaya bahwa asap putih yang mengepul naik ke langit membawa doa mereka langsung ke Sang Hyang Cahaya.
+| Laku | Ajaran dan penerapan |
+|---|---|
+| Memelihara kehidupan | Kehidupan adalah pemberian Tuhan: menolong yang sakit, memberi makan yang kelaparan, dan tidak membunuh dengan kejam. |
+| Menjunjung kebenaran | Mempertanggungjawabkan perkataan dan pengetahuan; tidak bersaksi palsu, memalsukan timbangan, atau memakai nubuat untuk menipu. |
+| Menegakkan keadilan | Kedudukan membawa tanggung jawab; membayar upah layak, tidak merampas tanah, dan tidak menyalahgunakan jabatan. |
+| Menjaga titipan dunia | Menjaga tanah, air, hasil alam, dan keahlian untuk kehidupan berikutnya; merawat pengairan serta menghindari pencemaran. |
+| Menepati pengabdian | Mewujudkan janji kepada keluarga, masyarakat, dan Tuhan melalui tindakan serta pelaksanaan tugas yang sungguh-sungguh. |
 
-- **Festival Purnama Kesada:** Perayaan tahunan terbesar ketika matahari berada pada posisi paling terik (puncak kemarau). Seluruh aktivitas perdagangan berhenti. Raja Mandala akan memimpin ritual pembersihan senjata-senjata pusaka dan tekstil sakral (_kawung_ & _parang_) dengan memaparkannya di bawah sinar matahari langsung di alun-alun ibu kota, diiringi oleh tarian sakral penolak bala untuk mengusir pengaruh ancaman Jenggala, Raksamala, dan sihir gelap.
+Dosa mengotori jiwa melalui kerusakan yang sengaja ditimbulkan atau dibiarkan. Penilaian mempertimbangkan niat, pengetahuan, akibat, dan kesediaan memperbaiki kesalahan. Penebusan mencakup pengakuan, penghentian perbuatan, perbaikan kerugian sejauh mungkin, serta doa dan penyucian. Donasi tidak membeli pengampunan; ritual tidak menghapus ganti rugi maupun hukum kerajaan.
+
+Ziarah Tirta Amarta tidak wajib bagi seluruh umat. Orang yang tidak mampu berziarah tetap dapat menjalani hidup suci melalui perbuatannya.
+
+## Jiwa setelah kematian
+
+| Keadaan jiwa | Jalan setelah kematian |
+|---|---|
+| Belum suci, tetapi tidak dikuasai keburukan | Reinkarnasi menjadi makhluk lain untuk melanjutkan perjalanan jiwa. |
+| Telah suci | Memasuki Surga dalam kedamaian bersama cahaya Sang Maha Pencipta. |
+| Dikuasai keburukan | Menjadi Dhemit, kehilangan kebebasan dan terikat pada kegelapan. |
+
+Kekayaan, garis keturunan, dan kemegahan pemakaman tidak menentukan jalan jiwa. Brahmana membimbing dan mendoakan, tetapi tidak dapat menjamin seseorang masuk Surga.
+
+Ingatan jelas atas kehidupan sebelumnya hanya muncul pada kasus manusia yang sangat langka. Déjà vu lebih sering muncul sebagai perasaan samar tanpa ingatan yang jelas. Jiwa korban tumbal juga dapat direbut dan diperbudak menjadi Dhemit; menjadi Dhemit tidak selalu membuktikan keburukan semasa hidup. Nasib akhir Dhemit yang berhasil dibebaskan belum ditetapkan. Lihat [[Perjalanan_Jiwa|Perjalanan Jiwa]].
+
+## Kontrak Sangrahal dan pengampunan
+
+Manusia yang menjual jiwa kepada Sangrahal harus memutus kontraknya terlebih dahulu sebelum dapat memperoleh pengampunan dan diterima sebagai umat Agama Surya. Pertobatan, donasi, atau ritual penyucian saja tidak memutus ikatan tersebut. Pemutusan dipandang hampir mustahil; tata cara dan syarat keberhasilannya belum ditetapkan. Pemutusan merupakan prasyarat, bukan penghapusan otomatis tanggung jawab atas perbuatan sebelumnya.
+
+## Sembahyang dan persembahan
+
+- **Surya Sewana:** ibadah fajar, tengah hari, dan senja. Umat menghadap arah matahari, menyatukan telapak tangan di depan dada, memejamkan mata, lalu merapalkan Kidung Fajar. Saat berawan, arah matahari diperkirakan.
+- **Agnihotra:** doa melalui api suci di altar candi yang dipimpin Brahmana. Persembahan dapat berupa ghee, cendana, madu, bunga kuning atau merah, dan beras panen pertama. Asap putih dipercaya membawa doa kepada Sang Hyang Cahaya.
+- Persembahan tidak menggunakan kurban darah atau nyawa. Besarnya persembahan mengikuti kemampuan; satu pelita dan doa keluarga tetap bermakna.
+
+Doa biasa dapat dilakukan siapa pun tanpa mana atau hasil magis. Kalender ibadah dan perayaan terdapat pada [[Kalender_Agama_Surya|Kalender Agama Surya]].
+
+## Ritual kehidupan
+
+| Tahap | Ritual | Pelaksanaan |
+|---|---|---|
+| Kelahiran dan nama | Sambut Fajar | Keluarga memperkenalkan nama anak dalam doa pagi, menyalakan pelita, dan mengikrarkan tanggung jawab merawatnya. |
+| Kedewasaan | Ikrar Pelita | Pemuda menyatakan tanggung jawab atas tindakan di hadapan keluarga dan pembimbing. Setelah reformasi Cassian, dapat dilaksanakan setelah pendidikan wajib selesai. |
+| Perkawinan | Janji Seperapian | Pasangan berjanji di hadapan api suci dan saksi, lalu menyalakan satu pelita bersama sebagai lambang rumah tangga. |
+| Kematian | Pelepasan Pelita | Jenazah dibersihkan dan diselubungi kain; keluarga berdoa, mengenang kehidupan almarhum, dan memohon jalan yang semestinya bagi jiwa. |
+| Pertobatan | Laku Pemulihan | Pengakuan kepada pembimbing, perbaikan kerugian, pelayanan, dan doa penyucian. Padusan Tirta Amarta menjadi tujuan bagi yang mampu. |
+
+Pemakaman tanah menjadi kebiasaan umum; api digunakan untuk doa dan persembahan. Ketentuan kremasi belum ditetapkan. Ritual dasar tersedia bagi keluarga miskin. Pengesahan perkawinan secara agama tidak menggantikan pencatatan keluarga dan ketentuan status Pribumi–Wahanarsa dalam [[Anugerah_Wahanarsa|Anugerah Wahanarsa]].
+
+## Brahmana dan sihir cahaya
+
+[[Dharma_Surya_Adhi|Dharma Surya Adhi]] mengurus kehidupan agama. Brahmana Surya adalah manusia yang menempuh perjalanan sulit menuju Tirta Amarta, menjalani ritual kesucian, dan memperoleh pencerahan Sang Hyang Cahaya. Tiba di wilayah suci tidak otomatis menjadikan seseorang Brahmana. Pencerahan tidak dapat dibeli atau dijamin.
+
+Berkat ritual membuka akses sihir cahaya, sementara tubuh tetap manusia biasa. Media dan mana hasil konversi energi kehidupan menyalurkan kekuatan suci. Pengaman Ambang Hayat membatasi pemakaian agar tidak menguras kehidupan melewati batas aman. Pengesahan Brahmana membuktikan kelayakan spiritual; izin penggunaan serta pemeriksaan keamanan perangkat tetap menjadi wewenang Loka Cakra.
+
+Brahmana dapat mengembangkan penyembuhan, pemurnian, pemberkatan, dan perlindungan dengan kemampuan yang berbeda-beda. Kebangkitan jiwa yang baru meninggalkan raga merupakan pencapaian tingkat tinggi yang sangat langka. Gelar Brahmana tidak menjamin penguasaan semua sihir. Penguasaan mendalam tetap membawa risiko erosi kemanusiaan; kekuatan saja tidak cukup sebagai ukuran kepemimpinan.
+
+Jubah upacara Brahmana dibedakan dari robe sebagai perangkat sihir khusus penyihir kerajaan dan Loka Cakra. Lihat [[Metode_Penguasaan_Sihir|Metode Penguasaan Sihir]].
+
+## Hubungan dengan masyarakat dan kepercayaan lain
+
+| Pihak | Sikap resmi |
+|---|---|
+| Pemuja Vriskapala | Diakui dan dihormati. Agama Surya memahami Vriskapala sebagai penjaga alam dalam ciptaan Sang Hyang Cahaya; penafsiran para pemujanya dapat berbeda. |
+| Kepercayaan leluhur | Diperbolehkan dan dapat berjalan berdampingan dengan Agama Surya selama tidak melibatkan perbudakan jiwa atau ritual terlarang. |
+| Orang tanpa agama | Tetap memiliki hak sebagai rakyat Mandala. Bantuan pangan, pendidikan, dan perlindungan hukum tidak bergantung pada perpindahan agama. |
+| Pemuja Drahkthar | Dilarang. Penanganan melibatkan hukum kerajaan dan pemeriksaan bukti, terutama pakta jiwa, tumbal, serta penyebaran kekuatan gelap. |
+| Avesari dan Avalerion | Dihormati karena hubungan dengan Cahaya, tetapi asal ras tidak otomatis memberi wewenang memimpin lembaga agama manusia. |
+| Biksu Cahaya | Dihormati sebagai penjaga Tirta Amarta serta pembimbing peziarah; organisasinya terpisah dari Dharma Surya Adhi. |
+| Loka Cakra | Dapat bekerja sama dalam keselamatan media, penyembuhan, dan perlindungan. Penelitian yang membahayakan kehidupan atau jiwa dapat menjadi sumber perselisihan. |
+| Kerajaan | Bekerja sama dalam upacara, bantuan, dan pendidikan moral. Dukungan dana tidak menjadikan setiap keputusan raja sebagai kehendak Tuhan. |
+
+Penentangan Arta Surya Pandita terhadap penelitian sekuler merupakan sikap tokoh atau kelompoknya; tidak semua Brahmana maupun umat memiliki pandangan yang sama.

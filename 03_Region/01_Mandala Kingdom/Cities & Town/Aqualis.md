@@ -30,3 +30,9 @@ Seluruh perjalanan dan transportasi laut kerajaan dipusatkan melalui Aqualis, te
 Aku mengenali kapal ayah dari tambalan layarnya sebelum bisa melihat wajahnya. Di Aqualis, mata kami terbiasa mencari hal sekecil itu di antara tiang kapal, tali, dan burung yang berebut sisa ikan. Pagi belum selesai ketika gudang sudah meminta tambahan tenaga. Karung pangan harus turun lebih dahulu, lalu peti perlengkapan prajurit.
 
 Di dermaga sebelah, beberapa pelaut sedang menyiapkan ekspedisi ke Rangkaruna. Seorang di antaranya menunjukkan tempat kosong dalam petinya, seolah mineral mahal dari laut itu sudah pasti akan mengisinya. Ayah mendengarkan tanpa tersenyum. Setelah upah bongkar muat dibagikan, ia membeli ikan kecil untuk makan malam dan mengajakku pulang. Sepanjang jalan, tangannya masih berbau tali basah.
+
+## Budaya dan kehidupan masyarakat
+
+Pasang, badai, kedatangan kapal, gudang, dan galangan mengatur waktu kerja. Pakaian ringan, penutup kepala, serta pelindung hujan dan angin mendukung pekerjaan pesisir. Keluarga menyalakan Pelita Kepulangan yang dapat menghadap pelabuhan untuk orang yang pergi jauh. Nasi dari beras disantap bersama ikan segar atau awet dan Kuah Pasang; bekal pelayaran mengikuti kebutuhan perjalanan. Kedudukan yang lebih tinggi tercermin dalam mutu bahan, lauk, dan penyajian.
+
+Lihat [Budaya dan Kehidupan Mandala](../Budaya_dan_Kehidupan.md) untuk tradisi bersama, busana, dan makanan. Pendidikan pasca-Prologue mengikuti [[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]].

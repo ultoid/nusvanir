@@ -1,0 +1,73 @@
+---
+title: Budaya dan Kehidupan Mandala
+tags:
+  - mandala
+  - budaya
+---
+# Budaya dan Kehidupan Mandala
+
+Manusia Mandala membangun keluarga, keahlian, pengetahuan, peralatan, kota, dan institusi untuk melampaui keterbatasan fisik serta usia mereka. Ungkapan yang merangkum semangat ini adalah: **“Tanah memberi makan, tangan memberi bentuk, janji memberi arah.”**
+
+## Pribumi dan Wahanarsa
+
+[[Pribumi]] dan [[Wahanarsa]] adalah satu ras biologis manusia dalam Suku Bumi. Perbedaan keduanya terletak pada status dan keturunan, bukan kekuatan magis alami. Keduanya menggunakan media untuk mengonversi energi kehidupan menjadi mana dan mengeluarkan sihir.
+
+Keluarga, guru, regu, komunitas kerja, dan kewajiban terhadap kerajaan memberi seseorang tempat dalam masyarakat. Pribumi membangun pengaruh melalui keterampilan dan jasa meskipun aksesnya dapat terbatas. Wahanarsa memperoleh akses lebih dekat kepada kekuasaan sekaligus menanggung nama dan kewajiban keluarga. Pribumi dapat menjadi pedagang kaya atau peneliti terkemuka; keluarga Wahanarsa dapat jatuh miskin atau menghasilkan pemimpin yang buruk.
+
+Aturan status, perkawinan, dan pengangkatan terdapat pada [[Anugerah_Wahanarsa|Anugerah Wahanarsa]]. Perubahan akses pendidikan pra- dan pasca-Prologue dibahas dalam [[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]].
+
+## Kehidupan lima kota
+
+| Kota | Keseharian dan hubungan masyarakat |
+|---|---|
+| Mandala Capital | Pemerintahan, pasar, pendidikan, penelitian, dan distribusi logistik bertemu di ibu kota. Lingkar Bumi di dalam benteng mayoritas dihuni Wahanarsa, sementara bagian luar dihuni Pribumi; ini pola permukiman, bukan larangan mutlak. Peluang di Lingkar Dharma berdekatan dengan jarak sosial terhadap pusat keputusan. |
+| Arthiska | Air, musim tanam, panen, peternakan, pengobatan, dan tenun mengatur hari warga. Hubungan agrikultur dengan Vana Kusuma mempertemukan manusia dan Asrivana. |
+| Aqualis | Pasang, badai, kedatangan kapal, gudang, dan galangan menentukan waktu kerja. Keluarga nelayan dan pelaut terbiasa menunggu kepulangan; ekspedisi Rangkaruna membawa harapan kekayaan sekaligus kecemasan. |
+| Hermindar | Denting tempa, arus perdagangan, inspeksi, dan dokumen perbatasan memengaruhi nafkah. Mutu hasil kerja serta kepercayaan dagang penting bagi perajin dan pedagang. |
+| Valkindra | Latihan, penjagaan, kabut, Menara Matahari, dan kabar penugasan membentuk kehidupan kota. Pelatih Avesari memengaruhi disiplin militer, sementara keluarga hidup berdampingan dengan kebutuhan garnisun. |
+
+Kehidupan tersebut mencakup kedua golongan dengan perbedaan akses dan pekerjaan; tidak semua warga sebuah kota memiliki watak atau profesi yang sama.
+
+## Busana dan perlengkapan
+
+Busana Mandala memadukan tenun, kain lilit, selendang, dan motif Nusantara dengan tunik, celana perjalanan, rompi, sabuk alat, mantel pendek, serta pelindung tubuh. Kedudukan terbaca dari mutu kain, pengerjaan, motif keluarga, aksesori resmi, dan perlengkapan yang dimiliki. Kebutuhan setempat tetap membentuk pakaian Pribumi maupun Wahanarsa.
+
+| Kota | Corak busana |
+|---|---|
+| Mandala Capital | Busana berlapis, tenun bermutu, dan lambang keluarga atau jabatan. Peneliti membawa media sihir sebagai alat kerja. |
+| Valkindra | Tunik tebal, mantel bahu, sepatu perjalanan, pelindung, dan panji regu untuk udara dingin berkabut serta latihan. |
+| Arthiska | Kain kerja ladang yang mudah dirawat; tenun sakral bermotif kawung dan parang untuk kebutuhan resmi. |
+| Hermindar | Celemek dan pelindung perajin, busana pedagang, serta kain dan aksesori dari jalur Cakrawala. |
+| Aqualis | Pakaian ringan untuk kerja kapal, penutup kepala, serta perlindungan terhadap hujan dan angin laut. |
+
+Rune dapat terpasang pada sarung tangan atau sabuk; jimat dapat dirawat turun-temurun. Staff dan rune boleh dibeli semua orang, tetapi penggunaannya memerlukan izin resmi Loka Cakra. **Robe hanya dipakai penyihir kerajaan dan penyihir Loka Cakra** sebagai perlengkapan khusus mereka. Rincian bentuk setiap media belum ditetapkan.
+
+## Tradisi dan kepercayaan
+
+Agama Surya dan [[Dharma_Surya_Adhi|Dharma Surya Adhi]] hadir dalam ritual kerajaan serta kehidupan rumah tangga. Praktik setempat berbeda antara ladang, kapal, barak, dan ibu kota. Ketaatan beragama tidak otomatis berarti menyetujui setiap keputusan pemimpin lembaganya.
+
+- **Hari Pengikraran:** pernyataan tanggung jawab baru di hadapan keluarga, guru, regu, atau pejabat; mencakup awal magang, penerimaan kadet, jabatan, dan Anugerah Wahanarsa.
+- **Pelita Kepulangan:** keluarga menyalakan pelita bagi orang yang pergi jauh. Di Aqualis pelita dapat menghadap pelabuhan; di Valkindra menghadap jalan pulang prajurit.
+- **Pembukaan Lumbung Arthiska:** cadangan pangan dihitung dan disimpan sebelum pesta panen dimulai. Kehidupan ritualnya berdampingan dengan tenun sakral kawung dan parang yang dikerjakan bersama doa Kidung Fajar.
+- **Malam Panji Valkindra:** mengenang nama prajurit gugur bersama nama regunya.
+- **Pekan Pertukaran Hermindar:** perayaan perdagangan dan keterampilan perajin kota perbatasan.
+
+## Nasi dan makanan setempat
+
+**Nasi dari beras adalah makanan pokok Pribumi dan Wahanarsa di seluruh Mandala.** Semakin tinggi kedudukan, semakin mewah mutu bahan, keragaman lauk, dan penyajiannya. Keluarga pekerja menyantap nasi dengan sayur serta lauk sederhana; jamuan bangsawan memakai beras pilihan, lauk lebih beragam, rempah mahal, dan penyajian resmi. Gandum menjadi bahan makanan tambahan.
+
+| Kota | Makanan dan cara penyajian |
+|---|---|
+| Mandala Capital | Kedai pasar, hasil pangan kiriman kota lain, dan jamuan resmi. Bubur pagi Lingkar Bumi memakai beras. |
+| Valkindra | **Nasi Jaga**, lauk awet, bekal patroli, dan sup hangat untuk kehidupan barak. |
+| Arthiska | Nasi, sayur, hasil ternak, dan rempah setempat; jamuan panen berlangsung setelah cadangan lumbung disimpan. |
+| Hermindar | **Nasi Bara**, makanan praktis bagi pekerja tempa serta pedagang yang menunggu pemeriksaan. |
+| Aqualis | Nasi dengan ikan segar atau awet, **Kuah Pasang**, serta bekal pelayaran. |
+
+Nama hidangan sudah menjadi bagian budaya; resep, bahan wajib lauk, dan rincian upacara belum ditetapkan.
+
+## Agama dalam kehidupan keluarga
+
+Agama Surya adalah agama resmi yang bebas dianut atau tidak. Sambut Fajar menandai kelahiran dan nama, Ikrar Pelita menandai tanggung jawab kedewasaan, Janji Seperapian mengesahkan perkawinan secara agama, dan Pelepasan Pelita mengiringi kematian dengan pemakaman tanah sebagai kebiasaan umum. Laku Pemulihan menggabungkan pertobatan dengan perbaikan kerugian. Persembahan mengikuti kemampuan keluarga.
+
+Malam Pelita pada purnama merupakan ibadah bulanan, sedangkan Pelita Kepulangan menyertai penantian keluarga dan tidak terikat tanggal tersebut. Purnama Kesada berlangsung pada purnama bulan puncak kemarau; Syukur Lumbung di Arthiska terhubung dengan Pembukaan Lumbung. Rincian terdapat pada [[Agama Surya]] dan [[Kalender_Agama_Surya|Kalender Agama Surya]].

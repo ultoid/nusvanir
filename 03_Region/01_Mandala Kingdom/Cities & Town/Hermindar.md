@@ -24,3 +24,9 @@ Selain memeriksa warga Mandala yang hendak menuju Cakrawala, Hermindar memeriksa
 Aku sudah bisa mencium asap tungku Hermindar ketika kusadari surat dagangku tertinggal di dasar peti. Antrean di depanku bergerak pendek-pendek. Setiap orang menyiapkan jawaban, dokumen, dan kesabarannya sebelum diperiksa untuk melintas ke Cakrawala.
 
 Di jalur sebelah, peti barang yang dibawa pulang dari kota bebas dibuka satu per satu. Seorang pedagang mengeluh kainnya akan kotor; petugas tetap meminta lapisan paling bawah diperlihatkan. Aku memeriksa kembali hitungan barangku. Bila tertahan sampai besok, biaya makan dan pakan bertambah. Ketika namaku akhirnya dipanggil, aku menyerahkan surat dengan kedua tangan dan berusaha tidak terdengar gugup.
+
+## Budaya dan kehidupan masyarakat
+
+Mutu hasil tempa, kepercayaan dagang, dokumen, dan pemeriksaan perbatasan memengaruhi nafkah penduduk. Celemek pelindung perajin berdampingan dengan busana pedagang dan aksesori dari jalur Cakrawala. Pekan Pertukaran Hermindar merayakan perdagangan dan keterampilan perajin. Nasi Bara menjadi makanan praktis bagi pekerja tempa dan pedagang; nasi dari beras tetap makanan pokok kedua golongan, dengan kemewahan lauk serta penyajian mengikuti kedudukan.
+
+Lihat [Budaya dan Kehidupan Mandala](../Budaya_dan_Kehidupan.md) untuk tradisi bersama, busana, dan makanan. Pendidikan pasca-Prologue mengikuti [[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]].

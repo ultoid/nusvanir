@@ -29,3 +29,9 @@ Valkindra berhadapan langsung dengan Outpost Bumi di selatan Avalerion. Pelatiha
 Pada hari pertama di Valkindra, aku menyangka pedang baru akan membuatku tampak seperti prajurit. Menjelang sore, aku bahkan tidak sanggup mengangkatnya dengan benar. Instruktur memintaku memperbaiki pijakan, lalu mengulang gerakan yang sama. Di kejauhan, arah Avalerion tampak terang di balik udara berkabut.
 
 Seorang pelatih Avesari menghampiri barisan kami. Aku menunggu teguran, tetapi ia hanya menggeser sikuku sedikit dan menyuruhku mencoba lagi. Kali ini perisai tidak menghantam lutut. Malamnya, di tempat tidur, aku menulis kepada ibu bahwa latihan berjalan baik. Surat itu pendek. Telapak tanganku terlalu perih untuk menggenggam pena lama-lama.
+
+## Budaya dan kehidupan masyarakat
+
+Latihan, penjagaan, kabut, Menara Matahari, dan kabar penugasan membentuk kehidupan keluarga. Tunik tebal, mantel bahu, sepatu perjalanan, pelindung, dan panji regu sesuai dengan lingkungan militer. Malam Panji Valkindra mengenang prajurit gugur bersama nama regunya. Pelita Kepulangan dapat menghadap jalan pulang prajurit. Nasi Jaga, lauk awet, bekal patroli, dan sup hangat menunjang kehidupan barak; nasi dari beras menjadi makanan pokok semua golongan.
+
+Lihat [Budaya dan Kehidupan Mandala](../Budaya_dan_Kehidupan.md) untuk tradisi bersama, busana, dan makanan. Pendidikan pasca-Prologue mengikuti [[Pawiyatan_Widya_Mandala|Pawiyatan Widya Mandala]].

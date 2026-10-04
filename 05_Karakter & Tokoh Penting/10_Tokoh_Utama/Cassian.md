@@ -11,7 +11,19 @@ tags:
 # Cassian
 
 **Identitas**: Peneliti / Mantan Priest Avalerion / Cryomancer.
-**Visual**: Pria paruh baya dengan jubah usang, wajah yang menyimpan banyak rahasia dan trauma, namun memiliki kebijaksanaan yang dalam.
+**Visual**: Mengacu pada sketsa Cassian sebagai *Priest / Scholar*: sosok pria bertubuh ramping dengan rambut hitam berpadu abu yang berantakan khas, mata kuning keemasan, wajah berfitur agak tajam, dan kacamata tebal. Busana Priest-nya berupa jubah panjang berlapis, mantel berkerudung, kerah tinggi, serta selempang dan ikat pinggang yang membawa buku atau perlengkapan cendekiawan. Motif matahari Avalerion dan sayap Avesari menghiasi busananya dengan ornamen yang terkendali. Ia membawa tongkat kayu sederhana berukir simbol suci; rune Cahaya pada kedua tangannya berpijar lembut saat menyalurkan sihir. Detail busana ini menjadi acuan penampilannya sebagai Priest pada masa Prologue.
+
+## Sifat
+
+Cassian adalah pribadi yang jenius, realistis, dan jujur. Ia suka menyampaikan pemikirannya secara blak-blakan, dengan sikap dingin dan cuek. Ekspresi dingin sering terlihat di wajahnya, tetapi ia juga memiliki sisi periang: pada saat tertentu, ia dapat tertawa dan memperlihatkan suasana hati yang lebih cerah.
+
+## Ciri khas
+
+Rambut hitam berpadu abu dan kacamata tebal merupakan penanda visual utama Cassian. Ketika memikirkan sesuatu dengan serius, ia memiliki kebiasaan memejamkan mata, membenarkan kacamatanya, lalu diam selama beberapa saat. Keheningan dan gestur tersebut menandakan bahwa ia sedang berpikir mendalam.
+
+## Hubungan tampilan dan watak
+
+Penampilan Cassian mencerminkan sifat aslinya. Wajah yang sering berekspresi dingin dan pembawaan cendekiawannya selaras dengan pribadi yang jenius, realistis, serta blak-blakan. Senyum dan tawanya pada saat tertentu memperlihatkan sisi periang yang juga menjadi bagian dari dirinya.
 
 ### Latar Belakang & Lore
 Sebagai seorang *Priest* agung dan cendekiawan, Cassian mendampingi Hector memecahkan misteri di pulau Thalantira. Ia adalah saksi langsung kengerian visi kiamat Uru yang nyaris menghancurkan kewarasannya, serta saksi dari pengorbanan Rama sang nelayan yang menyelamatkan nyawa mereka.

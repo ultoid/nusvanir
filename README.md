@@ -121,6 +121,7 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
 
 - [x] Menyelesaikan dan menyederhanakan seluruh rangkaian *Prologue* (10 Chapter "Tales of The Dark Time").
 - [x] Menyusun *lore* transisi (Prequel 5 Tahun) ke dalam "The Untold Story".
-- [ ] Merancang kerangka awal (Outline) untuk *Main Story* Chapter 1.
-- [ ] Menyusun detail petualangan Hiro (Light Path) dan Damian (Dark Path) secara paralel.
+- [x] Merancang kerangka awal (Outline) untuk *Main Story* Chapter 1.
+- [x] Menyusun babak pertama petualangan Hiro (04_The_Light_Path - Chapter 01: Langkah Pertama Sang Cahaya).
+- [ ] Menyusun detail petualangan Damian (Dark Path) secara paralel.
 - [ ] Review dan merapikan catatan faksi / ras pendukung lainnya.

@@ -16,7 +16,29 @@ Penjaga Emblem Air di timur Thalantira, berwujud naga ular kolosal yang dikenal 
 
 ## Bentuk
 
-Kepala dan sebagian tubuhnya saja memenuhi ruang kuil bawah air. Sisik memancarkan kesan kedalaman samudra, taring menjulang seperti pilar, dan matanya menunjukkan kecerdasan yang sadar akan pengunjungnya. Sumber cerita menggambarkannya sebagai naga ular, tanpa menetapkan banyak kepala. Ia juga mengambil wujud perempuan berambut mengalir seperti air terjun malam, mengenakan gaun dari air yang terus bergerak. Setelah mutasi paksa, keindahan air serta sisik itu berubah menjadi rupa rusak yang diterangi ungu.
+### Wujud Monster
+
+Hydra adalah naga ular kolosal. Ruang utama kuil bawah air yang menyerupai alun-alun hanya mampu menampung kepala dan seperempat tubuhnya. Sisiknya memancarkan aura kedalaman samudra, sedangkan taringnya menjulang seukuran pilar istana. Sorot matanya memperlihatkan kecerdasan dan kesadaran terhadap pengunjung, sehingga penampilannya yang mengerikan tidak sama dengan perilaku binatang tanpa akal. Jumlah kepalanya belum ditetapkan dalam kisah.
+
+Napas dinginnya dapat membekukan air menjadi pijakan es yang kokoh. Dalam pertempuran, kekuatan air yang semula dipakai untuk menyambut tamu menjadi pilar bertekanan dahsyat. Ukuran kolosalnya juga memungkinkan tubuhnya dipakai sebagai perisai hidup ketika ia bersama Behemoth menghadang serangan Void Wyrm.
+
+### Wujud Manusia
+
+Tubuh naganya dibungkus cahaya menyilaukan sebelum menyusut menjadi perempuan berparas sangat cantik dan berpenampilan anggun. Rambutnya mengalir bagaikan air terjun malam. Gaunnya terbentuk seluruhnya dari air murni yang terus bergerak; gelombang air menutupi bagian tubuh yang perlu tertutup, sementara pembiasannya memperlihatkan siluet tubuh. Gerak dan penampilannya membawa kesan kelembutan air, disertai senyum menggoda dan tawa kecil yang jernih.
+
+Wujud ini mempertahankan kekuatan airnya. Ia dapat muncul dari genangan atau kelembapan yang memadat, menyentuhkan jari ke dada Cassian untuk memberikan esensi air, dan melindunginya dengan lapisan air dingin. Ketika membela tamunya di hadapan Wyrm, sikap anggunnya berubah menjadi permohonan penuh kecemasan; ia menunduk, menangis, hingga bersujud kepada kakaknya.
+
+### Wujud setelah Mutasi Uru
+
+Saat energi kristal menguasainya, sisik dan airnya berubah menjadi ungu gelap dengan kesan membusuk. Mata yang sebelumnya menunjukkan kecerdasan tampak kosong, dipenuhi kegilaan dan rasa lapar. Pada akhir pengejaran ia kembali terlihat sebagai perempuan anggun yang berlutut di hadapan Uru; perubahan buas itu bukan wujud permanen yang menghapus kemampuannya mengambil rupa manusia.
+
+## Sikap dan Kepribadian
+
+Hydra menyambut tamu dengan hangat, santun, dan percaya diri. Ia menyukai percakapan yang lembut, sesekali menggoda melalui senyum dan tawa, serta mengungkapkan kekaguman terhadap kecerdasan Cassian. Keramahannya diwujudkan lewat tindakan: menyediakan pijakan es, menyerahkan emblem tanpa pertarungan, menawarkan tempat beristirahat dan buah-buahan air, serta menerima penolakan tamunya tanpa memaksa.
+
+Ia menyatakan kebencian terhadap pertumpahan darah dan cenderung mengutamakan perundingan. Namun, ia sanggup bertempur untuk melindungi Hector dan Cassian. Ia memberikan anugerah air hingga kemampuan Cassian melonjak setara Cryomancer tingkat tinggi, menemani pendakian lewat telepati, dan menghadang serangan kakaknya dengan tubuh sendiri. Kelembutannya berjalan bersama keberanian melindungi orang yang ia terima sebagai tamu.
+
+Di antara ketiga penjaga, ia ditempatkan sebagai adik termuda. Ia akrab dengan Behemoth dan ikut bercanda selama perjalanan, tetapi segan terhadap Wyrm yang angkuh. Ia juga menyimpan rahasia: pertanyaan tentang pulau dialihkan meskipun percakapannya tetap ramah. Kepatuhannya kepada Uru membatasi perlindungan yang dapat diharapkan darinya; ketika kuasa Uru berbalik menolak para pengunjung, Hydra ikut menyerang. Sebutan saudara dan Ayah menggambarkan hubungan mereka, tanpa menetapkan silsilah biologis.
 
 ## Tingkah Laku
 

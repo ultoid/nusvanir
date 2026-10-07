@@ -16,7 +16,29 @@ Penjaga Kuil Udara di utara Thalantira, seekor wyvern kolosal yang dapat merobek
 
 ## Bentuk
 
-Bentangan sayapnya nyaris menyamai diameter gunung api. Sisik ungu gelap menutupi tubuh, berlawanan dengan perut jingga yang menyerupai lahar menyala. Sayap memancarkan warna merah muda keunguan, sementara tanduk tajam mengelilingi kepala bermata merah. Wujud manusianya berupa ksatria jangkung berzirah perak, dengan jubah dan corak merah tua yang mengingatkan pada sayap naga. Rupa ini mengikuti perjumpaan di kawah, sebelum mutasi paksa Uru merusak penampilan para penjaga.
+### Wujud Monster
+
+Void Wyrm tampil sebagai naga berbentuk wyvern yang kolosal, dengan bentangan sayap nyaris menyamai diameter gunung api tempat kuilnya berada. Di hadapannya, manusia di bibir kawah tampak seperti semut. Sisiknya berwarna ungu gelap bagaikan malam, kontras dengan bagian bawah perut yang jingga menyala menyerupai lahar. Sayapnya memancarkan warna merah muda keunguan. Tanduk-tanduk tajam menghiasi kepala, sedangkan mata merahnya membawa sorot angkuh dan amarah.
+
+Kemunculannya dari magma diiringi ledakan angin dan gelombang suara ultrasonik. Kepakan sayapnya membangkitkan badai sekaligus melepaskan Reality Cutter, tebasan yang mendistorsi ruang. Ketika menyiapkan Black Hole, ia membuka rahang lebar-lebar hingga ruang di sekitar mulut melengkung dan mengisap cahaya serta udara. Ancaman tubuhnya melampaui ukuran fisik: suara, gerak sayap, dan mulut menjadi sarana serangan yang merusak tubuh maupun ruang di sekitarnya.
+
+### Wujud Manusia
+
+Cahaya menyilaukan membungkus tubuh naga sebelum ia turun dan berganti menjadi ksatria berpostur jangkung. Ia mengenakan zirah perak mengilap, dengan jubah dan corak merah tua yang mengingatkan pada sayap naganya. Kehadirannya memancarkan intimidasi yang membuat Hector dan Cassian tetap tertekan meskipun tubuh kolosalnya telah menghilang.
+
+Suaranya dingin dan berwibawa, digambarkan bergema seperti pedang yang ditarik dari sarung. Ia memejamkan mata, menarik napas, lalu mengembuskannya dengan kecewa ketika pertarungannya dihentikan oleh kuasa yang dihormati. Tatapannya merendahkan kedua adiknya dan menunjukkan rasa jijik terhadap tamu fana. Geraknya tegas: membuka robekan dimensi dengan tangan, menarik keluar kedua penjaga yang disekap, dan akhirnya melempar emblem dengan enggan. Rupa ksatria tetap memiliki kuasa untuk menyerang, menyekap, serta menghancurkan dan memulihkan tubuh Behemoth sebagaimana ditampilkan dalam perdebatan di kawah.
+
+### Wujud setelah Mutasi Uru
+
+Ketika energi kristal menguasai ketiga penjaga, wujud Wyrm ikut berubah menjadi ungu gelap dengan kesan membusuk. Warna ungu tersebut sudah ada pada sisiknya sebelum mutasi; perubahan ini ditandai juga oleh rusaknya penampilan dan mata kosong yang memancarkan kegilaan serta kelaparan. Sesudah pengejaran ia kembali tampil sebagai Ksatria Perak yang mampu berbicara, berlutut, dan meminta izin kepada Uru untuk memburu para pelarian.
+
+## Sikap dan Kepribadian
+
+Sebagai kakak sulung, Wyrm bersikap angkuh, dominan, dan mudah merendahkan kedua adiknya. Ia lebih dahulu menunjukkan kuasa daripada mendengarkan penjelasan. Permohonan Hydra serta Behemoth tidak segera meredakan serangannya, dan campur tangan mereka justru berkembang menjadi pertarungan. Ketika akhirnya berbicara, ia mempertanyakan nilai para tamu fana dengan nada meremehkan.
+
+Ia keras kepala dan kejam dalam mempertahankan kedudukannya. Di tengah perdebatan, ia menghancurkan tubuh Behemoth lalu memulihkannya untuk menunjukkan siapa yang berkuasa. Tindakan tersebut menunjukkan bagaimana ia memakai kekuatan untuk menekan saudaranya; adegan itu tidak menetapkan kemampuan kebangkitan universal bagi semua makhluk. Bahkan setelah diperintah mengizinkan tamu lewat, ia menyerahkan emblem dengan rasa jijik dan melarang mereka berbicara atau menatapnya.
+
+Sikapnya berubah ketika menghadapi otoritas Uru, yang dipanggilnya Ayah. Kilatan kuasa dari luar menghentikan amarahnya dan menggantikannya dengan ketaatan. Ia tetap kecewa, tetapi mematuhi perintah menghentikan pertarungan. Pada akhir bab 9, ia meminta izin melanjutkan pengejaran dan menerima keputusan Uru untuk membiarkan para pelarian pergi. Ia menuntut kepatuhan dari yang dianggap lebih rendah sambil tunduk kepada kuasa di atasnya. Sebutan kakak, adik, dan Ayah menggambarkan hubungan hierarkis mereka tanpa membuktikan silsilah biologis.
 
 ## Tingkah Laku
 

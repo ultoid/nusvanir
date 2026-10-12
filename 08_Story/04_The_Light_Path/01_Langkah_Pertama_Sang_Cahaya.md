@@ -9,85 +9,159 @@ tags:
 
 # Chapter 01: Langkah Pertama Sang Cahaya
 
-Sinar matahari pagi menembus celah-celah tirai kayu, membiaskan berkas cahaya hangat di atas wajah seorang pemuda yang masih terlelap. Hari ini adalah hari yang paling dinantikan di Pesisir Aqualis—hari upacara kelulusan resmi bagi angkatan muda.
+Sinar matahari pagi menyelinap melalui celah tirai kayu, jatuh hangat di wajah seorang pemuda yang masih terlelap. Dari arah dapur terdengar suara seorang wanita memanggilnya—mula-mula pelan, lalu semakin keras.
 
-"HIROOO!! CEPAT BANGUN! KALAU KAU TERLAMBAT DI HARI KELULUSANMU SENDIRI, AKU AKAN MEMASTIKAN KAU MENYAPU SELURUH PELABUHAN SORE INI!"
+"Hiro! Bangun! Kalau kau terlambat di hari kelulusanmu sendiri, Ibu akan menyuruhmu menyapu seluruh pelabuhan sore ini!"
 
-Suara teriakan melengking yang menggema dari arah dapur sontak membuyarkan mimpi indah Hiro. 
+Hiro tersentak bangun. Ia menatap jendela, lalu melompat dari ranjang begitu menyadari tingginya matahari. "Sial, aku ketiduran!"
 
-Pemuda berambut pirang keemasan itu tersentak duduk, matanya membelalak lebar melihat posisi bayangan matahari di ambang jendela. "Sial! Aku ketiduran!"
+Ia segera mengenakan kemeja putih dan celana rapi seragam kelulusannya. Di punggung tangan kanannya, tanda lahir berbentuk sinar bintang berkilau samar seiring detak jantungnya yang masih berpacu. Hiro tak tahu dari mana tanda itu berasal. Sejak kecil, tanda itu selalu menjadi bagian dirinya.
 
-Hiro melompat dari ranjangnya dengan kelincahan yang terlatih. Jemarinya dengan cepat mengenakan kemeja putih linen berkerah rapi dan celana formal—seragam kelulusan khas *Pawiyatan Aksara Widya*. Di tangan kanannya—tepat di punggung telapak tangan—tercetak sebuah tanda lahir unik berbentuk pola sinar bintang yang bersinar samar setiap kali detak jantungnya meningkat. Tanda lahir yang tak pernah ia pahami asal-usulnya.
+Dengan pakaian seadanya yang masih kusut, Hiro bergegas menuruni tangga rumah kayu jati mereka. Aroma nasi rempah dan tumis ikan laut menyambutnya di ruang makan.
 
-Ia merapikan pakaiannya, meluncur turun melewati tangga kayu jati, dan langsung menyembul di area dapur rumah mereka yang beraroma harum nasi rempah dan ikan panggang.
+Jane berdiri di dekat tungku, rambut kelamnya diikat ke belakang. Sudip kayu berada di satu tangan, sementara tangan lainnya sibuk mengaduk masakan. Meski telah lama meninggalkan kehidupan lamanya sebagai anggota *Assassin Dark Thorn*, sorot matanya tetap tajam.
 
-Di sana, berdiri sosok wanita berambut kelam yang tengah memegang sudip kayu dengan raut wajah pura-pura murka. Jane. Meski lima belas tahun telah berlalu sejak ia pensiun dari dunia kelam *Assassin Dark Thorn*, kelincahan dan ketajaman sorot mata Jane sama sekali tak memudar. Bagi Hiro, Jane adalah sosok "Ibu" sekaligus pelindung yang paling ia hormati dan sayangi di dunia ini.
+"Selamat pagi, Ibu Jane!" sapa Hiro. Tangannya terulur hendak mengambil sepotong ikan.
 
-"Selamat pagi, Ibu Jane!" seru Hiro sambil menyengir lebar, berusaha mencuri sepotong daging panggang dari atas meja.
+*Tak!*
 
-*TAK!*
+Jane mengetuk punggung tangannya dengan sudip. "Cuci muka dulu. Setelah itu baru sarapan. Masa calon prajurit Mandala berangkat wisuda dengan muka bantal?"
 
-Dengan refleks luar biasa, Jane memukul punggung tangan Hiro menggunakan sudip kayunya. "Cuci mukamu dulu, Ksatria Pemalas! Hari ini adalah hari penting. Kau tidak boleh menghadiri upacara kelulusan *Pawiyatan Aksara Widya* dengan muka bantal begitu."
+"Aku sudah cuci muka, kok." Hiro menarik kursi dan duduk, lalu mulai menyantap tumis ikan sebelum Jane sempat membalas.
 
-Hiro tertawa meringis, namun tatapannya mendadak bergeser ke arah sudut meja makan. Di sana, di samping piring kosong tempat biasanya ayahnya duduk, tergeletak selembar kertas perkamen kusam yang sudah terlipat rapi. Kertas yang pinggirannya mulai menguning.
+"Hiro."
 
-Itu adalah surat terakhir dari Cassian—ayah angkatnya—yang diterima tepat dua tahun yang lalu.
+"Enak, Bu."
 
-Keheningan sesaat menyelimuti dapur. Jane yang menyadari arah pandangan Hiro menghentikan adukannya. Sorot mata wanita itu meredup, menyembunyikan kekhawatiran mendalam yang telah mengendap di dadanya selama 730 hari terakhir.
+"Jangan mengalihkan pembicaraan."
+
+Hiro hanya mengangguk acuh sambil terus makan. Jane mendesah, lalu mencolek dahinya dengan gagang sudip.
+
+"Ibu menyuruhmu menyiapkan seragam dan semua atribut kelulusan sejak semalam. Semuanya sudah kau bawa?"
+
+"Sudah." Hiro mengangguk mantap, mulutnya masih penuh.
+
+"Kau yakin?"
+
+"Yakin."
+
+"Kalau nanti ada yang tertinggal, jangan mengadu kepadaku."
+
+"Siap, Bu."
+
+Jane menggeleng, tapi senyumnya tak bisa disembunyikan. Hari ini adalah hari yang telah lama mereka nantikan: Hiro menyelesaikan pendidikan wajib yang dirintis Cassian, ayahnya.
+
+**Pawiyatan Aksara Widya** bermula dari keyakinan Cassian bahwa setiap anak berhak mendapat bekal sebelum menentukan jalan hidupnya. Selama lima belas tahun, anak-anak mempelajari baca-tulis, berhitung, pengetahuan dasar, sejarah, dan etika. Setelah menyelesaikannya, mereka bebas memilih spesialisasi masing-masing—menjadi prajurit, peneliti, pengrajin, pedagang, atau menempuh jalan lainnya.
+
+Hiro telah menuntaskan seluruh pendidikannya. Kini ia ingin mengikuti jalan yang telah lama diimpikannya: menjadi prajurit Kerajaan Mandala, lalu suatu hari menjadi *Holy Knight* di Avalerion seperti pamannya, Hector.
+
+Namun, kegembiraan pagi itu perlahan surut ketika pandangannya jatuh ke dinding ruang makan. Sebuah surat berbingkai sederhana tergantung di sana. Pinggir perkamen itu mulai menguning; lipatannya telah dibuka dan ditutup begitu sering hingga nyaris rapuh.
+
+Surat terakhir Cassian.
+
+Sudah dua tahun sejak surat itu tiba. Di dalamnya Cassian menulis tentang pencapaian terbesarnya dalam penelitian *Void Jenggala*—sebuah petunjuk baru yang dapat menjelaskan bagaimana makhluk-makhluk itu muncul. Di antara catatan penelitiannya terselip pula petunjuk samar mengenai lokasi terakhir Hector, sahabatnya yang menghilang.
+
+Setelah menerima surat itu, Cassian tak lagi memberi kabar.
+
+Jane mengikuti tatapan Hiro. Tangannya berhenti mengaduk masakan. Untuk sesaat, hanya suara ombak jauh dari pesisir yang terdengar di antara mereka.
+
+"Kau juga memikirkannya, ya?" tanya Jane pelan.
+
+"Iya." Hiro memandang surat itu lekat-lekat. "Surat itu terdengar seperti pesan terakhirnya."
+
+Jane menghampiri Hiro dan meletakkan tangan di bahunya. "Ayahmu tahu cara menjaga dirinya sendiri. Ia pasti masih hidup."
+
+Hiro mengepalkan tangan. Ia tahu Cassian bekerja untuk Kerajaan Mandala sebagai peneliti fenomena *Void Jenggala*. Namun, pekerjaan dan keberadaannya dirahasiakan pemerintah. Bagi Cassian, penugasan itu juga menjadi kesempatan untuk mencari Hector—sahabat yang lenyap tanpa kabar.
+
+Sudah lama Mandala bukan lagi kerajaan yang dibayangkan Hiro dari buku-buku pelajarannya. Sejak runtuhnya Pulau Raksamala, intrik politik meracuni istana. Korupsi meluas di kalangan pejabat, hukum terasa tajam bagi rakyat kecil tetapi tumpul bagi mereka yang berkuasa. Pajak dan penindasan memicu pemberontakan serta pembelotan aliansi di berbagai wilayah.
+
+Avalerion pun memilih bungkam tentang penahanan Sangrahal. Tak ada penjelasan yang disampaikan kepada rakyat, dan keheningan kota suci itu hanya menambah banyak pertanyaan. Sementara itu, portal *Void Jenggala* terus bermunculan dan invasinya merambah hingga Astradipa.
+
+Astradipa menutup diri untuk melindungi rakyatnya dari kekacauan Mandala. Hubungan dua kerajaan itu memburuk dari hari ke hari, membeku dalam perang dingin yang sewaktu-waktu bisa pecah menjadi perang terbuka.
+
+"Aku akan mencari Ayah," ujar Hiro. "Aku akan mendaftar ke Akademi Ksatrya Mandalagiri. Dari sana, aku bisa menjadi prajurit dan mencari tahu apa yang sebenarnya terjadi di Mandala."
+
+"Kau benar-benar ingin menjadi prajurit?" Jane menatapnya. "Bukan hanya karena ingin menemukan Cassian?"
+
+"Aku ingin melindungi orang-orang juga." Hiro membalas tatapannya. "Aku ingin menjadi *Holy Knight* seperti Paman Hector. Kalau aku bisa mengikuti jejaknya, mungkin aku juga bisa menemukan jawaban tentang dia."
+
+Jane terdiam. Di hadapannya berdiri putra yang telah dibesarkannya, seorang pemuda yang kini lebih tinggi darinya. Ada keteguhan Cassian dalam dirinya, tetapi semangatnya mengingatkan Jane pada orang-orang yang pernah ia sayangi—Rama dan Sinta, Damian, juga Hector.
+
+"Kalau begitu, buktikan tekadmu hari ini," kata Jane akhirnya. Ia merapikan kerah seragam Hiro. "Hadiri kelulusanmu dengan bangga. Kau sudah menempuh lima belas tahun pendidikan. Itu bukan hal kecil."
+
+"Siap, Ibu Jane!"
 
 ***
 
-Dua belas tahun yang lalu, pasca-tragedi pengasingan Avalerion, Cassian mencetuskan sebuah gagasan revolusioner di Pesisir Aqualis. Mantan *Priest* agung itu mendirikan **Pawiyatan Aksara Widya**—sebuah sistem pendidikan dasar wajib selama 15 tahun bagi anak-anak di pesisir. 
+Aula Pawiyatan Aksara Widya dipenuhi murid dan keluarga mereka. Hiro duduk bersama teman-teman seangkatannya, sementara Jane mengambil tempat di antara para orang tua di barisan belakang.
 
-Cassian percaya bahwa sebelum seorang anak memilih pedang, sihir, atau cangkul, mereka harus terlebih dahulu dibekali fondasi jiwa yang kokoh: ilmu baca-tulis, matematika dasar, sejarah benua, dan etika kemanusiaan. Baru setelah menyelesaikan 15 tahun pendidikan dasar tersebut di usianya yang ke-16, setiap anak dibebaskan penuh memilih jalur spesialisasi hidup mereka sendiri. 
+Perwakilan guru besar naik ke panggung untuk memanggil nama para lulusan satu demi satu. Seharusnya Cassian yang berdiri di sana. Sebagai pendiri Pawiyatan, ia berjanji akan memimpin upacara kelulusan angkatan ini. Namun, kabar tentang dirinya tak pernah datang.
 
-Sistem ini mengubah Aqualis dari pemukiman nelayan miskin menjadi wilayah paling terpelajar di pinggiran Kerajaan Mandala. Dan hari ini, Hiro adalah salah satu murid kelulusan angkatan tersebut.
+Nama demi nama dipanggil. Ketika giliran Hiro tiba, ia melangkah ke panggung dan menerima tanda kelulusannya.
 
-Namun, penciptanya sendiri tidak ada di sana untuk menyaksikannya.
+Dari kejauhan, Jane menatap putranya. Air mata mengalir di pipinya—air mata bangga, haru, sekaligus sedih. Momen yang seharusnya mereka rayakan bersama kini hanya menjadi milik Jane dan Hiro.
 
-Satu dekade berlalu sejak keruntuhan Pulau Raksamala, peradaban Nusvanir justru semakin terseret ke dalam kancah kegelapan yang baru. Kerajaan Mandala—monarki terbesar di jantung benua—kini menggelegak oleh intrik politik yang membusuk. Praktik korupsi merajalela di antara para pejabat bupati dan bangsawan Senat. Hukum berdiri dengan prinsip yang menyayat hati: *tajam ke bawah, tumpul ke atas*. Rakyat kecil dan aliansi desa-desa otonom diperas oleh pajak gila-gilaan, memicu gelombang pemberontakan serta pembelotan wilayah di berbagai pelosok Mandala.
+Ingatan tentang Cassian membawa wajah-wajah lain bersamanya: Hector, Damian yang masih kecil, lalu Rama dan Sinta yang telah lama tiada. Jane memejamkan mata, berusaha menenangkan sesak di dadanya.
 
-Di saat bersamaan, benteng suci Avalerion memilih bungkam mutlak. Kota suci itu mengunci seluruh informasi rapat-rapat pasca-penahanan Sangrahal dan musnahnya Raksamala. Tidak ada kebenaran yang dibagikan kepada publik, melahirkan spekulasi ketakutan di tengah masyarakat Nusvanir tentang kiamat yang tertunda.
+Ketika ia membukanya kembali, Hiro sedang melambaikan tangan ke arahnya. Senyumnya menyiratkan kebanggaan sederhana: ia bahagia Jane berada di sana sebagai ibunya.
 
-Ketidakseimbangan itu memicu bencana nyata: invasi **Void Jenggala**. Monster-monster mutan yang diselimuti api dan hawa ungu ketiadaan merayap keluar dari portal-portal anomali. Jumlah mereka meledak hebat, meluas menembus batas-batas benua hingga merambah ke perbatasan Kerajaan Astradipa.
+Jane berdiri dan membalas lambaian itu. Air matanya kembali berurai, tetapi kali ini sesak di dadanya terasa hangat.
 
-Menghadapi ancaman monster dan politik kotor Mandala, Kerajaan Astradipa mengambil tindakan drastis. Negeri yang mengagungkan keharmonisan alam itu menutup rapat perbatasannya, menolak mencampuri intrik membusuk Mandala dan memilih melindungi rakyatnya sendiri. Hubungan diplomasi dua kerajaan raksasa itu retak parah, kini membeku dalam Perang Dingin yang siap meletus menjadi perang terbuka kapan saja.
+Upacara ditutup dengan ucapan selamat dan perpisahan. Di halaman sekolah, Hiro berdiri bersama dua sahabatnya.
 
-Di tengah situasi Nusvanir yang berada di ambang kehancuran itulah, Cassian ditarik secara rahasia oleh Dewan Tinggi Kerajaan Mandala. Pemerintah Mandala memanfaatkan keahlian Cassian untuk memimpin riset rahasia fenomena *Void Jenggala*. Namun bagi Cassian sendiri, pekerjaan di jantung pemerintah Mandala adalah sarana untuk menjalankan misi terlarangnya: mencari keberadaan sahabat sejatinya, Hector, yang hilang tanpa jejak.
+"Sepertinya ini yang terakhir," kata Hiro.
 
-Sejak saat itu, keberadaan Cassian dirahasiakan rapat-rapat oleh militer Mandala. Surat-suratnya mendadak terhenti dua tahun lalu. Tak ada lokasi, tak ada kabar, tak ada kepastian apakah ia masih bernapas di balik dinding tebal ibu kota.
+Seorang gadis bertubuh kurus dengan mata biru dan rambut cokelat yang dikuncir kuda menatapnya lekat-lekat. "Kau yakin tidak mau tinggal saja, Hiro?"
+
+"Maaf, Naya. Tekadku sudah bulat. Aku akan menjadi prajurit Mandala." Wajah Hiro berseri-seri. "Hehehe."
+
+Seorang pemuda bertubuh besar di samping Naya terkekeh. Rambutnya cokelat kehitaman dan matanya cokelat. "Kalau suatu hari kau butuh senjata terkuat, kau tahu harus ke mana."
+
+"Ke mana?" Hiro mengernyit bingung.
+
+"Kau ini bodoh atau bagaimana? Ke bengkel pandai besi Raka, tentu saja! Penempa senjata terbaik di Mandala!" Raka tertawa lepas.
+
+"Hahaha—"
+
+Tawa mereka bertiga perlahan mereda. Keheningan singkat menggantikan canda yang selama ini terasa begitu akrab.
+
+"Baiklah," ucap Hiro lirih. "Sepertinya ini benar-benar perpisahan. Aku pergi dulu."
+
+"Jangan lupakan aku dan Raka, ya," kata Naya.
+
+"Tenang saja." Hiro membelakangi mereka dan mulai berjalan. Ia mengangkat tangan kanannya, melambaikan salam tanpa menoleh.
+
+"Sampai jumpa lagi, Bos!" seru Raka.
+
+Jane telah menunggu di depan sekolah. Mereka pulang bersama, melewati jalanan Aqualis yang telah menjadi bagian dari hidup Hiro selama enam belas tahun.
 
 ***
 
-"Dia pasti masih hidup, Hiro," suara Jane terdengar pelan namun tegas, memecah lamunan Hiro. Jane berdiri di sampingnya, meletakkan tangannya di bahu pemuda itu. "Ayahmu adalah pria paling tangguh dan cerdik yang pernah kukenal. Dia tidak akan menyerah begitu saja."
+Dua hari kemudian, Hiro berdiri di depan rumah dengan tas berisi pakaian dan perbekalan. Ia sudah siap berangkat menuju ibu kota Mandala.
 
-Hiro mengepalkan tangan kanannya.
+"Ibu, aku pergi dulu."
 
-"Aku tahu, Ibu," jawab Hiro dengan nada suara yang bergetar oleh tekad murni. "Itulah sebabnya aku sudah membulatkan tekadku. Selepas kelulusan di *Pawiyatan Aksara Widya* hari ini, aku tidak akan memilih jalur petualang biasa atau nelayan."
+Jane memeluknya erat, lalu mencium pipinya. Putranya kini lebih tinggi darinya.
 
-Hiro menatap lurus ke mata Jane. "Aku akan mendaftar ke **Akademi Ksatrya Mandalagiri**."
+"Ibu hanya membawakanmu lima ratus Saka Tamra. Tiga ratus ada di kantong tasmu, dua ratus lagi di kantong bajumu. Jangan simpan semuanya di satu tempat." Jane menepuk-nepuk tasnya untuk memastikan. "Hati-hati di Mandala. Kota itu sudah berbeda dari cerita-cerita yang kau pelajari. Banyak pencuri berkeliaran."
 
-Jane menahan napasnya. *Akademi Ksatrya Mandalagiri*—pusat pelatihan militer elit Kerajaan Mandala yang terkenal sangat keras, tempat di mana calon-calon prajurit dan perwira kerajaan ditempa di bawah riset teknologi pertarungan *Loka Cakra*.
+"Iya, Bu. Aku akan baik-baik saja."
 
-"Menjadi prajurit Mandala..." gumam Jane. "Kau ingat impianmu sejak kecil, kan?"
+"Pak Tama sebentar lagi lewat. Dia mau pergi ke danau kecil sebelum Mandala. Turun di persimpangan Trinadi—tempat jalur dari Aqualis, ibu kota, dan Hermindar bertemu. Di sana, cari tumpangan pedagang dari Hermindar ke ibu kota. Pastikan keretanya memakai lambang Mandala. Jangan naik kereta bergambar tengkorak, apalagi ikut orang berjubah hitam—"
 
-"Ya," senyum Hiro terkembang, dipenuhi pendaran keberanian. "Aku ingin menjadi seorang *Holy Knight* yang melindungi orang-orang dari ancaman kegelapan... aku ingin menjadi ksatria hebat seperti Paman Hector!"
+"Sudahlah, Bu." Hiro menunjuk ke ujung jalan. "Pak Tama sudah lewat. Aku berangkat dulu. Aku sayang Ibu!"
 
-Mata Hiro berbinar penuh rasa kagum setiap kali menyebut nama itu. Meskipun Hiro belum pernah bertemu langsung dengan sosok Hector dan hanya mengenal nama itu dari kisah-kisah kepahlawanan yang sering didongengkan ayahnya menjelang tidur, bayangan Hector—seorang ksatria suci nan gagah berani yang berdiri membela keadilan—telah terpatri di dalam jiwanya sebagai definisi pahlawan sejati. Bagi Hiro, Hector adalah figur panutan tertinggi yang mengilhaminya untuk memeluk jalan Cahaya.
+Ia menarik tangan Jane, mencium punggung tangan dan pipinya, lalu berlari menyusul kereta kuda tua milik Pak Tama. Nelayan itu terkenal gemar menjelajahi Nusvanir untuk menemukan tempat memancing yang belum pernah ia coba.
 
-"Dan dengan masuk ke Akademi Mandalagiri," lanjut Hiro mantap, "aku akan mendapatkan akses ke militer dan jantung Kerajaan Mandala... aku akan menemukan keberadaan Ayah dan membawanya pulang!"
+"Hati-hati, Hiro!" panggil Jane.
 
-Jane menatap putranya lama. Di dalam diri pemuda 16 tahun ini, ia tidak hanya melihat wujud Cassian muda, melainkan juga keberanian membara milik mendiang Rama dan Shinta, ayah dan ibu angkatnya. 
+Ia melambaikan tangan. Sedikit kesal karena Hiro memotong nasihatnya, Jane tetap tersenyum. Ia berharap putranya berhasil mengejar cita-cita dan menemukan jawaban tentang Cassian, Hector, serta saudara kembarnya yang tak lagi terdengar kabarnya.
 
-Sebuah senyuman bangga akhirnya terukir di bibir sang mantan *Assassin*.
+"Sudah siap, Nak Hiro?" tanya Pak Tama lembut.
 
-"Kalau begitu, hadiri upacara wisudamu hari ini dengan penuh rasa bangga," ucap Jane lembut sambil merapikan kerah seragam Hiro. "Buktikan pada para pengajar dan teman-temanmu bahwa kau telah menyelesaikan 15 tahun pendidikan dasar ini dengan gemilang."
+"Gass, Pak!"
 
-"Siap, Ibu Jane!" seru Hiro mantap.
-
-Dengan seragam kelulusan yang rapi dan tekad yang menyala-nyala di dalam dadanya, Hiro melangkah keluar dari pintu rumah kayu jati Aqualis. Angin laut memboyongnya menyusuri jalanan berbatu menuju aula utama *Pawiyatan Aksara Widya*, menyongsong upacara wisuda yang akan menjadi titik balik dari seluruh takdir hidupnya.
-
-Langkah pertama sang Titisan Cahaya untuk menembus kegelapan Nusvanir, resmi dimulai hari ini.
+Kereta tua itu bergerak meninggalkan Aqualis. Bersama derap kuda dan debu jalanan, perjalanan Hiro untuk meraih mimpinya dan mencari jawaban pun dimulai.
 
 ***
 

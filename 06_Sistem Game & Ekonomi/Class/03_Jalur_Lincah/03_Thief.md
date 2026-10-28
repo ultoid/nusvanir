@@ -70,25 +70,25 @@ Petualang licin yang hidup dari kelincahan, tipu daya, dan kemampuan mengambil k
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Street Shadow`
-* **Senjata yang Dapat Digunakan:** `Dagger`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 10 Dagger
+* **Zirah & Pelindung:** 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Steal** | `Physical` / `None / Neutral` | `4 SP` | One Enemy | `-` | Steal 1 item; if failed, 3% Max HP recoil | Attempts to steal 1 item; failed attempt costs 3% Max HP |
-| **3.0** | **Shadow Step** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Evasion +12% & Critical Rate +4% |
-| **6.0** | **Quick Slash** | `Physical` / `Normal Attack` | `4 SP` | One Enemy | `Math.max(0, a.atk * 1.15 - b.def * 0.5)` | a.atk * 1.15 - b.def * 0.5 (Priority +2) |
-| **10.0** | **Venom Strike** | `Physical` / `Normal Attack` | `6 SP` | One Enemy | `Math.max(0, a.atk * 1.3 - b.def * 0.4)` | a.atk * 1.3 - b.def * 0.4 (Poison 60%) *(Efek: Add State 203 Poison: 60%)* |
-| **12.0** | **Hide** | `Support` / `None / Neutral` | `8 SP` | User | `-` | Shadow State: Evasion +70%, single-target damage taken -30%, 1 turn | Shadow State: Evasion +70%, single-target damage taken -30% (1 turn) *(Efek: Apply FX State 449 (FX 1296 - Hide) as specified)* |
-| **14.0** | **Backstab** | `Physical` / `Normal Attack` | `8 SP` | One Enemy | `Math.max(0, a.atk * 1.7 - b.def * 0.3)` | a.atk * 1.7 - b.def * 0.3 (100% Crit if Hidden) |
-| **18.0** | **Shadow Reflexes** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Agility +15% |
-| **22.0** | **Smoke Bomb** | `Support` / `None / Neutral` | `10 SP` | All Enemies | `-` | Blind 50% to all enemies *(Efek: Add State 212 Blind: 100%)* |
-| **26.0** | **Shadow Lunge** | `Physical` / `Normal Attack` | `14 SP` | One Enemy | `Math.max(0, a.atk * 2.1 - b.def * 0.3)` | a.atk * 2.1 - b.def * 0.3 | Evasion +50% against the next physical attack (1 turn) *(Efek: Apply FX State 451 (FX 1300 - Shadow Lunge) as specified)* |
-| **30.0** | **Execution Strike** | `Ultimate` / `None / Neutral` | `22 SP` | One Enemy | `Math.max(0, a.atk * 2.6 - b.def * 0.15)` | a.atk * 2.6 - b.def * 0.15; +20% damage if target HP <30% (Non-Boss) | Non-Boss target below 20% HP: 15% Instant Death chance. |
+| **1.0** | **Steal** | `03 Skill` / `01 Neutral` | `4 SP` | One Enemy | `-` | Steal 1 item; if failed, 3% Max HP recoil | Attempts to steal 1 item; failed attempt costs 3% Max HP |
+| **3.0** | **Shadow Step** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Evasion +12% & Critical Rate +4% |
+| **6.0** | **Quick Slash** | `03 Skill` / `01 Neutral` | `4 SP` | One Enemy | `Math.max(1, a.atk * 1.15 - b.def * 0.5)` | a.atk * 1.15 - b.def * 0.5 (Priority +2) |
+| **10.0** | **Venom Strike** | `03 Skill` / `01 Neutral` | `6 SP` | One Enemy | `Math.max(1, a.atk * 1.3 - b.def * 0.4)` | a.atk * 1.3 - b.def * 0.4 (Poison 60%) *(Efek: Add State 203 Poison: 60%)* |
+| **12.0** | **Hide** | `03 Skill` / `01 Neutral` | `8 SP` | User | `-` | Shadow State: Evasion +70%, single-target damage taken -30%, 1 turn | Shadow State: Evasion +70%, single-target damage taken -30% (1 turn) *(Efek: Apply FX State 449 (FX 1296 - Hide) as specified)* |
+| **14.0** | **Backstab** | `03 Skill` / `01 Neutral` | `8 SP` | One Enemy | `Math.max(1, a.atk * 1.7 - b.def * 0.3)` | a.atk * 1.7 - b.def * 0.3 (100% Crit if Hidden) |
+| **18.0** | **Shadow Reflexes** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Agility +15% |
+| **22.0** | **Smoke Bomb** | `03 Skill` / `01 Neutral` | `10 SP` | All Enemies | `-` | Blind 50% to all enemies *(Efek: Add State 212 Blind: 100%)* |
+| **26.0** | **Shadow Lunge** | `03 Skill` / `01 Neutral` | `14 SP` | One Enemy | `Math.max(1, a.atk * 2.1 - b.def * 0.3)` | a.atk * 2.1 - b.def * 0.3 | Evasion +50% against the next physical attack (1 turn) *(Efek: Apply FX State 451 (FX 1300 - Shadow Lunge) as specified)* |
+| **30.0** | **Execution Strike** | `05 Ultimate` / `01 Neutral` | `22 SP` | One Enemy | `Math.max(1, a.atk * 2.6 - b.def * 0.15)` | a.atk * 2.6 - b.def * 0.15; +20% damage if target HP <30% (Non-Boss) | Non-Boss target below 20% HP: 15% Instant Death chance. |
 
 ---
 

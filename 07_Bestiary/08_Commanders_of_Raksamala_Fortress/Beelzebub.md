@@ -76,13 +76,30 @@ Tawanan itu melihat Jenggala yang telah berubah merangkak di bawah meja dan meny
 | **SP Regen / Turn (TRG)** | `8.10%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Life Drain** | `Neutral` / Magical Attack | `14 MP` | Always (Prioritas 5.0) | `a.mat * 1.7 - b.mdf * 0.4` |
-| **Abyssal Life Drain** | `Dark` / Magical Attack | `15 MP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.mat * 1.7 - b.mdf * 0.4` |
-| **Dark Purgatory** | `Dark` / Magical Attack | `25 MP` | HP <= 50% (Prioritas 6.0) | `a.mat * 1.8 - b.mdf * 0.3` |
+| **Life Drain** | `01 Neutral` / Magical Attack | `14 MP` | Always (Prioritas 5.0) | `Math.max(1, a.mat * 1.7 - b.mdf * 0.4)` |
+| **Abyssal Life Drain** | `11 Dark` / Magical Attack | `15 MP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.mat * 1.7 - b.mdf * 0.4)` |
+| **Dark Purgatory** | `11 Dark` / Magical Attack | `25 MP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.mat * 1.8 - b.mdf * 0.3)` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Dark Purgatory, All Foes
+Turn % 3 == 0: Abyssal Life Drain, Highest ATK
+HP% <= 50%: Dark Purgatory, Lowest HP%
+Always: Life Drain, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Dark: 50%, Light: 150%, Poison: 75%

@@ -76,13 +76,30 @@ Di sana, rombongan lain masih berjalan melintasi batu. Sang pengunjung akhirnya 
 | **SP Regen / Turn (TRG)** | `7.04%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Golden Wing** | `Light` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.45` |
-| **Solar Scale Guard** | `Fire` / Certain Hit | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
-| **Radiant Dragon Breath** | `Fire` / Magical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `a.mat * 1.85 - b.mdf * 0.25` |
+| **Golden Wing** | `10 Holy` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `Math.max(1, a.atk * 1.15 - b.def * 0.45)` |
+| **Solar Scale Guard** | `02 Fire` / Certain Hit | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
+| **Radiant Dragon Breath** | `02 Fire` / Magical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.mat * 1.85 - b.mdf * 0.25)` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Radiant Dragon Breath, All Foes
+Turn % 3 == 0: Solar Scale Guard, Highest ATK
+HP% <= 50%: Radiant Dragon Breath, Lowest HP%
+Always: Golden Wing, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Dark: 150%, Fire: 75%, Light: 75%

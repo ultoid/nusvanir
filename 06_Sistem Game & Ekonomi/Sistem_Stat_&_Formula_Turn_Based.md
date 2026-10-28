@@ -8,7 +8,7 @@ tags:
 
 # ⚔️ Sistem Atribut & Stat Turunan (Turn-Based RPG) Nusvanir
 
-Dokumen ini adalah acuan resmi sistem atribut, stat turunan (*derived stats*), dan mekanik *Stamina Points (SP)* untuk game RPG *Turn-Based* Nusvanir.
+Dokumen ini adalah acuan resmi sistem atribut, stat turunan (*derived stats*), dan mekanik *Stamina Points (SP)* untuk game RPG *Turn-Based* Nusvanir. Untuk alur kalkulasi damage riil, giliran ATB, TGR, dan AI musuh, lihat [Sistem_Resolusi_Combat_&_AI.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Sistem_Resolusi_Combat_&_AI.md).
 
 ---
 

@@ -70,26 +70,26 @@ Penembak ahli yang sabar menunggu satu kesempatan sempurna sebelum melepaskan te
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Deadeye Discipline`
-* **Senjata yang Dapat Digunakan:** `Long Bow, Crossbow`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Summon, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 08 Long Bow, 09 Crossbow
+* **Zirah & Pelindung:** 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 04 Summon, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Marksman Instinct** | `Passive` / `None / Neutral` | `0 SP` | Custom Mixed Scope | `-` | First target hit becomes Marked for 3 turns; damage +8% and Hit Rate +10% vs Marked | Passive: First target hit becomes Marked for 3 turns; damage +8% and Hit Rate +10% vs Marked. |
-| **1.0** | **Focus Energy** | `Support` / `None / Neutral` | `10 SP` | User | `-` | Focus: Crit Rate +20%, Hit Rate +20%, damage +10% for 1 turn | Crit Rate +20%, Hit Rate +20%, damage +10% (1 turn) *(Efek: Apply FX State 464 (FX 1330 - Focus Energy) as specified)* |
-| **4.0** | **Nature Concealment** | `Support` / `None / Neutral` | `16 SP` | User | `-` | Concealment: Evasion +60%, cannot be targeted by direct single-target attacks for 1 turn; ends after attacking | Concealment: Evasion +60%, untargetable by direct single-target attacks for 1 turn; ends after attacking *(Efek: Apply FX State 465 (FX 1331 - Nature Concealment) as specified)* |
-| **7.0** | **Call of Nature: Lupine** | `Summon` / `None / Neutral` | `20 SP` | Field / Custom Scope | `-` | Summons Lupine for 4 turns; auto-attack a.atk * 0.9 | Summons Lupine companion for 4 turns; maximum 1 companion |
-| **9.0** | **Lupine Ride** | `Passive` / `None / Neutral` | `0 SP` | Custom Mixed Scope | `-` | While riding Lupine: AGI +20%, Evasion +10%, ranged damage +10% |
-| **14.0** | **Call of Nature: Falcon** | `Support` / `None / Neutral` | `22 SP` | Field / Custom Scope | `-` | Summons Falcon for 3 turns; party Hit Rate +15% while active |
-| **18.0** | **Ambush Mastery** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Damage +10% against targets that have not acted; ignore 15% DEF | Passive: Damage +10% against targets that have not acted; ignore 15% DEF. |
-| **23.0** | **Piercing Shot** | `Physical` / `Normal Attack` | `26 SP` | Line / Cover Target | `Math.max(0, a.atk * 2.7 - b.def * 0.1)` | a.atk * 2.7 - b.def * 0.1; ignores 40% DEF | Ignores 40% DEF; cannot crit |
-| **27.0** | **Cold-Blooded Executioner** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Crit Damage +20%; +8% damage vs targets below 30% HP | Passive: Crit Damage +20%; +8% damage vs targets below 30% HP. |
-| **33.0** | **Enchant Elemental Arrow** | `Support` / `None / Neutral` | `15 SP` | User | `-` | Choose Fire/Ice/Wind/Earth/Lightning/Metal/Sonic; attacks gain chosen element and +10% elemental damage for 3 turns | Elemental Arrow: choose one element; attacks gain that element and +10% elemental damage (3 turns) *(Efek: Apply FX State 469 (FX 1338 - Enchant Elemental Arrow) as specified)* |
-| **45.0** | **Dead Eye Shot** | `Ultimate` / `None / Neutral` | `45 SP` | One Enemy | `Math.max(0, a.atk * 5.5 - b.def * 0.05)` | a.atk * 5.5 - b.def * 0.05 | Sure Hit; ignores 40% DEF; +15% damage vs Marked target; cannot crit. Non-Boss target below 20% HP: 10% Instant Death. |
+| **1.0** | **Marksman Instinct** | `Passive` / `01 Neutral` | `0 SP` | Custom Mixed Scope | `-` | First target hit becomes Marked for 3 turns; damage +8% and Hit Rate +10% vs Marked | Passive: First target hit becomes Marked for 3 turns; damage +8% and Hit Rate +10% vs Marked. |
+| **1.0** | **Focus Energy** | `03 Skill` / `01 Neutral` | `10 SP` | User | `-` | Focus: Crit Rate +20%, Hit Rate +20%, damage +10% for 1 turn | Crit Rate +20%, Hit Rate +20%, damage +10% (1 turn) *(Efek: Apply FX State 464 (FX 1330 - Focus Energy) as specified)* |
+| **4.0** | **Nature Concealment** | `03 Skill` / `01 Neutral` | `16 SP` | User | `-` | Concealment: Evasion +60%, cannot be targeted by direct single-target attacks for 1 turn; ends after attacking | Concealment: Evasion +60%, untargetable by direct single-target attacks for 1 turn; ends after attacking *(Efek: Apply FX State 465 (FX 1331 - Nature Concealment) as specified)* |
+| **7.0** | **Call of Nature: Lupine** | `04 Summon` / `01 Neutral` | `20 SP` | Field / Custom Scope | `-` | Summons Lupine for 4 turns; auto-attack a.atk * 0.9 | Summons Lupine companion for 4 turns; maximum 1 companion |
+| **9.0** | **Lupine Ride** | `Passive` / `01 Neutral` | `0 SP` | Custom Mixed Scope | `-` | While riding Lupine: AGI +20%, Evasion +10%, ranged damage +10% |
+| **14.0** | **Call of Nature: Falcon** | `03 Skill` / `01 Neutral` | `22 SP` | Field / Custom Scope | `-` | Summons Falcon for 3 turns; party Hit Rate +15% while active |
+| **18.0** | **Ambush Mastery** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Damage +10% against targets that have not acted; ignore 15% DEF | Passive: Damage +10% against targets that have not acted; ignore 15% DEF. |
+| **23.0** | **Piercing Shot** | `03 Skill` / `01 Neutral` | `26 SP` | Line / Cover Target | `Math.max(1, a.atk * 2.7 - b.def * 0.1)` | a.atk * 2.7 - b.def * 0.1; ignores 40% DEF | Ignores 40% DEF; cannot crit |
+| **27.0** | **Cold-Blooded Executioner** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Crit Damage +20%; +8% damage vs targets below 30% HP | Passive: Crit Damage +20%; +8% damage vs targets below 30% HP. |
+| **33.0** | **Enchant Elemental Arrow** | `03 Skill` / `01 Neutral` | `15 SP` | User | `-` | Choose Fire/Ice/Wind/Earth/Lightning/Metal/Sonic; attacks gain chosen element and +10% elemental damage for 3 turns | Elemental Arrow: choose one element; attacks gain that element and +10% elemental damage (3 turns) *(Efek: Apply FX State 469 (FX 1338 - Enchant Elemental Arrow) as specified)* |
+| **45.0** | **Dead Eye Shot** | `05 Ultimate` / `01 Neutral` | `45 SP` | One Enemy | `Math.max(1, a.atk * 5.5 - b.def * 0.05)` | a.atk * 5.5 - b.def * 0.05 | Sure Hit; ignores 40% DEF; +15% damage vs Marked target; cannot crit. Non-Boss target below 20% HP: 10% Instant Death. |
 
 ---
 

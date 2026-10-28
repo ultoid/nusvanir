@@ -70,28 +70,28 @@ Petualang oportunis yang mengandalkan kelicikan, kecepatan, dan serangan tepat u
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Nightblade Training`
-* **Senjata yang Dapat Digunakan:** `Dagger`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 10 Dagger
+* **Zirah & Pelindung:** 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Twin Blade Mastery** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Dual-wield damage +10%; Off-hand penalty reduced by 25% |
-| **1.0** | **Cross Slash** | `Physical` / `Normal Attack` | `8 SP` | One Enemy | `Math.max(0, a.atk * 0.9 - b.def * 0.4)` | a.atk * 0.9 - b.def * 0.4 per hit (2 hits) |
-| **4.0** | **Shadow Meld** | `Support` / `None / Neutral` | `10 SP` | User | `-` | Evasion +40% and next single-target physical hit deals +20% damage (2 turns) | Evasion +40%; next single-target physical hit +20% (2 turns) *(Efek: Apply FX State 457 (FX 1318 - Shadow Meld) as specified)* |
-| **9.0** | **Viper's Dance** | `Physical` / `Normal Attack` | `14 SP` | None / Custom | `Math.max(0, a.atk * 0.7 - b.def * 0.10)` | a.atk * 0.7 - b.def * 0.10 per hit (4 hits) |
-| **12.0** | **Sadistic Executioner** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Damage +15% against targets below 40% HP |
-| **14.0** | **Phantom Decoy** | `Physical` / `None / Neutral` | `12 SP` | User | `-` | Creates a decoy with 15% Max HP; 50% chance to redirect a single-target attack for 2 turns | Decoy: 15% Max HP; 50% single-target redirect chance (2 turns) *(Efek: Apply FX State 459 (FX 1321 - Phantom Decoy) as specified)* |
-| **19.0** | **Mutilate** | `Physical` / `Normal Attack` | `16 SP` | One Enemy | `Math.max(0, a.atk * 2.0 - b.def * 0.2)` | a.atk * 2.0 - b.def * 0.2 |
-| **22.0** | **Smokescreen** | `Support` / `None / Neutral` | `12 SP` | All Enemies | `-` | Enemy Hit Rate -20% for 2 turns *(Efek: Apply FX State 460 (FX 1323 - Smokescreen) as specified)* |
-| **25.0** | **Shadow Ambush** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | First attack against an unalerted target deals +20% damage and gains +15% Crit Rate |
-| **28.0** | **Jugular Sever** | `Physical` / `Normal Attack` | `18 SP` | One Enemy | `Math.max(0, a.atk * 1.7 - b.def * 0.2)` | a.atk * 1.7 - b.def * 0.2 |
-| **31.0** | **Blade Tempest** | `Physical` / `Normal Attack` | `16 SP` | All Enemies | `Math.max(0, a.atk * 0.7 - b.def * 0.2)` | a.atk * 0.7 - b.def * 0.2 per hit (3 hits) |
-| **36.0** | **Illusive Demise** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Evasion +15%; once per battle, survive a lethal hit at 1 HP |
-| **40.0** | **Thousand Cuts** | `Ultimate` / `None / Neutral` | `40 SP` | One Enemy | `Math.max(0, a.atk * 0.5 - b.def * 0.05)` | a.atk * 0.5 - b.def * 0.05 per hit (8 hits); +20% total damage vs Bleeding targets | 8-hit sequence; +20% total damage vs Bleeding targets. |
+| **1.0** | **Twin Blade Mastery** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Dual-wield damage +10%; Off-hand penalty reduced by 25% |
+| **1.0** | **Cross Slash** | `03 Skill` / `01 Neutral` | `8 SP` | One Enemy | `Math.max(1, a.atk * 0.9 - b.def * 0.4)` | a.atk * 0.9 - b.def * 0.4 per hit (2 hits) |
+| **4.0** | **Shadow Meld** | `03 Skill` / `01 Neutral` | `10 SP` | User | `-` | Evasion +40% and next single-target physical hit deals +20% damage (2 turns) | Evasion +40%; next single-target physical hit +20% (2 turns) *(Efek: Apply FX State 457 (FX 1318 - Shadow Meld) as specified)* |
+| **9.0** | **Viper's Dance** | `03 Skill` / `01 Neutral` | `14 SP` | None / Custom | `Math.max(1, a.atk * 0.7 - b.def * 0.10)` | a.atk * 0.7 - b.def * 0.10 per hit (4 hits) |
+| **12.0** | **Sadistic Executioner** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Damage +15% against targets below 40% HP |
+| **14.0** | **Phantom Decoy** | `03 Skill` / `01 Neutral` | `12 SP` | User | `-` | Creates a decoy with 15% Max HP; 50% chance to redirect a single-target attack for 2 turns | Decoy: 15% Max HP; 50% single-target redirect chance (2 turns) *(Efek: Apply FX State 459 (FX 1321 - Phantom Decoy) as specified)* |
+| **19.0** | **Mutilate** | `03 Skill` / `01 Neutral` | `16 SP` | One Enemy | `Math.max(1, a.atk * 2.0 - b.def * 0.2)` | a.atk * 2.0 - b.def * 0.2 |
+| **22.0** | **Smokescreen** | `03 Skill` / `01 Neutral` | `12 SP` | All Enemies | `-` | Enemy Hit Rate -20% for 2 turns *(Efek: Apply FX State 460 (FX 1323 - Smokescreen) as specified)* |
+| **25.0** | **Shadow Ambush** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | First attack against an unalerted target deals +20% damage and gains +15% Crit Rate |
+| **28.0** | **Jugular Sever** | `03 Skill` / `01 Neutral` | `18 SP` | One Enemy | `Math.max(1, a.atk * 1.7 - b.def * 0.2)` | a.atk * 1.7 - b.def * 0.2 |
+| **31.0** | **Blade Tempest** | `03 Skill` / `01 Neutral` | `16 SP` | All Enemies | `Math.max(1, a.atk * 0.7 - b.def * 0.2)` | a.atk * 0.7 - b.def * 0.2 per hit (3 hits) |
+| **36.0** | **Illusive Demise** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Evasion +15%; once per battle, survive a lethal hit at 1 HP |
+| **40.0** | **Thousand Cuts** | `05 Ultimate` / `01 Neutral` | `40 SP` | One Enemy | `Math.max(1, a.atk * 0.5 - b.def * 0.05)` | a.atk * 0.5 - b.def * 0.05 per hit (8 hits); +20% total damage vs Bleeding targets | 8-hit sequence; +20% total damage vs Bleeding targets. |
 
 ---
 

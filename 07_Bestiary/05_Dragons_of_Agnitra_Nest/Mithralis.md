@@ -76,13 +76,30 @@ Mithralis membatalkan lintasan, berbalik lebar, dan mengarahkan penerbangan menu
 | **SP Regen / Turn (TRG)** | `7.28%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Silver Feather Lance** | `Wind` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.45` |
-| **Gale Wing** | `Wind` / Physical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.atk * 1.45 - b.def * 0.35` |
-| **Skyline Barrage** | `Wind` / Certain Hit | `0 SP` | HP <= 50% (Prioritas 6.0) | `-` |
+| **Silver Feather Lance** | `05 Air` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `Math.max(1, a.atk * 1.15 - b.def * 0.45)` |
+| **Gale Wing** | `05 Air` / Physical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.atk * 1.45 - b.def * 0.35)` |
+| **Skyline Barrage** | `05 Air` / Certain Hit | `0 SP` | HP <= 50% (Prioritas 6.0) | `-` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Skyline Barrage, All Foes
+Turn % 3 == 0: Gale Wing, Highest ATK
+HP% <= 50%: Skyline Barrage, Lowest HP%
+Always: Silver Feather Lance, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Earth: 150%, Light: 75%, Wind: 75%

@@ -70,30 +70,30 @@ Penyihir berpengalaman yang memahami arus mana dan mampu membentuknya menjadi si
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `High Arcana`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Flame Burst** | `Black Magic` / `Fire` | `12 MP` | One Enemy | `Math.max(0, a.mat * 1.9 - b.mdf * 0.4)` | a.mat * 1.9 - b.mdf * 0.4 (Burn 50%) *(Efek: Add State 201 Burn: 50%)* |
-| **1.0** | **Tidal Surge** | `Black Magic` / `Water` | `12 MP` | One Enemy | `Math.max(0, a.mat * 1.9 - b.mdf * 0.4)` | a.mat * 1.9 - b.mdf * 0.4 (Soaked 40%) *(Efek: Add State 218 Soaked: 40%)* |
-| **1.0** | **Gale Slash** | `Black Magic` / `Wind` | `12 MP` | One Enemy | `Math.max(0, a.mat * 1.8 - b.mdf * 0.4)` | a.mat * 1.8 - b.mdf * 0.4 (Float 40%) *(Efek: Add State 221 Float: 40%)* |
-| **1.0** | **Earthquake** | `Black Magic` / `Earth` | `12 MP` | One Enemy | `Math.max(0, a.mat * 1.9 - b.mdf * 0.4)` | a.mat * 1.9 - b.mdf * 0.4 (Root 35%) *(Efek: Add State 209 Root: 35%)* |
-| **4.0** | **Arcane Elemental Mastery** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Elemental Magic Damage +20% |
-| **9.0** | **Mana Shield** | `Support` / `None / Neutral` | `16 MP` | User | `-` | Absorbs 30% of incoming damage using MP; 3 turns | 30% of incoming damage is redirected to MP for 3 turns *(Efek: Apply FX State 369 (FX 1133 - Mana Shield) as specified)* |
-| **14.0** | **Shock Wave** | `Black Magic` / `None / Neutral` | `18 MP` | One Enemy | `Math.max(0, a.mat * 2.2 - b.mdf * 0.3)` | a.mat * 2.2 - b.mdf * 0.3 (Paralyze 25%) *(Efek: Add State 207 Paralyze: 25%)* |
-| **14.0** | **Glacial Spear** | `Black Magic` / `Ice` | `18 MP` | One Enemy | `Math.max(0, a.mat * 2.2 - b.mdf * 0.3)` | a.mat * 2.2 - b.mdf * 0.3 (Chill 35%) *(Efek: Add State 205 Chill: 35%)* |
-| **14.0** | **Razor Shell** | `Support` / `None / Neutral` | `16 MP` | User | `-` | Absorbs 35% physical damage and reflects 20% of blocked melee damage for 2 turns | Physical Damage Absorption 35%; melee reflect 20% (2 turns) *(Efek: Apply FX State 370 (FX 1136 - Razor Shell) as specified)* |
-| **14.0** | **Echo Blast** | `Black Magic` / `None / Neutral` | `18 MP` | All Enemies | `Math.max(0, a.mat * 1.2 - b.mdf * 0.4)` | a.mat * 1.2 - b.mdf * 0.4 |
-| **19.0** | **Ether Conduit** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Ignore 15% M.DEF; MP Regen 3% Max MP/turn |
-| **25.0** | **Prismatic Storm** | `Black Magic` / `None / Neutral` | `45 MP` | All Enemies | `Math.max(0, a.mat * 1.5 - b.mdf * 0.3)` | a.mat * 1.5 - b.mdf * 0.3 per hit (2 hits; alternating elements) |
-| **31.0** | **Time Distortion** | `Support` / `None / Neutral` | `30 MP` | All Enemies | `-` | Enemy AGI -30%; user gains Extra Turn once. Cooldown 5 turns. | Enemy AGI -30%; grants one Extra Turn to user; cooldown 5 turns. *(Efek: Apply FX State 372 (FX 1140 - Time Distortion) as specified)* |
-| **36.0** | **Sorcerer's Rigor** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Max MP +25%, M.ATK +15%, 15% Double Cast Chance |
-| **40.0** | **Arcane Meteorfall** | `Ultimate` / `None / Neutral` | `75 MP` | All Enemies | `Math.max(0, a.mat * 1.65 - b.mdf * 0.10)` | a.mat * 1.65 - b.mdf * 0.10 per hit (3 hits; ignores 15% M.DEF) | Ignores 20% M.DEF |
+| **1.0** | **Flame Burst** | `02 Black Magic` / `02 Fire` | `12 MP` | One Enemy | `Math.max(1, a.mat * 1.9 - b.mdf * 0.4)` | a.mat * 1.9 - b.mdf * 0.4 (Burn 50%) *(Efek: Add State 201 Burn: 50%)* |
+| **1.0** | **Tidal Surge** | `02 Black Magic` / `03 Water` | `12 MP` | One Enemy | `Math.max(1, a.mat * 1.9 - b.mdf * 0.4)` | a.mat * 1.9 - b.mdf * 0.4 (Soaked 40%) *(Efek: Add State 218 Soaked: 40%)* |
+| **1.0** | **Gale Slash** | `02 Black Magic` / `05 Air` | `12 MP` | One Enemy | `Math.max(1, a.mat * 1.8 - b.mdf * 0.4)` | a.mat * 1.8 - b.mdf * 0.4 (Float 40%) *(Efek: Add State 221 Float: 40%)* |
+| **1.0** | **Earthquake** | `02 Black Magic` / `04 Earth` | `12 MP` | One Enemy | `Math.max(1, a.mat * 1.9 - b.mdf * 0.4)` | a.mat * 1.9 - b.mdf * 0.4 (Root 35%) *(Efek: Add State 209 Root: 35%)* |
+| **4.0** | **Arcane Elemental Mastery** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Elemental Magic Damage +20% |
+| **9.0** | **Mana Shield** | `02 Black Magic` / `01 Neutral` | `16 MP` | User | `-` | Absorbs 30% of incoming damage using MP; 3 turns | 30% of incoming damage is redirected to MP for 3 turns *(Efek: Apply FX State 369 (FX 1133 - Mana Shield) as specified)* |
+| **14.0** | **Shock Wave** | `02 Black Magic` / `01 Neutral` | `18 MP` | One Enemy | `Math.max(1, a.mat * 2.2 - b.mdf * 0.3)` | a.mat * 2.2 - b.mdf * 0.3 (Paralyze 25%) *(Efek: Add State 207 Paralyze: 25%)* |
+| **14.0** | **Glacial Spear** | `02 Black Magic` / `07 Ice` | `18 MP` | One Enemy | `Math.max(1, a.mat * 2.2 - b.mdf * 0.3)` | a.mat * 2.2 - b.mdf * 0.3 (Chill 35%) *(Efek: Add State 205 Chill: 35%)* |
+| **14.0** | **Razor Shell** | `02 Black Magic` / `01 Neutral` | `16 MP` | User | `-` | Absorbs 35% physical damage and reflects 20% of blocked melee damage for 2 turns | Physical Damage Absorption 35%; melee reflect 20% (2 turns) *(Efek: Apply FX State 370 (FX 1136 - Razor Shell) as specified)* |
+| **14.0** | **Echo Blast** | `02 Black Magic` / `01 Neutral` | `18 MP` | All Enemies | `Math.max(1, a.mat * 1.2 - b.mdf * 0.4)` | a.mat * 1.2 - b.mdf * 0.4 |
+| **19.0** | **Ether Conduit** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Ignore 15% M.DEF; MP Regen 3% Max MP/turn |
+| **25.0** | **Prismatic Storm** | `02 Black Magic` / `01 Neutral` | `45 MP` | All Enemies | `Math.max(1, a.mat * 1.5 - b.mdf * 0.3)` | a.mat * 1.5 - b.mdf * 0.3 per hit (2 hits; alternating elements) |
+| **31.0** | **Time Distortion** | `02 Black Magic` / `01 Neutral` | `30 MP` | All Enemies | `-` | Enemy AGI -30%; user gains Extra Turn once. Cooldown 5 turns. | Enemy AGI -30%; grants one Extra Turn to user; cooldown 5 turns. *(Efek: Apply FX State 372 (FX 1140 - Time Distortion) as specified)* |
+| **36.0** | **Sorcerer's Rigor** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Max MP +25%, M.ATK +15%, 15% Double Cast Chance |
+| **40.0** | **Arcane Meteorfall** | `05 Ultimate` / `01 Neutral` | `75 MP` | All Enemies | `Math.max(1, a.mat * 1.65 - b.mdf * 0.10)` | a.mat * 1.65 - b.mdf * 0.10 per hit (3 hits; ignores 15% M.DEF) | Ignores 20% M.DEF |
 
 ---
 

@@ -79,13 +79,30 @@ Kilat menyala di sela awan, lalu berpindah mengikuti arah terbangnya. Sang pengg
 | **SP Regen / Turn (TRG)** | `8.06%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Storm Talon** | `Wind` / Magical Attack | `0 SP` | Always (Prioritas 5.0) | `a.mat * 1.15 - b.mdf * 0.45` |
-| **Thunder Dive** | `Lightning` / Physical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.atk * 1.45 - b.def * 0.35 (Paralyze 30%)` |
-| **Tempest Breath** | `Void` / Magical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `a.mat * 1.85 - b.mdf * 0.25` |
+| **Storm Talon** | `05 Air` / Magical Attack | `0 SP` | Always (Prioritas 5.0) | `Math.max(1, a.mat * 1.15 - b.mdf * 0.45)` |
+| **Thunder Dive** | `06 Electric` / Physical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.atk * 1.45 - b.def * 0.35 (Paralyze 30%))` |
+| **Tempest Breath** | `Void` / Magical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.mat * 1.85 - b.mdf * 0.25)` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Tempest Breath, All Foes
+Turn % 3 == 0: Thunder Dive, Highest ATK
+HP% <= 50%: Tempest Breath, Lowest HP%
+Always: Storm Talon, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Earth: 150%, Void: 50%, Wind: 75%

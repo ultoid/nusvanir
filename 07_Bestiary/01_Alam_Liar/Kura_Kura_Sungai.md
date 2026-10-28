@@ -75,13 +75,28 @@ Penenun itu meletakkan kura-kura di tepian. Hewan tersebut menunggu sampai bayan
 | **SP Regen / Turn (TRG)** | `3.46%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Shell Bash** | `Water` / Certain Hit | `0 SP` | Always (Prioritas 5.0) | `-` |
-| **Withdraw** | `Water` / Certain Hit | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
-| **River Ram** | `Water` / Physical Attack | `0 SP` | HP <= 40% (Prioritas 4.0) | `a.atk * 1.85 - b.def * 0.25 (Stun 25%)` |
+| **Shell Bash** | `03 Water` / Certain Hit | `0 SP` | Always (Prioritas 5.0) | `-` |
+| **Withdraw** | `03 Water` / Certain Hit | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
+| **River Ram** | `03 Water` / Physical Attack | `0 SP` | HP <= 40% (Prioritas 4.0) | `Math.max(1, a.atk * 1.85 - b.def * 0.25 (Stun 25%))` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 1: Instinct-Driven AI (Naluri Alami)`
+* **Jumlah Aksi per Giliran:** `1 Aksi per Giliran`
+* **Logika Penargetan:** Naluri satwa liar/prajurit biasa; menyerang target dengan bobot Target Rate (TGR) tertinggi (fokus pada Tanker yang memprovokasi).
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<AI Priority>
+HP% <= 40%: River Ram, Lowest HP%
+Turn 2+: Withdraw, Random
+Always: Shell Bash, Highest TGR
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Lightning: 150%, Water: 50%

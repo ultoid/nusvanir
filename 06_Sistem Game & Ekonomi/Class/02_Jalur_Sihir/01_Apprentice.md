@@ -70,23 +70,19 @@ Pemula dalam seni sihir yang baru mempelajari cara memahami mana, mantra, dan at
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `—`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Magic, Support, Passive`
+* **Senjata yang Dapat Digunakan (Weapon Types):** 06 Staff, 07 Rune
+* **Zirah & Pelindung (Armor Types):** 01 Basic Clothes, 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
-| Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
-| :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1** | **Heal** | `White Magic` / `Holy` | `12 MP` | 1 Ally | `Math.max(0, a.mat * 2.0 + a.int * 1.5)` | Menyalurkan energi spiritual untuk memulihkan luka diri atau sekutu. |
-| **1** | **Fireball** | `Black Magic` / `Fire` | `10 MP` | 1 Target | `Math.max(0, a.mat * 1.4 - b.mdf * 0.4)` | Melontarkan gumpalan api magis ke arah musuh (Peluang Burn 20%). |
-| **1** | **Spell Mastery** | `Passive` / `Neutral` | `0 MP` | Self | `-` | Pemahaman pola mantra dasar yang meningkatkan MP Regen (MRG). |
-| **1** | **Elemental Mastery** | `Passive` / `Neutral` | `0 MP` | Self | `-` | Meningkatkan kapasitas Max MP dan efektivitas mantra elemen. |
-| **3** | **Aqua Blast** | `Black Magic` / `Water` | `14 MP` | All Enemies | `Math.max(0, a.mat * 1.15 - b.mdf * 0.35)` | Gelombang air melingkar yang menekan posisi musuh. |
-| **5** | **Fire Bolt** | `Black Magic` / `Fire` | `18 MP` | 1 Target | `Math.max(0, a.mat * 1.8 - b.mdf * 0.4)` | Tombak api pekat dengan daya tembus tinggi pada target tunggal. |
-| **7** | **Sonic Boom** | `Black Magic` / `Sound` | `16 MP` | 1 Target | `Math.max(0, a.mat * 1.3 - b.mdf * 0.3)` | Gelombang kejut frekuensi tinggi yang dapat menyebabkan Paralyze (20%). |
-| **9** | **Holy Veil** | `White Magic / Support` / `Holy` | `25 MP` | Self | `-` | Menciptakan perisai cahaya suci penahan serangan lawan. |
+| Level | Nama Skill | Skill Type | MP / SP Cost | Scope | Hit Type / Repeat | Damage (Type, Element, Formula, Crit) | Effects & Description |
+| :---: | :--- | :--- | :---: | :--- | :--- | :--- | :--- |
+| **Lv 1** | **Arcane Bolt** | `02 Black Magic` | `5 MP / 0 SP` | 1 Enemy | Magical Attack / 1 | **Type:** HP Damage<br>**Element:** 01 Neutral<br>**Formula:** `Math.max(1, (a.mat * 1.3) - (b.mdf * 0.65))`<br>**Crit:** No | **Efek:** -<br>**Deskripsi:** Proyektil energi sihir murni jarak jauh yang stabil untuk menyerang musuh secara aman. |
+| **Lv 4** | **Mind Focus** | `Passive` | `0 MP / 0 SP` | None | Certain Hit / 1 | **Type:** None<br>**Formula:** None | **Efek:** Auto-Passive State [0301+] (MP Regen +2%, Max MP +10%)<br>**Deskripsi:** Latihan meditasi dasar untuk memperluas kapasitas dan pemulihan energi mental. |
+| **Lv 7** | **Aether Barrier** | `01 White Magic` | `15 MP / 0 SP` | The User | Certain Hit / 1 | **Type:** None<br>**Formula:** None | **Efek:** Add State: [0301+] Aether Barrier 100% (MDF +20%, 3 Turns)<br>**Deskripsi:** Membentuk perisai pelindung magis suci untuk meredam serangan mematikan yang masuk. |
+| **Lv 10** | **Elemental Burst** | `05 Ultimate` | `25 MP / 0 SP` | All Enemies | Magical Attack / 1 | **Type:** HP Damage<br>**Element:** 01 Neutral<br>**Formula:** `Math.max(1, (a.mat * 1.8) - (b.mdf * 0.65))`<br>**Crit:** No | **Efek:** Add State: [0207] Paralyze 30% (2 Turns)<br>**Deskripsi:** Ledakan energi magis area luas yang memicu kekacauan elemen pada seluruh musuh di medan laga. |
 
 ---
 

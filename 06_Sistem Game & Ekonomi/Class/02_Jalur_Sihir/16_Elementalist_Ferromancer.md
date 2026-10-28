@@ -70,24 +70,24 @@ Penyihir unsur logam yang mampu memengaruhi besi, baja, dan logam lain melalui k
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Ironbound Chassis`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe, Basic Armor`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Transformation, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe, 01 Basic Clothes
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Ferrous Dominance** | `Passive` / `Metal` | `0 SP` | All Enemies | `-` | Metal Damage +20%; DEF +15%; gains Polarity mechanic |
-| **1.0** | **North Pole Charge** | `Black Magic` / `Metal` | `12 SP` | One Enemy | `Math.max(0, a.mat * 1.5 + a.def * 0.35 - b.def * 0.2)` | a.mat * 1.5 + a.def * 0.35 - b.def * 0.2 |
-| **5.0** | **South Pole Charge** | `Black Magic` / `Metal` | `12 SP` | One Enemy | `Math.max(0, a.mat * 1.5 + a.def * 0.35 - b.def * 0.2)` | a.mat * 1.5 + a.def * 0.35 - b.def * 0.2 |
-| **12.0** | **Ironclad Bastion** | `Passive` / `Metal` | `0 SP` | User | `-` | DEF +20%; physical damage taken -10% |
-| **18.0** | **Polar Collision** | `Black Magic` / `Metal` | `26 SP` | All Enemies | `Math.max(0, a.mat * 1.7 + a.def * 0.45 - b.def * 0.2)` | a.mat * 1.7 + a.def * 0.45 - b.def * 0.2 |
-| **22.0** | **Iron Fortress** | `Support` / `Metal` | `24 SP` | All Allies | `-` | Party damage taken -35% for 1 turn | Party Damage Taken -35% (1 turn) *(Efek: Apply FX State 415 (FX 1233 - Iron Fortress) as specified)* |
-| **25.0** | **Magnetic Repulsion** | `Support` / `None / Neutral` | `22 SP` | User | `-` | Physical Evasion +30%, knockback/forced movement immunity (3 turns) | Physical Evasion +30%; forced-movement immunity (3 turns) *(Efek: Apply FX State 416 (FX 1234 - Magnetic Repulsion) as specified)* |
-| **28.0** | **Sanguine Cleave** | `Black Magic` / `Metal` | `30 SP` | All Enemies | `Math.max(0, a.mat * 1.2 + a.def * 0.35 - b.def * 0.3)` | a.mat * 1.2 + a.def * 0.35 - b.def * 0.3 |
-| **45.0** | **Iron Colossus** | `Transformation` / `Metal` | `55 SP` | User | `-` | Transformation 3 turns: DEF +60%, M.DEF +30%, ATK +20%, AGI -25%; attacks gain Metal element | Iron Colossus: DEF +60%, M.DEF +30%, ATK +20%, AGI -25%, Metal element (3 turns) *(Efek: Apply FX State 417 (FX 1236 - Iron Colossus) as specified)* |
+| **1.0** | **Ferrous Dominance** | `Passive` / `08 Steel` | `0 SP` | All Enemies | `-` | Metal Damage +20%; DEF +15%; gains Polarity mechanic |
+| **1.0** | **North Pole Charge** | `02 Black Magic` / `08 Steel` | `12 SP` | One Enemy | `Math.max(1, a.mat * 1.5 + a.def * 0.35 - b.def * 0.2)` | a.mat * 1.5 + a.def * 0.35 - b.def * 0.2 |
+| **5.0** | **South Pole Charge** | `02 Black Magic` / `08 Steel` | `12 SP` | One Enemy | `Math.max(1, a.mat * 1.5 + a.def * 0.35 - b.def * 0.2)` | a.mat * 1.5 + a.def * 0.35 - b.def * 0.2 |
+| **12.0** | **Ironclad Bastion** | `Passive` / `08 Steel` | `0 SP` | User | `-` | DEF +20%; physical damage taken -10% |
+| **18.0** | **Polar Collision** | `02 Black Magic` / `08 Steel` | `26 SP` | All Enemies | `Math.max(1, a.mat * 1.7 + a.def * 0.45 - b.def * 0.2)` | a.mat * 1.7 + a.def * 0.45 - b.def * 0.2 |
+| **22.0** | **Iron Fortress** | `02 Black Magic` / `08 Steel` | `24 SP` | All Allies | `-` | Party damage taken -35% for 1 turn | Party Damage Taken -35% (1 turn) *(Efek: Apply FX State 415 (FX 1233 - Iron Fortress) as specified)* |
+| **25.0** | **Magnetic Repulsion** | `02 Black Magic` / `01 Neutral` | `22 SP` | User | `-` | Physical Evasion +30%, knockback/forced movement immunity (3 turns) | Physical Evasion +30%; forced-movement immunity (3 turns) *(Efek: Apply FX State 416 (FX 1234 - Magnetic Repulsion) as specified)* |
+| **28.0** | **Sanguine Cleave** | `02 Black Magic` / `08 Steel` | `30 SP` | All Enemies | `Math.max(1, a.mat * 1.2 + a.def * 0.35 - b.def * 0.3)` | a.mat * 1.2 + a.def * 0.35 - b.def * 0.3 |
+| **45.0** | **Iron Colossus** | `05 Ultimate` / `08 Steel` | `55 SP` | User | `-` | Transformation 3 turns: DEF +60%, M.DEF +30%, ATK +20%, AGI -25%; attacks gain Metal element | Iron Colossus: DEF +60%, M.DEF +30%, ATK +20%, AGI -25%, Metal element (3 turns) *(Efek: Apply FX State 417 (FX 1236 - Iron Colossus) as specified)* |
 
 ---
 

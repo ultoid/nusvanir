@@ -70,27 +70,27 @@ Pembunuh terlatih yang menjadikan kesunyian, ketepatan, dan kejutan sebagai bagi
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Veiled Predator`
-* **Senjata yang Dapat Digunakan:** `Dagger`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 10 Dagger
+* **Zirah & Pelindung:** 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Phantom Thread** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Evasion +15%; damage from behind +15% |
-| **1.0** | **Shadow Mark** | `Passive` / `None / Neutral` | `0 SP` | Custom Mixed Scope | `-` | Attacks can apply Shadow Mark, max 3 stacks; each stack +4% damage from Assassin; lasts 3 turns | Passive: Shadow Mark max 3 stacks; each stack +4% Assassin damage; lasts 3 turns. |
-| **1.0** | **Phantom Shuriken** | `Physical` / `Normal Attack` | `12 SP` | One Enemy | `Math.max(0, a.atk * 0.7 - b.def * 0.05)` | a.atk * 0.7 - b.def * 0.05 per hit (3 hits) | Priority +2; each cast can add at most 1 Shadow Mark. |
-| **4.0** | **Shadow Clone** | `Support` / `None / Neutral` | `18 SP` | Field / Custom Scope | `-` | Creates 1 clone for 2 turns; clone has 30% caster Max HP and deals 35% of caster attack damage | Summons 1 Shadow Clone for 2 turns; clone deals 35% attack damage *(Efek: Apply FX State 472 (FX 1343 - Shadow Clone) as specified)* |
-| **8.0** | **Toxic Coating** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Attacks have 30% Poison chance; Poison damage +15% | Passive: Attacks have 30% Poison chance; Poison damage +15%. |
-| **12.0** | **Shadow Cloak** | `Support` / `None / Neutral` | `15 SP` | User | `-` | Evasion +70%, single-target damage taken -30%, duration 1 turn; ends after attacking | Evasion +70%, single-target damage taken -30% (1 turn); ends after attacking *(Efek: Apply FX State 474 (FX 1345 - Shadow Cloak) as specified)* |
-| **14.0** | **Shadow Clone Strike** | `Physical` / `Normal Attack` | `22 SP` | One Enemy | `Math.max(0, a.atk * 1.3 - b.def * 0.1)` | a.atk * 1.3 - b.def * 0.1 per hit; hits = 1 + active clones (max 2 hits) | Gains one extra hit if a Shadow Clone is active; maximum 2 hits |
-| **19.0** | **Phantom Executioner** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Damage +20% vs targets below 35% HP; execution bonus does not affect Bosses |
-| **25.0** | **Toxic Smoke Bomb** | `Support` / `None / Neutral` | `25 SP` | Custom Mixed Scope | `-` | Poison 55% and Hit Rate -15% to all enemies for 2 turns; user Evasion +15% for 2 turns | Enemy Hit Rate -15% and user Evasion +15% (2 turns). | Status: Poison (55%) *(Efek: Add State 203 Poison: 55% | Apply FX State 476 (FX 1348 - Toxic Smoke Bomb) as specified)* |
-| **31.0** | **Silent Killer** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Critical Rate +10%; attacks against Silenced targets deal +15% damage |
-| **38.0** | **Phantom Slash** | `Physical` / `Normal Attack` | `30 SP` | One Enemy | `Math.max(0, a.atk * 3.0 - b.def * 0.08)` | a.atk * 3.0 - b.def * 0.08 |
-| **45.0** | **Shadow Dance : Omnislash** | `Ultimate` / `None / Neutral` | `50 SP` | Field / Custom Scope | `Math.max(0, a.atk * 0.8 - b.def * 0.03)` | a.atk * 0.8 - b.def * 0.03 per hit (6 hits); final hit +35% damage | 6-hit sequence; Sure Hit; ignores 25% DEF. Consumes all Shadow Marks for +5% total damage per stack. |
+| **1.0** | **Phantom Thread** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Evasion +15%; damage from behind +15% |
+| **1.0** | **Shadow Mark** | `Passive` / `01 Neutral` | `0 SP` | Custom Mixed Scope | `-` | Attacks can apply Shadow Mark, max 3 stacks; each stack +4% damage from Assassin; lasts 3 turns | Passive: Shadow Mark max 3 stacks; each stack +4% Assassin damage; lasts 3 turns. |
+| **1.0** | **Phantom Shuriken** | `03 Skill` / `01 Neutral` | `12 SP` | One Enemy | `Math.max(1, a.atk * 0.7 - b.def * 0.05)` | a.atk * 0.7 - b.def * 0.05 per hit (3 hits) | Priority +2; each cast can add at most 1 Shadow Mark. |
+| **4.0** | **Shadow Clone** | `03 Skill` / `01 Neutral` | `18 SP` | Field / Custom Scope | `-` | Creates 1 clone for 2 turns; clone has 30% caster Max HP and deals 35% of caster attack damage | Summons 1 Shadow Clone for 2 turns; clone deals 35% attack damage *(Efek: Apply FX State 472 (FX 1343 - Shadow Clone) as specified)* |
+| **8.0** | **Toxic Coating** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Attacks have 30% Poison chance; Poison damage +15% | Passive: Attacks have 30% Poison chance; Poison damage +15%. |
+| **12.0** | **Shadow Cloak** | `03 Skill` / `01 Neutral` | `15 SP` | User | `-` | Evasion +70%, single-target damage taken -30%, duration 1 turn; ends after attacking | Evasion +70%, single-target damage taken -30% (1 turn); ends after attacking *(Efek: Apply FX State 474 (FX 1345 - Shadow Cloak) as specified)* |
+| **14.0** | **Shadow Clone Strike** | `03 Skill` / `01 Neutral` | `22 SP` | One Enemy | `Math.max(1, a.atk * 1.3 - b.def * 0.1)` | a.atk * 1.3 - b.def * 0.1 per hit; hits = 1 + active clones (max 2 hits) | Gains one extra hit if a Shadow Clone is active; maximum 2 hits |
+| **19.0** | **Phantom Executioner** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Damage +20% vs targets below 35% HP; execution bonus does not affect Bosses |
+| **25.0** | **Toxic Smoke Bomb** | `03 Skill` / `01 Neutral` | `25 SP` | Custom Mixed Scope | `-` | Poison 55% and Hit Rate -15% to all enemies for 2 turns; user Evasion +15% for 2 turns | Enemy Hit Rate -15% and user Evasion +15% (2 turns). | Status: Poison (55%) *(Efek: Add State 203 Poison: 55% | Apply FX State 476 (FX 1348 - Toxic Smoke Bomb) as specified)* |
+| **31.0** | **Silent Killer** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Critical Rate +10%; attacks against Silenced targets deal +15% damage |
+| **38.0** | **Phantom Slash** | `03 Skill` / `01 Neutral` | `30 SP` | One Enemy | `Math.max(1, a.atk * 3.0 - b.def * 0.08)` | a.atk * 3.0 - b.def * 0.08 |
+| **45.0** | **Shadow Dance : Omnislash** | `05 Ultimate` / `01 Neutral` | `50 SP` | Field / Custom Scope | `Math.max(1, a.atk * 0.8 - b.def * 0.03)` | a.atk * 0.8 - b.def * 0.03 per hit (6 hits); final hit +35% damage | 6-hit sequence; Sure Hit; ignores 25% DEF. Consumes all Shadow Marks for +5% total damage per stack. |
 
 ---
 

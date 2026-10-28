@@ -30,7 +30,7 @@ Aturan inti:
 
 ## 2. Cakupan parameter (Sistem 6 Base Stats & Derived Stats Turn-Based)
 
-Pedoman ini mengadopsi standarisasi sistem atribut **Turn-Based RPG Nusvanir** sesuai dokumen resmi [Sistem_Stat_&_Formula_Turn_Based.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md):
+Pedoman ini mengadopsi standarisasi sistem atribut **Turn-Based RPG Nusvanir** sesuai dokumen resmi [Sistem_Stat_&_Formula_Turn_Based.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md):
 
 ### A. Enam Atribut Dasar (Base Stats)
 Atribut fondasi yang dimiliki setiap entitas (karakter pemain, monster, dan boss):
@@ -101,10 +101,10 @@ Nama file atau tanggal modifikasi saja tidak cukup untuk menentukan otoritas. Pe
 
 ### Rujukan Dokumen & Database Nusvanir yang Resmi Berlaku
 
-- [Sistem_Stat_&_Formula_Turn_Based.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md) — sumber resmi rumus 6 Base Stats, derived stats, sistem SP dinamis, dan mekanisme alokasi 3 Stat Point bebas tiap Base Level.
-- [Mekanik_Class_Job.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Mekanik_Class_Job.md) — sumber struktur class, Dual Level System, batasan Level Cap per Tier (Tier 1: 10, Tier 2: 30, Tier 3: 40, Tier 4: 50, Tier 5: 60), serta pertumbuhan stat alami (fixed stat growth).
+- [Sistem_Stat_&_Formula_Turn_Based.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md) — sumber resmi rumus 6 Base Stats, derived stats, sistem SP dinamis, dan mekanisme alokasi 3 Stat Point bebas tiap Base Level.
+- [Mekanik_Class_Job.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Mekanik_Class_Job.md) — sumber struktur class, Dual Level System, batasan Level Cap per Tier (Tier 1: 10, Tier 2: 30, Tier 3: 40, Tier 4: 50, Tier 5: 60), serta pertumbuhan stat alami (fixed stat growth).
 - `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` — spreadsheet database resmi aktif yang memuat 35 Playable Classes, 329 Skills, 398 Items, 65 Weapons, 122 Armors, 80 Enemies, States, dan parameter ekonomi.
-- [Mekanik_Efektivitas_Elemen.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Mekanik_Efektivitas_Elemen.md) — sumber resmi matchup 10 elemen dan multiplier `2x`, `1x`, `0.5x`, serta immunity `0x`.
+- [Mekanik_Efektivitas_Elemen.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Mekanik_Efektivitas_Elemen.md) — sumber resmi matchup 10 elemen dan multiplier `2x`, `1x`, `0.5x`, serta immunity `0x`.
 - `06_Sistem Game & Ekonomi/Items/**` — database 398 item resmi (Consumables, Materials, Forge, Valuables, Key Items) dan integrasi resep crafting.
 - `07_Bestiary/**` — 80 entitas Bestiary resmi yang telah mengintegrasikan blok `# 📊 GAME DATA & RPG PARAMETERS (TURN-BASED)` langsung dalam format Markdown (.md) berbasis 6 Base Stats dan formula deterministik.
 

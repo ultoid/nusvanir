@@ -79,13 +79,29 @@ Siren berenang mengikuti lorong itu sampai dasar laut jatuh menjadi jurang. Nyan
 | **SP Regen / Turn (TRG)** | `6.60%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Abyssal Song** | `Dark` / Magical Attack | `0 SP` | Always (Prioritas 5.0) | `a.mat * 1.15 - b.mdf * 0.45 (Silence 35%)` |
-| **Drowning Lure** | `Water` / Magical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.mat * 1.45 - b.mdf * 0.35` |
-| **Siren Resonance** | `Sound` / Magical Attack | `0 SP` | HP <= 40% (Prioritas 4.0) | `a.mat * 1.85 - b.mdf * 0.25` |
+| **Abyssal Song** | `11 Dark` / Magical Attack | `0 SP` | Always (Prioritas 5.0) | `Math.max(1, a.mat * 1.15 - b.mdf * 0.45 (Silence 35%))` |
+| **Drowning Lure** | `03 Water` / Magical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.mat * 1.45 - b.mdf * 0.35)` |
+| **Siren Resonance** | `09 Sound` / Magical Attack | `0 SP` | HP <= 40% (Prioritas 4.0) | `Math.max(1, a.mat * 1.85 - b.mdf * 0.25)` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 2: Tactical AI (Taktis Pasukan Elit)`
+* **Jumlah Aksi per Giliran:** `1 Aksi per Giliran (Peluang 2 Aksi saat HP <= 30%)`
+* **Logika Penargetan:** Membaca status party pemain; memprioritaskan target ber-HP rendah (eksekusi), membalas Taunt dengan serangan berelemen atau AoE.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<AI Priority>
+HP% <= 25%: Siren Resonance, Lowest HP%
+State === Taunt: Drowning Lure, Random
+Turn % 2 == 0: Drowning Lure, Random
+Always: Abyssal Song, Highest TGR
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Lightning: 150%, Void: 50%, Water: 50%

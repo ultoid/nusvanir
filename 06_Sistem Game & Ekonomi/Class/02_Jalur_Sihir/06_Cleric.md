@@ -70,25 +70,25 @@ Rohaniwan pengembara yang membawa penyembuhan, doa, dan perlindungan bagi mereka
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Consecrated Discipline`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `White Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `01 White Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Smite of Conviction** | `White Magic` / `Holy` | `12 MP` | One Enemy | `Math.max(0, a.mat * 1.7 - b.mdf * 0.4)` | a.mat * 1.7 - b.mdf * 0.4 |
-| **4.0** | **Holy Blessing** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | M.DEF +15%; Poison/Curse/Silence/Chaos Resistance +30% | Status: Poison; Curse; Silence |
-| **9.0** | **Sanctified Cleansing** | `White Magic` / `Holy` | `16 MP` | Custom Ally/Enemy Target | `-` | Ally: heal a.mat * 1.3 and cleanse 3 negative states. Enemy: a.mat * 1.3 - b.mdf * 0.8 | Ally heal + cleanse; offensive Holy damage against enemy. |
-| **14.0** | **Sacred Sanctuary** | `Support` / `None / Neutral` | `24 MP` | All Allies | `-` | Party HP Regen 5% Max HP/turn & M.DEF +15% (3 turns) | Party Regen + M.DEF buff (3 turns). *(Efek: Apply FX State 375 (FX 1146 - Sacred Sanctuary) as specified)* |
-| **19.0** | **Devout Resolve** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | MP Cost -10%, Silence & Confusion Immunity |
-| **25.0** | **Turn Undead** | `White Magic` / `Holy` | `18 MP` | One Enemy | `Math.max(0, a.mat * 2.5 - b.mdf * 0.2)` | a.mat * 2.5 - b.mdf * 0.2; deals x1.25 damage to Undead | Deals +25% damage to Undead |
-| **25.0** | **Raise** | `White Magic` / `None / Neutral` | `35 MP` | One Ally (Dead) | `-` | Revive 1 fallen ally with 35% HP | Revives one fallen ally with 35% Max HP *(Efek: Apply FX State 377 (FX 1149 - Raise) as specified)* |
-| **31.0** | **Aegis of Faith** | `Support` / `None / Neutral` | `18 MP` | One Ally | `-` | DEF & M.DEF +25% (3 turns) *(Efek: Apply FX State 378 (FX 1150 - Aegis of Faith) as specified)* |
-| **36.0** | **Holy Aura** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | When healing an ally, that ally gains DEF/M.DEF +8% for 2 turns; does not stack |
-| **40.0** | **Miracle Intervention** | `Ultimate` / `Holy` | `80 MP` | All Allies | `-` | Restores 55% Max HP and 30% Max MP to all allies; damage taken -40% for 1 turn | Party emergency recovery; damage taken -40% for 1 turn. Cooldown 4 turns. *(Efek: Apply FX State 380 (FX 1152 - Miracle Intervention) as specified)* |
+| **1.0** | **Smite of Conviction** | `01 White Magic` / `10 Holy` | `12 MP` | One Enemy | `Math.max(1, a.mat * 1.7 - b.mdf * 0.4)` | a.mat * 1.7 - b.mdf * 0.4 |
+| **4.0** | **Holy Blessing** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | M.DEF +15%; Poison/Curse/Silence/Chaos Resistance +30% | Status: Poison; Curse; Silence |
+| **9.0** | **Sanctified Cleansing** | `01 White Magic` / `10 Holy` | `16 MP` | Custom Ally/Enemy Target | `-` | Ally: heal a.mat * 1.3 and cleanse 3 negative states. Enemy: a.mat * 1.3 - b.mdf * 0.8 | Ally heal + cleanse; offensive Holy damage against enemy. |
+| **14.0** | **Sacred Sanctuary** | `01 White Magic` / `01 Neutral` | `24 MP` | All Allies | `-` | Party HP Regen 5% Max HP/turn & M.DEF +15% (3 turns) | Party Regen + M.DEF buff (3 turns). *(Efek: Apply FX State 375 (FX 1146 - Sacred Sanctuary) as specified)* |
+| **19.0** | **Devout Resolve** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | MP Cost -10%, Silence & Confusion Immunity |
+| **25.0** | **Turn Undead** | `01 White Magic` / `10 Holy` | `18 MP` | One Enemy | `Math.max(1, a.mat * 2.5 - b.mdf * 0.2)` | a.mat * 2.5 - b.mdf * 0.2; deals x1.25 damage to Undead | Deals +25% damage to Undead |
+| **25.0** | **Raise** | `01 White Magic` / `01 Neutral` | `35 MP` | One Ally (Dead) | `-` | Revive 1 fallen ally with 35% HP | Revives one fallen ally with 35% Max HP *(Efek: Apply FX State 377 (FX 1149 - Raise) as specified)* |
+| **31.0** | **Aegis of Faith** | `01 White Magic` / `01 Neutral` | `18 MP` | One Ally | `-` | DEF & M.DEF +25% (3 turns) *(Efek: Apply FX State 378 (FX 1150 - Aegis of Faith) as specified)* |
+| **36.0** | **Holy Aura** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | When healing an ally, that ally gains DEF/M.DEF +8% for 2 turns; does not stack |
+| **40.0** | **Miracle Intervention** | `05 Ultimate` / `10 Holy` | `80 MP` | All Allies | `-` | Restores 55% Max HP and 30% Max MP to all allies; damage taken -40% for 1 turn | Party emergency recovery; damage taken -40% for 1 turn. Cooldown 4 turns. *(Efek: Apply FX State 380 (FX 1152 - Miracle Intervention) as specified)* |
 
 ---
 

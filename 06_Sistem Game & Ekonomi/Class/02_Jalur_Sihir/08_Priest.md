@@ -70,28 +70,28 @@ Rohaniwan tinggi yang menguasai doa dan mukjizat untuk menyembuhkan, melindungi,
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Sacred Vessel`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe, Basic Armor`
-* **Tipe Skill yang Dibuka:** `White Magic, Support, Transformation, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe, 01 Basic Clothes
+* **Tipe Skill yang Dibuka (Skill Types):** `01 White Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Sacred Consecration** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | - |
-| **1.0** | **Divine Exorcism** | `White Magic` / `Holy` | `12 SP` | One Enemy | `Math.max(0, a.mat * 2.2 - b.mdf * 0.15)` | a.matk * 2.2 - b.mdef * 0.15 | Priority +1; ignores 20% M.DEF; +50% damage vs Undead/Drakhtar. No Instant Death against Bosses. |
-| **4.0** | **Radiant Salvation** | `White Magic` / `Holy` | `18 SP` | One Ally | `Math.max(0, a.mat * 2.5 + a.level * 5)` | a.matk * 2.5 + a.level * 5 |
-| **9.0** | **Aegis Maxima** | `Support` / `Holy` | `22 SP` | All Allies | `-` | Party damage taken -60% for 1 turn | Priority +5; party damage taken -60% for 1 turn. Cooldown 4 turns; can be dispelled. *(Efek: Apply FX State 424 (FX 1249 - Aegis Maxima) as specified)* |
-| **14.0** | **Holy Nova** | `Support` / `Holy` | `24 SP` | Field / Custom Scope | `-` | Party Regen 5% Max HP/turn for 3 turns; Undead/Dark enemies take 4% Max HP damage per turn (Boss cap 2%) | Holy Field (3 turns): heals allies and damages Undead/Dark enemies. *(Efek: Apply FX State 425 (FX 1250 - Holy Nova) as specified)* |
-| **18.0** | **Divine Gift** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | - |
-| **23.0** | **Holy Barrier** | `Passive` / `None / Neutral` | `0 SP` | All Allies | `-` | - |
-| **27.0** | **Sanctified Absolution** | `Support` / `None / Neutral` | `30 SP` | All Allies | `-` | Cleanses up to 5 negative states/debuffs from all allies; Status Resistance +25% for 2 turns | Mass cleanse + temporary status resistance. *(Efek: Apply FX State 428 (FX 1253 - Sanctified Absolution) as specified)* |
-| **33.0** | **Holy Infusion** | `Support` / `None / Neutral` | `35 SP` | All Allies | `-` | - |
-| **37.0** | **Martyr's Faith** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | - |
-| **39.0** | **Celestial Grace** | `Support` / `None / Neutral` | `32 SP` | All Allies | `-` | Party Regen 8% Max HP/turn for 3 turns | Strong party regeneration for 3 turns; does not stack with itself. *(Efek: Apply FX State 430 (FX 1256 - Celestial Grace) as specified)* |
-| **42.0** | **Resurrection** | `White Magic` / `Holy` | `40 SP` | One Ally (Dead) | `-` | Revives 1 fallen ally with 70% Max HP | Revive 1 ally at 70% HP; grants damage taken -20% for 1 turn. *(Efek: Apply FX State 431 (FX 1257 - Resurrection) as specified)* |
-| **45.0** | **Avatar of Light** | `Transformation` / `Holy` | `60 SP` | User | `-` | Transformation 3 turns: healing +50%, Holy damage +30%, damage taken -30%, Status Resistance +50%; Dark damage taken +25%. | Avatar of Light (3 turns). Afterward: SP -30% and Healing Power -25% for 2 turns. *(Efek: Apply FX State 432 (FX 1258 - Avatar of Light) as specified)* |
+| **1.0** | **Sacred Consecration** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | - |
+| **1.0** | **Divine Exorcism** | `01 White Magic` / `10 Holy` | `12 SP` | One Enemy | `Math.max(1, a.mat * 2.2 - b.mdf * 0.15)` | a.matk * 2.2 - b.mdef * 0.15 | Priority +1; ignores 20% M.DEF; +50% damage vs Undead/Drakhtar. No Instant Death against Bosses. |
+| **4.0** | **Radiant Salvation** | `01 White Magic` / `10 Holy` | `18 SP` | One Ally | `Math.max(1, a.mat * 2.5 + a.level * 5)` | a.matk * 2.5 + a.level * 5 |
+| **9.0** | **Aegis Maxima** | `01 White Magic` / `10 Holy` | `22 SP` | All Allies | `-` | Party damage taken -60% for 1 turn | Priority +5; party damage taken -60% for 1 turn. Cooldown 4 turns; can be dispelled. *(Efek: Apply FX State 424 (FX 1249 - Aegis Maxima) as specified)* |
+| **14.0** | **Holy Nova** | `01 White Magic` / `10 Holy` | `24 SP` | Field / Custom Scope | `-` | Party Regen 5% Max HP/turn for 3 turns; Undead/Dark enemies take 4% Max HP damage per turn (Boss cap 2%) | Holy Field (3 turns): heals allies and damages Undead/Dark enemies. *(Efek: Apply FX State 425 (FX 1250 - Holy Nova) as specified)* |
+| **18.0** | **Divine Gift** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | - |
+| **23.0** | **Holy Barrier** | `Passive` / `01 Neutral` | `0 SP` | All Allies | `-` | - |
+| **27.0** | **Sanctified Absolution** | `01 White Magic` / `01 Neutral` | `30 SP` | All Allies | `-` | Cleanses up to 5 negative states/debuffs from all allies; Status Resistance +25% for 2 turns | Mass cleanse + temporary status resistance. *(Efek: Apply FX State 428 (FX 1253 - Sanctified Absolution) as specified)* |
+| **33.0** | **Holy Infusion** | `01 White Magic` / `01 Neutral` | `35 SP` | All Allies | `-` | - |
+| **37.0** | **Martyr's Faith** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | - |
+| **39.0** | **Celestial Grace** | `01 White Magic` / `01 Neutral` | `32 SP` | All Allies | `-` | Party Regen 8% Max HP/turn for 3 turns | Strong party regeneration for 3 turns; does not stack with itself. *(Efek: Apply FX State 430 (FX 1256 - Celestial Grace) as specified)* |
+| **42.0** | **Resurrection** | `01 White Magic` / `10 Holy` | `40 SP` | One Ally (Dead) | `-` | Revives 1 fallen ally with 70% Max HP | Revive 1 ally at 70% HP; grants damage taken -20% for 1 turn. *(Efek: Apply FX State 431 (FX 1257 - Resurrection) as specified)* |
+| **45.0** | **Avatar of Light** | `05 Ultimate` / `10 Holy` | `60 SP` | User | `-` | Transformation 3 turns: healing +50%, Holy damage +30%, damage taken -30%, Status Resistance +50%; Dark damage taken +25%. | Avatar of Light (3 turns). Afterward: SP -30% and Healing Power -25% for 2 turns. *(Efek: Apply FX State 432 (FX 1258 - Avatar of Light) as specified)* |
 
 ---
 

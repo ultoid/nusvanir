@@ -364,15 +364,124 @@ graph LR
 
 ---
 
-## EPILOG KODEX: ISYARAT PECAHNYA FAJAR KIAMAT
+## BAB VII: SISTEM ATRIBUT, DOKTRIN TEMPUR TURN-BASED, & PROFESI PETUALANG
 
-> *“Catatan ini ditutup saat langit timur di atas perairan Rangkaruna mulai memancarkan pendar ungu yang tak wajar. Kubah Avalerion telah membisu, mata air suci Amarta telah ternoda, dan lolongan mutan Void mulai terdengar dari batas hutan Astradipa.*
+> *“Kekuatan seorang kesatria tidak lahir dari mukjizat tanpa aturan; ia mengalir dari perpaduan harmonis antara tempaan raga fana, kedalaman fokus batin, dan kehendak mutlak yang menggerakkan senjata di genggaman. Dalam naskah-naskah rahasia Mandala, pertempuran dipahami sebagai tarian giliran waktu—di mana setiap detik keputusan menentukan apakah seorang petualang akan berdiri menyongsong fajar atau rebah selamanya di pelukan tanah.”*
 > 
-> *Dua anak manusia yang terlahir dari rahim keputusasaan di pesisir Aqualis kini berjalan di dua jalan yang saling bertolak belakang: yang satu melangkah ke puncak matahari bersama sayap-sayap emas Garuda, sementara yang lain berdiri di atas tungku api neraka bersama bayang-bayang ketiadaan.*
-> 
-> *Ketika kedua saudara itu bertemu kembali di medan laga, bukan hanya takdir Kerajaan Mandala yang akan ditentukan, melainkan jawaban atas pertanyaan purba: apakah semesta ini layak dipertahankan oleh Cahaya, ataukah sudah saatnya dikembalikan ke pelukan sunyi Sang Kehampaan.”*
-> 
-> — **Pena Terakhir Sang Peneliti Mandala**
+> — **Doktrin Seni Perang Gilda Arthapasa & Peneliti Kerajaan Mandala**
+
+### 1. Enam Arus Daya Hidup & Parameter Turunan Deterministik
+
+Setiap entitas bernyawa di jagat Nusvanir—mulai dari rakyat jelata, ksatria suci, satwa liar, hingga para naga purba—digerakkan oleh **6 Atribut Dasar (*Base Stats*)**:
+
+| Atribut | Nama Lengkap | Filosofi Alam & Peran Tempur |
+| :---: | :--- | :--- |
+| **STR** | *Strength* | Tenaga otot murni dan daya hantam fisik jarak dekat. Menambah daya serang (ATK), memperluas cadangan Stamina (Max SP), meningkatkan kapasitas darah dasar, dan melipatgandakan *Critical Damage*. |
+| **INT** | *Intelligence* | Ketajaman intelek dan kapasitas penampungan energi Mana. Menentukan daya rusak sihir (*MAT*), ketahanan magis (*MDF*), kapasitas Mana (*Max MP*), dan regenerasi Mana alami per putaran. |
+| **DEX** | *Dexterity* | Presisi saraf, koordinasi mata, dan kehalusan gerak. Menentukan akurasi serangan (*HIT*), kekuatan senjata proyektil dan lincah (*Ranged/Finesse*), serta peluang serangan kritikal. |
+| **LUK** | *Luck* | Keselarasan jiwa dengan benang takdir kosmis. Menentukan peluang serangan keberuntungan (*Critical Rate*), penolakan serangan kritikal lawan (*Critical Evasion*), dan penghindaran sekunder. |
+| **AGI** | *Agility* | Kecepatan refleks dan keleluasaan manuver tubuh. Menentukan inisiatif giliran bertindak (*Action Speed / ATB Fill*), peluang mengelak (*EVA*), dan regenerasi stamina alami (*TRG*). |
+| **VIT** | *Vitality* | Ketahanan jaringan tubuh dan vitalitas hayat. Fondasi kapasitas darah utama (*Max HP*), daya tahan fisik (*DEF*), efisiensi pertahanan saat bertahan (*Guard Efficiency - GRD*), dan cadangan SP. |
+
+Seluruh parameter pertarungan diturunkan secara deterministik matematis sesuai acuan resmi [Sistem_Stat_&_Formula_Turn_Based.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md).
+
+---
+
+### 2. Doktrin Dua Jenjang Tingkat (Dual Level System)
+
+Kemampuan tempur seorang petualang di dunia Nusvanir memisahkan antara pertumbuhan biologis pribadi dengan penguasaan profesi:
+
+```mermaid
+graph TD
+    subgraph Dual_Progression["Sistem Dua Tingkat Level Nusvanir"]
+        BL["1. Base Level (Lv. 1 – 60)<br/>• Akumulasi Base EXP Duniawi<br/>• Memberikan 3 Stat Point Bebas per Level<br/>• Melekat Permanen pada Karakter"]
+        CL["2. Class Level (Tiap Profesi Terpisah)<br/>• Akumulasi Class EXP Profesi Aktif<br/>• Memberikan Pertumbuhan Stat Alami Profesi<br/>• Membuka Daftar Skill Baru (Learnings)"]
+    end
+```
+
+* **Batas Maksimum Jenjang Profesi (Level Cap per Tier):**
+  * **Tier 1 (Novice):** Level 1 – 10 *(Fighter, Apprentice, Scout)*
+  * **Tier 2 (Initiate):** Level 1 – 30 *(Warrior, Squire, Brawler, Magician, Acolyte, Occultist, Archer, Thief)*
+  * **Tier 3 (Adept):** Level 1 – 40 *(Mercenary, Knight, Martial Artist, Mage, Cleric, Cultist, Ranger, Rogue)*
+  * **Tier 4 (Master):** Level 1 – 50 *(Champion, Dragoon, Paladin, Monk, 8 Elementalist, Priest, Necromancer, Sniper, Assassin)*
+  * **Tier 5 (Apex):** Level 1 – 60 *(Evolusi biologis/spiritual puncak eksklusif ras, seperti Berserker, Death Knight, Archmage, High Priest, Sky Sovereign)*
+
+---
+
+### 3. Sistem Ketahanan Raga: Stamina Points (SP)
+
+Menggantikan sistem TP lama, Nusvanir menerapkan **Stamina Points (SP)** yang dinamis dan berakar pada kondisi fisik:
+* **Kapasitas Dinamis Berskala:** Dihitung dari $\text{Base SP} + (\text{VIT} \times 5) + (\text{STR} \times 2) + \text{Equip SP}$.
+* **Preserve SP (Ketahanan Antar-Pertempuran):** Karakter tidak kehilangan SP saat pertempuran berakhir. Sisa stamina tersimpan dari satu bentrokan ke bentrokan berikutnya di dungeon, menuntut perhitungan taktis.
+* **Pemulihan Sukma (Recover All):** Istirahat di Penginapan (*Inn*), api perkemahan (*Campfire*), atau mukjizat pemulihan sakral memulihkan SP secara penuh bersamaan dengan HP dan MP.
+
+---
+
+### 4. Lima Disiplin Seni Pertempuran (The 5 Skill Types)
+
+Agar mudah dipahami dan tertata rapi di medan perang, seluruh aksi skill aktif dikelompokkan ke dalam **5 Kategori Resmi** sesuai [STANDAR_DATABASE_TYPES_RPG_MAKER.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/STANDAR_DATABASE_TYPES_RPG_MAKER.md):
+
+| ID | Nama Disiplin | Definisi Desain & Ciri Pertarungan | Sumber Daya |
+| :---: | :--- | :--- | :---: |
+| **01** | **White Magic** | Sihir suci pemulihan (HP/MP/SP Heal), pembersihan status buruk (*Cleanse/Dispel*), pelindung ilahi (*Sanctuary/Barrier*), dan mukjizat kebangkitan (*Resurrection*). | **MP** |
+| **02** | **Black Magic** | Sihir ofensif destruktif manipulasi elemen alam (*Fire, Water, Earth, Air*) dan energi turunan (*Electro, Cryo, Ferro, Sound*) hingga kutukan kegelapan (*Dark Magic*). | **MP** |
+| **03** | **Skill** | Teknik fisik murni, jurus bela diri, manuver senjata, teriakan perang (*Battle Cry*), postur pertahanan (*Stance*), serta trik bayangan (*Stealth/Smoke Bomb*). | **SP** |
+| **04** | **Summon** | Seni pemanggilan makhluk pendamping, arwah penunggu, familiars naga, atau kerangka kegelapan untuk bertarung di arena. | **MP / SP** |
+| **05** | **Ultimate** | Jurus pamungkas terkuat per class (*Apex/Mastery*), membutuhkan investasi resource masif atau persyaratan khusus. | **SP Tinggi / MP Besar** |
+
+*Catatan:* Seluruh keahlian pasif diaktifkan secara otomatis melalui modul `YEP_AutoPassiveStates` di latar belakang tanpa memenuhi menu aksi pertarungan.
+
+---
+
+### 5. Sebelas Elemen Semesta Nusvanir
+
+Sesuai hukum kosmis dan diagram efektivitas [Mekanik_Efektivitas_Elemen.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Mekanik_Efektivitas_Elemen.md), energi alam terbagi menjadi 11 elemen:
+1. `01 Neutral`: Energi fisik murni tanpa resonansi elemental.
+2. `02 Fire (Pyro)`: Alam dasar — Menang melawan Tanah, Lemah melawan Air.
+3. `03 Water (Hydro)`: Alam dasar — Menang melawan Api, Lemah melawan Udara.
+4. `04 Earth (Geo)`: Alam dasar — Menang melawan Udara & Petir, Lemah melawan Api.
+5. `05 Air (Aero)`: Alam dasar — Menang melawan Air, Diredam (0x) oleh Tanah.
+6. `06 Electric (Electro)`: Energi turunan Api — Menghantarkan kerusakan dahsyat ke Besi (Steel), Lemah vs Es.
+7. `07 Ice (Cryo)`: Energi turunan Air — Mengisolasi Listrik, Lemah melawan Suara & Api.
+8. `08 Steel (Ferro)`: Energi turunan Tanah — Menahan Suara, Lemah melawan Listrik & Api.
+9. `09 Sound (Sonic)`: Energi turunan Udara — Meremukkan struktur Es, Diredam Besi (0x).
+10. `10 Holy (Cahaya Suci)`: Energi kosmik Sang Hyang — Menghancurkan Kegelapan (Dark).
+11. `11 Dark (Kegelapan Kala)`: Energi kosmik Uru & Kala — Menelan Cahaya (Holy).
+
+---
+
+### 6. Kodeks Perlengkapan Perang (Weapons & Armors)
+
+Sistem persenjataan dan zirah pelindung Nusvanir terkalibrasi ke dalam 7 Slot Perlengkapan (`YEP_EquipCore`) sesuai katalog [01_Weapons.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Equipment/01_Weapons.md) dan [02_Armors.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Equipment/02_Armors.md):
+* **10 Tipe Senjata Resmi:** `01 Long Sword`, `02 Sword`, `03 Gloves`, `04 Spear`, `05 Axe`, `06 Staff`, `07 Rune`, `08 Long Bow`, `09 Crossbow`, `10 Dagger`.
+* **6 Tipe Zirah Resmi:** `01 Basic Clothes`, `02 Magic Robe`, `03 Light Armor`, `04 Heavy Armor`, `05 Light Shield`, `06 Heavy Shield`.
+* **Sistem Sinergi Set Bonus:** Menggunakan zirah lengkap dari set yang sama (misal: *Mandala Guard, Arkananta Trail, Avalerion Guardian, Astral*) memicu bonus kumulatif 2-Set hingga 5-Set.
+
+---
+
+### 7. Doktrin Resolusi Kerusakan & Hierarki AI Musuh
+
+Sesuai spesifikasi [Sistem_Resolusi_Combat_&_AI.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Sistem_Resolusi_Combat_&_AI.md):
+1. **Proteksi Anti-Zero Damage:** Setiap formula kerusakan fisik dan magis dibungkus dengan batas minimal aman:  
+   $$\text{Base Physical} = \max\left(1, (\text{a.atk} \times \text{SkillMult}) - (\text{b.def} \times 0.75)\right)$$  
+   $$\text{Base Magical} = \max\left(1, (\text{a.mat} \times \text{SkillMult}) - (\text{b.mdf} \times 0.65)\right)$$
+2. **Mekanik Target Rate (TGR) & Provokasi (Taunt):**
+   * Kelas pelindung (*Squire, Knight, Paladin*) membawa TGR alami **150% – 200%**, sementara kelas rapuh (*Mage, Scout*) memiliki TGR **50% – 85%**.
+   * Skill provokasi memaksakan status `[0224] Taunt` (TGR 1000% selama 2 giliran).
+3. **Hierarki Kecerdasan AI Musuh (80 Monster Bestiary):**
+   * **Tier 1 (Instinct AI - 16 Monster):** Menyerang target dengan TGR tertinggi pemain (fokus ke tanker) dan memakai aksi lari/kalap saat kritis.
+   * **Tier 2 (Tactical AI - 40 Monster):** Pasukan elit yang mengeksekusi target ber-HP $< 25\%$ dan membalas Taunt dengan serangan AoE/Elemen.
+   * **Tier 3 (Mastermind AI - 24 Monster):** Bos purba dengan **2 hingga 3 aksi per giliran**, rotasi serangan terjadwal kelipatan 3 turn, dan perubahan fase dinamis (*Phase Scripting*) saat HP $< 50\%$ dan $< 30\%$.
+
+---
+
+### 8. Kamus Status Efek & Kutukan Medan Laga (ID 201 – 477)
+
+Kamus status efek di [Kamus_State_&_Status_Efek.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Kamus_State_&_Status_Efek.md) mencatat **203 State Resmi**:
+* **26 Canonical States (ID 201–226):** Status penyakit umum (*Burn, Poison, Bleed, Chill, Freeze, Paralyze, Stun, Root, Slow, Fear, Blind, Silence, Confusion, Vulnerable 30%/60%/100%, Soaked, Shock, Petrify, Float, Marked, Shadow Mark, Taunt, Curse, Polarized*).
+* **177 Skill Effect & Passive States (ID 301–477):** Status buff khusus yang dipicu kemampuan unik profesi petualang.
+
+---
 
 ## EPILOG KODEX: ISYARAT PECAHNYA FAJAR KIAMAT
 

@@ -103,13 +103,29 @@ Lalu Behemoth melihat sisa esensi air pada pakaian mereka. Gerakannya berhenti. 
 | **SP Regen / Turn (TRG)** | `7.76%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
 | **Black Shell Crush** | `Void` / Certain Hit | `0 SP` | Always (Prioritas 5.0) | `-` |
-| **Voidquake** | `Dark` / Magical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.mat * 1.45 - b.mdf * 0.35 (Curse 30%)` |
-| **Behemoth Rampage** | `Void` / Physical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `a.atk * 1.85 - b.def * 0.25 (Stun 25%)` |
+| **Voidquake** | `11 Dark` / Magical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.mat * 1.45 - b.mdf * 0.35 (Curse 30%))` |
+| **Behemoth Rampage** | `Void` / Physical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.atk * 1.85 - b.def * 0.25 (Stun 25%))` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 2: Tactical AI (Taktis Pasukan Elit)`
+* **Jumlah Aksi per Giliran:** `1 Aksi per Giliran (Peluang 2 Aksi saat HP <= 30%)`
+* **Logika Penargetan:** Membaca status party pemain; memprioritaskan target ber-HP rendah (eksekusi), membalas Taunt dengan serangan berelemen atau AoE.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<AI Priority>
+HP% <= 25%: Behemoth Rampage, Lowest HP%
+State === Taunt: Voidquake, Random
+Turn % 2 == 0: Voidquake, Random
+Always: Black Shell Crush, Highest TGR
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Earth: 75%, Light: 150%, Void: 50%

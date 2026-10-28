@@ -70,24 +70,24 @@ Penyihir unsur air yang menguasai aliran, tekanan, dan sifat pemulihan dari keku
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Tidal Attunement`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Heart of Tides** | `Passive` / `Water` | `0 SP` | User | `-` | Water elemental damage +25%; water damage taken -50%; Chill Immunity. |
-| **1.0** | **Aqua Jet** | `Black Magic` / `Water` | `12 SP` | One Enemy | `Math.max(0, a.mat * 1.9 - b.mdf * 0.2)` | a.mat * 1.9 - b.mdef * 0.2 (Soaked 50%) *(Efek: Add State 218 Soaked: 50%)* |
-| **5.0** | **Abyssal Current** | `Black Magic` / `Water` | `20 SP` | All Enemies | `Math.max(0, a.mat * 1.2 - b.mdf * 0.3)` | a.mat * 1.2 - b.mdef * 0.3 (Soaked 40%) *(Efek: Add State 218 Soaked: 40%)* |
-| **12.0** | **Oceanic Mantle** | `Passive` / `Water` | `0 SP` | User | `-` | Burn/Chill/Freeze Immunity; Magic damage taken -10%; Regen 3% Max HP/turn during Rain. | Status: Burn; Chill; Freeze |
-| **18.0** | **Aqua Prism** | `Black Magic` / `Water` | `26 SP` | All Allies | `-` | Heals all allies for a.mat * 1.0; grants 12% Max HP shield for 3 turns | Party heal 1.0x MAT; 12% Max HP shield (3 turns) *(Efek: Apply FX State 394 (FX 1186 - Aqua Prism) as specified)* |
-| **22.0** | **Stormcall** | `Support` / `None / Neutral` | `24 SP` | User | `-` | Creates Rain weather for exactly 3 turns | Rain weather (3 turns) |
-| **28.0** | **Geyser Spout** | `Black Magic` / `Water` | `32 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(0, a.mat * 1.1 - b.mdf * 0.2)` | a.mat * 1.1 - b.mdef * 0.2 | 40% chance to create Rain for 2 turns |
-| **35.0** | **Tidal Resonance** | `Support` / `None / Neutral` | `30 SP` | User | `-` | Magic SP cost -15%; DEF/M.DEF +10%; party regen 4% Max HP/turn (3 turns) | Tidal Resonance (3 turns): magic SP cost -15%, DEF/M.DEF +10%, party regen 4% Max HP/turn. *(Efek: Apply FX State 395 (FX 1189 - Tidal Resonance) as specified)* |
-| **45.0** | **Tsunami** | `Ultimate` / `Water` | `55 SP` | All Enemies | `Math.max(0, a.mat * 8.0)` | Base: a.matk * 8.0. During Rain: Damage x1.5. |
+| **1.0** | **Heart of Tides** | `Passive` / `03 Water` | `0 SP` | User | `-` | Water elemental damage +25%; water damage taken -50%; Chill Immunity. |
+| **1.0** | **Aqua Jet** | `02 Black Magic` / `03 Water` | `12 SP` | One Enemy | `Math.max(1, a.mat * 1.9 - b.mdf * 0.2)` | a.mat * 1.9 - b.mdef * 0.2 (Soaked 50%) *(Efek: Add State 218 Soaked: 50%)* |
+| **5.0** | **Abyssal Current** | `02 Black Magic` / `03 Water` | `20 SP` | All Enemies | `Math.max(1, a.mat * 1.2 - b.mdf * 0.3)` | a.mat * 1.2 - b.mdef * 0.3 (Soaked 40%) *(Efek: Add State 218 Soaked: 40%)* |
+| **12.0** | **Oceanic Mantle** | `Passive` / `03 Water` | `0 SP` | User | `-` | Burn/Chill/Freeze Immunity; Magic damage taken -10%; Regen 3% Max HP/turn during Rain. | Status: Burn; Chill; Freeze |
+| **18.0** | **Aqua Prism** | `02 Black Magic` / `03 Water` | `26 SP` | All Allies | `-` | Heals all allies for a.mat * 1.0; grants 12% Max HP shield for 3 turns | Party heal 1.0x MAT; 12% Max HP shield (3 turns) *(Efek: Apply FX State 394 (FX 1186 - Aqua Prism) as specified)* |
+| **22.0** | **Stormcall** | `02 Black Magic` / `01 Neutral` | `24 SP` | User | `-` | Creates Rain weather for exactly 3 turns | Rain weather (3 turns) |
+| **28.0** | **Geyser Spout** | `02 Black Magic` / `03 Water` | `32 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(1, a.mat * 1.1 - b.mdf * 0.2)` | a.mat * 1.1 - b.mdef * 0.2 | 40% chance to create Rain for 2 turns |
+| **35.0** | **Tidal Resonance** | `02 Black Magic` / `01 Neutral` | `30 SP` | User | `-` | Magic SP cost -15%; DEF/M.DEF +10%; party regen 4% Max HP/turn (3 turns) | Tidal Resonance (3 turns): magic SP cost -15%, DEF/M.DEF +10%, party regen 4% Max HP/turn. *(Efek: Apply FX State 395 (FX 1189 - Tidal Resonance) as specified)* |
+| **45.0** | **Tsunami** | `05 Ultimate` / `03 Water` | `55 SP` | All Enemies | `Math.max(1, a.mat * 8.0)` | Base: a.matk * 8.0. During Rain: Damage x1.5. |
 
 ---
 

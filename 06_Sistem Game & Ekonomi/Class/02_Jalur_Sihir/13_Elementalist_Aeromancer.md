@@ -70,25 +70,25 @@ Penyihir unsur angin yang memanfaatkan arus udara, kecepatan, dan tekanan untuk 
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Gale-Blessed Chassis`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Heart of Gale** | `Passive` / `Wind` | `0 SP` | User | `-` | Wind Damage +25%, AGI +25%, Evasion +20% |
-| **1.0** | **Aero Slash** | `Black Magic` / `Wind` | `12 SP` | One Enemy | `Math.max(0, a.mat * 2.1 - b.mdf * 0.2)` | a.mat * 2.1 - b.mdef * 0.2 (Float 50%) *(Efek: Add State 221 Float: 50%)* |
-| **5.0** | **Gale Force** | `Black Magic` / `Wind` | `20 SP` | All Enemies | `Math.max(0, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdef * 0.3 |
-| **12.0** | **Wind Walker** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Permanent Float; Ground immunity; Magic Crit Rate +10% |
-| **18.0** | **Vacuum Slash** | `Black Magic` / `Wind` | `26 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(0, a.mat * 1.0 - b.mdf * 0.2 per target)` | a.mat * 1.0 - b.mdef * 0.2 per target |
-| **22.0** | **Tailwind** | `Support` / `None / Neutral` | `24 SP` | All Allies | `-` | Party AGI +30%, Evasion +15% (3 turns) *(Efek: Apply FX State 402 (FX 1205 - Tailwind) as specified)* |
-| **25.0** | **Eye of the Storm** | `Support` / `Wind` | `22 SP` | User | `-` | Magic SP cost -20%; vs Float targets: Magic Crit +30%, Crit Damage +20% (3 turns) | Magic SP Cost -20%; vs Float: Magic Crit +30%, Crit Damage +20% (3 turns) *(Efek: Apply FX State 403 (FX 1206 - Eye of the Storm) as specified)* |
-| **28.0** | **Zephyr Lift** | `Support` / `None / Neutral` | `22 SP` | All Allies | `-` | Party Float + Evasion +20% for 2 turns | Party Float and Evasion +20% (2 turns) *(Efek: Add State 221 Float: 100% | Apply FX State 404 (FX 1207 - Zephyr Lift) as specified)* |
-| **32.0** | **Vortex Strike** | `Black Magic` / `Wind` | `32 SP` | All Enemies | `Math.max(0, a.mat * 1.25 - b.mdf * 0.2)` | a.mat * 1.25 - b.mdef * 0.2 per hit (2 hits) |
-| **45.0** | **Celestial Maelstrom** | `Ultimate` / `Wind` | `55 SP` | All Enemies | `Math.max(0, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0; x1.5 vs Float | Sure Hit; Silence 70%, Blind 70%; destroys barriers. Bosses receive reduced CC chance. | Status: Damage x1.5 if target is in Float state *(Efek: Add State 212 Blind: 70% | Add State 213 Silence: 70%)* |
+| **1.0** | **Heart of Gale** | `Passive` / `05 Air` | `0 SP` | User | `-` | Wind Damage +25%, AGI +25%, Evasion +20% |
+| **1.0** | **Aero Slash** | `02 Black Magic` / `05 Air` | `12 SP` | One Enemy | `Math.max(1, a.mat * 2.1 - b.mdf * 0.2)` | a.mat * 2.1 - b.mdef * 0.2 (Float 50%) *(Efek: Add State 221 Float: 50%)* |
+| **5.0** | **Gale Force** | `02 Black Magic` / `05 Air` | `20 SP` | All Enemies | `Math.max(1, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdef * 0.3 |
+| **12.0** | **Wind Walker** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Permanent Float; Ground immunity; Magic Crit Rate +10% |
+| **18.0** | **Vacuum Slash** | `02 Black Magic` / `05 Air` | `26 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(1, a.mat * 1.0 - b.mdf * 0.2 per target)` | a.mat * 1.0 - b.mdef * 0.2 per target |
+| **22.0** | **Tailwind** | `02 Black Magic` / `01 Neutral` | `24 SP` | All Allies | `-` | Party AGI +30%, Evasion +15% (3 turns) *(Efek: Apply FX State 402 (FX 1205 - Tailwind) as specified)* |
+| **25.0** | **Eye of the Storm** | `02 Black Magic` / `05 Air` | `22 SP` | User | `-` | Magic SP cost -20%; vs Float targets: Magic Crit +30%, Crit Damage +20% (3 turns) | Magic SP Cost -20%; vs Float: Magic Crit +30%, Crit Damage +20% (3 turns) *(Efek: Apply FX State 403 (FX 1206 - Eye of the Storm) as specified)* |
+| **28.0** | **Zephyr Lift** | `02 Black Magic` / `01 Neutral` | `22 SP` | All Allies | `-` | Party Float + Evasion +20% for 2 turns | Party Float and Evasion +20% (2 turns) *(Efek: Add State 221 Float: 100% | Apply FX State 404 (FX 1207 - Zephyr Lift) as specified)* |
+| **32.0** | **Vortex Strike** | `02 Black Magic` / `05 Air` | `32 SP` | All Enemies | `Math.max(1, a.mat * 1.25 - b.mdf * 0.2)` | a.mat * 1.25 - b.mdef * 0.2 per hit (2 hits) |
+| **45.0** | **Celestial Maelstrom** | `05 Ultimate` / `05 Air` | `55 SP` | All Enemies | `Math.max(1, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0; x1.5 vs Float | Sure Hit; Silence 70%, Blind 70%; destroys barriers. Bosses receive reduced CC chance. | Status: Damage x1.5 if target is in Float state *(Efek: Add State 212 Blind: 70% | Add State 213 Silence: 70%)* |
 
 ---
 

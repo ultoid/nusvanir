@@ -76,13 +76,29 @@ Ia menahan posisi sementara dua rekannya menarik prajurit itu ke pelataran. Keti
 | **SP Regen / Turn (TRG)** | `5.24%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bastion Smash** | `Neutral` / Physical Attack | `6 SP` | Always (Prioritas 5.0) | `a.def * 1.3 - b.def * 0.4` |
-| **Bulwark of Light** | `Light` / Certain Hit | `14 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
-| **Holy Consecration** | `Light` / Physical Attack | `22 SP` | HP <= 40% (Prioritas 4.0) | `a.def * 1.0 - b.mdef * 0.2` |
+| **Bastion Smash** | `01 Neutral` / Physical Attack | `6 SP` | Always (Prioritas 5.0) | `a.def * 1.3 - b.def * 0.4` |
+| **Bulwark of Light** | `10 Holy` / Certain Hit | `14 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
+| **Holy Consecration** | `10 Holy` / Physical Attack | `22 SP` | HP <= 40% (Prioritas 4.0) | `a.def * 1.0 - b.mdef * 0.2` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 2: Tactical AI (Taktis Pasukan Elit)`
+* **Jumlah Aksi per Giliran:** `1 Aksi per Giliran (Peluang 2 Aksi saat HP <= 30%)`
+* **Logika Penargetan:** Membaca status party pemain; memprioritaskan target ber-HP rendah (eksekusi), membalas Taunt dengan serangan berelemen atau AoE.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<AI Priority>
+HP% <= 25%: Holy Consecration, Lowest HP%
+State === Taunt: Bulwark of Light, Random
+Turn % 2 == 0: Bulwark of Light, Random
+Always: Bastion Smash, Highest TGR
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Dark: 150%, Light: 50%

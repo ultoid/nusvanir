@@ -76,13 +76,30 @@ Grok menyuruhnya mengembalikan batu ke susunan semula. Pedagang itu tidak mengin
 | **SP Regen / Turn (TRG)** | `5.38%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Shield Breaker** | `Neutral` / Physical Attack | `15 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.1 (Vulnerable 30%)` |
-| **Iron Fortress** | `Earth` / Magical Attack | `24 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
-| **Fortified Line** | `Neutral` / Certain Hit | `30 SP` | HP <= 50% (Prioritas 6.0) | `-` |
+| **Shield Breaker** | `01 Neutral` / Physical Attack | `15 SP` | Always (Prioritas 5.0) | `Math.max(1, a.atk * 1.15 - b.def * 0.1 (Vulnerable 30%))` |
+| **Iron Fortress** | `04 Earth` / Magical Attack | `24 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
+| **Fortified Line** | `01 Neutral` / Certain Hit | `30 SP` | HP <= 50% (Prioritas 6.0) | `-` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Fortified Line, All Foes
+Turn % 3 == 0: Iron Fortress, Highest ATK
+HP% <= 50%: Fortified Line, Lowest HP%
+Always: Shield Breaker, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Earth: 75%, Fire: 150%, Iron: 75%, Lightning: 150%

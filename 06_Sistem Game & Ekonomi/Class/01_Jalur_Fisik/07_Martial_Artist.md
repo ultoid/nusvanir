@@ -70,25 +70,25 @@ Pendekar yang mengasah tubuh dan teknik melalui disiplin panjang hingga setiap g
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Meridian Footwork`
-* **Senjata yang Dapat Digunakan:** `Gloves, Spear`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 03 Gloves, 04 Spear
+* **Zirah & Pelindung:** 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Flurry Strikes** | `Physical` / `Normal Attack` | `6 SP` | One Enemy | `Math.max(0, a.atk * 0.75 - b.def * 0.15)` | a.atk * 0.75 - b.def * 0.15 per hit (3 hits) |
-| **1.0** | **Agile Footwork** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Agility +15%, Evasion +10%, Slow Immunity |
-| **4.0** | **Chi Palm** | `Physical` / `Normal Attack` | `8 SP` | One Enemy | `Math.max(0, a.atk * 1.5 - b.def * 0.3)` | a.atk * 1.5 - b.def * 0.3 |
-| **9.0** | **Whirlwind Kick** | `Physical` / `Wind` | `14 SP` | All Enemies | `Math.max(0, a.atk * 1.1 - b.def * 0.18)` | a.atk * 1.1 - b.def * 0.18 per hit (2 hits) |
-| **14.0** | **Nerve Strike** | `Physical` / `Normal Attack` | `16 SP` | One Enemy | `Math.max(0, a.atk * 1.8 - b.def * 0.3)` | a.atk * 1.8 - b.def * 0.3 |
-| **19.0** | **Mind's Eye** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | When an attack misses against the user, recover 4% Max SP and gain 10% counter chance for 1 turn |
-| **25.0** | **Dragon Stance** | `Support` / `None / Neutral` | `22 SP` | User | `-` | ATK +25%, AGI +15%, SP Regen 4% Max SP/turn (3 turns) | ATK +25%, AGI +15%, SP Regen 4%/turn (3 turns) *(Efek: Apply FX State 329 (FX 1051 - Dragon Stance) as specified)* |
-| **31.0** | **Comet Barrage** | `Physical` / `Normal Attack` | `28 SP` | One Enemy | `Math.max(0, a.atk * 0.6 - b.def * 0.08)` | a.atk * 0.6 - b.def * 0.08 per hit (6 hits) |
-| **36.0** | **Feral Instinct** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Ignore 15% DEF, Crit Damage +30%, critical hits refund 3% Max SP |
-| **40.0** | **Dragon Meridian Barrage** | `Ultimate` / `None / Neutral` | `40 SP` | One Enemy | `Math.max(0, a.atk * 0.8 - b.def * 0.06)` | a.atk * 0.8 - b.def * 0.06 per hit (8 hits) | Sure Hit; final hit deals +25% damage. |
+| **1.0** | **Flurry Strikes** | `03 Skill` / `01 Neutral` | `6 SP` | One Enemy | `Math.max(1, a.atk * 0.75 - b.def * 0.15)` | a.atk * 0.75 - b.def * 0.15 per hit (3 hits) |
+| **1.0** | **Agile Footwork** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Agility +15%, Evasion +10%, Slow Immunity |
+| **4.0** | **Chi Palm** | `03 Skill` / `01 Neutral` | `8 SP` | One Enemy | `Math.max(1, a.atk * 1.5 - b.def * 0.3)` | a.atk * 1.5 - b.def * 0.3 |
+| **9.0** | **Whirlwind Kick** | `03 Skill` / `05 Air` | `14 SP` | All Enemies | `Math.max(1, a.atk * 1.1 - b.def * 0.18)` | a.atk * 1.1 - b.def * 0.18 per hit (2 hits) |
+| **14.0** | **Nerve Strike** | `03 Skill` / `01 Neutral` | `16 SP` | One Enemy | `Math.max(1, a.atk * 1.8 - b.def * 0.3)` | a.atk * 1.8 - b.def * 0.3 |
+| **19.0** | **Mind's Eye** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | When an attack misses against the user, recover 4% Max SP and gain 10% counter chance for 1 turn |
+| **25.0** | **Dragon Stance** | `03 Skill` / `01 Neutral` | `22 SP` | User | `-` | ATK +25%, AGI +15%, SP Regen 4% Max SP/turn (3 turns) | ATK +25%, AGI +15%, SP Regen 4%/turn (3 turns) *(Efek: Apply FX State 329 (FX 1051 - Dragon Stance) as specified)* |
+| **31.0** | **Comet Barrage** | `03 Skill` / `01 Neutral` | `28 SP` | One Enemy | `Math.max(1, a.atk * 0.6 - b.def * 0.08)` | a.atk * 0.6 - b.def * 0.08 per hit (6 hits) |
+| **36.0** | **Feral Instinct** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Ignore 15% DEF, Crit Damage +30%, critical hits refund 3% Max SP |
+| **40.0** | **Dragon Meridian Barrage** | `05 Ultimate` / `01 Neutral` | `40 SP` | One Enemy | `Math.max(1, a.atk * 0.8 - b.def * 0.06)` | a.atk * 0.8 - b.def * 0.06 per hit (8 hits) | Sure Hit; final hit deals +25% damage. |
 
 ---
 

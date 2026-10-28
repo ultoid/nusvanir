@@ -70,21 +70,19 @@ Penjelajah cekatan yang mengandalkan pengamatan, gerak cepat, dan kemampuan memb
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `—`
-* **Senjata yang Dapat Digunakan:** `Long Bow, Crossbow, Dagger`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Magic, Support, Passive`
+* **Senjata yang Dapat Digunakan (Weapon Types):** 08 Long Bow, 09 Crossbow, 10 Dagger
+* **Zirah & Pelindung (Armor Types):** 01 Basic Clothes, 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
-| Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
-| :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1** | **Quick Shot** | `Physical` / `Neutral` | `4 SP` | 1 Target | `Math.max(0, a.atk * 1.15 - b.def * 0.5) (Priority +2)` | Tembakan kilat yang dilepas dengan kecepatan tinggi sebelum musuh bertindak. |
-| **1** | **Hunter's Mark** | `Support` / `Neutral` | `6 SP` | 1 Target | `-` | Menandai target untuk meningkatkan akurasi dan damage serangan berikutnya. |
-| **3** | **Eagle Eye** | `Passive` / `Neutral` | `0 SP` | Self | `-` | Pandangan tajam penjelajah yang meningkatkan HIT dan CRI secara permanen. |
-| **5** | **Piercing Arrow** | `Physical` / `Neutral` | `8 SP` | 1 Target | `Math.max(0, a.atk * 1.4 - b.def * 0.25)` | Anak panah berhulu runcing yang mengabaikan sebagian pertahanan armor lawan. |
-| **7** | **Scatter Shot** | `Physical` / `Neutral` | `12 SP` | 3 Random Enemies | `Math.max(0, a.atk * 0.85 - b.def * 0.2) per hit` | Melepaskan beberapa anak panah sekaligus ke arah sekelompok musuh. |
-| **9** | **Poison Arrow** | `Physical` / `Neutral` | `10 SP` | 1 Target | `Math.max(0, a.atk * 1.2 - b.def * 0.4) (Poison 50%)` | Panah berlumur racun hutan yang menimbulkan kerusakan berulang tiap giliran. |
+| Level | Nama Skill | Skill Type | MP / SP Cost | Scope | Hit Type / Repeat | Damage (Type, Element, Formula, Crit) | Effects & Description |
+| :---: | :--- | :--- | :---: | :--- | :--- | :--- | :--- |
+| **Lv 1** | **Swift Stab** | `03 Skill` | `0 MP / 15 SP` | 1 Enemy | Physical Attack / 2 | **Type:** HP Damage<br>**Element:** 01 Neutral<br>**Formula:** `Math.max(1, (a.atk * 0.8) - (b.def * 0.5))`<br>**Crit:** Yes | **Efek:** -<br>**Deskripsi:** Tusukan belati kilat berturut-turut yang dirancang untuk mengoyak pertahanan cepat musuh. |
+| **Lv 4** | **Fleet Footed** | `Passive` | `0 MP / 0 SP` | None | Certain Hit / 1 | **Type:** None<br>**Formula:** None | **Efek:** Auto-Passive State [0301+] (Evasion +10%, Agility +5%)<br>**Deskripsi:** Kelincahan gerak alami yang membuat penggunanya lebih mudah menghindari serangan. |
+| **Lv 7** | **Poison Edge** | `03 Skill` | `10 MP / 10 SP` | 1 Enemy | Physical Attack / 1 | **Type:** HP Damage<br>**Element:** 01 Neutral<br>**Formula:** `Math.max(1, (a.atk * 1.2) - (b.def * 0.75))`<br>**Crit:** Yes | **Efek:** Add State: [0203] Poison 50% (3 Turns)<br>**Deskripsi:** Serangan berlapis racun mematikan yang menggerogoti HP target perlahan di setiap giliran. |
+| **Lv 10** | **Shadow Dash** | `05 Ultimate` | `20 MP / 20 SP` | All Enemies | Physical Attack / 1 | **Type:** HP Damage<br>**Element:** 01 Neutral<br>**Formula:** `Math.max(1, (a.atk * 1.5) - (b.def * 0.75))`<br>**Crit:** Yes | **Efek:** Add State (ke diri sendiri): [0223] Shadow Mark / Stealth (2 Turns)<br>**Deskripsi:** Melesat menembus bayangan untuk menyerang seluruh musuh sekaligus menyamarkan keberadaan diri. |
 
 ---
 

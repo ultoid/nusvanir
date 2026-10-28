@@ -70,23 +70,23 @@ Pelayan muda jalan suci yang belajar menyalurkan doa, pemulihan, dan perlindunga
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Devoted Spirit`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `White Magic, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `01 White Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Revitalize** | `White Magic` / `Holy` | `12 MP` | Custom Ally/Enemy Target | `-` | Ally: a.mat * 1.6 + 35 healing. Undead: a.mat * 1.4 - b.mdf * 0.4 | Restores HP to an ally or damages Undead. |
-| **3.0** | **Holy Protection** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | M.DEF +8%; Poison/Curse/Silence Resistance +20% | Status: Poison; Curse; Silence |
-| **8.0** | **Purify** | `White Magic` / `None / Neutral` | `10 MP` | One Ally | `-` | Removes Poison, Curse, Blind and Silence from 1 ally | Cleanse Poison, Curse, Blind and Silence | Status: Poison; Curse; Blind; Silence *(Efek: Remove State 203 Poison: 100% | Remove State 225 Curse: 100% | Remove State 212 Blind: 100% | Remove State 213 Silence: 100%)* |
-| **12.0** | **Blessing** | `White Magic` / `None / Neutral` | `12 MP` | One Ally | `-` | ATK & M.ATK +12% (3 turns) *(Efek: Apply FX State 360 (FX 1115 - Blessing) as specified)* |
-| **17.0** | **Divine Grace** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Healing Power +12% |
-| **22.0** | **Sanctuary** | `White Magic` / `Holy` | `18 MP` | Custom Mixed Scope | `-` | Party: Regen 4% Max HP/turn (3 turns). Undead: a.mat * 0.8 - b.mdf * 0.2 | Party Regen 4% Max HP/turn for 3 turns *(Efek: Apply FX State 362 (FX 1117 - Sanctuary) as specified)* |
-| **26.0** | **Armor of Light** | `White Magic` / `None / Neutral` | `15 MP` | One Ally | `-` | DEF & M.DEF +20% (2 turns) *(Efek: Apply FX State 363 (FX 1118 - Armor of Light) as specified)* |
-| **30.0** | **Grand Resurgence** | `Ultimate` / `Holy` | `35 MP` | Custom Mixed Scope | `-` | Party: a.mat * 1.8 + 45 healing and cleanses 5 negative states. Undead: a.mat * 2.6 - b.mdf * 0.3 | Party heal + cleanse; deals Holy damage to Undead. |
+| **1.0** | **Revitalize** | `01 White Magic` / `10 Holy` | `12 MP` | Custom Ally/Enemy Target | `-` | Ally: a.mat * 1.6 + 35 healing. Undead: a.mat * 1.4 - b.mdf * 0.4 | Restores HP to an ally or damages Undead. |
+| **3.0** | **Holy Protection** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | M.DEF +8%; Poison/Curse/Silence Resistance +20% | Status: Poison; Curse; Silence |
+| **8.0** | **Purify** | `01 White Magic` / `01 Neutral` | `10 MP` | One Ally | `-` | Removes Poison, Curse, Blind and Silence from 1 ally | Cleanse Poison, Curse, Blind and Silence | Status: Poison; Curse; Blind; Silence *(Efek: Remove State 203 Poison: 100% | Remove State 225 Curse: 100% | Remove State 212 Blind: 100% | Remove State 213 Silence: 100%)* |
+| **12.0** | **Blessing** | `01 White Magic` / `01 Neutral` | `12 MP` | One Ally | `-` | ATK & M.ATK +12% (3 turns) *(Efek: Apply FX State 360 (FX 1115 - Blessing) as specified)* |
+| **17.0** | **Divine Grace** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Healing Power +12% |
+| **22.0** | **Sanctuary** | `01 White Magic` / `10 Holy` | `18 MP` | Custom Mixed Scope | `-` | Party: Regen 4% Max HP/turn (3 turns). Undead: a.mat * 0.8 - b.mdf * 0.2 | Party Regen 4% Max HP/turn for 3 turns *(Efek: Apply FX State 362 (FX 1117 - Sanctuary) as specified)* |
+| **26.0** | **Armor of Light** | `01 White Magic` / `01 Neutral` | `15 MP` | One Ally | `-` | DEF & M.DEF +20% (2 turns) *(Efek: Apply FX State 363 (FX 1118 - Armor of Light) as specified)* |
+| **30.0** | **Grand Resurgence** | `05 Ultimate` / `10 Holy` | `35 MP` | Custom Mixed Scope | `-` | Party: a.mat * 1.8 + 45 healing and cleanses 5 negative states. Undead: a.mat * 2.6 - b.mdf * 0.3 | Party heal + cleanse; deals Holy damage to Undead. |
 
 ---
 

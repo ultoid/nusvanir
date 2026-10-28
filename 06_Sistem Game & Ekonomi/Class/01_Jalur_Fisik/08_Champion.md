@@ -70,27 +70,27 @@ Pejuang unggulan yang dikenal karena keberanian, ketangguhan, dan kemenangan yan
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Crownforged Vanguard`
-* **Senjata yang Dapat Digunakan:** `Sword, Axe`
-* **Zirah & Pelindung:** `Heavy Armor, Basic Armor, Light Shield`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 02 Sword, 05 Axe
+* **Zirah & Pelindung:** 04 Heavy Armor, 01 Basic Clothes, 05 Light Shield
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Royal Vanguard Discipline** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Max HP +10%, ATK +8%, Control Resistance +20% |
-| **1.0** | **Sovereign Slash** | `Physical` / `Normal Attack` | `10 SP` | One Enemy | `Math.max(0, a.atk * 2.2 - b.def * 0.2)` | a.atk * 2.2 - b.def * 0.2 |
-| **5.0** | **King's Command** | `Support` / `None / Neutral` | `14 SP` | User | `-` | ATK +20%, DEF +15%, Crit Rate +10% (3 turns) *(Efek: Apply FX State 337 (FX 1068 - King's Command) as specified)* |
-| **10.0** | **Unrelenting Offense** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | ATK +12%; damage increases by 5% when HP is above 80% |
-| **15.0** | **Crescent Cleave** | `Physical` / `Normal Attack` | `18 SP` | All Enemies | `Math.max(0, a.atk * 1.5 - b.def * 0.3)` | a.atk * 1.5 - b.def * 0.3 |
-| **20.0** | **Overwhelming Pressure** | `Physical` / `Normal Attack` | `20 SP` | One Enemy | `Math.max(0, a.atk * 2.0 - b.def * 0.2)` | a.atk * 2.0 - b.def * 0.2 |
-| **25.0** | **Relentless Assault** | `Physical` / `Normal Attack` | `24 SP` | One Enemy | `Math.max(0, a.atk * 0.85 - b.def * 0.3)` | a.atk * 0.85 - b.def * 0.3 per hit (3 hits) |
-| **31.0** | **Vanguard Charge** | `Physical` / `Normal Attack` | `22 SP` | One Enemy | `Math.max(0, a.atk * 2.3 - b.def * 0.1)` | a.atk * 2.3 - b.def * 0.1 | If user has King's Command: gain 10% damage reduction for 1 turn |
-| **36.0** | **Savage Triumph** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Critical damage +25%; when defeating an enemy, recover 5% Max HP |
-| **40.0** | **Kingdom's Wrath** | `Physical` / `Normal Attack` | `38 SP` | All Enemies | `Math.max(0, a.atk * 1.35 - b.def * 0.2)` | a.atk * 1.35 - b.def * 0.2 per hit (2 hits) |
-| **42.0** | **Final Ignition** | `Support` / `None / Neutral` | `35 SP` | User | `-` | Sacrifice 30% current HP. ATK +60%, Crit Rate +15%, Crit Damage +25%, AGI +20% for 3 turns; healing received -30%. | Berserk State (3 turns); healing received -30%. *(Efek: Apply FX State 340 (FX 1076 - Final Ignition) as specified)* |
-| **45.0** | **Mandala Judgment: Execution** | `Ultimate` / `None / Neutral` | `50 SP` | One Enemy | `Math.max(0, a.atk * 5.5)` | a.atk * 5.5 (ignores 60% DEF; barriers still apply) | Sure Hit; +20% damage if target HP is below 30%. Bosses are immune to execution effects. |
+| **1.0** | **Royal Vanguard Discipline** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Max HP +10%, ATK +8%, Control Resistance +20% |
+| **1.0** | **Sovereign Slash** | `03 Skill` / `01 Neutral` | `10 SP` | One Enemy | `Math.max(1, a.atk * 2.2 - b.def * 0.2)` | a.atk * 2.2 - b.def * 0.2 |
+| **5.0** | **King's Command** | `03 Skill` / `01 Neutral` | `14 SP` | User | `-` | ATK +20%, DEF +15%, Crit Rate +10% (3 turns) *(Efek: Apply FX State 337 (FX 1068 - King's Command) as specified)* |
+| **10.0** | **Unrelenting Offense** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | ATK +12%; damage increases by 5% when HP is above 80% |
+| **15.0** | **Crescent Cleave** | `03 Skill` / `01 Neutral` | `18 SP` | All Enemies | `Math.max(1, a.atk * 1.5 - b.def * 0.3)` | a.atk * 1.5 - b.def * 0.3 |
+| **20.0** | **Overwhelming Pressure** | `03 Skill` / `01 Neutral` | `20 SP` | One Enemy | `Math.max(1, a.atk * 2.0 - b.def * 0.2)` | a.atk * 2.0 - b.def * 0.2 |
+| **25.0** | **Relentless Assault** | `03 Skill` / `01 Neutral` | `24 SP` | One Enemy | `Math.max(1, a.atk * 0.85 - b.def * 0.3)` | a.atk * 0.85 - b.def * 0.3 per hit (3 hits) |
+| **31.0** | **Vanguard Charge** | `03 Skill` / `01 Neutral` | `22 SP` | One Enemy | `Math.max(1, a.atk * 2.3 - b.def * 0.1)` | a.atk * 2.3 - b.def * 0.1 | If user has King's Command: gain 10% damage reduction for 1 turn |
+| **36.0** | **Savage Triumph** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Critical damage +25%; when defeating an enemy, recover 5% Max HP |
+| **40.0** | **Kingdom's Wrath** | `03 Skill` / `01 Neutral` | `38 SP` | All Enemies | `Math.max(1, a.atk * 1.35 - b.def * 0.2)` | a.atk * 1.35 - b.def * 0.2 per hit (2 hits) |
+| **42.0** | **Final Ignition** | `03 Skill` / `01 Neutral` | `35 SP` | User | `-` | Sacrifice 30% current HP. ATK +60%, Crit Rate +15%, Crit Damage +25%, AGI +20% for 3 turns; healing received -30%. | Berserk State (3 turns); healing received -30%. *(Efek: Apply FX State 340 (FX 1076 - Final Ignition) as specified)* |
+| **45.0** | **Mandala Judgment: Execution** | `05 Ultimate` / `01 Neutral` | `50 SP` | One Enemy | `Math.max(1, a.atk * 5.5)` | a.atk * 5.5 (ignores 60% DEF; barriers still apply) | Sure Hit; +20% damage if target HP is below 30%. Bosses are immune to execution effects. |
 
 ---
 

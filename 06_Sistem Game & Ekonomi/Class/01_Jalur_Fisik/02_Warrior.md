@@ -70,24 +70,24 @@ Prajurit tangguh yang menempuh hidup di garis depan, mengandalkan kekuatan, daya
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Frontline Conditioning`
-* **Senjata yang Dapat Digunakan:** `Long Sword, Sword, Axe`
-* **Zirah & Pelindung:** `Heavy Armor, Basic Armor, Light Shield`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 01 Long Sword, 02 Sword, 05 Axe
+* **Zirah & Pelindung:** 04 Heavy Armor, 01 Basic Clothes, 05 Light Shield
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Heavy Slash** | `Physical` / `Normal Attack` | `10 SP` | One Enemy | `Math.max(0, a.atk * 1.5 - b.def * 0.5)` | a.atk * 1.5 - b.def * 0.5 (Crit: Yes) |
-| **3.0** | **Shield Breaker** | `Physical` / `Normal Attack` | `15 SP` | One Enemy | `Math.max(0, a.atk * 1.15 - b.def * 0.1)` | a.atk * 1.15 - b.def * 0.1 (Vulnerable 30%, 2 turns) *(Efek: Add State 215 Vulnerable 30%: 100%)* |
-| **8.0** | **Combat Mastery** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Attack +8% (Permanen) |
-| **11.0** | **Battle Cry** | `Support` / `None / Neutral` | `8 MP` | User | `-` | Buff ATK & DEF +12% (3 turns) | ATK +12% & DEF +12% (3 turns) *(Efek: Apply FX State 302 (FX 1004 - Battle Cry) as specified)* |
-| **15.0** | **Heavy Impact** | `Physical` / `Normal Attack` | `18 SP` | One Enemy | `Math.max(0, a.atk * 1.7 - b.def * 0.3)` | a.atk * 1.7 - b.def * 0.3 (Crit: Yes) |
-| **19.0** | **Iron Discipline** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Max HP +8% & Fear Immunity |
-| **24.0** | **Sweeping Edge** | `Physical` / `Normal Attack` | `22 SP` | All Enemies | `Math.max(0, a.atk * 1.15 - b.def * 0.35)` | a.atk * 1.15 - b.def * 0.35 (Crit: Yes) |
-| **28.0** | **Solid Stance** | `Support` / `None / Neutral` | `10 MP / 10 SP` | User | `-` | Buff DEF +25% & M.DEF +15% (2 turns) *(Efek: Apply FX State 304 (FX 1008 - Solid Stance) as specified)* |
-| **30.0** | **Breakthrough Thrust** | `Ultimate` / `None / Neutral` | `35 SP` | One Enemy | `Math.max(0, a.atk * 2.5 - b.def * 0.3)` | a.atk * 2.5 - b.def * 0.3 (Crit: Yes) | Vulnerable 60% (1 turn) |
+| **1.0** | **Heavy Slash** | `03 Skill` / `01 Neutral` | `10 SP` | One Enemy | `Math.max(1, a.atk * 1.5 - b.def * 0.5)` | a.atk * 1.5 - b.def * 0.75 (Crit: Yes) |
+| **3.0** | **Shield Breaker** | `03 Skill` / `01 Neutral` | `15 SP` | One Enemy | `Math.max(1, a.atk * 1.15 - b.def * 0.1)` | a.atk * 1.15 - b.def * 0.1 (Vulnerable 30%, 2 turns) *(Efek: Add State 215 Vulnerable 30%: 100%)* |
+| **8.0** | **Combat Mastery** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Attack +8% (Permanen) |
+| **11.0** | **Battle Cry** | `03 Skill` / `01 Neutral` | `8 MP` | User | `-` | Buff ATK & DEF +12% (3 turns) | ATK +12% & DEF +12% (3 turns) *(Efek: Apply FX State 302 (FX 1004 - Battle Cry) as specified)* |
+| **15.0** | **Heavy Impact** | `03 Skill` / `01 Neutral` | `18 SP` | One Enemy | `Math.max(1, a.atk * 1.7 - b.def * 0.3)` | a.atk * 1.7 - b.def * 0.3 (Crit: Yes) |
+| **19.0** | **Iron Discipline** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Max HP +8% & Fear Immunity |
+| **24.0** | **Sweeping Edge** | `03 Skill` / `01 Neutral` | `22 SP` | All Enemies | `Math.max(1, a.atk * 1.15 - b.def * 0.35)` | a.atk * 1.15 - b.def * 0.35 (Crit: Yes) |
+| **28.0** | **Solid Stance** | `03 Skill` / `01 Neutral` | `10 MP / 10 SP` | User | `-` | Buff DEF +25% & M.DEF +15% (2 turns) *(Efek: Apply FX State 304 (FX 1008 - Solid Stance) as specified)* |
+| **30.0** | **Breakthrough Thrust** | `05 Ultimate` / `01 Neutral` | `35 SP` | One Enemy | `Math.max(1, a.atk * 2.5 - b.def * 0.3)` | a.atk * 2.5 - b.def * 0.3 (Crit: Yes) | Vulnerable 60% (1 turn) |
 
 ---
 

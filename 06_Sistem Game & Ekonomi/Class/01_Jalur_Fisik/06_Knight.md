@@ -70,24 +70,24 @@ Kesatria terlatih yang menjunjung sumpah, kehormatan, dan kewajiban untuk berdir
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Bulwark Doctrine`
-* **Senjata yang Dapat Digunakan:** `Sword`
-* **Zirah & Pelindung:** `Heavy Armor, Heavy Shield`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 02 Sword
+* **Zirah & Pelindung:** 04 Heavy Armor, 06 Heavy Shield
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Bastion Smash** | `Physical` / `Normal Attack` | `6 SP` | One Enemy | `Math.max(0, a.def * 1.3 - b.def * 0.4)` | a.def * 1.3 - b.def * 0.4 |
-| **1.0** | **Fortified Guardian Armor** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Max HP +15%, DEF +8%, M.DEF +8% |
-| **5.0** | **War Cry** | `Support` / `None / Neutral` | `8 SP` | All Enemies | `-` | Taunt all enemies; Enemy ATK -5%, Enemy DEF -8% (2 turns) *(Efek: Add State 224 Taunt: 100% | Apply FX State 322 (FX 1038 - War Cry) as specified)* |
-| **10.0** | **Knight’s Aegis** | `Support` / `None / Neutral` | `12 SP` | User | `-` | Holy Veil: damage taken -40% for 2 turns | Damage taken -40% (2 turns) *(Efek: Apply FX State 323 (FX 1039 - Knight’s Aegis) as specified)* |
-| **15.0** | **Shield Parry** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | 10% chance to block physical damage and counterattack; counter scales from DEF |
-| **21.0** | **Titanium Crash** | `Physical` / `Normal Attack` | `16 SP` | One Enemy | `Math.max(0, a.atk * 2.0 + a.def * 0.6 - b.def * 0.3)` | a.atk * 2.0 + a.def * 0.6 - b.def * 0.3 |
-| **27.0** | **Vanguard Intercept** | `Support` / `None / Neutral` | `14 SP` | One Ally | `-` | Redirects 50% of target ally's incoming damage to self for 1 turn; 25% counter chance | Protects 1 ally for 1 turn; redirects 50% damage; 25% counter chance *(Efek: Apply FX State 325 (FX 1042 - Vanguard Intercept) as specified)* |
-| **33.0** | **Will of Iron** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Physical Damage -20%, Fear Immunity, HP Regen 2% Max HP/turn |
-| **40.0** | **Bastion Quake** | `Ultimate` / `None / Neutral` | `35 SP` | All Enemies | `Math.max(0, a.def * 3.0 - b.def * 0.1)` | a.def * 3.0 - b.def * 0.1 (Ignore 20% DEF) | Ignores 20% DEF |
+| **1.0** | **Bastion Smash** | `03 Skill` / `01 Neutral` | `6 SP` | One Enemy | `Math.max(1, a.def * 1.3 - b.def * 0.4)` | a.def * 1.3 - b.def * 0.4 |
+| **1.0** | **Fortified Guardian Armor** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Max HP +15%, DEF +8%, M.DEF +8% |
+| **5.0** | **War Cry** | `03 Skill` / `01 Neutral` | `8 SP` | All Enemies | `-` | Taunt all enemies; Enemy ATK -5%, Enemy DEF -8% (2 turns) *(Efek: Add State 224 Taunt: 100% | Apply FX State 322 (FX 1038 - War Cry) as specified)* |
+| **10.0** | **Knight’s Aegis** | `03 Skill` / `01 Neutral` | `12 SP` | User | `-` | Holy Veil: damage taken -40% for 2 turns | Damage taken -40% (2 turns) *(Efek: Apply FX State 323 (FX 1039 - Knight’s Aegis) as specified)* |
+| **15.0** | **Shield Parry** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | 10% chance to block physical damage and counterattack; counter scales from DEF |
+| **21.0** | **Titanium Crash** | `03 Skill` / `01 Neutral` | `16 SP` | One Enemy | `Math.max(1, a.atk * 2.0 + a.def * 0.6 - b.def * 0.3)` | a.atk * 2.0 + a.def * 0.6 - b.def * 0.3 |
+| **27.0** | **Vanguard Intercept** | `03 Skill` / `01 Neutral` | `14 SP` | One Ally | `-` | Redirects 50% of target ally's incoming damage to self for 1 turn; 25% counter chance | Protects 1 ally for 1 turn; redirects 50% damage; 25% counter chance *(Efek: Apply FX State 325 (FX 1042 - Vanguard Intercept) as specified)* |
+| **33.0** | **Will of Iron** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Physical Damage -20%, Fear Immunity, HP Regen 2% Max HP/turn |
+| **40.0** | **Bastion Quake** | `05 Ultimate` / `01 Neutral` | `35 SP` | All Enemies | `Math.max(1, a.def * 3.0 - b.def * 0.1)` | a.def * 3.0 - b.def * 0.1 (Ignore 20% DEF) | Ignores 20% DEF |
 
 ---
 

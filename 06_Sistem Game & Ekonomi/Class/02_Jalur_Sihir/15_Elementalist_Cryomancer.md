@@ -70,24 +70,24 @@ Penyihir unsur es yang mengendalikan dingin, embun beku, dan kristal untuk melem
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Glacial Attunement`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Glacial Core** | `Passive` / `Ice` | `0 SP` | User | `-` | Ice Damage +25%; Chill/Freeze resistance +30% | Status: Chill; Freeze |
-| **1.0** | **Glacial Needle** | `Black Magic` / `Ice` | `12 SP` | One Enemy | `Math.max(0, a.mat * 1.9 - b.mdf * 0.2)` | a.mat * 1.9 - b.mdef * 0.2 (Chill 60%) *(Efek: Add State 205 Chill: 60%)* |
-| **5.0** | **Frost Breath** | `Black Magic` / `Ice` | `22 SP` | All Enemies | `Math.max(0, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdef * 0.3 |
-| **12.0** | **Snow Cloak** | `Passive` / `Ice` | `0 SP` | User | `-` | Evasion +25%; damage taken from chilled targets -15% | Status: Chill |
-| **18.0** | **Shatter Lance** | `Black Magic` / `Ice` | `28 SP` | One Enemy | `Math.max(0, a.mat * 2.3 - b.mdf * 0.1)` | a.mat * 2.3 - b.mdef * 0.1; +25% damage vs Frozen targets | +25% damage against Frozen targets |
-| **22.0** | **Aurora Veil** | `Support` / `Ice` | `24 SP` | User | `-` | Magic Damage taken -25%; Chill attackers 30% chance (3 turns) | Magic Damage taken -25%; attackers have 30% Chill chance (3 turns) *(Efek: Apply FX State 411 (FX 1224 - Aurora Veil) as specified)* |
-| **25.0** | **Ice Mirror Illusion** | `Support` / `None / Neutral` | `22 SP` | User | `-` | Evasion +50% for 3 turns; first avoided attack deals 1.5x MATK Ice counter | Evasion +50%; first avoided attack triggers an Ice counter (3 turns) *(Efek: Apply FX State 412 (FX 1225 - Ice Mirror Illusion) as specified)* |
-| **28.0** | **Avalanche Call** | `Black Magic` / `Ice` | `32 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(0, a.mat * 1.2 - b.mdf * 0.2)` | a.mat * 1.2 - b.mdef * 0.2 per hit (2 hits) |
-| **45.0** | **Eternal Ice Age** | `Ultimate` / `Ice` | `55 SP` | All Enemies | `Math.max(0, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0 | Sure Hit; Chill 100%; Freeze 35% on non-Bosses and 15% on Bosses. *(Efek: Add State 205 Chill: 100% | Add State 206 Freeze: 35%)* |
+| **1.0** | **Glacial Core** | `Passive` / `07 Ice` | `0 SP` | User | `-` | Ice Damage +25%; Chill/Freeze resistance +30% | Status: Chill; Freeze |
+| **1.0** | **Glacial Needle** | `02 Black Magic` / `07 Ice` | `12 SP` | One Enemy | `Math.max(1, a.mat * 1.9 - b.mdf * 0.2)` | a.mat * 1.9 - b.mdef * 0.2 (Chill 60%) *(Efek: Add State 205 Chill: 60%)* |
+| **5.0** | **Frost Breath** | `02 Black Magic` / `07 Ice` | `22 SP` | All Enemies | `Math.max(1, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdef * 0.3 |
+| **12.0** | **Snow Cloak** | `Passive` / `07 Ice` | `0 SP` | User | `-` | Evasion +25%; damage taken from chilled targets -15% | Status: Chill |
+| **18.0** | **Shatter Lance** | `02 Black Magic` / `07 Ice` | `28 SP` | One Enemy | `Math.max(1, a.mat * 2.3 - b.mdf * 0.1)` | a.mat * 2.3 - b.mdef * 0.1; +25% damage vs Frozen targets | +25% damage against Frozen targets |
+| **22.0** | **Aurora Veil** | `02 Black Magic` / `07 Ice` | `24 SP` | User | `-` | Magic Damage taken -25%; Chill attackers 30% chance (3 turns) | Magic Damage taken -25%; attackers have 30% Chill chance (3 turns) *(Efek: Apply FX State 411 (FX 1224 - Aurora Veil) as specified)* |
+| **25.0** | **Ice Mirror Illusion** | `02 Black Magic` / `01 Neutral` | `22 SP` | User | `-` | Evasion +50% for 3 turns; first avoided attack deals 1.5x MATK Ice counter | Evasion +50%; first avoided attack triggers an Ice counter (3 turns) *(Efek: Apply FX State 412 (FX 1225 - Ice Mirror Illusion) as specified)* |
+| **28.0** | **Avalanche Call** | `02 Black Magic` / `07 Ice` | `32 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(1, a.mat * 1.2 - b.mdf * 0.2)` | a.mat * 1.2 - b.mdef * 0.2 per hit (2 hits) |
+| **45.0** | **Eternal Ice Age** | `05 Ultimate` / `07 Ice` | `55 SP` | All Enemies | `Math.max(1, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0 | Sure Hit; Chill 100%; Freeze 35% on non-Bosses and 15% on Bosses. *(Efek: Add State 205 Chill: 100% | Add State 206 Freeze: 35%)* |
 
 ---
 

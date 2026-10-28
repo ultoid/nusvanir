@@ -70,29 +70,29 @@ Pertapa tempur yang menyelaraskan tubuh, pikiran, dan napas untuk melampaui bata
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Enlightened Body`
-* **Senjata yang Dapat Digunakan:** `Gloves, Spear`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 03 Gloves, 04 Spear
+* **Zirah & Pelindung:** 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Sang Hyang Blessing** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | ATK +8%, M.DEF +8%, Holy Resistance +10% |
-| **1.0** | **Flurry of Light Palms** | `Physical` / `Normal Attack` | `14 SP` | One Enemy | `Math.max(0, a.atk * 0.6 - b.def * 0.2)` | a.atk * 0.6 - b.def * 0.2 per hit (4 hits) |
-| **5.0** | **Chi Palm Art: Buddha's Palm** | `Physical` / `Normal Attack` | `18 SP` | One Enemy | `Math.max(0, a.atk * 1.15 - b.def * 0.15)` | a.atk * 1.15 - b.def * 0.15 per hit (3 hits) |
-| **10.0** | **Chi Mastery** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Max SP +15%, SP Charge Rate +10% |
-| **15.0** | **Vortex Storm** | `Physical` / `Wind` | `18 SP` | All Enemies | `Math.max(0, a.atk * 1.35 - b.def * 0.2)` | a.atk * 1.35 - b.def * 0.2 |
-| **18.0** | **Temple Blessing: Four Paths** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Choose one path after learning: Tiger (+10% ATK), Crane (+10% AGI), Tortoise (+10% DEF), Serpent (+10% Crit Rate). Permanent; only one path active. |
-| **20.0** | **Chi Hyper-Burst** | `Support` / `None / Neutral` | `20 SP` | User | `-` | ATK +25%, AGI +15%, SP Regen 5% Max SP/turn (3 turns); damage taken +10% | ATK +25%, AGI +15%, SP Regen 5%/turn, damage taken +10% (3 turns) *(Efek: Apply FX State 352 (FX 1096 - Chi Hyper-Burst) as specified)* |
-| **25.0** | **Meteor Barrage: Heavenly Ascension** | `Physical` / `Normal Attack` | `24 SP` | One Enemy | `Math.max(0, a.atk * 0.95 - b.def * 0.08)` | a.atk * 0.95 - b.def * 0.08 per hit (3 hits) |
-| **30.0** | **Iron Body** | `Support` / `None / Neutral` | `22 SP` | User | `-` | Damage taken -35%, Stun/Knockback Resistance +50%, AGI -20% (3 turns) *(Efek: Apply FX State 353 (FX 1098 - Iron Body) as specified)* |
-| **32.0** | **Vital Chi Strike** | `Physical` / `Normal Attack` | `22 SP` | One Enemy | `Math.max(0, a.atk * 2.0 - b.def * 0.2)` | a.atk * 2.0 - b.def * 0.2 |
-| **36.0** | **Chi Reflex** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Evasion +10%; when an attack misses, recover 2% Max SP |
-| **40.0** | **Eight Trigrams Sixty-Four Palms** | `Physical` / `Normal Attack` | `36 SP` | One Enemy | `Math.max(0, a.atk * 0.5 - b.def * 0.05)` | a.atk * 0.5 - b.def * 0.05 per hit (8 hits) | Final hit has 30% chance to inflict Stun on non-Boss targets. |
-| **42.0** | **Chi Life Transmutation** | `Support` / `None / Neutral` | `0 SP` | User | `-` | Sacrifice HP equal to 20% of Max HP to restore SP equal to 50% of Max SP; cannot reduce HP below 1. | HP sacrifice: 20% Max HP → restore 50% Max SP; cannot reduce HP below 1. *(Efek: Apply FX State 355 (FX 1102 - Chi Life Transmutation) as specified)* |
-| **45.0** | **Supreme Chi Burst: Void Annihilation** | `Ultimate` / `None / Neutral` | `50 SP` | One Enemy | `Math.max(0, a.atk * 4.8 + a.mat * 1.8)` | Consumes all current SP (minimum 50 SP). Damage = a.atk * 4.8 + a.mat * 1.8, then x(1 + 0.6 * currentSP/currentMaxSP) before consumption. | Consumes all current SP; maximum SP scaling bonus +60%. |
+| **1.0** | **Sang Hyang Blessing** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | ATK +8%, M.DEF +8%, Holy Resistance +10% |
+| **1.0** | **Flurry of Light Palms** | `03 Skill` / `01 Neutral` | `14 SP` | One Enemy | `Math.max(1, a.atk * 0.6 - b.def * 0.2)` | a.atk * 0.6 - b.def * 0.2 per hit (4 hits) |
+| **5.0** | **Chi Palm Art: Buddha's Palm** | `03 Skill` / `01 Neutral` | `18 SP` | One Enemy | `Math.max(1, a.atk * 1.15 - b.def * 0.15)` | a.atk * 1.15 - b.def * 0.15 per hit (3 hits) |
+| **10.0** | **Chi Mastery** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Max SP +15%, SP Charge Rate +10% |
+| **15.0** | **Vortex Storm** | `03 Skill` / `05 Air` | `18 SP` | All Enemies | `Math.max(1, a.atk * 1.35 - b.def * 0.2)` | a.atk * 1.35 - b.def * 0.2 |
+| **18.0** | **Temple Blessing: Four Paths** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Choose one path after learning: Tiger (+10% ATK), Crane (+10% AGI), Tortoise (+10% DEF), Serpent (+10% Crit Rate). Permanent; only one path active. |
+| **20.0** | **Chi Hyper-Burst** | `03 Skill` / `01 Neutral` | `20 SP` | User | `-` | ATK +25%, AGI +15%, SP Regen 5% Max SP/turn (3 turns); damage taken +10% | ATK +25%, AGI +15%, SP Regen 5%/turn, damage taken +10% (3 turns) *(Efek: Apply FX State 352 (FX 1096 - Chi Hyper-Burst) as specified)* |
+| **25.0** | **Meteor Barrage: Heavenly Ascension** | `03 Skill` / `01 Neutral` | `24 SP` | One Enemy | `Math.max(1, a.atk * 0.95 - b.def * 0.08)` | a.atk * 0.95 - b.def * 0.08 per hit (3 hits) |
+| **30.0** | **Iron Body** | `03 Skill` / `01 Neutral` | `22 SP` | User | `-` | Damage taken -35%, Stun/Knockback Resistance +50%, AGI -20% (3 turns) *(Efek: Apply FX State 353 (FX 1098 - Iron Body) as specified)* |
+| **32.0** | **Vital Chi Strike** | `03 Skill` / `01 Neutral` | `22 SP` | One Enemy | `Math.max(1, a.atk * 2.0 - b.def * 0.2)` | a.atk * 2.0 - b.def * 0.2 |
+| **36.0** | **Chi Reflex** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Evasion +10%; when an attack misses, recover 2% Max SP |
+| **40.0** | **Eight Trigrams Sixty-Four Palms** | `03 Skill` / `01 Neutral` | `36 SP` | One Enemy | `Math.max(1, a.atk * 0.5 - b.def * 0.05)` | a.atk * 0.5 - b.def * 0.05 per hit (8 hits) | Final hit has 30% chance to inflict Stun on non-Boss targets. |
+| **42.0** | **Chi Life Transmutation** | `03 Skill` / `01 Neutral` | `0 SP` | User | `-` | Sacrifice HP equal to 20% of Max HP to restore SP equal to 50% of Max SP; cannot reduce HP below 1. | HP sacrifice: 20% Max HP → restore 50% Max SP; cannot reduce HP below 1. *(Efek: Apply FX State 355 (FX 1102 - Chi Life Transmutation) as specified)* |
+| **45.0** | **Supreme Chi Burst: Void Annihilation** | `05 Ultimate` / `01 Neutral` | `50 SP` | One Enemy | `Math.max(1, a.atk * 4.8 + a.mat * 1.8)` | Consumes all current SP (minimum 50 SP). Damage = a.atk * 4.8 + a.mat * 1.8, then x(1 + 0.6 * currentSP/currentMaxSP) before consumption. | Consumes all current SP; maximum SP scaling bonus +60%. |
 
 ---
 

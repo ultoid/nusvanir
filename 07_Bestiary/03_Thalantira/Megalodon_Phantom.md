@@ -79,13 +79,29 @@ Lalu gigi muncul dari dinding. Batu tidak retak, dan tak ada pasir yang jatuh. I
 | **SP Regen / Turn (TRG)** | `7.86%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Phantom Bite** | `Void` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.45` |
-| **Voidwake** | `Dark` / Physical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.atk * 1.45 - b.def * 0.35 (Curse 30%)` |
-| **Spectral Devour** | `Void` / Physical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `a.atk * 1.85 - b.def * 0.25` |
+| **Phantom Bite** | `Void` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `Math.max(1, a.atk * 1.15 - b.def * 0.45)` |
+| **Voidwake** | `11 Dark` / Physical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.atk * 1.45 - b.def * 0.35 (Curse 30%))` |
+| **Spectral Devour** | `Void` / Physical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.atk * 1.85 - b.def * 0.25)` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 2: Tactical AI (Taktis Pasukan Elit)`
+* **Jumlah Aksi per Giliran:** `1 Aksi per Giliran (Peluang 2 Aksi saat HP <= 30%)`
+* **Logika Penargetan:** Membaca status party pemain; memprioritaskan target ber-HP rendah (eksekusi), membalas Taunt dengan serangan berelemen atau AoE.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<AI Priority>
+HP% <= 25%: Spectral Devour, Lowest HP%
+State === Taunt: Voidwake, Random
+Turn % 2 == 0: Voidwake, Random
+Always: Phantom Bite, Highest TGR
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Lightning: 150%, Void: 50%, Water: 50%

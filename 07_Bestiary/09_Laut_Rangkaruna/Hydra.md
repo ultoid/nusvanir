@@ -74,13 +74,30 @@ Delapan bayangan memanjang muncul di bawah kapal pemburu. Awak mengira mereka me
 | **SP Regen / Turn (TRG)** | `6.94%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Hydra Bite** | `Water` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.45` |
-| **Regenerate Heads** | `Water` / Certain Hit | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.mat * 1.2 + 30 (HP Regen 3 turns)` |
-| **Many-Headed Assault** | `Water` / Physical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `a.atk * 1.85 - b.def * 0.25` |
+| **Hydra Bite** | `03 Water` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `Math.max(1, a.atk * 1.15 - b.def * 0.45)` |
+| **Regenerate Heads** | `03 Water` / Certain Hit | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.mat * 1.2 + 30 (HP Regen 3 turns))` |
+| **Many-Headed Assault** | `03 Water` / Physical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.atk * 1.85 - b.def * 0.25)` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Many-Headed Assault, All Foes
+Turn % 3 == 0: Regenerate Heads, Highest ATK
+HP% <= 50%: Many-Headed Assault, Lowest HP%
+Always: Hydra Bite, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Lightning: 150%, Water: 50%

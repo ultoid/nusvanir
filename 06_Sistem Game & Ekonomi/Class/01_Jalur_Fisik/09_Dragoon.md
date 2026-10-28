@@ -70,26 +70,26 @@ Prajurit tombak yang menguasai lompatan dan serangan dari atas, meniru keganasan
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Skyhunter Physique`
-* **Senjata yang Dapat Digunakan:** `Spear`
-* **Zirah & Pelindung:** `Heavy Armor, Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Summon, Ultimate, Transformation, Passive`
+* **Senjata yang Dapat Digunakan:** 04 Spear
+* **Zirah & Pelindung:** 04 Heavy Armor, 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 04 Summon, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Dragon Hunter's Instinct** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | - |
-| **1.0** | **Draconic Thrust** | `Physical` / `Normal Attack` | `10 SP` | One Enemy | `Math.max(0, a.atk * 2.1 - b.def * 0.3)` | a.atk * 2.1 - b.def * 0.3 |
-| **5.0** | **Dragon Leap** | `Physical` / `Normal Attack` | `14 SP` | One Enemy | `Math.max(0, a.atk * 2.5 - b.def * 0.2)` | a.atk * 2.5 - b.def * 0.2 | High Jump: becomes untargetable until next action, then strikes target |
-| **10.0** | **Scale Hardening** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Physical Damage -15%, Dragon/Boss Damage +10% |
-| **15.0** | **Dragon Dance** | `Physical` / `Normal Attack` | `16 SP` | All Enemies | `Math.max(0, a.atk * 1.3 - b.def * 0.4)` | a.atk * 1.3 - b.def * 0.4 |
-| **20.0** | **Draconic Pact Transformation** | `Transformation` / `Dragon` | `24 SP` | User | `-` | For 3 turns: ATK +25%, DEF +20%, gains Dragon element; damage taken +10% | Draconic Form: ATK +25%, DEF +20%, Dragon element; damage taken +10% (3 turns) *(Efek: Apply FX State 333 (FX 1060 - Draconic Pact Transformation) as specified)* |
-| **25.0** | **Dragon Fang** | `Physical` / `Normal Attack` | `22 SP` | One Enemy | `Math.max(0, a.atk * 1.35 - b.def * 0.3)` | a.atk * 1.35 - b.def * 0.3 per hit (2 hits) |
-| **31.0** | **Wyvern Summon** | `Summon` / `None / Neutral` | `30 SP` | Custom Mixed Scope | `-` | Wyvern auto-attack: a.atk * 1.0; duration 4 turns | Summons a Wyvern for 4 turns. Wyvern auto-attack deals a.atk * 1.0. *(Efek: Apply FX State 334 (FX 1062 - Wyvern Summon) as specified)* |
-| **36.0** | **Dragon's Wrath** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | ATK +15%; attacks against Boss/Dragon targets gain +10% damage |
-| **40.0** | **Skyfall Descending** | `Physical` / `Normal Attack` | `35 SP` | All Enemies | `Math.max(0, a.atk * 2.2 - b.def * 0.2)` | a.atk * 2.2 - b.def * 0.2 | If riding Wyvern: damage x1.35 |
-| **45.0** | **Dragon Slayer's Judgment** | `Ultimate` / `None / Neutral` | `45 SP` | One Enemy | `Math.max(0, a.atk * 5.0 - b.def * 0.0)` | a.atk * 5.0 - b.def * 0.0 | True physical damage that ignores DEF; +30% damage against Boss targets |
+| **1.0** | **Dragon Hunter's Instinct** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | - |
+| **1.0** | **Draconic Thrust** | `03 Skill` / `01 Neutral` | `10 SP` | One Enemy | `Math.max(1, a.atk * 2.1 - b.def * 0.3)` | a.atk * 2.1 - b.def * 0.3 |
+| **5.0** | **Dragon Leap** | `03 Skill` / `01 Neutral` | `14 SP` | One Enemy | `Math.max(1, a.atk * 2.5 - b.def * 0.2)` | a.atk * 2.5 - b.def * 0.2 | High Jump: becomes untargetable until next action, then strikes target |
+| **10.0** | **Scale Hardening** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Physical Damage -15%, Dragon/Boss Damage +10% |
+| **15.0** | **Dragon Dance** | `03 Skill` / `01 Neutral` | `16 SP` | All Enemies | `Math.max(1, a.atk * 1.3 - b.def * 0.4)` | a.atk * 1.3 - b.def * 0.4 |
+| **20.0** | **Draconic Pact Transformation** | `03 Skill` / `01 Neutral` | `24 SP` | User | `-` | For 3 turns: ATK +25%, DEF +20%, gains Dragon element; damage taken +10% | Draconic Form: ATK +25%, DEF +20%, Dragon element; damage taken +10% (3 turns) *(Efek: Apply FX State 333 (FX 1060 - Draconic Pact Transformation) as specified)* |
+| **25.0** | **Dragon Fang** | `03 Skill` / `01 Neutral` | `22 SP` | One Enemy | `Math.max(1, a.atk * 1.35 - b.def * 0.3)` | a.atk * 1.35 - b.def * 0.3 per hit (2 hits) |
+| **31.0** | **Wyvern Summon** | `04 Summon` / `01 Neutral` | `30 SP` | Custom Mixed Scope | `-` | Wyvern auto-attack: a.atk * 1.0; duration 4 turns | Summons a Wyvern for 4 turns. Wyvern auto-attack deals a.atk * 1.0. *(Efek: Apply FX State 334 (FX 1062 - Wyvern Summon) as specified)* |
+| **36.0** | **Dragon's Wrath** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | ATK +15%; attacks against Boss/Dragon targets gain +10% damage |
+| **40.0** | **Skyfall Descending** | `03 Skill` / `01 Neutral` | `35 SP` | All Enemies | `Math.max(1, a.atk * 2.2 - b.def * 0.2)` | a.atk * 2.2 - b.def * 0.2 | If riding Wyvern: damage x1.35 |
+| **45.0** | **Dragon Slayer's Judgment** | `05 Ultimate` / `01 Neutral` | `45 SP` | One Enemy | `Math.max(1, a.atk * 5.0 - b.def * 0.0)` | a.atk * 5.0 - b.def * 0.0 | True physical damage that ignores DEF; +30% damage against Boss targets |
 
 ---
 

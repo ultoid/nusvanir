@@ -76,13 +76,29 @@ Air suci bergerak mengikuti tangannya, tidak mengikuti oleng kapal. Setelah luka
 | **SP Regen / Turn (TRG)** | `4.64%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Heavy Slash** | `Neutral` / Physical Attack | `10 SP` | Always (Prioritas 5.0) | `a.atk * 1.5 - b.def * 0.5 (Crit: Yes)` |
-| **Tidal Surge** | `Water` / Magical Attack | `12 MP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.mat * 1.9 - b.mdf * 0.4 (Soaked 40%)` |
-| **Shield Breaker** | `Neutral` / Physical Attack | `15 SP` | HP <= 40% (Prioritas 4.0) | `a.atk * 1.15 - b.def * 0.1 (Vulnerable 30%)` |
+| **Heavy Slash** | `01 Neutral` / Physical Attack | `10 SP` | Always (Prioritas 5.0) | `Math.max(1, a.atk * 1.5 - b.def * 0.5 (Crit: Yes))` |
+| **Tidal Surge** | `03 Water` / Magical Attack | `12 MP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.mat * 1.9 - b.mdf * 0.4 (Soaked 40%))` |
+| **Shield Breaker** | `01 Neutral` / Physical Attack | `15 SP` | HP <= 40% (Prioritas 4.0) | `Math.max(1, a.atk * 1.15 - b.def * 0.1 (Vulnerable 30%))` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 2: Tactical AI (Taktis Pasukan Elit)`
+* **Jumlah Aksi per Giliran:** `1 Aksi per Giliran (Peluang 2 Aksi saat HP <= 30%)`
+* **Logika Penargetan:** Membaca status party pemain; memprioritaskan target ber-HP rendah (eksekusi), membalas Taunt dengan serangan berelemen atau AoE.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<AI Priority>
+HP% <= 25%: Shield Breaker, Lowest HP%
+State === Taunt: Tidal Surge, Random
+Turn % 2 == 0: Tidal Surge, Random
+Always: Heavy Slash, Highest TGR
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Dark: 150%, Light: 50%, Lightning: 150%, Water: 75%

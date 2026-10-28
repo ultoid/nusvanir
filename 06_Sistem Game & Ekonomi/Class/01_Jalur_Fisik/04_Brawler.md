@@ -70,23 +70,23 @@ Petarung keras yang mengandalkan tinju, refleks, dan ketangguhan tubuh untuk men
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Flowing Momentum`
-* **Senjata yang Dapat Digunakan:** `Gloves, Spear`
-* **Zirah & Pelindung:** `Basic Armor, Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 03 Gloves, 04 Spear
+* **Zirah & Pelindung:** 01 Basic Clothes, 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Rapid Fists** | `Physical` / `Normal Attack` | `10 SP` | One Enemy | `Math.max(0, a.atk * 0.45 - b.def * 0.15)` | a.atk * 0.45 - b.def * 0.15 per hit (3 hits, Crit: Yes) |
-| **3.0** | **Muscle Training** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Agility +8% & Evasion Rate +5% |
-| **7.0** | **Inner Focus** | `Support` / `None / Neutral` | `5 MP / 12 SP` | User | `-` | Critical Rate +20% (2 turns) *(Efek: Apply FX State 312 (FX 1020 - Inner Focus) as specified)* |
-| **11.0** | **Low Sweep** | `Physical` / `Normal Attack` | `16 SP` | One Enemy | `Math.max(0, a.atk * 1.1 - b.def * 0.5)` | a.atk * 1.1 - b.def * 0.5; Enemy AGI -15% (2 turns) *(Efek: Apply FX State 313 (FX 1021 - Low Sweep) as specified)* |
-| **16.0** | **Adrenaline Rush** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | SP Charge Rate +15% when dealing damage |
-| **21.0** | **Counter Stance** | `Support` / `None / Neutral` | `15 SP` | User | `-` | Counter Attack +30% (1 turn) *(Efek: Apply FX State 315 (FX 1023 - Counter Stance) as specified)* |
-| **26.0** | **Iron Fist** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Attack +12% & Ignore 8% DEF |
-| **30.0** | **Falling Comet Fist** | `Ultimate` / `None / Neutral` | `30 SP` | One Enemy | `Math.max(0, a.atk * 2.4 - b.def * 0.25)` | a.atk * 2.4 - b.def * 0.25 (Crit: Yes) |
+| **1.0** | **Rapid Fists** | `03 Skill` / `01 Neutral` | `10 SP` | One Enemy | `Math.max(1, a.atk * 0.45 - b.def * 0.15)` | a.atk * 0.45 - b.def * 0.15 per hit (3 hits, Crit: Yes) |
+| **3.0** | **Muscle Training** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Agility +8% & Evasion Rate +5% |
+| **7.0** | **Inner Focus** | `03 Skill` / `01 Neutral` | `5 MP / 12 SP` | User | `-` | Critical Rate +20% (2 turns) *(Efek: Apply FX State 312 (FX 1020 - Inner Focus) as specified)* |
+| **11.0** | **Low Sweep** | `03 Skill` / `01 Neutral` | `16 SP` | One Enemy | `Math.max(1, a.atk * 1.1 - b.def * 0.5)` | a.atk * 1.1 - b.def * 0.5; Enemy AGI -15% (2 turns) *(Efek: Apply FX State 313 (FX 1021 - Low Sweep) as specified)* |
+| **16.0** | **Adrenaline Rush** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | SP Charge Rate +15% when dealing damage |
+| **21.0** | **Counter Stance** | `03 Skill` / `01 Neutral` | `15 SP` | User | `-` | Counter Attack +30% (1 turn) *(Efek: Apply FX State 315 (FX 1023 - Counter Stance) as specified)* |
+| **26.0** | **Iron Fist** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Attack +12% & Ignore 8% DEF |
+| **30.0** | **Falling Comet Fist** | `05 Ultimate` / `01 Neutral` | `30 SP` | One Enemy | `Math.max(1, a.atk * 2.4 - b.def * 0.25)` | a.atk * 2.4 - b.def * 0.25 (Crit: Yes) |
 
 ---
 

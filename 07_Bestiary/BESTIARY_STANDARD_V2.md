@@ -58,6 +58,21 @@ Arah game resmi bertransformasi menjadi **RPG Turn-Based**. Seluruh entitas Best
    * Hadiah pertarungan (*Combat Rewards*) memisahkan **Base EXP** dan **Class EXP**.
    * Musuh tipe humanoid / berakal yang memiliki Class mengacu pada batas Tier level tersebut.
 
+### Standarisasi Kecerdasan AI Musuh (Tiered AI Framework):
+Seluruh 80 entitas Bestiary dikelompokkan ke dalam 3 hierarki perilaku taktis (`YEP_BattleAICore`) sesuai [Sistem_Resolusi_Combat_&_AI.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Sistem_Resolusi_Combat_&_AI.md):
+1. **Tier 1 (Normal / Satwa Liar):**
+   * *1 Aksi per giliran*.
+   * Mengikuti Target Rate (TGR) party (fokus menyerang Tanker).
+   * Menggunakan serangan dasar dan skill bertahan/lari saat HP rendah.
+2. **Tier 2 (Elite / Mini Boss):**
+   * *1 Aksi per giliran (peluang 2 aksi saat kritis HP <= 30%)*.
+   * Membaca HP party (mengeksekusi target dengan HP < 25%).
+   * Mampu membalas Taunt dengan serangan berelemen atau Area of Effect (AoE).
+3. **Tier 3 (Boss / Commander / Lord):**
+   * *2 hingga 3 Aksi per giliran* (`<Action Times: 2>` / `<Action Times: 3>`).
+   * Cerdas dan multifase (Phase Scripting saat HP <= 50% dan Nuke terjadwal saat HP <= 30%).
+   * Membungkam healer/support dan memiliki resistensi bertahap terhadap status kendali berulang.
+
 ---
 
 ## Status persetujuan menyeluruh — 2026-09-17

@@ -10,11 +10,11 @@ Total seluruh item yang terdaftar dan terintegrasi dalam database adalah **398 I
 
 | File Dokumen | Kategori Item | Jumlah Item | Ruang Lingkup & Fungsi Utama |
 |---|---|---|---|
-| [01_Consumables.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Items/01_Consumables.md) | **Consumable** | 29 Item | Ramuan HP/MP/SP, Revive, Obat Status, Tonik Buff Tempur, dan Gulungan Sihir. |
-| [02_Materials.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Items/02_Materials.md) | **Material** | 206 Item | Bijih tambang, kayu hutan, batuan, herbal, kulit, tulang, sisa arwah, hingga material naga purba. |
-| [03_Forge_&_Enhancement.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Items/03_Forge_&_Enhancement.md) | **Forge** | 106 Item | Kristal soket stat (18 stat turn-based x 4 tier), kristal elemen, Enhance Stone, Socket Core, Upgrade Core. |
-| [04_Valuables.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Items/04_Valuables.md) | **Valuable** | 36 Item | Trophy perburuan monster, emblem Chief Arkananta, lambang ksatria Avalerion, fosil langka. |
-| [05_Key_Items.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Items/05_Key_Items.md) | **Key Item** | 21 Item | Jimat pemanggilan, segel komandan iblis, dan Demon Covenants untuk kontrak kelas Necromancer. |
+| [01_Consumables.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Items/01_Consumables.md) | **Consumable** | 29 Item | Ramuan HP/MP/SP, Revive, Obat Status, Tonik Buff Tempur, dan Gulungan Sihir. |
+| [02_Materials.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Items/02_Materials.md) | **Material** | 206 Item | Bijih tambang, kayu hutan, batuan, herbal, kulit, tulang, sisa arwah, hingga material naga purba. |
+| [03_Forge_&_Enhancement.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Items/03_Forge_&_Enhancement.md) | **Forge** | 106 Item | Kristal soket stat (18 stat turn-based x 4 tier), kristal elemen, Enhance Stone, Socket Core, Upgrade Core. |
+| [04_Valuables.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Items/04_Valuables.md) | **Valuable** | 36 Item | Trophy perburuan monster, emblem Chief Arkananta, lambang ksatria Avalerion, fosil langka. |
+| [05_Key_Items.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Items/05_Key_Items.md) | **Key Item** | 21 Item | Jimat pemanggilan, segel komandan iblis, dan Demon Covenants untuk kontrak kelas Necromancer. |
 
 ---
 
@@ -46,6 +46,6 @@ Setiap kategori item memiliki dampak langsung terhadap gameplay pertempuran berb
 
 - **Konsumsi 1 Action Turn:** Penggunaan item pemulihan atau buff selama battle mengonsumsi giliran aksi karakter, menuntut perhitungan taktis antara menyerang, bertahan, atau memulihkan sekutu.
 
-- **18 Kristal Soket Presisi:** Seluruh kristal soket pada [03_Forge_&_Enhancement.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Items/03_Forge_&_Enhancement.md) secara akurat memodifikasi 18 Parameter RPG Nusvanir: `Max HP`, `Max MP`, `ATK`, `DEF`, `MAT`, `MDF`, `Action Speed (AGI)`, `LUK`, `Hit Rate (HIT)`, `Evasion (EVA)`, `Magic Evasion (MEV)`, `Critical Rate (CRI)`, `Critical Evasion (CEV)`, `Magic Reflection (MRF)`, `Counter Attack (CNT)`, `HP Regen (HRG)`, `MP Regen (MRG)`, dan `SP Regen (TRG)`.
+- **18 Kristal Soket Presisi:** Seluruh kristal soket pada [03_Forge_&_Enhancement.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Items/03_Forge_&_Enhancement.md) secara akurat memodifikasi 18 Parameter RPG Nusvanir: `Max HP`, `Max MP`, `ATK`, `DEF`, `MAT`, `MDF`, `Action Speed (AGI)`, `LUK`, `Hit Rate (HIT)`, `Evasion (EVA)`, `Magic Evasion (MEV)`, `Critical Rate (CRI)`, `Critical Evasion (CEV)`, `Magic Reflection (MRF)`, `Counter Attack (CNT)`, `HP Regen (HRG)`, `MP Regen (MRG)`, dan `SP Regen (TRG)`.
 
-- **Sinergi Kontrak Necromancer:** Kontrak iblis pada [05_Key_Items.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Items/05_Key_Items.md) mengaktifkan cabang skill pemanggilan arwah bagi class Necromancer sesuai alur Dual Level System.
+- **Sinergi Kontrak Necromancer:** Kontrak iblis pada [05_Key_Items.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Items/05_Key_Items.md) mengaktifkan cabang skill pemanggilan arwah bagi class Necromancer sesuai alur Dual Level System.

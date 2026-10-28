@@ -70,27 +70,27 @@ Kesatria suci yang memadukan kekuatan senjata dengan keyakinan, sumpah, dan perl
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Sacred Bastion`
-* **Senjata yang Dapat Digunakan:** `Sword`
-* **Zirah & Pelindung:** `Heavy Armor, Heavy Shield`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Transformation, Passive`
+* **Senjata yang Dapat Digunakan:** 02 Sword
+* **Zirah & Pelindung:** 04 Heavy Armor, 06 Heavy Shield
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Guardian of Nusvanir** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Max HP +12%, Holy Resistance +20%, Taunt effects last +1 turn |
-| **1.0** | **Iron Provocation** | `Physical` / `Normal Attack` | `10 SP` | One Enemy | `Math.max(0, a.def * 1.3 - b.def * 0.2)` | a.def * 1.3 - b.def * 0.2; Taunt (2 turns) *(Efek: Add State 224 Taunt: 100%)* |
-| **5.0** | **Bulwark of Light** | `Support` / `None / Neutral` | `14 SP` | All Allies | `-` | Party barrier = 10% Paladin Max HP for 2 turns | Party barrier equal to 10% of Paladin Max HP for 2 turns *(Efek: Apply FX State 342 (FX 1080 - Bulwark of Light) as specified)* |
-| **10.0** | **Guardian's Resonating Vow** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | When protecting an ally, damage taken -15% |
-| **15.0** | **Bulwark Stance** | `Support` / `None / Neutral` | `16 SP` | User | `-` | DEF +30%, M.DEF +15%, AGI -10% (2 turns) *(Efek: Apply FX State 344 (FX 1082 - Bulwark Stance) as specified)* |
-| **20.0** | **Holy Consecration** | `Physical` / `Normal Attack` | `22 SP` | All Enemies | `Math.max(0, a.def * 1.0 - b.mdf * 0.2)` | a.def * 1.0 - b.mdef * 0.2 |
-| **25.0** | **Sanctuary of Light** | `Support` / `None / Neutral` | `20 SP` | User | `-` | Damage taken -30%; HP Regen 3% Max HP/turn (3 turns) | Damage taken -30% and HP Regen 3%/turn (3 turns) *(Efek: Apply FX State 345 (FX 1084 - Sanctuary of Light) as specified)* |
-| **31.0** | **Aegis Retribution** | `Physical` / `Normal Attack` | `24 SP` | One Enemy | `Math.max(0, a.atk * 0.9 + a.def * 1.8 - b.def * 0.2)` | a.atk * 0.9 + a.def * 1.8 - b.def * 0.2 |
-| **36.0** | **Absolute Fortitude** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Damage taken -10%; Stun and Knockback Resistance +30% |
-| **40.0** | **Divine Citadel** | `Support` / `None / Neutral` | `35 SP` | All Allies | `-` | Party DEF +20%, M.DEF +20%, damage taken -10% (3 turns) *(Efek: Apply FX State 347 (FX 1087 - Divine Citadel) as specified)* |
-| **42.0** | **Avatar of Guardian: Garuda** | `Transformation` / `None / Neutral` | `40 SP` | User | `-` | For 3 turns: DEF/M.DEF +55%, Max HP +20%, Regen 4% Max HP/turn; AGI -20%. | Garuda Guardian Form (3 turns). Cannot stack with other transformation states. *(Efek: Apply FX State 348 (FX 1088 - Avatar of Guardian: Garuda) as specified)* |
-| **45.0** | **Garuda’s Divine Judgment** | `Ultimate` / `None / Neutral` | `50 SP` | All Enemies | `Math.max(0, (a.def + a.mdf) * 3.2 * (1 + 0.5 * (1 - a.hp/a.mhp)))` | (a.def + a.mdf) * 3.2 * (1 + 0.5 * (1 - a.hp/a.mhp)) | Sure Hit; low-HP scaling capped at +50%. |
+| **1.0** | **Guardian of Nusvanir** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Max HP +12%, Holy Resistance +20%, Taunt effects last +1 turn |
+| **1.0** | **Iron Provocation** | `03 Skill` / `01 Neutral` | `10 SP` | One Enemy | `Math.max(1, a.def * 1.3 - b.def * 0.2)` | a.def * 1.3 - b.def * 0.2; Taunt (2 turns) *(Efek: Add State 224 Taunt: 100%)* |
+| **5.0** | **Bulwark of Light** | `03 Skill` / `01 Neutral` | `14 SP` | All Allies | `-` | Party barrier = 10% Paladin Max HP for 2 turns | Party barrier equal to 10% of Paladin Max HP for 2 turns *(Efek: Apply FX State 342 (FX 1080 - Bulwark of Light) as specified)* |
+| **10.0** | **Guardian's Resonating Vow** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | When protecting an ally, damage taken -15% |
+| **15.0** | **Bulwark Stance** | `03 Skill` / `01 Neutral` | `16 SP` | User | `-` | DEF +30%, M.DEF +15%, AGI -10% (2 turns) *(Efek: Apply FX State 344 (FX 1082 - Bulwark Stance) as specified)* |
+| **20.0** | **Holy Consecration** | `03 Skill` / `01 Neutral` | `22 SP` | All Enemies | `Math.max(1, a.def * 1.0 - b.mdf * 0.2)` | a.def * 1.0 - b.mdef * 0.2 |
+| **25.0** | **Sanctuary of Light** | `03 Skill` / `01 Neutral` | `20 SP` | User | `-` | Damage taken -30%; HP Regen 3% Max HP/turn (3 turns) | Damage taken -30% and HP Regen 3%/turn (3 turns) *(Efek: Apply FX State 345 (FX 1084 - Sanctuary of Light) as specified)* |
+| **31.0** | **Aegis Retribution** | `03 Skill` / `01 Neutral` | `24 SP` | One Enemy | `Math.max(1, a.atk * 0.9 + a.def * 1.8 - b.def * 0.2)` | a.atk * 0.9 + a.def * 1.8 - b.def * 0.2 |
+| **36.0** | **Absolute Fortitude** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Damage taken -10%; Stun and Knockback Resistance +30% |
+| **40.0** | **Divine Citadel** | `03 Skill` / `01 Neutral` | `35 SP` | All Allies | `-` | Party DEF +20%, M.DEF +20%, damage taken -10% (3 turns) *(Efek: Apply FX State 347 (FX 1087 - Divine Citadel) as specified)* |
+| **42.0** | **Avatar of Guardian: Garuda** | `05 Ultimate` / `01 Neutral` | `40 SP` | User | `-` | For 3 turns: DEF/M.DEF +55%, Max HP +20%, Regen 4% Max HP/turn; AGI -20%. | Garuda Guardian Form (3 turns). Cannot stack with other transformation states. *(Efek: Apply FX State 348 (FX 1088 - Avatar of Guardian: Garuda) as specified)* |
+| **45.0** | **Garuda’s Divine Judgment** | `05 Ultimate` / `01 Neutral` | `50 SP` | All Enemies | `Math.max(1, (a.def + a.mdf) * 3.2 * (1 + 0.5 * (1 - a.hp/a.mhp)))` | (a.def + a.mdf) * 3.2 * (1 + 0.5 * (1 - a.hp/a.mhp)) | Sure Hit; low-HP scaling capped at +50%. |
 
 ---
 

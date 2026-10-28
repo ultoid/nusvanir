@@ -70,24 +70,24 @@ Penyihir unsur petir yang menyalurkan kilat dan muatan listrik menjadi serangan 
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Stormwired Chassis`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Lightning Essence** | `Passive` / `Lightning` | `0 SP` | User | `-` | Lightning Damage +25%, AGI +20%, 15% Paralyze chance when casting electric magic |
-| **1.0** | **Flash Zap** | `Black Magic` / `Lightning` | `12 SP` | One Enemy | `Math.max(0, a.mat * 2.1 - b.mdf * 0.2)` | a.mat * 2.1 - b.mdef * 0.2 (Priority +3) |
-| **5.0** | **Chain Lightning** | `Black Magic` / `Lightning` | `22 SP` | All Enemies | `Math.max(0, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdef * 0.3; each jump after the first deals 15% less damage |
-| **12.0** | **Conductors** | `Passive` / `Lightning` | `0 SP` | User | `-` | Lightning Damage +15%; Metal accuracy against user -20%; Sleep Immunity; physical attackers have 15% Shock chance |
-| **18.0** | **Plasma Burst** | `Black Magic` / `Lightning` | `28 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(0, a.mat * 1.2 - b.mdf * 0.2)` | a.mat * 1.2 - b.mdef * 0.2; ignores 20% M.DEF; x1.75 vs Shock |
-| **22.0** | **Voltage Charge** | `Support` / `Lightning` | `24 SP` | User | `-` | Max 5 stacks. Each stack: Lightning Damage +15%, SP cost +8%. Electric skills consume all stacks and gain +10% bonus damage per stack. | Voltage stacks max 5; +15% Lightning Damage and +8% SP Cost per stack; consumed by electric skills for +10% bonus damage per stack. *(Efek: Apply FX State 407 (FX 1215 - Voltage Charge) as specified)* |
-| **25.0** | **Volt Phantom** | `Support` / `Lightning` | `20 SP` | User | `-` | Sacrifice 15% Max HP. Decoy has 20% caster Max HP, absorbs 80% incoming damage, lasts up to 3 turns; destroyed decoy grants 1 Voltage stack. | Lightning Decoy: 20% caster Max HP, absorbs 80% damage, 3 turns; grants 1 Voltage stack when destroyed. *(Efek: Apply FX State 408 (FX 1216 - Volt Phantom) as specified)* |
-| **28.0** | **Thunder's Wrath** | `Black Magic` / `Lightning` | `34 SP` | All Enemies | `Math.max(0, a.mat * 1.25 - b.mdf * 0.2)` | a.mat * 1.25 - b.mdef * 0.2 per hit (2 hits) | Generates 1 Voltage stack per cast; Sure Hit during Rain |
-| **45.0** | **Fulmination** | `Ultimate` / `Lightning` | `55 SP` | All Enemies | `Math.max(0, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0 | Sure Hit; removes up to 2 positive buffs; Shock 100% on non-Bosses and 50% on Bosses. *(Efek: Add State 219 Shock: 100%)* |
+| **1.0** | **Lightning Essence** | `Passive` / `06 Electric` | `0 SP` | User | `-` | Lightning Damage +25%, AGI +20%, 15% Paralyze chance when casting electric magic |
+| **1.0** | **Flash Zap** | `02 Black Magic` / `06 Electric` | `12 SP` | One Enemy | `Math.max(1, a.mat * 2.1 - b.mdf * 0.2)` | a.mat * 2.1 - b.mdef * 0.2 (Priority +3) |
+| **5.0** | **Chain Lightning** | `02 Black Magic` / `06 Electric` | `22 SP` | All Enemies | `Math.max(1, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdef * 0.3; each jump after the first deals 15% less damage |
+| **12.0** | **Conductors** | `Passive` / `06 Electric` | `0 SP` | User | `-` | Lightning Damage +15%; Metal accuracy against user -20%; Sleep Immunity; physical attackers have 15% Shock chance |
+| **18.0** | **Plasma Burst** | `02 Black Magic` / `06 Electric` | `28 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(1, a.mat * 1.2 - b.mdf * 0.2)` | a.mat * 1.2 - b.mdef * 0.2; ignores 20% M.DEF; x1.75 vs Shock |
+| **22.0** | **Voltage Charge** | `02 Black Magic` / `06 Electric` | `24 SP` | User | `-` | Max 5 stacks. Each stack: Lightning Damage +15%, SP cost +8%. Electric skills consume all stacks and gain +10% bonus damage per stack. | Voltage stacks max 5; +15% Lightning Damage and +8% SP Cost per stack; consumed by electric skills for +10% bonus damage per stack. *(Efek: Apply FX State 407 (FX 1215 - Voltage Charge) as specified)* |
+| **25.0** | **Volt Phantom** | `02 Black Magic` / `06 Electric` | `20 SP` | User | `-` | Sacrifice 15% Max HP. Decoy has 20% caster Max HP, absorbs 80% incoming damage, lasts up to 3 turns; destroyed decoy grants 1 Voltage stack. | Lightning Decoy: 20% caster Max HP, absorbs 80% damage, 3 turns; grants 1 Voltage stack when destroyed. *(Efek: Apply FX State 408 (FX 1216 - Volt Phantom) as specified)* |
+| **28.0** | **Thunder's Wrath** | `02 Black Magic` / `06 Electric` | `34 SP` | All Enemies | `Math.max(1, a.mat * 1.25 - b.mdf * 0.2)` | a.mat * 1.25 - b.mdef * 0.2 per hit (2 hits) | Generates 1 Voltage stack per cast; Sure Hit during Rain |
+| **45.0** | **Fulmination** | `05 Ultimate` / `06 Electric` | `55 SP` | All Enemies | `Math.max(1, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0 | Sure Hit; removes up to 2 positive buffs; Shock 100% on non-Bosses and 50% on Bosses. *(Efek: Add State 219 Shock: 100%)* |
 
 ---
 

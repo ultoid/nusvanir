@@ -70,23 +70,23 @@ Calon kesatria yang belajar disiplin, tata tempur, dan nilai kehormatan sebelum 
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Shieldbearer Discipline`
-* **Senjata yang Dapat Digunakan:** `Sword, Spear`
-* **Zirah & Pelindung:** `Heavy Armor, Light Shield, Heavy Shield`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 02 Sword, 04 Spear
+* **Zirah & Pelindung:** 04 Heavy Armor, 05 Light Shield, 06 Heavy Shield
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Shield Bash** | `Physical` / `Normal Attack` | `10 SP` | One Enemy | `Math.max(0, (a.atk * 0.6 + a.def * 0.8) - b.def * 0.5)` | (a.atk * 0.6 + a.def * 0.8) - b.def * 0.5 (Stun 30%) *(Efek: Add State 208 Stun: 30%)* |
-| **3.0** | **Guardian Armor** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Max HP +12%, Defense +7%, M.Defense +7% |
-| **7.0** | **Intercept** | `Support` / `None / Neutral` | `15 SP` | User | `-` | Cover (1 turn); while covering, damage taken -20% | Cover 1 turn; damage taken -20% while Cover is active *(Efek: Apply FX State 306 (FX 1012 - Intercept) as specified)* |
-| **11.0** | **Shield Wall** | `Support` / `None / Neutral` | `18 SP` | User | `-` | Buff Defense +25% (2 turns) | DEF +25% (2 turns) *(Efek: Apply FX State 307 (FX 1013 - Shield Wall) as specified)* |
-| **15.0** | **Guard Counter** | `Physical` / `Normal Attack` | `20 SP` | One Enemy | `Math.max(0, a.def * 1.25 - b.def * 0.4)` | a.def * 1.25 - b.def * 0.4 | Next physical hit triggers a counterattack; counter damage scales from DEF |
-| **19.0** | **Suppressing Strike** | `Physical` / `Normal Attack` | `16 SP` | One Enemy | `Math.max(0, a.atk * 1.15 - b.def * 0.5)` | a.atk * 1.15 - b.def * 0.5; Enemy ATK -12% (2 turns) *(Efek: Apply FX State 308 (FX 1015 - Suppressing Strike) as specified)* |
-| **23.0** | **Unyielding Guard** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Stun/Fear Immunity; physical & magical damage taken -8% | Status: Stun; Fear |
-| **27.0** | **Fortified Line** | `Ultimate` / `None / Neutral` | `30 SP` | All Allies | `-` | Party barrier = 12% of Squire Max HP for 2 turns | Party barrier equal to 12% of Squire Max HP for 2 turns *(Efek: Apply FX State 310 (FX 1017 - Fortified Line) as specified)* |
+| **1.0** | **Shield Bash** | `03 Skill` / `01 Neutral` | `10 SP` | One Enemy | `Math.max(1, (a.atk * 0.6 + a.def * 0.8) - b.def * 0.5)` | (a.atk * 0.6 + a.def * 0.8) - b.def * 0.5 (Stun 30%) *(Efek: Add State 208 Stun: 30%)* |
+| **3.0** | **Guardian Armor** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Max HP +12%, Defense +7%, M.Defense +7% |
+| **7.0** | **Intercept** | `03 Skill` / `01 Neutral` | `15 SP` | User | `-` | Cover (1 turn); while covering, damage taken -20% | Cover 1 turn; damage taken -20% while Cover is active *(Efek: Apply FX State 306 (FX 1012 - Intercept) as specified)* |
+| **11.0** | **Shield Wall** | `03 Skill` / `01 Neutral` | `18 SP` | User | `-` | Buff Defense +25% (2 turns) | DEF +25% (2 turns) *(Efek: Apply FX State 307 (FX 1013 - Shield Wall) as specified)* |
+| **15.0** | **Guard Counter** | `03 Skill` / `01 Neutral` | `20 SP` | One Enemy | `Math.max(1, a.def * 1.25 - b.def * 0.4)` | a.def * 1.25 - b.def * 0.4 | Next physical hit triggers a counterattack; counter damage scales from DEF |
+| **19.0** | **Suppressing Strike** | `03 Skill` / `01 Neutral` | `16 SP` | One Enemy | `Math.max(1, a.atk * 1.15 - b.def * 0.5)` | a.atk * 1.15 - b.def * 0.5; Enemy ATK -12% (2 turns) *(Efek: Apply FX State 308 (FX 1015 - Suppressing Strike) as specified)* |
+| **23.0** | **Unyielding Guard** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Stun/Fear Immunity; physical & magical damage taken -8% | Status: Stun; Fear |
+| **27.0** | **Fortified Line** | `05 Ultimate` / `01 Neutral` | `30 SP` | All Allies | `-` | Party barrier = 12% of Squire Max HP for 2 turns | Party barrier equal to 12% of Squire Max HP for 2 turns *(Efek: Apply FX State 310 (FX 1017 - Fortified Line) as specified)* |
 
 ---
 

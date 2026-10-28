@@ -76,13 +76,30 @@ Bayangan itu ternyata umpan; gerombolan lain menunggu di balik lapisan awan. Pet
 | **SP Regen / Turn (TRG)** | `7.18%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Piercing Shot** | `Neutral` / Physical Attack | `26 SP` | Always (Prioritas 5.0) | `a.atk * 2.7 - b.def * 0.1 (ignores 40% DEF)` |
-| **Gale Force** | `Wind` / Magical Attack | `20 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.mat * 1.3 - b.mdef * 0.3` |
-| **Forestbreaker Arrow** | `Neutral` / Physical Attack | `15 MP / 35 SP` | HP <= 50% (Prioritas 6.0) | `a.atk * 4.2 - b.def * 0.05` |
+| **Piercing Shot** | `01 Neutral` / Physical Attack | `26 SP` | Always (Prioritas 5.0) | `Math.max(1, a.atk * 2.7 - b.def * 0.1 (ignores 40% DEF))` |
+| **Gale Force** | `05 Air` / Magical Attack | `20 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.mat * 1.3 - b.mdef * 0.3)` |
+| **Forestbreaker Arrow** | `01 Neutral` / Physical Attack | `15 MP / 35 SP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.atk * 4.2 - b.def * 0.05)` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Forestbreaker Arrow, All Foes
+Turn % 3 == 0: Gale Force, Highest ATK
+HP% <= 50%: Forestbreaker Arrow, Lowest HP%
+Always: Piercing Shot, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Dark: 150%, Earth: 150%, Light: 50%, Wind: 50%

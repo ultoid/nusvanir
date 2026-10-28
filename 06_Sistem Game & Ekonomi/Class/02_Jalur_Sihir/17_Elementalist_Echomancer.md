@@ -70,24 +70,24 @@ Penyihir gema yang menjadikan suara, resonansi, dan getaran sebagai medium untuk
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Resonant Mind`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Sonic Resonance** | `Passive` / `Sonic` | `0 SP` | User | `-` | Sonic Damage +25%; Hit Rate +10%; Silence Resistance +30% |
-| **1.0** | **Sonar Ping** | `Black Magic` / `Sonic` | `10 SP` | One Enemy | `Math.max(0, a.mat * 1.5 - b.mdf * 0.1)` | a.mat * 1.5 - b.mdf * 0.1; ignores 30% M.DEF | Ignores 30% M.DEF |
-| **5.0** | **Ultrasonic Pulse** | `Black Magic` / `Sonic` | `22 SP` | All Enemies | `Math.max(0, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdf * 0.3 |
-| **12.0** | **Active Echolocation** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Hit Rate +15%; reveals Stealth; Sonic skills ignore 15% Evasion |
-| **18.0** | **Super Sonic Blast** | `Black Magic` / `Sonic` | `28 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(0, a.mat * 2.0 - b.mdf * 0.0)` | a.mat * 2.0 - b.mdf * 0.0; ignores 50% M.DEF |
-| **22.0** | **Frequency Tuning** | `Support` / `Sonic` | `24 SP` | User | `-` | Sonic Damage +25%; Skill Accuracy +20% (3 turns) *(Efek: Apply FX State 420 (FX 1242 - Frequency Tuning) as specified)* |
-| **25.0** | **Infrasonic Suppression** | `Support` / `None / Neutral` | `26 SP` | All Enemies | `-` | Enemy ATK/M.ATK -15% and Silence Resistance -20% (3 turns) *(Efek: Apply FX State 421 (FX 1243 - Infrasonic Suppression) as specified)* |
-| **28.0** | **Vibrational Implosion** | `Black Magic` / `Sonic` | `32 SP` | One Enemy | `Math.max(0, a.mat * 2.0 - b.mdf * 0.1)` | a.mat * 2.0 - b.mdf * 0.1; ignores 30% M.DEF |
-| **45.0** | **Absolute Vacuum Void** | `Ultimate` / `Sonic` | `55 SP` | Field / Custom Scope | `Math.max(0, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0 | Sure Hit; creates Vacuum Field for 3 turns: enemy Hit Rate -15% and Sonic damage taken +15%. No extra collapse damage. *(Efek: Apply FX State 422 (FX 1245 - Absolute Vacuum Void) as specified)* |
+| **1.0** | **Sonic Resonance** | `Passive` / `09 Sound` | `0 SP` | User | `-` | Sonic Damage +25%; Hit Rate +10%; Silence Resistance +30% |
+| **1.0** | **Sonar Ping** | `02 Black Magic` / `09 Sound` | `10 SP` | One Enemy | `Math.max(1, a.mat * 1.5 - b.mdf * 0.1)` | a.mat * 1.5 - b.mdf * 0.1; ignores 30% M.DEF | Ignores 30% M.DEF |
+| **5.0** | **Ultrasonic Pulse** | `02 Black Magic` / `09 Sound` | `22 SP` | All Enemies | `Math.max(1, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdf * 0.3 |
+| **12.0** | **Active Echolocation** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Hit Rate +15%; reveals Stealth; Sonic skills ignore 15% Evasion |
+| **18.0** | **Super Sonic Blast** | `02 Black Magic` / `09 Sound` | `28 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(1, a.mat * 2.0 - b.mdf * 0.0)` | a.mat * 2.0 - b.mdf * 0.0; ignores 50% M.DEF |
+| **22.0** | **Frequency Tuning** | `02 Black Magic` / `09 Sound` | `24 SP` | User | `-` | Sonic Damage +25%; Skill Accuracy +20% (3 turns) *(Efek: Apply FX State 420 (FX 1242 - Frequency Tuning) as specified)* |
+| **25.0** | **Infrasonic Suppression** | `02 Black Magic` / `01 Neutral` | `26 SP` | All Enemies | `-` | Enemy ATK/M.ATK -15% and Silence Resistance -20% (3 turns) *(Efek: Apply FX State 421 (FX 1243 - Infrasonic Suppression) as specified)* |
+| **28.0** | **Vibrational Implosion** | `02 Black Magic` / `09 Sound` | `32 SP` | One Enemy | `Math.max(1, a.mat * 2.0 - b.mdf * 0.1)` | a.mat * 2.0 - b.mdf * 0.1; ignores 30% M.DEF |
+| **45.0** | **Absolute Vacuum Void** | `05 Ultimate` / `09 Sound` | `55 SP` | Field / Custom Scope | `Math.max(1, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0 | Sure Hit; creates Vacuum Field for 3 turns: enemy Hit Rate -15% and Sonic damage taken +15%. No extra collapse damage. *(Efek: Apply FX State 422 (FX 1245 - Absolute Vacuum Void) as specified)* |
 
 ---
 

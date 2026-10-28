@@ -70,25 +70,25 @@ Prajurit bayaran berpengalaman yang hidup dari kontrak, perang, dan kemampuan be
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Veteran Edge`
-* **Senjata yang Dapat Digunakan:** `Long Sword, Axe`
-* **Zirah & Pelindung:** `Heavy Armor, Basic Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 01 Long Sword, 05 Axe
+* **Zirah & Pelindung:** 04 Heavy Armor, 01 Basic Clothes
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Raging Blow** | `Physical` / `Normal Attack` | `8 SP` | One Enemy | `Math.max(0, a.atk * 1.9 - b.def * 0.3)` | a.atk * 1.9 - b.def * 0.3 |
-| **1.0** | **Bloodlust** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Lifesteal 10% of damage dealt |
-| **4.0** | **War Howl** | `Support` / `None / Neutral` | `10 SP` | All Enemies | `-` | Fear (55%, 2 turns) *(Efek: Add State 211 Fear: 100%)* |
-| **9.0** | **Cyclone Strike** | `Physical` / `Normal Attack` | `16 SP` | All Enemies | `Math.max(0, a.atk * 1.25 - b.def * 0.18)` | a.atk * 1.25 - b.def * 0.18 per hit (2 hits) |
-| **14.0** | **Rupture** | `Physical` / `Normal Attack` | `18 SP` | One Enemy | `Math.max(0, a.atk * 1.7 - b.def * 0.4)` | a.atk * 1.7 - b.def * 0.4 |
-| **19.0** | **Unstoppable Force** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | ATK +15%, Control Resistance +40% |
-| **25.0** | **Frenzy** | `Support` / `None / Neutral` | `25 SP` | User | `-` | Berserker: ATK +25%, damage taken +15%, 3 turns | ATK +25%; damage taken +15% (3 turns) *(Efek: Apply FX State 319 (FX 1032 - Frenzy) as specified)* |
-| **31.0** | **Skull Crusher** | `Physical` / `Normal Attack` | `20 SP` | One Enemy | `Math.max(0, a.atk * 3.0 - b.def * 0.2)` | a.atk * 3.0 - b.def * 0.2 |
-| **36.0** | **Desperate Fury** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | When HP <25%: ATK +35%, AGI +20% |
-| **40.0** | **Executioner's Wrath** | `Ultimate` / `None / Neutral` | `40 SP` | All Enemies | `Math.max(0, a.atk * 1.55 - b.def * 0.10)` | a.atk * 1.55 - b.def * 0.10 per hit (3 hits; ignores 15% DEF) | Ignores 15% DEF | Status: Fatal Bleed (25% per hit) *(Efek: Add State 204 Bleed: 25% per hit)* |
+| **1.0** | **Raging Blow** | `03 Skill` / `01 Neutral` | `8 SP` | One Enemy | `Math.max(1, a.atk * 1.9 - b.def * 0.3)` | a.atk * 1.9 - b.def * 0.3 |
+| **1.0** | **Bloodlust** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Lifesteal 10% of damage dealt |
+| **4.0** | **War Howl** | `03 Skill` / `01 Neutral` | `10 SP` | All Enemies | `-` | Fear (55%, 2 turns) *(Efek: Add State 211 Fear: 100%)* |
+| **9.0** | **Cyclone Strike** | `03 Skill` / `01 Neutral` | `16 SP` | All Enemies | `Math.max(1, a.atk * 1.25 - b.def * 0.18)` | a.atk * 1.25 - b.def * 0.18 per hit (2 hits) |
+| **14.0** | **Rupture** | `03 Skill` / `01 Neutral` | `18 SP` | One Enemy | `Math.max(1, a.atk * 1.7 - b.def * 0.4)` | a.atk * 1.7 - b.def * 0.4 |
+| **19.0** | **Unstoppable Force** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | ATK +15%, Control Resistance +40% |
+| **25.0** | **Frenzy** | `03 Skill` / `01 Neutral` | `25 SP` | User | `-` | Berserker: ATK +25%, damage taken +15%, 3 turns | ATK +25%; damage taken +15% (3 turns) *(Efek: Apply FX State 319 (FX 1032 - Frenzy) as specified)* |
+| **31.0** | **Skull Crusher** | `03 Skill` / `01 Neutral` | `20 SP` | One Enemy | `Math.max(1, a.atk * 3.0 - b.def * 0.2)` | a.atk * 3.0 - b.def * 0.2 |
+| **36.0** | **Desperate Fury** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | When HP <25%: ATK +35%, AGI +20% |
+| **40.0** | **Executioner's Wrath** | `05 Ultimate` / `01 Neutral` | `40 SP` | All Enemies | `Math.max(1, a.atk * 1.55 - b.def * 0.10)` | a.atk * 1.55 - b.def * 0.10 per hit (3 hits; ignores 15% DEF) | Ignores 15% DEF | Status: Fatal Bleed (25% per hit) *(Efek: Add State 204 Bleed: 25% per hit)* |
 
 ---
 

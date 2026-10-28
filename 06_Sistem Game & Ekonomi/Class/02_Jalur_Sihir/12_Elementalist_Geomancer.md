@@ -70,24 +70,24 @@ Penyihir unsur bumi yang memanggil batu, tanah, dan kekuatan daratan untuk melin
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Stonebound Chassis`
-* **Senjata yang Dapat Digunakan:** `Staff`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Heart of Stone** | `Passive` / `Earth` | `0 SP` | User | `-` | Earth Damage +25%, DEF +20%, Stun/Knockback Resistance +30% |
-| **1.0** | **Rock Bullet** | `Black Magic` / `Earth` | `12 SP` | One Enemy | `Math.max(0, a.mat * 2.1 - b.mdf * 0.2)` | a.mat * 2.1 - b.mdef * 0.2 |
-| **5.0** | **Tectonic Tremor** | `Black Magic` / `Earth` | `20 SP` | All Enemies | `Math.max(0, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdef * 0.3 |
-| **12.0** | **Earthen Resonance** | `Passive` / `Earth` | `0 SP` | User | `-` | Magic SP cost -20%; Electric damage taken -50% |
-| **18.0** | **Stone Pillars** | `Black Magic` / `Earth` | `26 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(0, a.mat * 1.0 - b.mdf * 0.2)` | a.mat * 1.0 - b.mdef * 0.2 |
-| **22.0** | **Granite Rampart** | `Support` / `Earth` | `24 SP` | User | `-` | DEF +45%; reflects 10% of incoming physical damage (3 turns) | DEF +45%; physical damage reflection 10% (3 turns) *(Efek: Apply FX State 398 (FX 1196 - Granite Rampart) as specified)* |
-| **25.0** | **Gravity** | `Support` / `None / Neutral` | `22 SP` | Field / Custom Scope | `-` | All battlefield: AGI -25%, Flying/Float targets lose Float for 2 turns | AGI -25% globally; removes Float from affected targets for 2 turns *(Efek: Remove State 221 Float: 100% | Apply FX State 399 (FX 1197 - Gravity) as specified)* |
-| **28.0** | **Tectonic Fracture** | `Black Magic` / `Earth` | `32 SP` | All Enemies | `Math.max(0, a.mat * 1.3 - b.mdf * 0.2)` | a.mat * 1.3 - b.mdef * 0.2 per hit (2 hits) |
-| **45.0** | **Continental Cataclysm** | `Ultimate` / `Earth` | `55 SP` | All Enemies | `Math.max(0, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0 | Sure Hit; ignores 50% M.DEF; Vulnerable 100% (2 turns); Petrify 20% on non-Boss targets. *(Efek: Add State 220 Petrify: 20%)* |
+| **1.0** | **Heart of Stone** | `Passive` / `04 Earth` | `0 SP` | User | `-` | Earth Damage +25%, DEF +20%, Stun/Knockback Resistance +30% |
+| **1.0** | **Rock Bullet** | `02 Black Magic` / `04 Earth` | `12 SP` | One Enemy | `Math.max(1, a.mat * 2.1 - b.mdf * 0.2)` | a.mat * 2.1 - b.mdef * 0.2 |
+| **5.0** | **Tectonic Tremor** | `02 Black Magic` / `04 Earth` | `20 SP` | All Enemies | `Math.max(1, a.mat * 1.3 - b.mdf * 0.3)` | a.mat * 1.3 - b.mdef * 0.3 |
+| **12.0** | **Earthen Resonance** | `Passive` / `04 Earth` | `0 SP` | User | `-` | Magic SP cost -20%; Electric damage taken -50% |
+| **18.0** | **Stone Pillars** | `02 Black Magic` / `04 Earth` | `26 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(1, a.mat * 1.0 - b.mdf * 0.2)` | a.mat * 1.0 - b.mdef * 0.2 |
+| **22.0** | **Granite Rampart** | `02 Black Magic` / `04 Earth` | `24 SP` | User | `-` | DEF +45%; reflects 10% of incoming physical damage (3 turns) | DEF +45%; physical damage reflection 10% (3 turns) *(Efek: Apply FX State 398 (FX 1196 - Granite Rampart) as specified)* |
+| **25.0** | **Gravity** | `02 Black Magic` / `01 Neutral` | `22 SP` | Field / Custom Scope | `-` | All battlefield: AGI -25%, Flying/Float targets lose Float for 2 turns | AGI -25% globally; removes Float from affected targets for 2 turns *(Efek: Remove State 221 Float: 100% | Apply FX State 399 (FX 1197 - Gravity) as specified)* |
+| **28.0** | **Tectonic Fracture** | `02 Black Magic` / `04 Earth` | `32 SP` | All Enemies | `Math.max(1, a.mat * 1.3 - b.mdf * 0.2)` | a.mat * 1.3 - b.mdef * 0.2 per hit (2 hits) |
+| **45.0** | **Continental Cataclysm** | `05 Ultimate` / `04 Earth` | `55 SP` | All Enemies | `Math.max(1, a.mat * 7.5 - b.mdf * 0.0)` | a.mat * 7.5 - b.mdf * 0.0 | Sure Hit; ignores 50% M.DEF; Vulnerable 100% (2 turns); Petrify 20% on non-Boss targets. *(Efek: Add State 220 Petrify: 20%)* |
 
 ---
 

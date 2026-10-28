@@ -70,24 +70,24 @@ Penyihir unsur api yang membentuk bara, panas, dan ledakan menjadi senjata di me
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Emberborn Chassis`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Black Magic, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Heart of Flame** | `Passive` / `Fire` | `0 SP` | User | `-` | Fire elemental damage +25%; fire damage taken -50%; Burn Immunity. |
-| **1.0** | **Incinerate** | `Black Magic` / `Fire` | `12 SP` | One Enemy | `Math.max(0, a.mat * 2.1 - b.mdf * 0.2)` | a.mat * 2.1 - b.mdf * 0.2 (Burn 70%) *(Efek: Add State 201 Burn: 70%)* |
-| **5.0** | **Blazing Surge** | `Black Magic` / `Fire` | `20 SP` | All Enemies | `Math.max(0, a.mat * 1.4 - b.mdf * 0.3)` | a.matk * 1.4 - b.mdef * 0.3 |
-| **12.0** | **Flame Eater** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | - |
-| **18.0** | **Scorching Pillars** | `Black Magic` / `Fire` | `24 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(0, a.mat * 0.8 - b.mdf * 0.2)` | a.mat * 0.8 - b.mdf * 0.2 |
-| **22.0** | **Flame Barrier** | `Support` / `Fire` | `26 SP` | All Allies | `-` | Party Fire/Elemental Damage taken -40% for 3 turns; attacker suffers Burn 20% | Party elemental damage taken -40% (3 turns); fire attackers have 20% Burn chance *(Efek: Apply FX State 390 (FX 1178 - Flame Barrier) as specified)* |
-| **28.0** | **Magma Eruption** | `Black Magic` / `Fire` | `32 SP` | All Enemies | `Math.max(0, a.mat * 1.3 - b.mdf * 0.2)` | a.matk * 1.3 - b.mdef * 0.2 per hit |
-| **35.0** | **Blaze Resonance** | `Support` / `Fire` | `30 SP` | User | `-` | Fire Damage +20%; Burn chance +15%; damage taken +10% (3 turns) | Fire amplification stance (3 turns); damage taken +10%. *(Efek: Apply FX State 391 (FX 1180 - Blaze Resonance) as specified)* |
-| **45.0** | **Hellfire Inferno** | `Ultimate` / `Fire` | `55 SP` | One Enemy | `Math.max(0, a.mat * 8.5)` | Base: a.matk * 8.5. If Burn: Damage x1.5 + 3% Instant Death (Non-Boss). If Severe Burn: Damage x2.5 + 10% Instant Death (Non-Boss). | Status: Burn; Severe Burn |
+| **1.0** | **Heart of Flame** | `Passive` / `02 Fire` | `0 SP` | User | `-` | Fire elemental damage +25%; fire damage taken -50%; Burn Immunity. |
+| **1.0** | **Incinerate** | `02 Black Magic` / `02 Fire` | `12 SP` | One Enemy | `Math.max(1, a.mat * 2.1 - b.mdf * 0.2)` | a.mat * 2.1 - b.mdf * 0.2 (Burn 70%) *(Efek: Add State 201 Burn: 70%)* |
+| **5.0** | **Blazing Surge** | `02 Black Magic` / `02 Fire` | `20 SP` | All Enemies | `Math.max(1, a.mat * 1.4 - b.mdf * 0.3)` | a.matk * 1.4 - b.mdef * 0.3 |
+| **12.0** | **Flame Eater** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | - |
+| **18.0** | **Scorching Pillars** | `02 Black Magic` / `02 Fire` | `24 SP` | All Enemies (exact 3 targets need plugin) | `Math.max(1, a.mat * 0.8 - b.mdf * 0.2)` | a.mat * 0.8 - b.mdf * 0.2 |
+| **22.0** | **Flame Barrier** | `02 Black Magic` / `02 Fire` | `26 SP` | All Allies | `-` | Party Fire/Elemental Damage taken -40% for 3 turns; attacker suffers Burn 20% | Party elemental damage taken -40% (3 turns); fire attackers have 20% Burn chance *(Efek: Apply FX State 390 (FX 1178 - Flame Barrier) as specified)* |
+| **28.0** | **Magma Eruption** | `02 Black Magic` / `02 Fire` | `32 SP` | All Enemies | `Math.max(1, a.mat * 1.3 - b.mdf * 0.2)` | a.matk * 1.3 - b.mdef * 0.2 per hit |
+| **35.0** | **Blaze Resonance** | `02 Black Magic` / `02 Fire` | `30 SP` | User | `-` | Fire Damage +20%; Burn chance +15%; damage taken +10% (3 turns) | Fire amplification stance (3 turns); damage taken +10%. *(Efek: Apply FX State 391 (FX 1180 - Blaze Resonance) as specified)* |
+| **45.0** | **Hellfire Inferno** | `05 Ultimate` / `02 Fire` | `55 SP` | One Enemy | `Math.max(1, a.mat * 8.5)` | Base: a.matk * 8.5. If Burn: Damage x1.5 + 3% Instant Death (Non-Boss). If Severe Burn: Damage x2.5 + 10% Instant Death (Non-Boss). | Status: Burn; Severe Burn |
 
 ---
 

@@ -3,7 +3,7 @@
 ## Pembaruan Status 2026-10-28 — CALIBRATED (TURN-BASED RPG)
 
 > [!NOTE]
-> Sejak 28 Oktober 2026, arah game resmi bertransformasi menjadi **RPG Turn-Based**. Seluruh 80 entitas Bestiary telah dikalibrasi ke dalam format Markdown (.md) dengan mengadopsi sistem **6 Base Stats (STR, INT, DEX, LUK, AGI, VIT)** dan **Derived Stats Deterministik** sesuai [Sistem_Stat_&_Formula_Turn_Based.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md) dan [BESTIARY_STANDARD_V2.md](file:///e:/Ananto/Emulatoid/Nusvanir/07_Bestiary/BESTIARY_STANDARD_V2.md).
+> Sejak 28 Oktober 2026, arah game resmi bertransformasi menjadi **RPG Turn-Based**. Seluruh 80 entitas Bestiary telah dikalibrasi ke dalam format Markdown (.md) dengan mengadopsi sistem **6 Base Stats (STR, INT, DEX, LUK, AGI, VIT)** dan **Derived Stats Deterministik** sesuai [Sistem_Stat_&_Formula_Turn_Based.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md) dan [BESTIARY_STANDARD_V2.md](file:///mnt/DC9EA2C29EA29494/Nusvanir_Vault/07_Bestiary/BESTIARY_STANDARD_V2.md).
 > Seluruh sistem sumber daya berbasis TP telah digantikan secara penuh oleh **Stamina Points (SP)**.
 
 ## Catatan Historis Audit 2026-09-17 — BLOCKED

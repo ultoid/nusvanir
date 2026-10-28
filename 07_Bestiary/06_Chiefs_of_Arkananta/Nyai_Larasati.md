@@ -76,13 +76,30 @@ Larasati meminta semua orang menunggu. Ia memperlihatkan perubahan warna pada se
 | **SP Regen / Turn (TRG)** | `5.34%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Aqua Jet** | `Water` / Magical Attack | `12 SP` | Always (Prioritas 5.0) | `a.mat * 1.9 - b.mdef * 0.2 (Soaked 50%)` |
-| **Ultrasonic Pulse** | `Sound` / Magical Attack | `22 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.mat * 1.3 - b.mdf * 0.3` |
-| **Tidal Resonance** | `Water` / Certain Hit | `30 SP` | HP <= 50% (Prioritas 6.0) | `-` |
+| **Aqua Jet** | `03 Water` / Magical Attack | `12 SP` | Always (Prioritas 5.0) | `Math.max(1, a.mat * 1.9 - b.mdef * 0.2 (Soaked 50%))` |
+| **Ultrasonic Pulse** | `09 Sound` / Magical Attack | `22 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `Math.max(1, a.mat * 1.3 - b.mdf * 0.3)` |
+| **Tidal Resonance** | `03 Water` / Certain Hit | `30 SP` | HP <= 50% (Prioritas 6.0) | `-` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Tidal Resonance, All Foes
+Turn % 3 == 0: Ultrasonic Pulse, Highest ATK
+HP% <= 50%: Tidal Resonance, Lowest HP%
+Always: Aqua Jet, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Lightning: 150%, Sound: 75%, Water: 75%

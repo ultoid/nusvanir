@@ -70,29 +70,29 @@ Pengelana alam liar yang memahami jejak, medan, cuaca, dan kebiasaan makhluk yan
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Wilderness Hunter`
-* **Senjata yang Dapat Digunakan:** `Long Bow, Crossbow`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 08 Long Bow, 09 Crossbow
+* **Zirah & Pelindung:** 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Fracture Shot** | `Physical` / `Normal Attack` | `6 SP` | One Enemy | `Math.max(0, a.atk * 1.35 - b.def * 0.4)` | a.atk * 1.35 - b.def * 0.4 |
-| **1.0** | **Hunter's Gaze** | `Support` / `None / Neutral` | `12 SP` | All Enemies | `-` | Reveals Stealth and marks all enemies for 2 turns | Reveals Stealth and applies Mark to all enemies |
-| **1.0** | **Wild Stride** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | AGI +12%, Move/Field Evasion +10% |
-| **4.0** | **Snare Trap** | `Physical` / `Normal Attack` | `8 SP` | One Enemy | `Math.max(0, a.atk * 0.7 - b.def * 0.5)` | a.atk * 0.7 - b.def * 0.5 |
-| **9.0** | **Grasping Roots** | `Physical` / `Normal Attack` | `4 MP / 8 SP` | One Enemy | `Math.max(0, a.atk * 1.4 - b.def * 0.4)` | a.atk * 1.4 - b.def * 0.4 |
-| **12.0** | **Hunter's Focus** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Damage +10% vs Marked targets; Crit Rate +8% |
-| **14.0** | **Phantom Shot** | `Physical` / `Normal Attack` | `10 SP` | One Enemy | `Math.max(0, a.atk * 1.5 - b.def * 0.4)` | a.atk * 1.5 - b.def * 0.4; ignores 20% Evasion | Ignores 20% target Evasion |
-| **19.0** | **Arrow Barrage** | `Physical` / `Normal Attack` | `6 MP / 14 SP` | All Enemies | `Math.max(0, a.atk * 0.75 - b.def * 0.12)` | a.atk * 0.75 - b.def * 0.12 per hit (3 hits) |
-| **22.0** | **Shrapnel Trap** | `Physical` / `Normal Attack` | `12 SP` | Field / Custom Scope | `Math.max(0, a.atk * 1.3 - b.def * 0.3)` | a.atk * 1.3 - b.def * 0.3 |
-| **25.0** | **Lupine Companion** | `Passive` / `None / Neutral` | `0 SP` | Custom Mixed Scope | `-` | Summons Lupine companion for 5 turns; companion damage +10% while target is Marked |
-| **28.0** | **Titan Piercer** | `Physical` / `Normal Attack` | `16 SP` | One Enemy | `Math.max(0, a.atk * 2.5 - b.def * 0.1)` | a.atk * 2.5 - b.def * 0.1 |
-| **31.0** | **Nature's Wrath** | `Physical` / `Normal Attack` | `10 MP / 22 SP` | All Enemies | `Math.max(0, a.atk * 1.8 - b.def * 0.3)` | a.atk * 1.8 - b.def * 0.3 |
-| **36.0** | **Multi-Shot Mastery** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Multi-hit skills deal +10% total damage; no per-hit stacking |
-| **40.0** | **Forestbreaker Arrow** | `Ultimate` / `None / Neutral` | `15 MP / 35 SP` | One Enemy | `Math.max(0, a.atk * 4.2 - b.def * 0.05)` | a.atk * 4.2 - b.def * 0.05 | Sure Hit; +15% damage vs Marked target. |
+| **1.0** | **Fracture Shot** | `03 Skill` / `01 Neutral` | `6 SP` | One Enemy | `Math.max(1, a.atk * 1.35 - b.def * 0.4)` | a.atk * 1.35 - b.def * 0.4 |
+| **1.0** | **Hunter's Gaze** | `03 Skill` / `01 Neutral` | `12 SP` | All Enemies | `-` | Reveals Stealth and marks all enemies for 2 turns | Reveals Stealth and applies Mark to all enemies |
+| **1.0** | **Wild Stride** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | AGI +12%, Move/Field Evasion +10% |
+| **4.0** | **Snare Trap** | `03 Skill` / `01 Neutral` | `8 SP` | One Enemy | `Math.max(1, a.atk * 0.7 - b.def * 0.5)` | a.atk * 0.7 - b.def * 0.5 |
+| **9.0** | **Grasping Roots** | `03 Skill` / `01 Neutral` | `4 MP / 8 SP` | One Enemy | `Math.max(1, a.atk * 1.4 - b.def * 0.4)` | a.atk * 1.4 - b.def * 0.4 |
+| **12.0** | **Hunter's Focus** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Damage +10% vs Marked targets; Crit Rate +8% |
+| **14.0** | **Phantom Shot** | `03 Skill` / `01 Neutral` | `10 SP` | One Enemy | `Math.max(1, a.atk * 1.5 - b.def * 0.4)` | a.atk * 1.5 - b.def * 0.4; ignores 20% Evasion | Ignores 20% target Evasion |
+| **19.0** | **Arrow Barrage** | `03 Skill` / `01 Neutral` | `6 MP / 14 SP` | All Enemies | `Math.max(1, a.atk * 0.75 - b.def * 0.12)` | a.atk * 0.75 - b.def * 0.12 per hit (3 hits) |
+| **22.0** | **Shrapnel Trap** | `03 Skill` / `01 Neutral` | `12 SP` | Field / Custom Scope | `Math.max(1, a.atk * 1.3 - b.def * 0.3)` | a.atk * 1.3 - b.def * 0.3 |
+| **25.0** | **Lupine Companion** | `Passive` / `01 Neutral` | `0 SP` | Custom Mixed Scope | `-` | Summons Lupine companion for 5 turns; companion damage +10% while target is Marked |
+| **28.0** | **Titan Piercer** | `03 Skill` / `01 Neutral` | `16 SP` | One Enemy | `Math.max(1, a.atk * 2.5 - b.def * 0.1)` | a.atk * 2.5 - b.def * 0.1 |
+| **31.0** | **Nature's Wrath** | `03 Skill` / `01 Neutral` | `10 MP / 22 SP` | All Enemies | `Math.max(1, a.atk * 1.8 - b.def * 0.3)` | a.atk * 1.8 - b.def * 0.3 |
+| **36.0** | **Multi-Shot Mastery** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Multi-hit skills deal +10% total damage; no per-hit stacking |
+| **40.0** | **Forestbreaker Arrow** | `05 Ultimate` / `01 Neutral` | `15 MP / 35 SP` | One Enemy | `Math.max(1, a.atk * 4.2 - b.def * 0.05)` | a.atk * 4.2 - b.def * 0.05 | Sure Hit; +15% damage vs Marked target. |
 
 ---
 

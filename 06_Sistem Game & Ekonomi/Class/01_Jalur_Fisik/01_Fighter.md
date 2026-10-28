@@ -70,23 +70,19 @@ Petarung yang mengandalkan keberanian, latihan dasar, dan naluri tempur untuk me
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `—`
-* **Senjata yang Dapat Digunakan:** `Sword, Long Sword, Gloves, Spear, Axe`
-* **Zirah & Pelindung:** `Basic Armor, Light Armor, Light Shield`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Passive`
+* **Senjata yang Dapat Digunakan (Weapon Types):** 01 Long Sword, 02 Sword, 03 Gloves, 04 Spear, 05 Axe
+* **Zirah & Pelindung (Armor Types):** 01 Basic Clothes, 03 Light Armor, 05 Light Shield
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
-| Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
-| :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1** | **Dash** | `Physical` / `Neutral` | `10 SP` | Self | `-` | Manuver lari cepat untuk menutup celah atau mengatur posisi bertarung. |
-| **1** | **Charge Attack** | `Physical` / `Neutral` | `15 SP` | 1 Target | `Math.max(0, a.atk * 1.3 - b.def * 0.4)` | Tebasan keras terarah yang memanfaatkan bobot tubuh. |
-| **1** | **Weapon Mastery** | `Passive` / `Neutral` | `0 SP` | Self | `-` | Keahlian bawaan yang meningkatkan Physical Attack secara permanen. |
-| **1** | **Vitality Mastery** | `Passive` / `Neutral` | `0 SP` | Self | `-` | Keahlian ketahanan tubuh yang meningkatkan P.DEF dan M.DEF. |
-| **3** | **Cyclone Sweep** | `Physical` / `Neutral` | `25 SP` | All Enemies | `Math.max(0, a.atk * 1.1 - b.def * 0.3)` | Ayunan senjata memutar yang melukai seluruh musuh di sekitar. |
-| **5** | **Fatal Blow** | `Physical` / `Neutral` | `20 SP` | 1 Target | `Math.max(0, a.atk * 1.6 - b.def * 0.35) (Crit Rate +20%)` | Hantaman presisi pada titik lemah target dengan peluang kritikal tinggi. |
-| **7** | **Impact Wave** | `Physical` / `Earth` | `30 SP` | 1 Target | `Math.max(0, a.atk * 1.4 + a.vit * 0.5 - b.def * 0.3)` | Menghantamkan senjata ke tanah untuk melepaskan gelombang kejut. |
-| **9** | **Provoke** | `Support` / `Neutral` | `15 SP` | 1 Target | `-` | Meneriakkan tantangan untuk menarik target rate (TGR) musuh ke diri sendiri. |
+| Level | Nama Skill | Skill Type | MP / SP Cost | Scope | Hit Type / Repeat | Damage (Type, Element, Formula, Crit) | Effects & Description |
+| :---: | :--- | :--- | :---: | :--- | :--- | :--- | :--- |
+| **Lv 1** | **Hard Strike** | `03 Skill` | `0 MP / 10 SP` | 1 Enemy | Physical Attack / 1 | **Type:** HP Damage<br>**Element:** 01 Neutral<br>**Formula:** `Math.max(1, (a.atk * 1.5) - (b.def * 0.75))`<br>**Crit:** Yes | **Efek:** Add State: [0208] Stun 20% (1 Turn)<br>**Deskripsi:** Serangan tebasan bertenaga besar yang berisiko melumpuhkan musuh sesaat. |
+| **Lv 4** | **Iron Skin** | `Passive` | `0 MP / 0 SP` | None | Certain Hit / 1 | **Type:** None<br>**Formula:** None | **Efek:** Auto-Passive State [0301+] (Max HP +5%, Defense +10%)<br>**Deskripsi:** Ketahanan fisik dasar petarung garis depan yang membuat tubuh lebih kebal terhadap hantaman. |
+| **Lv 7** | **Provoking Roar** | `03 Skill` | `5 MP / 0 SP` | All Enemies | Certain Hit / 1 | **Type:** None<br>**Formula:** None | **Efek:** Add State: [0224] Taunt 100% (2 Turns) + Debuff ATK<br>**Deskripsi:** Teriakan provokasi untuk mengalihkan seluruh perhatian musuh agar menyerang petarung ini selama 2 giliran. |
+| **Lv 10** | **Cleave** | `05 Ultimate` | `0 MP / 25 SP` | All Enemies | Physical Attack / 1 | **Type:** HP Damage<br>**Element:** 01 Neutral<br>**Formula:** `Math.max(1, (a.atk * 2.0) - (b.def * 0.75))`<br>**Crit:** Yes | **Efek:** -<br>**Deskripsi:** Tebasan sapuan luas pamungkas Tier 1 untuk membersihkan kerumunan musuh sekaligus. |
 
 ---
 

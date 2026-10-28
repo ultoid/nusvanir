@@ -76,13 +76,30 @@ Setelah jalur kosong, Suparna mendinginkan udara di depan kawanan musuh. Sayap m
 | **SP Regen / Turn (TRG)** | `6.92%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Aero Slash** | `Wind` / Magical Attack | `12 SP` | Always (Prioritas 5.0) | `a.mat * 2.1 - b.mdef * 0.2 (Float 50%)` |
-| **Holy Nova** | `Light` / Magical Attack | `24 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
-| **Celestial Maelstrom** | `Light` / Magical Attack | `55 SP` | HP <= 50% (Prioritas 6.0) | `a.mat * 7.5 - b.mdf * 0.0 (Silence 70% / Blind 70%)` |
+| **Aero Slash** | `05 Air` / Magical Attack | `12 SP` | Always (Prioritas 5.0) | `Math.max(1, a.mat * 2.1 - b.mdef * 0.2 (Float 50%))` |
+| **Holy Nova** | `10 Holy` / Magical Attack | `24 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
+| **Celestial Maelstrom** | `10 Holy` / Magical Attack | `55 SP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.mat * 7.5 - b.mdf * 0.0 (Silence 70% / Blind 70%))` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Celestial Maelstrom, All Foes
+Turn % 3 == 0: Holy Nova, Highest ATK
+HP% <= 50%: Celestial Maelstrom, Lowest HP%
+Always: Aero Slash, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Dark: 150%, Light: 50%, Wind: 50%

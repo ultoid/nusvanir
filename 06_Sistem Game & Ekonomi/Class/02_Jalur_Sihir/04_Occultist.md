@@ -70,23 +70,23 @@ Praktisi ilmu terlarang yang mencari kekuatan dari ritual, rahasia kuno, dan pen
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Forbidden Affinity`
-* **Senjata yang Dapat Digunakan:** `Staff, Rune`
-* **Zirah & Pelindung:** `Magic Robe`
-* **Tipe Skill yang Dibuka:** `Dark Magic, Summon, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 06 Staff, 07 Rune
+* **Zirah & Pelindung:** 02 Magic Robe
+* **Tipe Skill yang Dibuka (Skill Types):** `02 Black Magic, 04 Summon, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Dark Energy** | `Dark Magic` / `Dark` | `8 MP` | One Enemy | `Math.max(0, a.mat * 1.4 - b.mdf * 0.4)` | a.mat * 1.4 - b.mdf * 0.4 (Curse 25%) *(Efek: Add State 225 Curse: 25%)* |
-| **3.0** | **Jenggala** | `Summon` / `None / Neutral` | `15 MP` | User | `-` | Summons 1 random Jenggala companion for 3 turns | Summons one random Jenggala companion for 3 turns. *(Efek: Apply FX State 364 (FX 1121 - Jenggala) as specified)* |
-| **8.0** | **Blood Pact** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | M.ATK +12%; Max HP -5% |
-| **12.0** | **Life Drain** | `Dark Magic` / `Dark` | `14 MP` | One Enemy | `Math.max(0, a.mat * 1.7 - b.mdf * 0.4)` | a.mat * 1.7 - b.mdf * 0.4; restores 35% of damage dealt | Restores 35% of damage dealt as HP |
-| **17.0** | **Abyssal Shroud** | `Dark Magic` / `Dark` | `12 MP` | User | `-` | Damage taken -20% (physical and magical, 2 turns) | Physical/Magic Damage taken -20% (2 turns) *(Efek: Apply FX State 366 (FX 1124 - Abyssal Shroud) as specified)* |
-| **22.0** | **Soul Harvest** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Restore 6% Max MP when an enemy is defeated |
-| **26.0** | **Abyssal Chains** | `Dark Magic` / `Dark` | `16 MP` | One Enemy | `Math.max(0, a.mat * 1.2 - b.mdf * 0.4)` | a.mat * 1.2 - b.mdf * 0.4 |
-| **30.0** | **Soul Rupture** | `Ultimate` / `Dark` | `35 MP` | All Enemies | `Math.max(0, a.mat * 2.0 - b.mdf * 0.6)` | a.mat * 2.0 - b.mdf * 0.6 |
+| **1.0** | **Dark Energy** | `02 Black Magic` / `11 Dark` | `8 MP` | One Enemy | `Math.max(1, a.mat * 1.4 - b.mdf * 0.4)` | a.mat * 1.4 - b.mdf * 0.4 (Curse 25%) *(Efek: Add State 225 Curse: 25%)* |
+| **3.0** | **Jenggala** | `04 Summon` / `01 Neutral` | `15 MP` | User | `-` | Summons 1 random Jenggala companion for 3 turns | Summons one random Jenggala companion for 3 turns. *(Efek: Apply FX State 364 (FX 1121 - Jenggala) as specified)* |
+| **8.0** | **Blood Pact** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | M.ATK +12%; Max HP -5% |
+| **12.0** | **Life Drain** | `02 Black Magic` / `11 Dark` | `14 MP` | One Enemy | `Math.max(1, a.mat * 1.7 - b.mdf * 0.4)` | a.mat * 1.7 - b.mdf * 0.4; restores 35% of damage dealt | Restores 35% of damage dealt as HP |
+| **17.0** | **Abyssal Shroud** | `02 Black Magic` / `11 Dark` | `12 MP` | User | `-` | Damage taken -20% (physical and magical, 2 turns) | Physical/Magic Damage taken -20% (2 turns) *(Efek: Apply FX State 366 (FX 1124 - Abyssal Shroud) as specified)* |
+| **22.0** | **Soul Harvest** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Restore 6% Max MP when an enemy is defeated |
+| **26.0** | **Abyssal Chains** | `02 Black Magic` / `11 Dark` | `16 MP` | One Enemy | `Math.max(1, a.mat * 1.2 - b.mdf * 0.4)` | a.mat * 1.2 - b.mdf * 0.4 |
+| **30.0** | **Soul Rupture** | `05 Ultimate` / `11 Dark` | `35 MP` | All Enemies | `Math.max(1, a.mat * 2.0 - b.mdf * 0.6)` | a.mat * 2.0 - b.mdf * 0.6 |
 
 ---
 

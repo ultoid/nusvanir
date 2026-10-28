@@ -76,13 +76,30 @@ Tawanan itu menolak membalas kemarahan dengan makian. Ia berkata bahwa kekejaman
 | **SP Regen / Turn (TRG)** | `7.66%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
 
 ### 3. Skill & Pola Aksi Giliran (AI Actions)
+
+#### A. Daftar Skill & Syarat Pemicu
 *Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
 
 | Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
 | :--- | :--- | :--- | :--- | :--- |
-| **Raging Blow** | `Neutral` / Physical Attack | `8 SP` | Always (Prioritas 5.0) | `a.atk * 1.9 - b.def * 0.3` |
-| **Frenzy** | `Neutral` / Certain Hit | `25 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
-| **Executioner's Wrath** | `Neutral` / Physical Attack | `40 SP` | HP <= 50% (Prioritas 6.0) | `a.atk * 1.55 - b.def * 0.10 per hit (3 hits; ignores 15% DEF) (Bleed)` |
+| **Raging Blow** | `01 Neutral` / Physical Attack | `8 SP` | Always (Prioritas 5.0) | `Math.max(1, a.atk * 1.9 - b.def * 0.3)` |
+| **Frenzy** | `01 Neutral` / Certain Hit | `25 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
+| **Executioner's Wrath** | `01 Neutral` / Physical Attack | `40 SP` | HP <= 50% (Prioritas 6.0) | `Math.max(1, a.atk * 1.55 - b.def * 0.10 per hit (3 hits; ignores 15% DEF) (Bleed))` |
+
+#### B. Konfigurasi AI Taktis (YEP_BattleAICore)
+* **AI Behavioral Tier:** `Tier 3: Mastermind AI (Pengendali Arena Multifase)`
+* **Jumlah Aksi per Giliran:** `2 Aksi per Giliran`
+* **Logika Penargetan:** Cerdas & adaptif; mengeksekusi target ber-HP rendah, membalas provokasi Taunt dengan serangan masif/AoE, dan mengeksekusi fase serangan terencana.
+* **Notetag Engine (Salin ke Database RPG Maker MV):**
+```text
+<Action Times: 2>
+<AI Priority>
+HP% <= 30%: Executioner's Wrath, All Foes
+Turn % 3 == 0: Frenzy, Highest ATK
+HP% <= 50%: Executioner's Wrath, Lowest HP%
+Always: Raging Blow, Lowest DEF
+</AI Priority>
+```
 
 ### 4. Traits & Resistensi Khusus
 * **Resistensi Elemen:** Dark: 50%, Fire: 75%, Light: 150%

@@ -70,24 +70,24 @@ Pemanah terlatih yang mengandalkan ketenangan, ketepatan, dan jarak untuk menjat
 
 ### C. Karakteristik, Sasis & Peralatan
 * **Innate Trait:** `Field Marksman`
-* **Senjata yang Dapat Digunakan:** `Long Bow, Crossbow`
-* **Zirah & Pelindung:** `Light Armor`
-* **Tipe Skill yang Dibuka:** `Physical, Support, Ultimate, Passive`
+* **Senjata yang Dapat Digunakan:** 08 Long Bow, 09 Crossbow
+* **Zirah & Pelindung:** 03 Light Armor
+* **Tipe Skill yang Dibuka (Skill Types):** `03 Skill, 05 Ultimate` *(Skill pasif aktif otomatis via YEP_AutoPassiveStates)*
 
 ## 3. Daftar Lengkap Skill & Pembelajaran (Learnings)
 *Seluruh skill di bawah ini otomatis terbuka saat mencapai Class Level yang ditentukan.*
 
 | Level | Nama Skill | Tipe / Elemen | Biaya | Target | Formula / Efek Matematis | Deskripsi & Catatan |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **1.0** | **Quick Shot** | `Physical` / `Normal Attack` | `4 SP` | One Enemy | `Math.max(0, a.atk * 1.15 - b.def * 0.5)` | a.atk * 1.15 - b.def * 0.5 (Priority +2) |
-| **1.0** | **Hunter's Mark** | `Support` / `None / Neutral` | `6 SP` | One Enemy | `-` | Marks target for 3 turns; marked target takes +10% damage from Archer skills | Status: Marked *(Efek: Add State 222 Marked: 100%)* |
-| **3.0** | **Eagle Eye** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Hit Rate +12% & Critical Rate +4% |
-| **8.0** | **Piercing Arrow** | `Physical` / `Normal Attack` | `6 SP` | One Enemy | `Math.max(0, a.atk * 1.5 - b.def * 0.3)` | a.atk * 1.5 - b.def * 0.3 (Ignore 20% DEF) |
-| **12.0** | **Scatter Shot** | `Physical` / `Normal Attack` | `8 SP` | One Random Enemy (repeat handles multi-hit) | `Math.max(0, a.atk * 0.9 - b.def * 0.15)` | a.atk * 0.9 - b.def * 0.15 per hit (3 hits) |
-| **17.0** | **Swift Reflexes** | `Passive` / `None / Neutral` | `0 SP` | User | `-` | Agility +12% & Evasion +8% |
-| **22.0** | **Poison Arrow** | `Physical` / `Normal Attack` | `8 SP` | One Enemy | `Math.max(0, a.atk * 1.15 - b.def * 0.5)` | a.atk * 1.15 - b.def * 0.5 (Poison 60%) *(Efek: Add State 203 Poison: 60%)* |
-| **26.0** | **Precision Shot** | `Physical` / `Normal Attack` | `14 SP` | One Enemy | `Math.max(0, a.atk * 2.2 - b.def * 0.2)` | a.atk * 2.2 - b.def * 0.2 (Crit Rate +40%) |
-| **30.0** | **Arrow Storm** | `Ultimate` / `None / Neutral` | `22 SP` | All Enemies | `Math.max(0, a.atk * 0.7 - b.def * 0.10)` | a.atk * 0.7 - b.def * 0.10 per hit (4 hits; +15% total damage vs Hunter's Mark) | +20% damage vs Hunter's Mark | Status: 4 hits; +20% damage vs Hunter's Mark *(Efek: Add State 222 Marked: 100%)* |
+| **1.0** | **Quick Shot** | `03 Skill` / `01 Neutral` | `4 SP` | One Enemy | `Math.max(1, a.atk * 1.15 - b.def * 0.5)` | a.atk * 1.15 - b.def * 0.5 (Priority +2) |
+| **1.0** | **Hunter's Mark** | `03 Skill` / `01 Neutral` | `6 SP` | One Enemy | `-` | Marks target for 3 turns; marked target takes +10% damage from Archer skills | Status: Marked *(Efek: Add State 222 Marked: 100%)* |
+| **3.0** | **Eagle Eye** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Hit Rate +12% & Critical Rate +4% |
+| **8.0** | **Piercing Arrow** | `03 Skill` / `01 Neutral` | `6 SP` | One Enemy | `Math.max(1, a.atk * 1.5 - b.def * 0.3)` | a.atk * 1.5 - b.def * 0.3 (Ignore 20% DEF) |
+| **12.0** | **Scatter Shot** | `03 Skill` / `01 Neutral` | `8 SP` | One Random Enemy (repeat handles multi-hit) | `Math.max(1, a.atk * 0.9 - b.def * 0.15)` | a.atk * 0.9 - b.def * 0.15 per hit (3 hits) |
+| **17.0** | **Swift Reflexes** | `Passive` / `01 Neutral` | `0 SP` | User | `-` | Agility +12% & Evasion +8% |
+| **22.0** | **Poison Arrow** | `03 Skill` / `01 Neutral` | `8 SP` | One Enemy | `Math.max(1, a.atk * 1.15 - b.def * 0.5)` | a.atk * 1.15 - b.def * 0.5 (Poison 60%) *(Efek: Add State 203 Poison: 60%)* |
+| **26.0** | **Precision Shot** | `03 Skill` / `01 Neutral` | `14 SP` | One Enemy | `Math.max(1, a.atk * 2.2 - b.def * 0.2)` | a.atk * 2.2 - b.def * 0.2 (Crit Rate +40%) |
+| **30.0** | **Arrow Storm** | `05 Ultimate` / `01 Neutral` | `22 SP` | All Enemies | `Math.max(1, a.atk * 0.7 - b.def * 0.10)` | a.atk * 0.7 - b.def * 0.10 per hit (4 hits; +15% total damage vs Hunter's Mark) | +20% damage vs Hunter's Mark | Status: 4 hits; +20% damage vs Hunter's Mark *(Efek: Add State 222 Marked: 100%)* |
 
 ---
 

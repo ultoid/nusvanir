@@ -1,181 +1,386 @@
 # KITAB NUSVANIR: KODEX SEMESTA
-**Sebuah Catatan Sejarah, Geografi, dan Entitas Dunia Nusvanir**
+**Kompilasi Kosmologi, Geografi Global, Taksonomi Entitas, dan Catatan Sejarah Nusvanir**
 
 ---
 
-## PROLOG: Tangisan di Lautan Kosmos
+## PENGANTAR: PERSPEKTIF PENELITI MANDALA
 
-Sebelum ada ruang dan waktu, sebelum ada terang dan gelap, yang ada hanyalah kekosongan tanpa batas. Di tengah kehampaan yang sunyi itu, bersemayamlah **Sang Hyang Cahaya**, entitas pertama dan paling murni di seluruh lautan kosmos.
+> *“Dunia ini tidak pernah sesederhana yang dikhotbahkan para pendeta di lingkar istana, atau seringan dongeng yang disenandungkan para penyair di kedai pelabuhan. Di balik fajar emas yang memayungi benua dan riak tenang samudra perak, berdenyut rahasia kelam yang dibeli dengan darah para pendahulu. Kitab ini bukan sekadar catatan geografi; ini adalah saksi bisu atas tatanan kosmik yang rapuh—panggung di mana para dewa bermain, manusia bertaruh nyawa, dan kegelapan menanti saatnya untuk terjaga.”*
+> 
+> — **Catatan Pembuka Sang Peneliti Pribumi Kerajaan Mandala**
 
-Kesepian yang mendalam di tengah kekosongan tersebut membuat Sang Hyang Cahaya meneteskan air mata. Saat air matanya jatuh dan bersentuhan dengan ruang hampa, keajaiban purba terjadi. Tetesan-tetesan air mata itu mengeras, melahirkan lautan perak dan daratan-daratan megah yang kini kita sebut sebagai **Nusvanir**. 
+Kodex Semesta Nusvanir disusun melalui sudut pandang seorang **peneliti Pribumi dari Kerajaan Mandala**. Di dalam kosmologi fana, Mandala adalah titik poros peradaban—titik nol tempat seluruh jalur maritim, jalur darat, perdagangan antar-ras, dan manuver politik berpusat. Namun, kapasitas sang penyusun kodex melampaui batasan penglihatan rakyat jelata: ia menghimpun catatan dari fragmen prasasti kuno, terjemahan kitab suci *Purāṇakathā*, interogasi tawanan perang, dokumen rahasia dewan istana, hingga rekaman artefak magis yang terpendam.
 
-Melihat dunia yang baru terbentuk, Sang Hyang Cahaya menghembuskan napas pertamanya ke arah daratan tersebut. Napas itu adalah percikan kehidupan—menyuburkan tanah, menumbuhkan hutan, dan melahirkan makhluk-makhluk pertama yang mengisi dunia. 
-
-Namun, di mana ada cahaya yang terlalu terang, di situlah tercipta bayangan yang paling pekat. Keseimbangan Nusvanir adalah keseimbangan yang rapuh. Kini, kekuatan cahaya dan kegelapan saling tarik-menarik dalam tarian abadi, menjadikan Nusvanir sebagai panggung besar bagi kisah heroik, tragedi, dan cinta yang melampaui batas waktu. 
-
-Nusvanir memanggil mereka yang cukup berani untuk menjelajahi rahasianya, menantang takdir, dan menemukan apa artinya menjadi legenda.
-
----
-
-## BAB I: KOSMOLOGI DAN HIERARKI ENTITAS
-
-### 1. Geografi Kosmik Nusvanir
-Nusvanir adalah mozaik kehidupan yang dijalin oleh lautan dan dipayungi oleh langit keemasan. Bentang alamnya bukan sekadar tanah dan air, melainkan perwujudan dari kekuatan magis purba yang masih berdenyut hingga hari ini.
-
-* **Tirta Amarta (Kota Para Dewa):** Di sinilah tempat pertama kali Sang Hyang Cahaya menghembuskan napas kehidupan. Dikelilingi air terjun yang berkilauan dan kuil-kuil suci, Tirta Amarta adalah pusat kedamaian dan harmoni absolut. Tempat ini menjadi persinggahan bangsa malaikat (*Dewathian*, *Langitara*, *Vriskapala*) dan tidak dapat dilihat oleh sembarang mata fana.
-* **Gunung Arkananta:** Menjulang tinggi menembus lapisan awan di tengah dunia. Gunung ini adalah pilar yang menopang Nusvanir, berfungsi sebagai jembatan menuju Langit Pertiwi (alam para dewa). Puncaknya diselimuti kabut abadi yang memantulkan kilauan bintang, tempat yang indah namun menyimpan bahaya mematikan bagi penjelajah.
-* **Laut Rangkaruna & Raksamala:** Sebagai penyeimbang, di ujung lautan luas Rangkaruna yang penuh badai abadi, berdirilah Pulau Raksamala. Ini adalah pusat kegelapan, dunia bawah di mana sinar matahari tidak pernah sudi menyentuh permukaannya. Di tempat inilah kekaisaran iblis dibangun.
-* **Thalantira (Pulau Misterius / Śaptadvīpa):** Terletak jauh di balik Raksamala, pulau legenda yang juga dijuluki *Pulau Kutukan*. Dikelilingi oleh lautan badai mematikan dan karang-karang laut hitam berbentuk taring pelindung, pulau ini diselimuti aura ungu gelap dengan langit yang terus disambar petir guntur abadi. Di tengahnya menjulang gunung berapi purba kolosal yang memuntahkan lahar ungu murni. Pulau ini menyimpan artefak pemicu kiamat (*Void Crystal*) dan entitas purba yang tak tertulis di catatan sejarah resmi.
-* **Kerajaan Suci Avalerion:** Berada di bawah pendaran cahaya suci yang tak pernah disentuh oleh bayang-bayang kegelapan. Ibu kota agung ini adalah pusat peradaban yang berpegang teguh pada doktrin mutlak Cahaya, rumah bagi akademi *Pawiyatan Prabha Suci*, dewan hakim tertinggi, serta ribuan pasukan elit *Holy Knight* dan *Paladin*.
-
-### 2. Hierarki Agung (Struktur Kehidupan)
-Segala sesuatu di Nusvanir tunduk pada tatanan kosmik. Dari entitas pencipta hingga makhluk paling fana, hierarki ini menentukan kekuatan, tugas, dan takdir mereka.
-
-**Tingkat Pencipta (The Zenith):**
-* **Sang Hyang Cahaya:** Dewa awal, pencipta terang dan kehidupan.
-* **Kala Laksana:** Entitas yang mengatur jalannya waktu dan takdir di seluruh kosmos.
-
-**Tingkat Entitas Primordial & Pemusnah (Doomsday):**
-* **Dewantara (Angel):** Malaikat agung ciptaan awal Sang Hyang Cahaya yang ditugaskan menjaga kebijaksanaan dan hukum absolut dunia.
-* **Sangrahal (Demon Lord):** Pemimpin tertinggi ras iblis. Berkuasa di istana kegelapan Raksamala, ia adalah penanda kehancuran besar, penagih hutang jiwa, dan perusak dunia fana.
-* **Uru:** Entitas raksasa berdimensi kosmik yang keberadaannya sengaja dihapus dari kitab *Purāṇakathā* resmi. Bersemayam di dasar pulau Thalantira, ia adalah ancaman mutlak pemicu kiamat (*Doomsday Entity*) yang terbuat dari teror absolut.
-
-**Tingkat Penjaga dan Penebar Ketakutan:**
-* **Dewathian (Guardian Angel):** Malaikat pelindung yang bertugas menjaga keutuhan Nusvanir dari invasi kegelapan.
-* **Langitara (Holy Spirit):** Makhluk suci penguasa langit yang memberikan berkah kepada pahlawan yang layak.
-* **Vriskapala (Nature Guardian):** Roh penjaga yang lahir dari pohon-pohon sakral, pelindung ekosistem liar.
-* **Bhuta (Arch Demon):** Makhluk bayangan panglima perang Dunia Bawah, penyebar teror dan penderitaan (bawahan mutlak Sangrahal). Contoh salah satu Bhuta terkuat adalah **Mamon**, sang Bhuta Keserakahan yang memanipulasi nafsu material manusia.
-
-**Tingkat Fana dan Ras Utama:**
-Ras-ras ini menghuni daratan Nusvanir dan terbagi menjadi beberapa kelompok besar:
-* **Arkahyan:** Bangsa langit bersayap suci, seperti ras *Garuda* yang gagah berani.
-* **Drahkthar:** Penguasa elemen alam yang buas, seperti ras *Nagarasven* (Naga).
-* **Utusan Dewa:** Manusia super berkat ilahi yang memisahkan diri di puncak tinggi (*Avesari* / Demigod).
-* **Wuru Loka:** Penjaga alam dan ekosistem seperti *Asrivana* (Elf) yang elegan, dan *Hanorok* (Manusia Kera) yang bijaksana dalam strategi.
-* **Ras Buangan & Penghuni Gua:** Kelompok tragis dan liar seperti *Rakshorien* (Dark Elf yang diasingkan), *Butoraksa* (Orc), dan *Troliogoro* (Troll magma).
-* **Entitas Gelap:** *Dhemit* (jiwa-jiwa tersesat yang putus asa) dan *Jenggala* (monster liar haus darah dari Raksamala).
-
-**Tingkat Suku Bumi (Fondasi Peradaban):**
-* **Wahanarsa (Royal Family):** Ras manusia keturunan bangsawan pembentuk birokrasi dan kerajaan.
-* **Pribumi (Nord):** Manusia biasa yang menjadi tulang punggung peradaban, penggerak roda ekonomi, dan petualang yang tanpa lelah mencari takdir mereka di daratan Nusvanir.
+Dalam membaca naskah ini, pembaca harus membedakan secara tegas antara dua lapis pengetahuan:
+1. **Pengetahuan Resmi (Doktrin Kerajaan & Agama):** Catatan sejarah yang diajarkan di akademi-akademi militer, kuil pemujaan Surya, dan institusi keagamaan Avalerion untuk menjaga moralitas serta ketertiban masyarakat fana.
+2. **Lore Tersembunyi (*The Hidden Truth*):** Fakta absolut alam semesta mengenai entitas kosmik purba, manipulasi ilusi pulau penjara, dan asal-usul sejati ancaman kiamat (*Doomsday*) yang sengaja disensor dari ingatan publik.
 
 ---
 
-## BAB II: PERADABAN UTAMA (MANDALA & AVALERION)
+## BAB I: KOSMOLOGI PRIMORDIAL & KRONOLOGI SEMESTA
 
-### 1. Kerajaan Suci Avalerion (Benteng Cahaya Mutlak)
-Peradaban paling absolut di Nusvanir, sebuah kerajaan raksasa yang terisolasi dari bayang-bayang kegelapan. Avalerion memegang doktrin hukum Sang Hyang Cahaya sebagai kebenaran tunggal dan mutlak di dunia.
-* **Pawiyatan Prabha Suci:** Institusi akademik tertinggi bagi para pendeta (Priest) dan cendekiawan agama yang bertugas menerjemahkan manuskrip kuno (termasuk kitab *Purāṇakathā*) dan merumuskan doktrin peradaban.
-* **Pasukan Ksatria Suci:** Avalerion memiliki ribuan *Holy Knight* dan *Paladin* berzirah perak murni yang menjadi kekuatan militer mutlak. Mereka sangat superior dan memandang ras fana lainnya rentan terhadap dosa.
-* **Hukum Pengasingan:** Sistem peradilan Avalerion tidak mengenal toleransi. Pahlawan sekalipun yang melanggar hukum suci tak akan dihukum mati, melainkan dilucuti dan diasingkan dari peradaban cahaya selama puluhan tahun tanpa pandang bulu.
+```mermaid
+flowchart TD
+    subgraph Zaman_Purba["I. Zaman Purba"]
+        A["Sang Hyang Cahaya<br/>(Dewa Awal)"] ---|Konflik Eksistensi| B["Uru Sang Penjelajah Void<br/>(Entitas Kosmik Raksasa)"]
+        B -->|Kekalahan Sang Hyang| C["Kelahiran Aspek Kegelapan"]
+    end
 
-### 2. Jantung Peradaban Fana (Kerajaan Mandala)
-Terletak tepat di pusat geografi Nusvanir, **Kerajaan Mandala** berdiri sebagai benteng utama peradaban manusia (ras *Pribumi* dan *Wahanarsa*). Wilayah ini merupakan titik temu mutlak dari seluruh jalur politik, budaya, dan perdagangan antar-ras di dunia. 
+    subgraph Zaman_Penyegelan["II. Zaman Penyegelan"]
+        C --> D["Penciptaan Thalantira<br/>(Pulau Penjara & Ilusi Agung)"]
+        D --> E["Uru Tersegel dalam Tidur Kristal<br/>(Void Crystal Terbentuk)"]
+    end
 
-Secara strategis, Mandala dikaruniai perlindungan alami yang luar biasa. Di sisi utara, Pegunungan Arkananta yang megah berdiri kokoh menahan ancaman luar, sementara di sisi selatan dan timur, Laut Rangkaruna membuka akses gerbang perdagangan maritim yang luas.
+    subgraph Zaman_Benteng["III. Zaman Benteng Agung"]
+        E --> F["Kala Laksana (Sipir Penjara) & Raksamala"]
+        F --> G["Laut Rangkaruna (Badai & Arus Abadi)"]
+    end
 
-Ibu Kota Mandala dibangun dengan arsitektur vertikal bertingkat, mengadopsi struktur kosmologi kuno yang membagi strata sosial dan fungsi kota menjadi lima wilayah lingkaran abadi:
-* **Lingkar Surya:** Zona tertinggi yang menjadi tempat berdirinya Istana Agung, kuil-kuil pemujaan utama, serta kediaman para bangsawan tinggi.
-* **Lingkar Dharma:** Pusat pengetahuan dan spiritualitas. Di sini berdiri perpustakaan besar, gilda penyihir, dan sekolah-sekolah filsafat.
-* **Lingkar Wira:** Kawasan militer yang meliputi barak-barak ksatria, akademi strategi, dan tungku-tungku pandai besi tempat senjata kerajaan ditempa.
-* **Lingkar Samodra:** Wilayah dermaga sungai besar dan kompleks gudang logistik, mengatur arus masuk-keluar barang dari seluruh penjuru dunia.
-* **Lingkar Bumi:** Zona terluar dan terluas, menjadi rumah bagi para pedagang, pasar-pasar rakyat, dan distrik pemukiman rakyat jelata.
+    subgraph Era_Fana["IV. Zaman Penataan & Era Fana"]
+        G --> H["Arkahyan & Suku Bumi Bangkit"]
+        H --> I["Kerajaan Mandala, Avalerion, & Faksi Lain"]
+    end
 
-Di luar ibu kota, kekuatan Mandala ditopang oleh empat kota cabang utama:
-* **Aqualis:** Kota pelabuhan timur yang menguasai perdagangan maritim terbesar di seluruh Nusvanir. Kota ini merupakan titik temu para nelayan, peneliti teknologi kelautan, bar-bar petualang, serta markas operasi *Guild Dark Thorn*.
-* **Valkindra:** Pusat komando dan pertahanan militer garis depan.
-* **Arthiska:** Wilayah agraris subur yang menjadi lumbung pangan seluruh kerajaan.
-* **Hermindar:** Kota metropolitan yang berfungsi sebagai pusat sirkulasi ekonomi dan pasar bebas.
+    subgraph Era_Krisis["V. Era Kontemporer & Krisis Void"]
+        I --> J["Ekspedisi Prologue: Hector & Cassian Menembus Thalantira"]
+        J --> K["Segel Uru Goyah & Runtuhnya Raksamala"]
+        K --> L["Dual Path: Light Path (Hiro) vs Dark Path (Damian)"]
+        L --> M["Invasi Masif Void: Kiamat Nusvanir"]
+    end
+```
 
-### 2. Monarki Terpimpin & Dewan Candra Nawa
-Mandala dipimpin oleh seorang penguasa tertinggi yang menyandang gelar **Prabu Mandalapati**. Namun, kekuasaan raja tidaklah mutlak. Dalam menjalankan roda pemerintahan dan menjaga stabilitas kosmik, raja didampingi oleh **Dewan Candra Nawa** (Sembilan Cahaya Penjaga Keseimbangan).
+### 1. Sejarah Penciptaan: Mitos Resmi vs Lore Tersembunyi
 
-Setiap anggota Dewan menyandang gelar **Arta** (Pemegang Kuasa) dan mewakili satu pilar vital kerajaan. Mereka memiliki hak politik yang sangat besar, termasuk hak untuk menentang keputusan Prabu jika kebijakan tersebut dinilai mengancam keselamatan Mandala.
+#### Doktrin Resmi: Tangisan di Lautan Kosmos
+Menurut naskah keagamaan *Pawiyatan Prabha Suci* dan kuil pemujaan *Agama Surya*, sebelum ada waktu, hanya ada kekosongan tanpa batas tempat bertahtanya **Sang Hyang Cahaya**. Diceritakan bahwa karena kesepian yang mendalam, Sang Hyang meneteskan air mata ke ruang hampa. Tetesan air mata itu memadat menjadi daratan dan lautan Nusvanir, sementara napas pertamanya melahirkan vegetasi dan kehidupan fana. Agar semesta memiliki harmoni dinamis, Sang Hyang membelah sebagian kekuatannya menjadi **Kala Laksana** untuk mengatur jalannya sangkala (waktu) dan bayang-bayang.
 
-* **Arta Ksatradhika (Panglima Kesatria Kerajaan):** Bertanggung jawab atas keamanan internal, penegakan hukum, dan memimpin ordo Ksatria Mandala. *(Pengaruh Politik: Tinggi)*
-* **Arta Surya Pandita (Perwakilan Agama Surya):** Pengatur ritual sakral kerajaan, penjaga moralitas, dan penentu kebijakan keagamaan. *(Pengaruh Politik: Sangat Tinggi)*
-* **Arta Mahasena (Jenderal Militer):** Otak di balik strategi perang, pertahanan perbatasan, dan ekspansi wilayah. *(Pengaruh Politik: Sangat Tinggi)*
-* **Arta Mantrawisesa (Kepala Riset Sihir):** Memimpin pengembangan teknologi magis dan integrasi sihir ke dalam sistem pertahanan. *(Pengaruh Politik: Sedang – Tinggi)*
-* **Arta Jagatwijaya (Menteri Perdagangan & Ekonomi):** Pengendali pasar, penentu pajak, dan diplomat utama dalam perdagangan antar-ras. *(Pengaruh Politik: Tinggi)*
-* **Arta Taniwijaya (Menteri Pertanian & Sumber Hayati):** Penjaga ketahanan pangan dan sirkulasi logistik hayati. *(Pengaruh Politik: Stabil & Vital)*
-* **Arta Samudranatha (Kepala Armada Laut):** Menguasai navigasi, armada perang laut, dan hubungan diplomatik dengan wilayah kepulauan. *(Pengaruh Politik: Potensial Meningkat)*
-* **Arta Budhaksara (Menteri Pendidikan & Budaya):** Pengelola akademi, pencatat sejarah resmi kerajaan, dan pelestari literatur kuno. *(Pengaruh Politik: Stabil)*
-* **Arta Dhanaprabha (Bendahara Kerajaan):** Penguasa aset, anggaran, dan hibah proyek kerajaan. Bergerak di balik layar secara rahasia. *(Pengaruh Politik: Tertutup & Berpengaruh Besar)*
-
-### 3. Pilar Institusi Agung
-Kekuatan Kerajaan Mandala digerakkan oleh lima institusi besar yang memiliki fungsi spesifik dan pengaruh mendalam terhadap masyarakat:
-
-* **Pasukan Garuda Kencana:** Ordo militer elite utama kerajaan. Mereka dilatih langsung oleh para *Demigod* dan menaruh penghormatan spiritual yang tinggi terhadap ras *Garuda*. Pasukan ini meyakini bahwa berkat dari Sang Garuda adalah kunci kemenangan mutlak di medan laga.
-* **Ksatrya Mandalagiri:** Pusat akademi militer terbesar di Nusvanir. Tempat ini adalah satu-satunya institusi di dunia yang memiliki teknologi simulasi pertarungan kuno, yang mampu merekam data pergerakan musuh untuk dipelajari guna merancang strategi penangkal yang sempurna.
-* **Gilda Arthapasa:** Lembaga sentral yang menaungi seluruh guild petualang di Mandala. Berperan sebagai jembatan aman antara masyarakat yang membutuhkan bantuan dengan para petualang yang mencari upah.
-* **Guild Dark Thorn:** Sebuah serikat pembunuh bayaran (*Assassin* / *Rogue*) dan petualang bayangan yang sering menangani misi-misi mustahil bernilai fantastis. Memiliki jaringan kuat hingga ke pesisir Aqualis.
-* **Sindikat Cakrawala:** Organisasi ekonomi bawah tanah yang tak tersentuh hukum, dijalankan oleh broker informasi dan kolektor artefak langka bernama **Tuan Midas**. Sindikat ini memfasilitasi transaksi relik terlarang atau informasi rahasia dengan harga di luar nalar.
-* **Loka Cakra:** Pusat penelitian sihir tingkat tinggi bagi kelas elit seperti *Echomancer*. Mengingat ras manusia memiliki bakat magis yang lemah, institusi ini memfokuskan seluruh risetnya untuk melipatgandakan potensi sihir penggunanya.
-* **Dharma Surya Adhi:** Organisasi keagamaan independen terbesar yang memuja Agama Surya, mampu menyetir arah politik Mandala. Pemimpin tertingginya diyakini oleh para pengikut setia sebagai titisan langsung dari Sang Hyang Cahaya.
+#### Lore Tersembunyi: *The Old Tale* (Hakikat Eksistensi Uru)
+Sebagaimana terungkap dari manuskrip kuno tak bertanggal yang ditemukan di kedalaman palung Rangkaruna:
+* **Kedatangan Sang Penjelajah Void:** Jauh sebelum peradaban fana ada—pada era ketika Nusvanir dihuni binatang purba raksasa—seorang pengelana kosmik berukuran sebesar galaksi bernama **Uru** melintasi dimensi ini. Uru adalah manifestasi absolut dari **Void** (Kehampaan Kosmik). Tertarik oleh percikan kehidupan primitif yang langka, Uru memadatkan wujudnya seukuran makhluk duniawi untuk sekadar bermain dan mengamati.
+* **Benturan Eksistensi & Lahirnya Kegelapan:** Keberadaan pasif energi Void milik Uru tidak dapat bersanding dengan energi murni Sang Hyang Cahaya. Benturan medan energi keduanya memicu kepunahan massal prasejarah. Sang Hyang yang murka berusaha mengusir Uru, namun kalah telak oleh kekuatan absolut sang penjelajah ketiadaan. Di titik terendah saat Cahaya meredup nyaris padam, lahirlah antitesisnya: **Kegelapan**.
+* **Ilusi Agung Thalantira (Śaptadvīpa):** Menyadari kekuatan murni tak dapat membunuh Uru, Sang Hyang memadukan Cahaya, Kegelapan, dan energi Alam untuk merancang sebuah jebakan ilusi. Ia menciptakan sebuah pulau tropis buatan yang sangat mempesona—sebuah taman bermain kosmik bernama **Thalantira**. Ketika Uru terbuai mengeksplorasi keajaiban pulau tersebut, Sang Hyang menyegel kesadaran Uru ke dalam kristal purba di perut gunung api pulau tersebut.
+* **Tidur Abadi & Void Crystal:** Uru tertidur dalam ilusi bahwa ia masih bebas bermain. Pikirannya memproyeksikan ekosistem pulau, arsitektur kuil, dan makhluk-makhluk bayangan yang terasa nyata. Selama beribu tahun penyegelan, serpihan tubuh kosmik Uru yang terlepas mengeras menjadi materi paling berbahaya di alam semesta: **Void Crystal**.
+* **Fungsi Sejati Raksamala & Rangkaruna:** Untuk memastikan ilusi Uru tidak terganggu oleh makhluk fana, Sang Hyang menempatkan aspek Kegelapannya, **Kala Laksana**, sebagai sipir pelindung utama. Sang Hyang membangun benua kegelapan **Raksamala** tepat di lintasan laut antara daratan fana dan Thalantira, serta memagari kawasan itu dengan **Laut Rangkaruna** yang dipenuhi badai petir dan monster laut abyssal. Raksamala sengaja dirancang sebagai ancaman menakutkan agar para pelaut fana gentar dan berbalik arah sebelum sempat mendekati pulau penjara Uru.
 
 ---
 
-## BAB III: HUKUM SIHIR & KONSEKUENSI SUKMA
+### 2. Periodisasi Sejarah Nusvanir
 
-Energi magis di Nusvanir tunduk pada hukum pertukaran yang setara. Sihir tidak dapat diciptakan dari kehampaan fana, melainkan harus ditarik dari dua poros energi primordial yang berada di ujung dunia. Setiap kekuatan yang direnggut menuntut bayaran yang akan mengikis kemanusiaan penggunanya.
+| Era | Peristiwa Utama & Karakteristik | Status Kosmik |
+| :--- | :--- | :--- |
+| **I. Zaman Purba** | Pengembaraan Uru ke Nusvanir; kehancuran ekosistem prasejarah; kekalahan Sang Hyang Cahaya dan kelahiran elemen Kegelapan. | Bencana Prasejarah |
+| **II. Zaman Penyegelan** | Penciptaan Thalantira; Uru tertipu ke dalam tidur ilusi; serpihan tubuhnya mengkristal menjadi *Void Crystal*. | Keseimbangan Ilusi |
+| **III. Zaman Benteng Agung** | Pembentukan Kala Laksana, benua Raksamala, dan isolasi Laut Rangkaruna sebagai perimeter pertahanan berlapis penutup Thalantira. | Pengamanan Segel |
+| **IV. Zaman Penataan** | Sang Hyang mengangkat ras *Arkahyan*; kebangkitan bangsa *Avesari*, *Garuda*, *Pribumi*, *Wahanarsa*, *Asrivana*, dan *Nagarasven*; pendirian Kerajaan Suci Avalerion dan Kerajaan Mandala. | Fajar Peradaban |
+| **V. Keseimbangan Rapuh** | Peradaban fana berkembang; Raksamala di bawah Sangrahal aktif menculik jiwa manusia lewat portal Jenggala; isolasi ketat antar-wilayah. | Ketegangan Tertutup |
+| **VI. Era Ekspedisi (Prologue)** | Tragedi Rama & Shinta; ekspedisi Hector dan Cassian menembus Rangkaruna hingga mencapai inti Thalantira; bangunnya kesadaran Uru; teror Mamon di Aqualis; jatuhnya vonis pengasingan Avalerion; pemisahan bayi kembar Hiro dan Damian. | Pecahnya Segel |
+| **VII. Era Ketidakseimbangan (Untold Story)** | Timeskip 5 tahun; meluapnya sihir Cahaya pasca-invasi gagal; invasi kilat Hector membantai seluruh komandan Bhuta Raksamala dan membebaskan Damian dari kutukan Sangrahal; Hector menyerap kegelapan absolut menjadi *Death Knight*; pembentukan aliran *Hellfire* di Thalantira bersama Damian. | Runtuhnya Benteng Purba |
+| **VIII. Era Dualitas & Invasi Void (Kisah Utama)** | Invasi masif portal Void ke seluruh Nusvanir; jatuhnya kota-kota Mandala; terisolasinya Avalerion dan kejatuhan moral Tirta Amarta; perjalanan *The Light Path* (Hiro, Aran Sylvar, Adhiva) menuju *Transcendence* berhadapan dengan *The Dark Path* (Damian & Hector). | Krisis Kiamat (*Doomsday*) |
+
+---
+
+## BAB II: ATLAS GEOGRAFI 11 WILAYAH NUSVANIR
+
+Dari ruang kerja sang peneliti di Lingkar Dharma Ibu Kota Mandala, bentang daratan Nusvanir terbagi menjadi sebelas wilayah administratif dan geografis:
+
+```
+                                [ UTARA ]
+                             Gunung Arkananta
+                          (Pilar Bumi & Gua Salju)
+                                     |
+               Avalerion             |             Astradipa
+         (Kerajaan Cahaya Suci)      |        (Hutan Keramat Asrivana)
+                     \               |               /
+                      \              |              /
+  [ BARAT ] ----------> [ KERAJAAN MANDALA ] <---------- [ TIMUR ]
+  Nusa Sayendra       (Pusat Peradaban 5 Lingkar)        Kota Bebas Cakrawala
+ (Kepulauan Garuda)          /       |       \            (Oasis & Pasar Gelap)
+                            /        |        \
+                Tirta Amarta         |         Pulau Naga Agnitra
+            (Lembah Air Suci Dewa)   |      (Domain Gunung Api Nagarasven)
+                                     |
+                            Laut Rangkaruna
+                        (Samudra Badai Abadi)
+                                     |
+                             Pulau Raksamala
+                       (Domain Kegelapan Purba)
+                                     |
+                           Pulau Thalantira
+                    (Penjara Ilusi Uru / Kiamat)
+                                [ SELATAN ]
+```
+
+### 1. Kerajaan Mandala (Pusat Peradaban Fana)
+Kerajaan manusia terbesar yang dihuni oleh ras *Pribumi* dan *Wahanarsa*. Terletak tepat di jantung benua, Mandala mengendalikan jalur perdagangan utama darat dan laut.
+* **Ibu Kota Mandala (Struktur 5 Lingkar Konsentris):**
+  * *Lingkar Surya:* Dataran tertinggi, takhta Prabu Mandalapati, kediaman bangsawan darah biru, dan kuil pemujaan Matahari.
+  * *Lingkar Dharma:* Pusat ilmu pengetahuan, akademi perpustakaan besar, gilda perapal mantra, dan laboratorium riset magis *Loka Cakra*.
+  * *Lingkar Wira:* Zona pertahanan militer, barak ksatria, akademi taktik perang, dan pandai besi persenjataan.
+  * *Lingkar Samodra:* Kompleks logistik dermaga sungai besar, gudang distribusi beras, dan transit komoditas antar-wilayah.
+  * *Lingkar Bumi:* Distrik terluar dan terpadat, pemukiman kaum pekerja Pribumi, pasar rakyat, kedai petualang, dan penginapan murah.
+* **Empat Kota Satelit Utama:**
+  * **Aqualis:** Kota pelabuhan timur termahsyur di muara Rangkaruna; pusat maritim nelayan, galangan kapal, dan markas bayangan *Guild Dark Thorn*.
+  * **Valkindra:** Benteng pertahanan militer garis barat laut yang berbatasan langsung dengan perbatasan luar Avalerion.
+  * **Arthiska:** Dataran subur beririgasi magis yang berfungsi sebagai lumbung pangan padi dan gandum seantero kerajaan.
+  * **Hermindar:** Kota metropolitan perdagangan bebas, pusat sirkulasi perbankan, dan pelelangan barang mewah.
+* **Struktur Politik: Prabu Mandalapati & Dewan Candra Nawa (Sembilan Arta):**
+  Raja memimpin bersama sembilan menteri penasihat (*Arta*) yang memegang hak veto politik. Figur krusial meliputi *Arta Ksatradhika* (Panglima Ordo Ksatria), *Arta Surya Pandita* (Otoritas Agama Surya), *Arta Mahasena* (Jenderal Strategi Perang), *Arta Mantrawisesa* (Kepala Sains Sihir), *Arta Jagatwijaya* (Menteri Niaga), *Arta Taniwijaya* (Ketahanan Pangan), *Arta Samudranatha* (Laksamana Laut), *Arta Budhaksara* (Pendidikan & Sastra), dan *Arta Dhanaprabha* (Bendahara Rahasia yang mendanai riset terlarang).
+
+### 2. Hutan Keramat Astradipa
+Wilayah hutan hujan lebat di timur laut Mandala yang diselimuti kabut hijau magis. 
+* Dihuni oleh bangsa peri **Asrivana** yang hidup harmonis di kanopi pepohonan raksasa dan bangsa kera petarung **Hanorok** yang menjaga perbatasan terestrial.
+* Astradipa menyimpan anomali berupa celah retakan dimensi (*Rift*) yang kerap memuntahkan monster liar ke perbatasan Mandala. Selama invasi Void, pertahanan Hanorok sempat terputus total dari komunikasi luar.
+
+### 3. Kerajaan Suci Avalerion (Benteng Doktrin Cahaya)
+Peradaban teokrasi absolut yang berdiri di dataran tinggi barat laut.
+* Dilindungi oleh dinding marmer putih raksasa dan doktrin mutlak Sang Hyang Cahaya. Rumah bagi ribuan *Holy Knight* dan *Paladin* berzirah perak murni yang memandang rendah ras fana karena dianggap rentan terhadap dosa kegelapan.
+* **Pawiyatan Prabha Suci:** Akademi tertinggi para imam (*Priest*) dan cendekiawan hukum yang dipimpin figur spiritual seperti *Sage Luna*. Menjalankan hukum pengasingan tanpa kompromi bagi pelanggar tata tertib suci.
+* *Catatan Krisis Kontemporer:* Pasca-runtuhnya outpost penjaga, Avalerion terkunci di balik kubah isolasi Void pekat yang menahan Sangrahal di penjara bawah tanahnya.
+
+### 4. Pulau Naga Agnitra
+Kepulauan vulkanik aktif di lautan timur yang dipenuhi sungai lava mengalir dan puncak bebatuan obsidian hitam.
+* Domain absolut dari ras **Nagarasven** (bangsa naga bersisik baja). Mereka hidup dalam hierarki kekuatan alam liar dan menjaga sarang logam murni *Adamantite Nest*.
+* Memiliki kekuatan pertahanan alami yang sangat superior; Agnitra adalah satu-satunya wilayah yang berhasil memukul mundur invasi Bhuta Void secara mandiri tanpa bantuan faksi lain, namun memilih bersikap isolasionis tertutup.
+
+### 5. Pegunungan Arkananta
+Rangkaian pegunungan salju vertikal yang membelah utara benua Nusvanir, dipercaya sebagai tiang penyangga kubah langit semesta (*Langit Pertiwi*).
+* Lereng bawah dan lembahnya dihuni oleh suku perkasa **Butoraksa** (Orc), gua-gua magma bawah tanahnya ditinggali **Troliogoro** (Troll), sedangkan jaringan terowongan terdalamnya menjadi suaka persembunyian suku buangan **Rakshorien** (Dark Elf).
+* Wilayah ini sangat kaya akan bijih besi, kristal kuarsa, dan material tempa persenjataan berat.
+
+### 6. Kota Bebas Cakrawala
+Kota metropolis perdagangan gurun yang dibangun di sekitar oasis air misterius di perbatasan timur laut.
+* Menjadi tempat bertemunya pedagang buronan, tentara bayaran, ilmuwan murtad, dan penyelundup dari seluruh penjuru dunia. Hukum kerajaan Mandala tidak berlaku di sini.
+* Dikuasai secara de facto oleh **Sindikat Cakrawala** di bawah pimpinan maestro pasar gelap, **Tuan Midas**, yang memperdagangkan artefak langka dan relik terlarang. 
+* Saat bencana Void melanda, oasis kehidupan Cakrawala berubah menjadi danau ungu beracun yang menenggelamkan kota ke dalam anarki total.
+
+### 7. Nusa Sayendra (Kawasan Langit Para Garuda)
+Gugusan kepulauan batu melayang di langit barat daya Nusvanir yang ditopang oleh anomali medan magnet angin suci.
+* Negeri berdaulat ras suci **Garuda**. Ibu kotanya bertahta di **Puncak Emas Swargaloka**, tempat para tetua agung melatih seni penerbangan tempur dan meditasi jiwa.
+* Memiliki hubungan spiritual purba dengan bangsa *Avesari*. Ras Garuda memiliki imunitas mutlak terhadap infeksi miasma kegelapan, namun tetap rentan terhadap korupsi Void jika tuannya tidak berada di samping mereka.
+
+### 8. Kota Suci Tirta Amarta
+Lembah air terjun abadi bertingkat sembilan di lereng barat pegunungan suci, tempat Sang Hyang Cahaya diyakini pertama kali menghembuskan napas kehidupan ke bumi.
+* Menjadi pusat ziarah spiritual tertinggi bagi pemeluk doktrin Cahaya. Air suci Amarta memiliki properti menetralisir racun kutukan dan memurnikan senjata fana.
+* *Krisis Moral:* Ketika gerbang Void terbuka, sebagian besar rahib penjaga kuil melarikan diri sembari menjarah peti persembahan emas dan koin Saka milik peziarah, menyingkap kepalsuan iman di balik doktrin suci yang kaku.
+
+### 9. Laut Rangkaruna
+Bentangan samudra luas di selatan yang memisahkan daratan fana dengan wilayah kegelapan.
+* Memiliki anomali pusaran air mematikan, terumbu karang tajam berbentuk taring raksasa, dan langit kelam yang tak pernah berhenti disambar badai petir. Dihuni oleh leviathan purba seperti *Hiu Purba Tulang*, *Hydra*, dan *Paus Penelan Armada*.
+* Berfungsi sebagai parit pertahanan alamiah untuk mencegah siapa pun mendekati Raksamala atau Thalantira tanpa restu magis khusus.
+
+### 10. Pulau Raksamala (Benteng Kegelapan Purba)
+Benua karang hitam di seberang Rangkaruna yang tidak pernah tersentuh sinar fajar.
+* Dulunya merupakan pusat kekaisaran iblis (*Drahkthar*) di bawah komando **Sangrahal** dan para komandan *Bhuta*. Sumber ribuan portal *Jenggala* yang meneror pesisir manusia selama berabad-abad.
+* *Status Terkini: Hancur Total.* Pasca-ekspedisi balas dendam Hector yang membantai seluruh komandan dan menumbangkan takhta Raksamala, daratan ini kini menjadi padang abu sepi tak bertuan.
+
+### 11. Pulau Misterius Thalantira (Śaptadvīpa)
+Pulau vulkanik purba yang terletak jauh di balik Raksamala, dikelilingi laut petir abadi dan karang hitam protektif.
+* **Wujud Ilusi vs Realitas:** Di mata luar, pulau ini memancarkan aura surga ilusi dengan padang rumput bercahaya. Namun di intinya, Thalantira adalah penjara magma ungu tempat Uru tertidur lelap.
+* Menjadi satu-satunya deposit alami **Void Crystal**. Di kedalaman reruntuhan kuil peninggalannya, Hector dan Damian mendirikan kuil terlarang untuk menempa seni sihir pamungkas *Hellfire* (Api Neraka).
+
+---
+
+## BAB III: TAKSONOMI & HIERARKI AGUNG RAS
+
+```mermaid
+classDiagram
+    class Kosmik_Primordial {
+        Sang Hyang Cahaya
+        Kala Laksana
+        Uru (The Void Explorer)
+    }
+
+    class Arkahyan {
+        Dewantara (Archangels)
+        Dewathian (Guardian Angels)
+        Langitara (Holy Spirits)
+        Vriskapala (Nature Spirits)
+    }
+
+    class Suku_Bumi {
+        Pribumi (Manusia Biasa / Nord)
+        Wahanarsa (Bangsawan Kerajaan)
+        Avesari (Demigod Suci)
+        Asrivana (Elf Hutan Astradipa)
+    }
+
+    class Wuru_Loka {
+        Garuda (Prajurit Sayap Suci)
+        Nagarasven (Bangsa Naga Api Agnitra)
+        Hanorok (Manusia Kera Astradipa)
+        Butoraksa (Orc Pegunungan)
+        Troliogoro (Troll Magma Bawah Tanah)
+        Rakshorien (Dark Elf Terasing)
+    }
+
+    class Drahkthar {
+        Sangrahal (Demon Lord)
+        Bhuta (Panglima Dosa / Mamon)
+        Dhemit (Jiwa Tersesat)
+        Jenggala (Monster Pemburu Mutasi)
+    }
+
+    Kosmik_Primordial <|-- Arkahyan
+    Kosmik_Primordial <|-- Drahkthar
+    Arkahyan ..> Suku_Bumi : Bimbingan Spiritual
+    Suku_Bumi <|-- Wuru_Loka : Koeksistensi Fana
+```
+
+Struktur populasi Nusvanir diatur ke dalam empat taksonomi besar:
+
+### 1. Bangsa Arkahyan (Entitas Pengawas Langit)
+Diciptakan langsung oleh Sang Hyang Cahaya sebagai pengawas tatanan metafisika benua:
+* **Dewantara:** Malaikat purba tingkat tertinggi pembawa dekrit kosmik, tidak berwujud fisik padat dan jarang menampakkan diri pada bangsa fana.
+* **Dewathian:** Malaikat pelindung bersenjata tombak cahaya yang bertugas menjaga perbatasan dimensi suci dari intusi kegelapan.
+* **Langitara:** Roh-roh angin suci yang mengendalikan iklim, curah hujan magis, dan arus udara semesta.
+* **Vriskapala:** Roh primordial penjaga pohon-pohon dunia di hutan Astradipa, mampu memanipulasi flora liar untuk menelan penyerbu.
+
+### 2. Suku Bumi (Fondasi Peradaban Fana)
+Ras cerdas penghuni dataran rendah yang mendirikan institusi kota dan pemerintahan:
+* **Pribumi (Nord):** Populasi terbesar di benua. Memiliki fisik tangguh, adaptabilitas tinggi terhadap berbagai iklim, dan mentalitas ulet. Mereka adalah petani, pengrajin pandai besi, pedagang pasar, pelaut nelayan, dan prajurit baris depan.
+* **Wahanarsa (Keturunan Bangsawan):** Manusia dengan garis keturunan ningrat yang memiliki bakat kepemimpinan, diplomasi politik, serta kecakapan birokrasi pemerintahan di Kerajaan Mandala.
+* **Avesari (Demigod):** Manusia berdarah campuran ilahi yang memiliki umur sangat panjang dan bakat sihir Cahaya tingkat tinggi. Sebagian besar mengabdi di kasta tertinggi Avalerion.
+* **Asrivana (Elf):** Penduduk asli Astradipa berumur ratusan tahun, berparas anggun dengan telinga meruncing. Ahli dalam navigasi hutan rimba, pemanah runduk (*Ranger*), dan manipulasi sihir botani alami.
+
+### 3. Bangsa Wuru Loka (Penjaga Alam & Kekuatan Liar)
+Ras berdarah murni yang memiliki kekuatan fisik di atas rata-rata manusia dan terikat pada bioma spesifik:
+* **Garuda:** Bangsa avians bersayap emas dari Nusa Sayendra. Memiliki penghormatan spiritual tinggi terhadap kehormatan perang, pandangan mata setajam elang, dan imunitas alami mutlak terhadap miasma gelap.
+* **Nagarasven:** Bangsa naga pulau Agnitra. Memiliki sisik tahan api ekstrem, nafas magma penghancur, dan insting dominasi wilayah yang tak tertandingi.
+* **Hanorok:** Bangsa kera petarung di Astradipa yang memiliki kecerdasan taktik gerilya, kelincahan akrobatik, dan kesetiaan mutlak pada pakta persahabatan dengan Asrivana.
+* **Butoraksa (Orc):** Kaum pejuang bertubuh gempal kekar di pegunungan Arkananta. Memiliki kekuatan otot luar biasa, mengandalkan senjata tumpul gada raksasa, dan menjunjung hukum adu tanding fisik.
+* **Troliogoro (Troll):** Makhluk berkulit batu obsidian yang hidup di sekitar celah lava Arkananta. Jantung mereka menyimpan inti magma yang memancarkan panas konstan.
+* **Rakshorien (Dark Elf):** Cabang Asrivana yang terusir ke gua-gua gelap akibat konflik perang purba. Berkulit pucat kelabu dan terpaksa menggunakan sihir bayangan demi bertahan hidup dari ancaman monster bawah tanah.
+
+### 4. Bangsa Drahkthar (Entitas Dunia Bawah)
+Makhluk kegelapan yang lahir dari poros Kala Laksana dan peradaban Raksamala:
+* **Sangrahal (The Demon Lord):** Penguasa tertinggi kegelapan duniawi yang bertakhta di atas lautan mayat Raksamala. Penagih hutang kutukan jiwa yang memperbudak sukma manusia.
+* **Bhuta (Panglima Dosa):** Iblis elite pelaksana kehendak kehancuran. Masing-masing memimpin satu benteng dosa, seperti **Mamon** (Bhuta Keserakahan) yang mampu memanipulasi logam berkarat dan tentara zombi.
+* **Dhemit:** Jiwa-jiwa manusia yang tersesat akibat kontrak sihir gelap yang gagal, gentayangan tanpa jasad padat, memangsa hawa kehidupan orang hidup.
+* **Jenggala:** Monster mutasi hasil infeksi miasma hitam Raksamala (Ahool, Banshee, Leyak, Wight, Gasing Maut) yang kerap melintasi portal untuk memburu mangsa di tanah fana.
+
+---
+
+## BAB IV: HUKUM SIHIR, KONSEKUENSI SUKMA, & ANOMALI VOID
+
+Di alam Nusvanir, energi sihir tidak pernah gratis. Hukum pertukaran setara kosmik menuntut harga yang harus dibayar dari kemanusiaan sang pengguna:
+
+```mermaid
+flowchart LR
+    subgraph Poros_Cahaya["1. Poros Tirta Amarta (Cahaya)"]
+        direction TB
+        C1["Sihir Suci / Holy / Barrier"] --> C2["Tahap 1: Hilang Ambisi Materi"]
+        C2 --> C3["Tahap 2: Hilang Nafsu Biologis"]
+        C3 --> C4["Tahap 3: The Cold Sanctity<br/>(Hilang Empati Total / Robot Kosmik)"]
+    end
+
+    subgraph Poros_Gelap["2. Poros Kala Laksana (Kegelapan)"]
+        direction TB
+        G1["Api Hitam / Necromancy / Kutukan"] --> G2["Tahap 1: Paranoia & Halusinasi"]
+        G2 --> G3["Tahap 2: Pembusukan Fisik"]
+        G3 --> G4["Tahap 3: The Bound Soul<br/>(Sukma Tergadai Jadi Dhemit / Bhuta)"]
+    end
+
+    subgraph Poros_Void["3. Poros Uru & Thalantira (Ketiadaan)"]
+        direction TB
+        V1["Void Crystal / Anomali Ungu"] --> V2["Melenyapkan Struktur Mana"]
+        V2 --> V3["Mutasi Menjadi Voidborn"]
+        V3 --> V4["Doomsday / Penghapusan Realitas"]
+    end
+```
 
 ### 1. Sihir Cahaya (Poros Tirta Amarta)
-Sihir Cahaya bersumber dari sisa-sisa pancaran napas penciptaan Sang Hyang Cahaya yang mengkristal di wilayah suci Tirta Amarta. Sihir ini bermanifestasi dalam bentuk pancaran cahaya murni, manipulasi elemen suci (*holy*), penyembuhan absolut, serta pelindung (*barrier*) tingkat tinggi.
-
-**Efek Samping: Erosi Kemanusiaan (*The Cold Sanctity*)**
-Semakin dalam seorang makhluk menguasai tingkat tinggi Sihir Cahaya, ia akan semakin mendekati kesucian para dewa, namun esensi kemanusiaannya akan tergerus secara bertahap:
-* **Tahap Awal:** Pengguna mulai kehilangan ambisi duniawi. Harta, takhta, dan pencapaian materi terasa hambar dan tidak lagi memiliki arti.
-* **Tahap Menengah:** Kehilangan nafsu biologis sepenuhnya. Ketertarikan romansa, ikatan kekeluargaan, dan nafsu antar jenis kelamin lenyap dari pikiran mereka.
-* **Tahap Akhir:** Kehilangan empati emosional. Pengguna berubah menjadi entitas yang sangat dingin dan kalkulatif. Mereka tidak lagi mengenal rasa sedih, marah, atau kasihan. Tindakan mereka didasarkan murni pada prinsip "Keseimbangan Kosmik" yang kaku, bahkan jika harus mengorbankan ribuan nyawa fana tanpa keraguan.
+* **Karakteristik:** Menarik sisa-sisa pancaran napas Sang Hyang. Berwujud pendaran putih keemasan, pelindung sakral (*barrier*), penyembuhan mutlak, dan pemusnahan undead (*Turn Undead*).
+* **Konsekuensi Jiwa: *The Cold Sanctity* (Erosi Kemanusiaan)**
+  * *Tahap Awal:* Kehilangan ketertarikan pada harta, pangkat, dan materi duniawi.
+  * *Tahap Menengah:* Lenyapnya dorongan biologis, hasrat romansa, dan kehangatan rasa kekeluargaan.
+  * *Tahap Akhir:* Hilangnya empati emosional seutuhnya. Pengguna bertransformasi menjadi entitas dingin yang mengukur segala sesuatu murni lewat hitungan logis "Keseimbangan Semesta", tega mengorbankan jutaan nyawa tanpa rasa bersalah.
 
 ### 2. Sihir Kegelapan (Poros Kala Laksana)
-Sihir Kegelapan mengalir langsung dari kedalaman dimensi kekosongan abadi, tempat bersemayamnya entitas purba Kala Laksana. Sihir ini menawarkan kekuatan destruktif yang instan, bermanifestasi dalam bentuk api hitam, manipulasi bayangan hidup, pembusukan material, kutukan, dan kebangkitan makhluk mati (*necromancy*).
+* **Karakteristik:** Menarik daya gravitasi bayang-bayang ketiadaan. Menghasilkan kobaran api hitam, manipulasi bayangan fisik, pembusukan material, kutukan instan, dan kebangkitan mayat (*Necromancy*).
+* **Konsekuensi Jiwa: *The Bound Soul* (Perbudakan Sukma)**
+  * *Tahap Awal:* Munculnya bisikan-bisikan gaib di dalam kepala yang memicu paranoia akut dan kegilaan visual.
+  * *Tahap Menengah:* Nekrosis jaringan tubuh; kulit menghitam dan membusuk layaknya mayat berjalan.
+  * *Tahap Akhir:* Kesadaran ego runtuh total; sukma ditarik paksa menjadi budak abadi di bawah kendali Sangrahal.
 
-**Efek Samping: Perbudakan Jiwa (*The Bound Soul*)**
-Berbeda dengan Sihir Cahaya yang mengikis emosi, Sihir Kegelapan adalah sebuah kontrak gaib yang menguras kesadaran dan sukma penggunanya demi kekuatan instan:
-* **Tahap Awal:** Pengguna mulai mendengar bisikan-bisikan asing tanpa wujud, memicu paranoia akut dan halusinasi visual yang mengerikan.
-* **Tahap Menengah:** Bagian tubuh mulai membusuk secara magis atau berubah menjadi hitam legam seperti bayangan.
-* **Tahap Akhir (Gadai Sukma):** Ketika batas kekuatan tercapai, seluruh kesadaran dan sukma pengguna akan ditarik ke Kala Laksana. Tubuh dan sisa kekuatannya tertinggal di dunia sebagai Dhemit atau Bhuta—menjadi budak abadi tanpa kehendak bebas yang tunduk sepenuhnya di bawah perintah Sangrahal.
+### 3. Anomali Void (Ketiadaan Uru & Void Crystal)
+* **Karakteristik:** Bukan merupakan elemen sihir konvensional, melainkan "anti-realitas" berwarna ungu pekat yang menelan dan menghancurkan seluruh formulasi mana. 
+* Kontak fisik dengan debu *Void Crystal* mampu menghapus eksistensi immortal iblis seperti Mamon secara permanen tanpa proses reinkarnasi. Bencana terbesar terjadi ketika energi Void mencemari kristal-kristal penopang kehidupan benua.
 
----
-
-## BAB IV: SPEKTRUM ABU-ABU (FAKSI & INTRIK INTERNAL)
-
-Di antara terangnya Cahaya Tirta Amarta dan pekatnya Kegelapan Kala Laksana, terdapat faksi-faksi yang terjebak di area abu-abu, menciptakan konflik politik dan moral di Nusvanir.
-
-### 1. "Para Kudus yang Buta" (Sekte Radikal Dharma Surya Adhi)
-Akibat efek samping Sihir Cahaya yang mengikis kemanusiaan, para pendeta tingkat tinggi di organisasi keagamaan Mandala mulai kehilangan rasa belas kasih. Mereka membentuk faksi rahasia yang menganggap bahwa ras manusia biasa (Pribumi) adalah makhluk cacat yang penuh dosa karena masih memiliki nafsu. Mereka mulai melakukan "pembersihan" diam-diam terhadap desa-desa yang dianggap tidak suci demi mencapai dunia yang murni, menciptakan teror berkedok kesucian.
-
-### 2. "Tragedi Kaum Terasing" (Suku Pemberontak Rakshorien)
-Ras Rakshorien (Dark Elf) yang mendiami gua-gua gelap Pegunungan Arkananta awalnya adalah korban pengasingan yang tidak adil. Demi bertahan hidup dari gempuran militer Kerajaan Mandala dan monster liar, beberapa tetua mereka terpaksa menggunakan Sihir Kegelapan dari Kala Laksana. Mereka berada dalam posisi tragis: jika tidak menggunakan sihir gelap mereka akan punah dibantai, namun jika menggunakannya, perlahan-lahan mereka akan kehilangan jiwa dan berubah menjadi monster.
-
-### 3. "Makar Senyap" (Faksi Arta Dhanaprabha)
-Sang Bendahara Kerajaan Mandala memanfaatkan posisinya yang tertutup untuk mendanai eksplorasi ilegal ke reruntuhan kuno di perbatasan Unknown Northern Realm. Faksi ekonomi ini berusaha mencari "Sihir Ketiga"—sebuah energi purba sebelum dunia terpecah menjadi cahaya dan gelap—dengan harapan bisa menguasai nusantara tanpa terkena efek samping sihir dewa maupun iblis. Intrik ini memicu ketegangan politik dengan Sang Prabu dan dewan militer.
+### 4. Seni Sihir Hitam Mutlak: *Hellfire* (Api Neraka)
+* Diciptakan oleh Hector bersama Damian selama masa pengasingan di Thalantira.
+* Merupakan fusi terlarang antara energi kutukan Void Uru dengan tekad kematian sang mantan Paladin. Menghasilkan lidah api ungu kehitaman yang membakar bukan hanya daging, melainkan memusnahkan konsep jiwa lawan hingga tak tersisa.
 
 ---
 
-## BAB V: EKONOMI MIKRO & MATERIAL NUSVANIR
+## BAB V: DRAMATIS PERSONAE (TOKOH PENENTU TAKDIR)
 
-Untuk keperluan penyusunan item, perdagangan, dan ekosistem dunia, berikut adalah tatanan ekonomi mikro di Nusvanir:
+Tatanan sejarah Nusvanir digerakkan oleh persilangan takdir dua generasi:
 
-### 1. Sistem Mata Uang
-Kerajaan Mandala menetapkan standarisasi mata uang berupa koin logam bercap simbol Candra Nawa:
-* **Saka Tamra (Koin Tembaga):** Digunakan untuk kebutuhan harian rakyat jelata (membeli makanan, menyewa penginapan murah di Lingkar Bumi).
-* **Saka Rajata (Koin Perak):** Digunakan oleh para petualang dan pedagang menengah (membeli obat herbal, senjata standar, atau membayar jasa Gilda Arthapasa).
-* **Saka Kencana (Koin Emas):** Mata uang bernilai tinggi untuk transaksi makro, barang antik, relik magis, atau komoditas mewah di Lingkar Surya.
+### 1. Generasi Pendahulu (Pahlawan Prologue & Pengasingan)
+* **Hector (Dari Paladin Avalerion Menuju The Death Knight):** Mantan ksatria suci terkuat Avalerion berambut pirang keemasan. Demi menyelamatkan nyawa putra angkatnya, Damian, dari kutukan Sangrahal, ia mengorbankan kesuciannya, membantai seisi Raksamala, dan mengikatkan diri pada Uru sebagai *Death Knight* pertama Nusvanir.
+* **Cassian (Mantan Priest Suci / Eksil Peneliti Pesisir):** Sahabat seperjuangan Hector yang dijatuhi hukuman buang 50 tahun oleh Avalerion akibat membongkar rahasia Thalantira. Tinggal di gubuk pesisir Aqualis, membesarkan Hiro sembari meneliti teknologi kelautan bersama Jane.
+* **Jane (Istri Cassian / Mantan Assassin Dark Thorn):** Putri angkat nelayan Rama dan Shinta. Sosok wanita tangguh dan mematikan yang menggantungkan sepasang belati pembunuhnya demi menjadi ibu rumah tangga yang hangat pelindung keluarga di Aqualis.
+* **Rama & Shinta:** Pasangan nelayan miskin dan pemanah Asrivana di pesisir Aqualis. Tragedi penangkapan Rama oleh badai Rangkaruna menjadi pemicu awal pecahnya ekspedisi penemuan Thalantira.
+* **Komandan Darius & Sage Luna:** Otoritas tertinggi militer dan akademik Kerajaan Suci Avalerion yang menjatuhkan vonis pemisahan takdir bagi si kembar Hiro dan Damian.
 
-### 2. Komoditas, Loot, & Material Crafting
-Para petualang yang menjelajahi Nusvanir mengumpulkan material dari alam dan monster untuk dijual atau ditempa:
+### 2. Generasi Penerus (The Dual Paths)
+* **Hiro (Tokoh Utama — *The Light Path*):**
+  * *Identitas:* Pemuda dengan tanda lahir bintang di tangan kanan, anak kandung Rama-Shinta yang dibesarkan oleh Cassian dan Jane di Aqualis.
+  * *Perjalanan:* Mengawali langkah sebagai kadet militer Mandala, tewas di perbatasan Astradipa saat menahan serbuan Void Jenggala, dibangkitkan oleh Cassian eksil, lalu menempuh jalan *Transcendence* di kuil Tirta Amarta dan Puncak Emas Nusa Sayendra sebagai Sang Terpilih penyeimbang semesta.
+* **Damian (Tokoh Utama — *The Dark Path*):**
+  * *Identitas:* Saudara kembar Hiro yang diselamatkan oleh pengorbanan zirah Hector.
+  * *Perjalanan:* Dibesarkan di dalam benteng api neraka Thalantira di bawah tempaan keras sang Death Knight. Mewarisi seni *Hellfire* dan dipersiapkan sebagai wadah hidup bagi kebangkitan Uru.
+* **Aran Sylvar:** Pemuda pemburu dari ras Asrivana di Astradipa yang menjadi rekan seperjuangan Hiro; diberkahi rune busur angin oleh para Tetua Garuda Nusa Sayendra.
+* **Adhiva:** Ksatria tempur ras Garuda yang diutus mendampingi dan mengawasi kestabilan kekuatan Cahaya di dalam tubuh Hiro.
 
-**Kategori Botani & Cairan:**
-* **Bunga Abadi Astradipa:** Bunga yang memancarkan pendar cahaya, digunakan sebagai bahan utama ramuan penenang jiwa untuk memperlambat erosi mental akibat sihir gelap.
-* **Esensi Air Amarta:** Setetes air dari Tirta Amarta yang sangat langka. Berfungsi untuk menetralisir racun kutukan tingkat tinggi atau memurnikan senjata logam agar memiliki properti suci (holy).
+---
 
-**Kategori Drop Monster (Bestiary Loot):**
-* **Kulit Kasar Jenggala:** Diambil dari monster liar Jenggala. Sangat elastis dan tahan goresan, menjadi bahan baku utama pembuatan *leather armor* (baju zirah ringan) bagi para pemburu.
-* **Inti Magma Troliogoro:** Batu kristal panas yang berada di dalam jantung ras Troll gunung berapi. Sangat dicari oleh para pandai besi Mandala di Lingkar Wira untuk menempa senjata baja agar memiliki efek elemen api abadi.
-* **Taring Butoraksa:** Taring keras dari Orc pegunungan, sering diolah menjadi hiasan jimat penambah kekuatan fisik atau dihancurkan menjadi bubuk campuran pembuatan ramuan stamina.
+## BAB VI: EKONOMI MIKRO & MATERIAL KOSMIK
 
-**Barang Terlarang (Pasar Gelap):**
-* **Serpihan Kala Laksana:** Pecahan batu hitam misterius yang kadang terbawa arus ke Laut Rangkaruna. Benda ini sangat dilarang di Mandala, namun dijual dengan harga fantastis di pasar gelap wilayah Cakrawala karena dapat meningkatkan daya hancur senjata secara instan meskipun mengikis sukma penggunanya.
-* **Void Crystal:** Artefak kuno paling mematikan yang berasal dari inti Pulau Thalantira. Serpihan yang besarnya tak lebih dari sebiji jagung ini menyimpan esensi ancaman kiamat (*Doomsday*) yang bahkan bisa dijadikan tebusan mutlak atas nyawa dalam kontrak dengan iblis Sangrahal. Harganya di pasar gelap Tuan Midas dapat menembus 100.000 *Saka Kencana*, angka gila yang tak mungkin ditebus oleh rakyat fana.
+### 1. Standarisasi Tiga Koin Mandala (Cap Candra Nawa)
+
+```mermaid
+graph LR
+    A["Saka Tamra (Tembaga)<br/>Nilai: 1x<br/>Konsumsi Harian Rakyat"] -->|100 Tamra| B["Saka Rajata (Perak)<br/>Nilai: 100x<br/>Senjata, Pustaka, Upah Guild"]
+    B -->|100 Rajata| C["Saka Kencana (Emas)<br/>Nilai: 10.000x<br/>Relik, Aset, Hibah Kerajaan"]
+```
+
+* **Saka Tamra (Koin Tembaga):** Alat tukar harian rakyat jelata di Lingkar Bumi untuk membeli gandum, sayur, ikan laut Aqualis, dan sewa kamar penginapan murah.
+* **Saka Rajata (Koin Perak):** Digunakan para petualang dan pedagang antar-kota untuk membeli ramuan kimia, perlengkapan zirah standar, dan membayar kontrak pengawalan Gilda Arthapasa.
+* **Saka Kencana (Koin Emas):** Mata uang bernilai tinggi untuk transaksi makro antar-kerajaan, pembelian perkebunan, artefak kuno, atau penyelesaian tebusan diplomatik tingkat dewa.
+
+### 2. Material Esensial, Loot Ekosistem, & Komoditas Terlarang
+
+| Kategori Material | Nama Material | Asal Wilayah | Karakteristik & Kegunaan Tempa |
+| :--- | :--- | :--- | :--- |
+| **Botani & Cairan** | *Bunga Abadi Astradipa* | Hutan Astradipa | Memancarkan pendar bioluminesensi; bahan utama ramuan penenang sukma dari erosi mental. |
+| | *Esensi Air Suci Amarta* | Tirta Amarta | Air murni penangkal racun kutukan tingkat tinggi dan penyepuh logam berproperti *Holy*. |
+| **Drop Monster (Loot)** | *Kulit Kasar Jenggala* | Raksamala / Hutan | Sangat liat dan tahan sobek; bahan baku zirah ringan (*leather armor*) para pemburu. |
+| | *Inti Magma Troliogoro* | Goa Arkananta | Kristal panas membara dari dada Troll; memberikan efek elemen api permanen pada senjata baja. |
+| | *Taring Baja Butoraksa* | Lembah Arkananta | Taring padat Orc pegunungan; dihaluskan sebagai campuran tonik penambah kapasitas beban fisik. |
+| **Logam Legendaris** | *Logam Adamantite Murni* | Sarang Agnitra & Gua Salju | Logam hitam keperakan paling keras di dunia; bahan baku pembuatan zirah Death Knight dan belati Jane. |
+| **Komoditas Terlarang** | *Serpihan Kala Laksana* | Pesisir Rangkaruna | Pecahan batu hitam kutukan; meningkatkan daya hancur senjata namun mengikis kewarasan jiwa. |
+| | *Void Crystal* | Inti Thalantira | Serpihan beku tubuh kosmik Uru. Artefak pemusnah realitas bernilai hingga 100.000+ Saka Kencana di pasar gelap Tuan Midas. |
+
+---
+
+## EPILOG KODEX: ISYARAT PECAHNYA FAJAR KIAMAT
+
+> *“Catatan ini ditutup saat langit timur di atas perairan Rangkaruna mulai memancarkan pendar ungu yang tak wajar. Kubah Avalerion telah membisu, mata air suci Amarta telah ternoda, dan lolongan mutan Void mulai terdengar dari batas hutan Astradipa.*
+> 
+> *Dua anak manusia yang terlahir dari rahim keputusasaan di pesisir Aqualis kini berjalan di dua jalan yang saling bertolak belakang: yang satu melangkah ke puncak matahari bersama sayap-sayap emas Garuda, sementara yang lain berdiri di atas tungku api neraka bersama bayang-bayang ketiadaan.*
+> 
+> *Ketika kedua saudara itu bertemu kembali di medan laga, bukan hanya takdir Kerajaan Mandala yang akan ditentukan, melainkan jawaban atas pertanyaan purba: apakah semesta ini layak dipertahankan oleh Cahaya, ataukah sudah saatnya dikembalikan ke pelukan sunyi Sang Kehampaan.”*
+> 
+> — **Pena Terakhir Sang Peneliti Mandala**
+
+## EPILOG KODEX: ISYARAT PECAHNYA FAJAR KIAMAT
+
+> *“Catatan ini ditutup saat langit timur di atas perairan Rangkaruna mulai memancarkan pendar ungu yang tak wajar. Kubah Avalerion telah membisu, mata air suci Amarta telah ternoda, dan lolongan mutan Void mulai terdengar dari batas hutan Astradipa.*
+> 
+> *Dua anak manusia yang terlahir dari rahim keputusasaan di pesisir Aqualis kini berjalan di dua jalan yang saling bertolak belakang: yang satu melangkah ke puncak matahari bersama sayap-sayap emas Garuda, sementara yang lain berdiri di atas tungku api neraka bersama bayang-bayang ketiadaan.*
+> 
+> *Ketika kedua saudara itu bertemu kembali di medan laga, bukan hanya takdir Kerajaan Mandala yang akan ditentukan, melainkan jawaban atas pertanyaan purba: apakah semesta ini layak dipertahankan oleh Cahaya, ataukah sudah saatnya dikembalikan ke pelukan sunyi Sang Kehampaan.”*
+> 
+> — **Pena Terakhir Sang Peneliti Mandala**
+

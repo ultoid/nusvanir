@@ -504,7 +504,7 @@ Before assigning numerical bands, locate and verify:
 - equipment available per progression point;
 - weapon ATK/MAT and armor DEF/MDF;
 - skill damage/healing formulas;
-- MP/TP costs and regeneration;
+- MP/SP costs and regeneration (Stamina Points);
 - critical, hit, evasion, guard, PDR, MDR, and variance;
 - state application and resistance formulas;
 - turn order and multi-action behavior;

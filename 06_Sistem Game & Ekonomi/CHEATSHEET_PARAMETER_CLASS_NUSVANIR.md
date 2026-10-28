@@ -1,4 +1,4 @@
-﻿# 📜 MASTER GUIDE: EXP CURVE & TRAITS LENGKAP 41 KELAS NUSVANIR
+# 📜 MASTER GUIDE: EXP CURVE & TRAITS LENGKAP 41 KELAS NUSVANIR
 **Proyek Game:** *Tales of The Dark Time*  
 **Engine:** RPG Maker MV
 
@@ -51,7 +51,7 @@ Dokumen ini adalah cetak biru konfigurasi definitif untuk seluruh **41 Kelas Pet
   7. `Param` $\rightarrow$ **Ex-Parameter: Hit Rate + 95%**
   8. `Param` $\rightarrow$ **Ex-Parameter: Evasion Rate + 5%**
   9. `Param` $\rightarrow$ **Ex-Parameter: Critical Rate + 6%**
-  10. `Param` $\rightarrow$ **Sp-Parameter: TP Charge Rate * 110%**
+  10. `Param` $\rightarrow$ **Sp-Parameter: SP Charge Rate * 110%**
 
 ---
 
@@ -100,7 +100,7 @@ Dokumen ini adalah cetak biru konfigurasi definitif untuk seluruh **41 Kelas Pet
   7. `Param` $\rightarrow$ **Parameter: Attack * 115%**
   8. `Param` $\rightarrow$ **Ex-Parameter: Hit Rate + 92%**
   9. `Param` $\rightarrow$ **Ex-Parameter: Critical Rate + 10%**
-  10. `Param` $\rightarrow$ **Sp-Parameter: TP Charge Rate * 125%**
+  10. `Param` $\rightarrow$ **Sp-Parameter: SP Charge Rate * 125%**
 
 ---
 
@@ -133,7 +133,7 @@ Dokumen ini adalah cetak biru konfigurasi definitif untuk seluruh **41 Kelas Pet
   6. `Param` $\rightarrow$ **Ex-Parameter: Evasion Rate + 12%**
   7. `Param` $\rightarrow$ **Ex-Parameter: Critical Rate + 10%**
   8. `Param` $\rightarrow$ **Ex-Parameter: Counter Attack + 15%** *(Peluang membalas fisik 15%)*
-  9. `Param` $\rightarrow$ **Ex-Parameter: TP Regen + 5%**
+  9. `Param` $\rightarrow$ **Ex-Parameter: SP Regen (TRG) + 5%**
 ---
 
 ### [T4] Champion
@@ -148,8 +148,8 @@ Dokumen ini adalah cetak biru konfigurasi definitif untuk seluruh **41 Kelas Pet
   6. `Equip` $\rightarrow$ **Equip Armor: Small Shield**
   7. `Param` $\rightarrow$ **Ex-Parameter: Hit Rate + 98%**
   8. `Param` $\rightarrow$ **Ex-Parameter: Critical Rate + 15%**
-  9. `Param` $\rightarrow$ **Sp-Parameter: TP Charge Rate * 150%**
-  10. `Other` $\rightarrow$ **Special Flag: Preserve TP**
+  9. `Param` $\rightarrow$ **Sp-Parameter: SP Charge Rate * 150%**
+  10. `Other` $\rightarrow$ **Special Flag: Preserve SP**
 
 ---
 
@@ -211,9 +211,9 @@ Dokumen ini adalah cetak biru konfigurasi definitif untuk seluruh **41 Kelas Pet
   5. `Equip` $\rightarrow$ **Seal Equip: Shield**
   6. `Other` $\rightarrow$ **Action Times + 50%** *(50% peluang aksi 2x per turn)*
   7. `Param` $\rightarrow$ **Parameter: Attack * 130%**
-  8. `Param` $\rightarrow$ **Sp-Parameter: TP Charge Rate * 250%**
+  8. `Param` $\rightarrow$ **Sp-Parameter: SP Charge Rate * 250%**
   9. `Rate` $\rightarrow$ **State Resist: Sleep, Stun, Fear** *(Tak bisa dihentikan)*
-  10. `Other` $\rightarrow$ **Special Flag: Preserve TP**
+  10. `Other` $\rightarrow$ **Special Flag: Preserve SP**
 
 ---
 

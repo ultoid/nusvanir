@@ -55,3 +55,71 @@ Air memenuhi ruang kuil ketika kepala Hydra muncul. Hector mengangkat pedang, da
 Tubuh raksasa itu menyusut menjadi perempuan yang menyapa dengan ramah. Ketika mereka menjelaskan kebutuhan akan emblem, ia mengambilnya dari altar dan menyerahkannya tanpa pertarungan. Mereka pergi membawa kunci sekaligus kebingungan. Kebaikan yang dialami malam itu nyata sebagai tindakan, tetapi belum menjawab pertanyaan Cassian tentang pulau yang terus dihindari sang penjaga.
 
 > Acuan: [07 Tiga Kuil Penjaga](../../08_Story/02_Prologue/07_Tiga_Kuil_Penjaga.md); [08 Ujian Para Pelindung](../../08_Story/02_Prologue/08_Ujian_Para_Pelindung.md); [09 Pesan dari Ketiadaan](../../08_Story/02_Prologue/09_Pesan_dari_Ketiadaan.md); [Uru](../../05_Karakter%20%26%20Tokoh%20Penting/11_Entitas_Purba/Uru.md).
+
+---
+
+# 📊 GAME DATA & RPG PARAMETERS (TURN-BASED)
+
+### 1. Klasifikasi Tempur
+| Parameter | Nilai | Sumber / Keterangan |
+| :--- | :--- | :--- |
+| **Database ID** | `37.0` | Sheet `NUSV-ENEMIES` |
+| **Ras / Taksonomi** | `Alien-Void` | Kategori taksonomi Nusvanir |
+| **Class / Archetype** | `Bruiser` | Pola peran tempur turn-based |
+| **Tier / Threat Rank** | `T8 (Mini Boss)` | Skala ancaman encounter |
+| **Tipe Serangan Dasar** | `Melee` | Formula serangan dasar |
+| **Elemen Utama** | `Void/Water` | Afinitas serangan alami |
+| **Kelemahan (Weakness)** | `Fire` | Menerima pengganda kerusakan 2.0x |
+| **Combat Tags** | `Voidborn, Large, Regenerator` | Penanda taktis unit |
+
+### 2. Parameter Atribut
+
+#### A. 6 Base Stats (Atribut Dasar)
+| STR | INT | DEX | LUK | AGI | VIT |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **127** | **26** | **52** | **70** | **63** | **106** |
+
+#### B. Stat Turunan Utama (Vital & Combat)
+| Parameter | Formula Dasar / Nilai | Parameter | Formula Dasar / Nilai |
+| :--- | :--- | :--- | :--- |
+| **Max HP** | `12075` *(Base 9850 + VIT×15 + STR×5)* | **DEF** | `223` *(Base + VIT×1.5 + STR×0.5)* |
+| **Max MP** | `205` *(INT×8)* | **MDF** | `181` *(Base + INT×1.2 + VIT×0.8)* |
+| **Max SP** | `804` *(Base 20 + VIT×5 + STR×2)* | **MAT** | `169` *(Base + INT×2)* |
+| **ATK** | `280` *(Formula Melee)* | **Action Speed** | `94` *(Base + AGI×1.5)* |
+
+#### C. Parameter Presisi & Efisiensi Giliran (X-Param & S-Param)
+| Parameter | Nilai (%) | Formula Perhitungan |
+| :--- | :---: | :--- |
+| **Hit Rate (HIT)** | `95.4%` | `0.85 + (DEX * 0.002)` (Cap 100%) |
+| **Evasion Rate (EVA)** | `18.1%` | `0.02 + (AGI * 0.002) + (LUK * 0.0005)` (Cap 80%) |
+| **Critical Rate (CRI)** | `20.4%` | `0.03 + (DEX * 0.002) + (LUK * 0.001)` (Cap 85%) |
+| **Critical Evasion (CEV)** | `21.1%` | `(LUK * 0.0015) + (VIT * 0.001)` |
+| **Critical Damage (CDMG)** | `198.5%` | `1.5 + (STR * 0.003) + (DEX * 0.002)` |
+| **Guard Efficiency (GRD)** | `153.0%` | `1.0 + (VIT * 0.005)` |
+| **HP Regen / Turn (HRG)** | `3.18%` | `VIT * 0.0003` |
+| **MP Regen / Turn (MRG)** | `0.78%` | `INT * 0.0003` |
+| **SP Regen / Turn (TRG)** | `7.64%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
+
+### 3. Skill & Pola Aksi Giliran (AI Actions)
+*Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
+
+| Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
+| :--- | :--- | :--- | :--- | :--- |
+| **Abyssal Fang** | `Dark` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.45 (Curse 30%)` |
+| **Regenerative Roar** | `Void` / Physical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.atk * 1.45 - b.def * 0.35` |
+| **Many-Headed Devour** | `Void` / Physical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `a.atk * 1.85 - b.def * 0.25` |
+
+### 4. Traits & Resistensi Khusus
+* **Resistensi Elemen:** Fire: 150%, Void: 50%, Water: 75%
+* **Resistensi Status:** Curse: 50%, Freeze: 70%, Paralyze: 70%, Root: 75%, Stun: 70%
+* **Karakteristik / Passive:** Preserve SP (Stamina tersimpan antar battle)
+
+### 5. Ekonomi & Rampasan (Combat Rewards)
+| Jenis Hadiah | Jumlah / Peluang | Keterangan |
+| :--- | :--- | :--- |
+| **Base EXP** | `3400` | Akumulasi Base Level (+3 Stat Point bebas) |
+| **Class EXP** | `2550` | Akumulasi Class Level profesi aktif (Tier Cap & Learnings) |
+| **Saka (Gold)** | `880` | Mata uang resmi penjelajahan |
+| **Drop 1** | `Void Crystal` (`8%`) | Material alam / crafting |
+| **Drop 2** | `Thalantira Primordial Stone` (`4%`) | Komponen sekunder |
+| **Drop 3** | `Voidweave` (`5%`) | Rampasan langka |

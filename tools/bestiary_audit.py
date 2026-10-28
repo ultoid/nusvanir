@@ -12,14 +12,26 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 BEST = ROOT / '07_Bestiary'
-GAME = ROOT / '10_Game Project/Tales of The Dark Time'
+GAME = (ROOT.parent / 'Tales of The Dark Time') if (ROOT.parent / 'Tales of The Dark Time').exists() else (ROOT / '10_Game Project/Tales of The Dark Time')
 REPORT = BEST / '_audit'
 START = '<!-- BESTIARY V2 START -->'
 END = '<!-- BESTIARY V2 END -->'
 
 
 def read(path):
-    return json.loads(path.read_text(encoding='utf-8-sig'))
+    data = json.loads(path.read_text(encoding='utf-8-sig'))
+    # Historical audit snapshots keep their original bytes and path keys on disk.
+    # Resolve moved JSON keys when comparing them with the current workspace.
+    if '_audit' in path.parts and isinstance(data, dict):
+        relocated = {}
+        for key, value in data.items():
+            source = ROOT / key
+            target = source.parent / 'json' / source.name
+            if source.suffix == '.json' and not source.exists() and target.is_file():
+                key = target.relative_to(ROOT).as_posix()
+            relocated[key] = value
+        return relocated
+    return data
 
 
 def normalized(value):
@@ -71,13 +83,13 @@ def inspect():
     for p in (ROOT / '05_Karakter & Tokoh Penting').rglob('*.md'):
         characters[normalized(p.stem)].append(p.relative_to(ROOT).as_posix())
     entries, errors, warnings = [], [], []
-    for p in sorted(BEST.glob('[0-9]*/*.json')):
+    for p in sorted(BEST.glob('[0-9]*/json/*.json')):
         try:
             obj = read(p)
         except (ValueError, UnicodeError) as exc:
             errors.append(f'{p.relative_to(ROOT)}: {exc}')
             continue
-        md = p.with_suffix('.md')
+        md = (p.parent.parent / (p.stem + '.md'))
         text = md.read_text(encoding='utf-8-sig') if md.exists() else ''
         matches = enemies[normalized(obj.get('title', p.stem))]
         findings = []
@@ -193,7 +205,7 @@ def inspect():
             if count > 1:
                 warnings.append(f'duplicate {key}: {value} ({count})')
     for p in BEST.glob('[0-9]*/*.md'):
-        if not p.with_suffix('.json').exists():
+        if not (p.parent / 'json' / (p.stem + '.json')).exists():
             warnings.append(f'orphan Markdown: {p.relative_to(ROOT)}')
     missing_plugins = [x['name'] for x in plugins if x['status'] and not (GAME / 'js/plugins' / (x['name'] + '.js')).exists()]
     warnings.extend('enabled plugin missing: ' + n for n in missing_plugins)
@@ -215,13 +227,13 @@ def main():
     parser.add_argument('--render-wildlife', action='store_true', help='Render only marked Markdown sections from existing Wildlife JSON V2')
     args = parser.parse_args()
     if args.render_wildlife:
-        for p in sorted((BEST / '01_Alam_Liar').glob('*.json')):
+        for p in sorted((BEST / '01_Alam_Liar').glob('json/*.json')):
             obj = read(p)
             if 'v2' not in obj:
                 continue
             if obj['v2'].get('presentation', {}).get('markdown_role') == 'lore_only':
                 continue
-            md = p.with_suffix('.md')
+            md = (p.parent.parent / (p.stem + '.md'))
             text = md.read_text(encoding='utf-8-sig')
             if text.count(START) != 1 or text.count(END) != 1:
                 raise ValueError(f'Unsafe Markdown markers: {md}')
@@ -231,7 +243,7 @@ def main():
     result = inspect()
     if args.write_report:
         REPORT.mkdir(exist_ok=True)
-        (REPORT / 'inventory.json').write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        (REPORT / 'json' / 'inventory.json').write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         rows = ['# Inventaris Bestiary', '', 'Dihasilkan oleh `python tools/bestiary_audit.py --write-report`. Angka runtime bukan bukti kalibrasi.', '',
                 '| Entri | ID runtime | Temuan |', '|---|---|---|']
         for e in result['entries']:

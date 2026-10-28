@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="parchment">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nusvanir Compendium - Dungeon Master's Guide & World Codex</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Top Header Navigation (Dungeon Master's Banner) -->
+  <header class="wiki-header">
+    <div class="header-brand" onclick="app.openHome()">
+      <div class="brand-icon">⚔️</div>
+      <div>
+        <div class="brand-title">NUSVANIR <span>COMPENDIUM</span></div>
+        <div class="brand-sub">Dungeon Master's Guide to the Seven Realms</div>
+      </div>
+    </div>
+
+    <!-- Live Search Bar -->
+    <div class="search-wrapper">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" class="search-input" placeholder="Cari monster, artefak, faksi, mantra, takdir... (Ctrl + K)">
+      <div id="searchDropdown" class="search-dropdown"></div>
+    </div>
+
+    <!-- Header Actions -->
+    <div class="header-actions">
+      <!-- Theme Switcher: Parchment vs Dark Grimoire -->
+      <button class="theme-toggle-btn" id="themeToggleBtn" onclick="app.toggleTheme()">
+        📜 Mode Perkamen
+      </button>
+
+      <button class="btn btn-secondary btn-sm" onclick="app.openBackupModal()" title="Ekspor atau pulihkan arsip kompendium">
+        💾 Cadangan Naskah
+      </button>
+
+      <button class="btn btn-primary btn-sm" onclick="app.openNewArticleModal()">
+        + Tulis Gulungan Baru
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Shell -->
+  <div class="wiki-shell">
+    
+    <!-- Left Navigation Sidebar (Leather Tome Spine) -->
+    <aside class="wiki-sidebar" id="sidebarNav">
+      <!-- Dynamically populated hierarchical category tree -->
+    </aside>
+
+    <!-- Main Content Area (Parchment Codex Page) -->
+    <main class="wiki-content-area" id="contentArea">
+      
+      <!-- Topbar with Breadcrumbs & Page Actions -->
+      <div class="content-topbar">
+        <div class="breadcrumbs" id="breadcrumbs">
+          <span class="breadcrumb-link" onclick="app.openHome()">Kompendium</span>
+        </div>
+        <div class="topbar-actions" id="viewActions">
+          <button class="btn btn-secondary btn-sm" onclick="app.startEdit()">
+            ✒️ Sunting Gulungan
+          </button>
+          <button class="btn btn-danger btn-sm" onclick="app.deleteCurrentArticle()">
+            🗑️ Musnahkan
+          </button>
+        </div>
+      </div>
+
+      <!-- 1. HOME DASHBOARD VIEW (DUNGEON GUIDE BANNER) -->
+      <div id="homeContainer" class="article-container" style="display: block;">
+        <div class="home-hero">
+          <h1>PANDUAN PENJELAJAH <span>NUSVANIR</span></h1>
+          <p>
+            Kitab panduan agung berisi kompilasi kosmologi primordial, hierarki ras dewata hingga iblis, taksonomi 80 monster liar, peta benua, serta kronologi kiamat purba Sang Hyang Cahaya dan Uru Sang Void.
+          </p>
+          <div class="hero-stats">
+            <div class="stat-item">
+              <div class="stat-number" id="statTotalDocs">350</div>
+              <div class="stat-desc">Gulungan Kanon</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number" id="statCategories">11</div>
+              <div class="stat-desc">Bab Besar</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number" id="statRegions">11</div>
+              <div class="stat-desc">Kawasan Dunia</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-title">⚔️ Lembaran Kunci & Titik Mulai Kampanye</div>
+        <div class="quick-grid">
+          <div class="quick-card" onclick="app.navigateToTitle('Kitab Nusvanir: Kodex Semesta')">
+            <div>
+              <div class="quick-card-icon">📜</div>
+              <div class="quick-card-title">Kitab Kodex Semesta</div>
+              <div class="quick-card-desc">Dokumen induk: kosmologi Uru, pulau penjara Thalantira, rahasia Dewan Candra Nawa, dan bencana Void.</div>
+            </div>
+            <div style="font-size:0.75rem; color:var(--dnd-gold); font-weight:700; margin-top:14px;">Buka Kodex Utama →</div>
+          </div>
+
+          <div class="quick-card" onclick="app.navigateToTitle('Nusvanir')">
+            <div>
+              <div class="quick-card-icon">🗺️</div>
+              <div class="quick-card-title">Atlas 11 Kerajaan & Samudra</div>
+              <div class="quick-card-desc">Panduan topografi perjalanan dari Ibu Kota Mandala hingga palung badai abadi Rangkaruna.</div>
+            </div>
+            <div style="font-size:0.75rem; color:var(--dnd-gold); font-weight:700; margin-top:14px;">Buka Atlas Global →</div>
+          </div>
+
+          <div class="quick-card" onclick="app.navigateToTitle('Cassian')">
+            <div>
+              <div class="quick-card-icon">👥</div>
+              <div class="quick-card-title">Para Tokoh Takdir</div>
+              <div class="quick-card-desc">Stat & kisah tokoh utama: Hector the Death Knight, Priest Cassian, Assassin Jane, Hiro, dan Damian.</div>
+            </div>
+            <div style="font-size:0.75rem; color:var(--dnd-gold); font-weight:700; margin-top:14px;">Lihat Lembar Tokoh →</div>
+          </div>
+
+          <div class="quick-card" onclick="app.navigateToTitle('BESTIARY STANDARD V2')">
+            <div>
+              <div class="quick-card-icon">🐉</div>
+              <div class="quick-card-title">Manual Makhluk (Bestiary V2)</div>
+              <div class="quick-card-desc">Indeks 80 monster dan binatang buas lengkap dengan perilaku, habitat, kelemahan, dan kisah encounter.</div>
+            </div>
+            <div style="font-size:0.75rem; color:var(--dnd-gold); font-weight:700; margin-top:14px;">Buka Bestiary →</div>
+          </div>
+        </div>
+
+        <div class="section-title">📖 Gulungan Arsip Pilihan</div>
+        <div class="quick-grid" id="homeRecentList"></div>
+      </div>
+
+      <!-- 2. ARTICLE READING VIEW (PARCHMENT CODEX) -->
+      <div id="viewContainer" class="article-container" style="display: none;">
+        <div class="article-header-meta">
+          <span class="article-category-badge" id="viewCategoryBadge">Kategori</span>
+          <h1 class="article-title" id="viewTitle">Judul Gulungan</h1>
+          <div class="article-sub-meta" id="viewSubMeta"></div>
+        </div>
+        <div class="markdown-body" id="viewBody">
+          <!-- Rendered Markdown HTML goes here -->
+        </div>
+      </div>
+
+      <!-- 3. SPLIT-SCREEN ARTICLE EDITOR VIEW -->
+      <div id="editorContainer" class="editor-container">
+        <!-- Metadata Inputs -->
+        <div class="editor-meta-inputs">
+          <div class="form-group">
+            <label class="form-label">Judul Naskah / Gulungan</label>
+            <input type="text" id="editTitle" class="form-input" placeholder="Nama entitas, wilayah, atau aturan...">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Bab Utama (Kategori)</label>
+            <input type="text" id="editCategory" class="form-input" list="categoryDatalist" placeholder="Pilih atau ketik kategori...">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Sub-Kawasan (Subkategori)</label>
+            <input type="text" id="editSubcategory" class="form-input" list="subcategoryDatalist" placeholder="Pilih atau ketik subkategori...">
+          </div>
+        </div>
+
+        <!-- Formatting Toolbar & Action Buttons -->
+        <div class="editor-toolbar">
+          <div style="display:flex; gap:6px; flex-wrap:wrap; align-items:center;">
+            <!-- Prominent Photo Inserter Button -->
+            <button class="btn btn-sm toolbar-btn-photo" onclick="app.openPhotoModal('editTextarea')" title="Sisipkan Foto dari Galeri atau Unggah Komputer">
+              📷 Sisipkan Foto
+            </button>
+            <span style="color:var(--border-dnd-light); margin:0 4px;">|</span>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('**', '**')" title="Tebal (Bold)"><b>B</b></button>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('*', '*')" title="Miring (Italic)"><i>I</i></button>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('## ')" title="Judul Heading">H2</button>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('### ')" title="Sub Heading">H3</button>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('- ')" title="Daftar Poin">• List</button>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('1. ')" title="Daftar Angka">1. List</button>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('> ')" title="Kotak Kisah (Read-Aloud)">Quote</button>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('[[', ']]')" title="Tautan Internal Gulungan">[[Wiki Link]]</button>
+            <button class="btn btn-secondary btn-sm" onclick="app.insertFormat('| Atribut | Nilai |\n| --- | --- |\n| Kekuatan | Tinggi |\n')" title="Tabel Stat D&D">Tabel</button>
+          </div>
+
+          <div style="margin-left: auto; display:flex; gap:10px;">
+            <button class="btn btn-secondary btn-sm" onclick="app.cancelEdit()">
+              Batal
+            </button>
+            <button class="btn btn-primary btn-sm" onclick="app.saveCurrentEdit()">
+              ⚔️ Simpan Naskah
+            </button>
+          </div>
+        </div>
+
+        <!-- Split Body: Textarea Left, Live Preview Right -->
+        <div class="editor-split-body">
+          <div class="editor-pane-left">
+            <textarea id="editTextarea" class="editor-textarea" placeholder="Tuliskan catatan lore atau stat monster di sini... (Bisa drag & drop foto langsung ke sini, atau tekan Ctrl+V untuk menempelkan gambar dari clipboard!)"></textarea>
+          </div>
+          <div class="editor-pane-right">
+            <div class="editor-preview-label">Tampilan Lembaran D&D (Live Preview)</div>
+            <div class="markdown-body" id="editPreview"></div>
+          </div>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- MODAL: SISIPKAN FOTO / GAMBAR KE DOKUMEN -->
+  <div id="photoModal" class="modal-overlay">
+    <div class="modal-box" style="width: 720px;">
+      <div class="modal-header">
+        <div class="modal-title">📷 Sisipkan Ilustrasi / Foto ke Naskah</div>
+        <button class="modal-close" onclick="app.closePhotoModal()">&times;</button>
+      </div>
+      <div class="modal-body">
+        
+        <!-- Tabs -->
+        <div class="photo-modal-tabs">
+          <button class="photo-tab-btn active" data-tab="tabGallery" onclick="app.switchPhotoTab('tabGallery')">
+            🖼️ Galeri Vault Nusvanir (49 Foto)
+          </button>
+          <button class="photo-tab-btn" data-tab="tabUpload" onclick="app.switchPhotoTab('tabUpload')">
+            📁 Unggah dari Komputer
+          </button>
+          <button class="photo-tab-btn" data-tab="tabUrl" onclick="app.switchPhotoTab('tabUrl')">
+            🔗 Tautan URL Gambar
+          </button>
+        </div>
+
+        <!-- Tab 1: Galeri Vault Nusvanir -->
+        <div id="tabGallery" class="photo-tab-pane active">
+          <p style="font-size:0.85rem; color:var(--text-muted); margin-bottom:10px;">
+            Pilih ilustrasi karakter, monster bestiary, atau peta dari pustaka Nusvanir:
+          </p>
+          <div class="vault-gallery-grid" id="vaultGalleryGrid">
+            <!-- Dynamically populated from vault_images.js -->
+          </div>
+        </div>
+
+        <!-- Tab 2: Unggah Komputer -->
+        <div id="tabUpload" class="photo-tab-pane">
+          <div class="upload-dropzone" onclick="document.getElementById('photoFileInput').click()">
+            <div class="upload-icon">📤</div>
+            <div style="font-family:var(--font-header); font-weight:700; color:var(--dnd-crimson); margin-bottom:6px;">
+              Klik untuk Memilih File atau Seret Foto ke Sini
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dim);">
+              Mendukung format PNG, JPG, JPEG, WebP. Gambar akan otomatis di-encode sehingga tersimpan aman di dokumen tanpa risiko broken link!
+            </div>
+          </div>
+          <input type="file" id="photoFileInput" accept="image/*" style="display:none;" onchange="app.handleFileUpload(event)">
+        </div>
+
+        <!-- Tab 3: URL -->
+        <div id="tabUrl" class="photo-tab-pane">
+          <div class="form-group">
+            <label class="form-label">Tautan Gambar (URL Web atau Path Relatif)</label>
+            <input type="text" id="photoUrlInput" class="form-input" placeholder="https://contoh.com/gambar.jpg atau ../Concept Art/Aqualis City.png">
+          </div>
+        </div>
+
+        <!-- Selected Photo Preview & Options -->
+        <div class="selected-photo-preview" id="selectedPhotoPreviewBox">
+          <img id="selectedPhotoThumb" class="selected-photo-thumb" src="" alt="Thumbnail">
+          <div style="flex:1;">
+            <div style="font-family:var(--font-header); font-size:0.82rem; font-weight:700; color:var(--dnd-crimson); margin-bottom:4px;">
+              Foto Terpilih Siap Disisipkan
+            </div>
+            <div style="font-size:0.75rem; color:var(--text-dim);">
+              Anda dapat mengatur keterangan (*caption*) dan posisi tampilan di bawah ini.
+            </div>
+          </div>
+        </div>
+
+        <!-- Custom Caption & Alignment -->
+        <div style="display:grid; grid-template-columns: 2fr 1fr; gap:12px; margin-top:8px;">
+          <div class="form-group">
+            <label class="form-label">Keterangan Foto (*Caption*)</label>
+            <input type="text" id="photoCaption" class="form-input" placeholder="Contoh: Cassian saat tiba di pantai Aqualis">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Tata Letak (Alignment)</label>
+            <select id="photoAlign" class="form-select">
+              <option value="center">Tengah (Center Figure)</option>
+              <option value="full">Lebar Penuh (Full Width)</option>
+              <option value="left">Samping Kiri (Float Left)</option>
+              <option value="right">Samping Kanan (Float Right)</option>
+            </select>
+          </div>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary btn-sm" onclick="app.closePhotoModal()">Batal</button>
+        <button class="btn btn-primary btn-sm" onclick="app.confirmInsertPhoto()">Sisipkan ke Naskah ✦</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: BUAT GULUNGAN / ARTIKEL BARU -->
+  <div id="newArticleModal" class="modal-overlay">
+    <div class="modal-box">
+      <div class="modal-header">
+        <div class="modal-title">+ Tulis Naskah Baru</div>
+        <button class="modal-close" onclick="app.closeNewArticleModal()">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <label class="form-label">Judul Naskah</label>
+          <input type="text" id="newArtTitle" class="form-input" placeholder="Contoh: Menara Pengawas Pesisir Aqualis">
+        </div>
+        <div class="form-group">
+          <label class="form-label">Bab Utama (Kategori)</label>
+          <input type="text" id="newArtCategory" class="form-input" list="categoryDatalist" placeholder="Pilih atau ketik kategori baru...">
+        </div>
+        <div class="form-group">
+          <label class="form-label">Sub-Kawasan (Subkategori)</label>
+          <input type="text" id="newArtSubcategory" class="form-input" list="subcategoryDatalist" placeholder="Pilih atau ketik subkategori baru...">
+        </div>
+        <div class="form-group">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <label class="form-label">Draf Isi Catatan</label>
+            <button class="btn btn-secondary btn-sm" style="padding:2px 8px; font-size:0.75rem;" onclick="app.openPhotoModal('newArtContent')">
+              📷 Sisipkan Foto
+            </button>
+          </div>
+          <textarea id="newArtContent" class="form-input" rows="7" style="resize:vertical;"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary btn-sm" onclick="app.closeNewArticleModal()">Batal</button>
+        <button class="btn btn-primary btn-sm" onclick="app.submitNewArticle()">Catat ke Kompendium ⚔️</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: CADANGAN & DATA -->
+  <div id="backupModal" class="modal-overlay">
+    <div class="modal-box">
+      <div class="modal-header">
+        <div class="modal-title">💾 Manajemen Cadangan Kompendium</div>
+        <button class="modal-close" onclick="app.closeBackupModal()">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p style="font-size:0.95rem; color:var(--text-muted); font-style:italic;">
+          Seluruh gulungan yang Anda tulis atau sunting tersimpan secara mandiri dan aman di ruang penyimpanan browser lokal (IndexedDB).
+        </p>
+        
+        <div style="border-top: 1px solid var(--border-subtle); padding-top: 16px;">
+          <h4 style="color:var(--dnd-crimson); font-family:var(--font-header); margin-bottom: 6px;">1. Unduh Cadangan Naskah (Export JSON)</h4>
+          <p style="font-size:0.85rem; color:var(--text-dim); margin-bottom: 10px;">
+            Simpan seluruh 350+ gulungan (termasuk foto dan editan terbaru Anda) sebagai satu file cadangan.
+          </p>
+          <button class="btn btn-secondary btn-sm" onclick="app.exportData()">
+            📥 Unduh File Cadangan (JSON)
+          </button>
+        </div>
+
+        <div style="border-top: 1px solid var(--border-subtle); padding-top: 16px;">
+          <h4 style="color:var(--dnd-crimson); font-family:var(--font-header); margin-bottom: 6px;">2. Pulihkan Arsip (Import JSON)</h4>
+          <p style="font-size:0.85rem; color:var(--text-dim); margin-bottom: 10px;">
+            Muat file JSON cadangan untuk memulihkan seluruh catatan naskah.
+          </p>
+          <input type="file" id="importFileInput" accept=".json" style="display:none;" onchange="app.importData(event)">
+          <button class="btn btn-secondary btn-sm" onclick="document.getElementById('importFileInput').click()">
+            📤 Pilih File Cadangan
+          </button>
+        </div>
+
+        <div style="border-top: 1px solid var(--border-subtle); padding-top: 16px;">
+          <h4 style="color:var(--dnd-gold); font-family:var(--font-header); margin-bottom: 6px;">3. Setel Ulang ke Kondisi Awal Vault</h4>
+          <p style="font-size:0.85rem; color:var(--text-dim); margin-bottom: 10px;">
+            Kembalikan seluruh naskah ke kondisi kanonik bawaan Nusvanir Vault.
+          </p>
+          <button class="btn btn-danger btn-sm" onclick="app.resetData()">
+            🔄 Reset ke Kondisi Awal
+          </button>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary btn-sm" onclick="app.closeBackupModal()">Tutup</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Datalists for Autocomplete -->
+  <datalist id="categoryDatalist"></datalist>
+  <datalist id="subcategoryDatalist"></datalist>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast-notice"></div>
+
+  <!-- Scripts -->
+  <script src="assets/marked.min.js"></script>
+  <script src="vault_images.js"></script>
+  <script src="seed_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

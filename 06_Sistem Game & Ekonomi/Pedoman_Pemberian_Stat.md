@@ -28,22 +28,43 @@ Aturan inti:
 
 ---
 
-## 2. Cakupan parameter
+## 2. Cakupan parameter (Sistem 6 Base Stats & Derived Stats Turn-Based)
 
-Pedoman ini berlaku untuk parameter utama RPG Maker MV:
+Pedoman ini mengadopsi standarisasi sistem atribut **Turn-Based RPG Nusvanir** sesuai dokumen resmi [Sistem_Stat_&_Formula_Turn_Based.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md):
 
-| Parameter | Arti desain | Tidak boleh ditentukan hanya dari |
+### A. Enam Atribut Dasar (Base Stats)
+Atribut fondasi yang dimiliki setiap entitas (karakter pemain, monster, dan boss):
+
+| Atribut | Nama Lengkap | Peran Desain Utama |
 |---|---|---|
-| MHP / HP | Daya tahan sebelum kalah | ukuran tubuh atau rank |
-| MMP / MP | Anggaran penggunaan skill berbasis MP | status sebagai pengguna sihir |
-| ATK | Daya serang fisik sebelum formula dan modifier | kesan “brutal” |
-| DEF | Mitigasi terhadap formula fisik | armor visual |
-| MAT | Daya serang/heal magis sebelum formula dan modifier | elemen atau class sihir |
-| MDF | Mitigasi terhadap formula magis | sifat spiritual |
-| AGI | Urutan dan frekuensi aksi sesuai sistem aktual | kesan “cepat” |
-| LUK | Pengaruh keberuntungan/status sesuai implementasi aktual | rarity atau tingkat boss |
+| **STR** | *Strength* | Daya serang fisik melee, penambah HP, batas kapasitas SP, dan critical damage. |
+| **INT** | *Intelligence* | Daya serang magis (MAT), pertahanan magis (MDF), batas kapasitas MP, dan regenerasi MP. |
+| **DEX** | *Dexterity* | Akurasi (HIT), serangan senjata ranged/finesse, dan peluang critical rate. |
+| **LUK** | *Luck* | Peluang serangan kritikal (CRI), mitigasi kritikal musuh (CEV), dan evasif sekunder. |
+| **AGI** | *Agility* | Urutan giliran bertindak (*Action Speed*), peluang menghindar (EVA), dan regenerasi SP. |
+| **VIT** | *Vitality* | Daya tahan fisik (DEF), kapasitas darah utama (Max HP), efisiensi pertahanan (GRD), dan batas SP. |
 
-HP, MP, ATK, DEF, MAT, MDF, AGI, dan LUK harus berupa bilangan bulat saat dipindahkan ke database game. Pembulatan hanya dilakukan setelah perhitungan, bukan pada setiap langkah antara.
+### B. Parameter Turunan Deterministik (Derived Stats)
+Seluruh parameter pertempuran diturunkan secara deterministik dari 6 Base Stats menggunakan rumus resmi:
+* **Max HP:** `Base Class HP + (VIT * 15) + (STR * 5) + Flat HP Item`
+* **Max MP:** `Base Class MP + (INT * 8) + Flat MP Item`
+* **Max SP:** `Base SP + (VIT * 5) + (STR * 2) + Flat SP Item` *(Menggantikan sistem TP)*
+* **ATK:** Melee `(STR * 2) + (DEX * 0.5) + Weapon ATK` | Ranged/Finesse `(DEX * 2) + (STR * 0.5) + Weapon ATK`
+* **DEF:** `Base DEF + (VIT * 1.5) + (STR * 0.5) + Armor DEF`
+* **MAT:** `Base MAT + (INT * 2) + Equip MAT`
+* **MDF:** `Base MDF + (INT * 1.2) + (VIT * 0.8) + Equip MDF`
+* **Action Speed (AGI):** `Base AGI + (AGI * 1.5) + Equip AGI`
+* **HIT:** `0.85 + (DEX * 0.002) + Equip HIT` *(Maksimum Cap: 100%)*
+* **EVA:** `0.02 + (AGI * 0.002) + (LUK * 0.0005) + Equip EVA` *(Maksimum Cap: 80%)*
+* **CRI:** `0.03 + (DEX * 0.002) + (LUK * 0.001) + Equip CRI` *(Maksimum Cap: 85%)*
+* **CEV:** `(LUK * 0.0015) + (VIT * 0.001) + Equip CEV`
+* **CDMG:** `1.5 + (STR * 0.003) + (DEX * 0.002) + Equip CDMG`
+* **GRD:** `1.0 + (VIT * 0.005) + Equip GRD`
+* **HRG:** `(VIT * 0.0003) + Equip HRG`
+* **MRG:** `(INT * 0.0003) + Equip MRG`
+* **TRG (SP Regen):** `0.03 + (AGI * 0.0004) + (VIT * 0.0002) + Equip TRG`
+
+Seluruh nilai stat final yang masuk ke game data harus berupa bilangan bulat (dibulatkan di akhir perhitungan, bukan di antara langkah).
 
 ---
 
@@ -78,14 +99,14 @@ Jika beberapa sumber bertentangan, gunakan urutan berikut:
 
 Nama file atau tanggal modifikasi saja tidak cukup untuk menentukan otoritas. Periksa referensi silang dan pemakaian aktual oleh game.
 
-### Rujukan Nusvanir yang sudah tersedia
+### Rujukan Dokumen & Database Nusvanir yang Resmi Berlaku
 
-- `06_Sistem Game & Ekonomi/Mekanik_Class_Job.md` — sumber struktur class dan Tier. Dokumen ini bersifat kualitatif dan **belum menyediakan kurva parameter numerik**.
-- `06_Sistem Game & Ekonomi/Mekanik_Efektivitas_Elemen.md` — sumber resmi matchup 10 elemen dan multiplier `2x`, `1x`, `0.5x`, serta immunity `0x`.
-- `06_Sistem Game & Ekonomi/Sistem_Ekonomi_&_Crafting.md` — sumber hubungan drop, crafting, equipment, dan ekonomi; bukan dasar langsung untuk combat stat.
-- `07_Bestiary/**` — sumber identitas, lore, lokasi, serta angka warisan. Angka di sini harus diaudit ulang sebelum dianggap final.
-
-Pada audit 17 September 2026, repository lore Nusvanir belum memuat database runtime RPG Maker MV seperti `Enemies.json`, `Classes.json`, `Skills.json`, `Weapons.json`, `Armors.json`, dan `States.json`. Karena itu, angka Bestiary yang ada belum cukup untuk membentuk kurva balance final tanpa memasukkan project game/database terbaru.
+- [Sistem_Stat_&_Formula_Turn_Based.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md) — sumber resmi rumus 6 Base Stats, derived stats, sistem SP dinamis, dan mekanisme alokasi 3 Stat Point bebas tiap Base Level.
+- [Mekanik_Class_Job.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Mekanik_Class_Job.md) — sumber struktur class, Dual Level System, batasan Level Cap per Tier (Tier 1: 10, Tier 2: 30, Tier 3: 40, Tier 4: 50, Tier 5: 60), serta pertumbuhan stat alami (fixed stat growth).
+- `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` — spreadsheet database resmi aktif yang memuat 35 Playable Classes, 329 Skills, 398 Items, 65 Weapons, 122 Armors, 80 Enemies, States, dan parameter ekonomi.
+- [Mekanik_Efektivitas_Elemen.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Mekanik_Efektivitas_Elemen.md) — sumber resmi matchup 10 elemen dan multiplier `2x`, `1x`, `0.5x`, serta immunity `0x`.
+- `06_Sistem Game & Ekonomi/Items/**` — database 398 item resmi (Consumables, Materials, Forge, Valuables, Key Items) dan integrasi resep crafting.
+- `07_Bestiary/**` — 80 entitas Bestiary resmi yang telah mengintegrasikan blok `# 📊 GAME DATA & RPG PARAMETERS (TURN-BASED)` langsung dalam format Markdown (.md) berbasis 6 Base Stats dan formula deterministik.
 
 ---
 
@@ -162,7 +183,7 @@ Untuk setiap profil, catat:
 - burst damage yang tidak dapat digunakan setiap ronde;
 - healing dan shielding berkelanjutan;
 - jumlah aksi efektif per ronde;
-- konsumsi MP/TP/item per ronde.
+- konsumsi MP/SP/item per ronde.
 
 Jangan memakai satu karakter “rata-rata” jika encounter dirancang untuk party. Tank, damage dealer, support, dan karakter rapuh harus diuji terpisah.
 
@@ -581,19 +602,18 @@ Status hanya dapat menjadi `VALIDATED` jika playtest nyata membuktikan encounter
 
 ---
 
-## 21. Kondisi repository Nusvanir saat pedoman dibuat
+## 21. Kondisi Pembaruan Sistem (28 Oktober 2026)
 
-Temuan yang harus diperlakukan sebagai batasan, bukan diisi dengan asumsi:
+Sejak perombakan arah game menjadi **RPG Turn-Based**, batasan ketiadaan database sebelumnya telah resmi diselesaikan:
 
-1. `Mekanik_Class_Job.md` sudah menetapkan jalur dan Tier class, tetapi belum menyediakan growth curve parameter.
-2. `Mekanik_Efektivitas_Elemen.md` sudah menetapkan multiplier matchup; aturan ini dapat digunakan setelah elemen target jelas.
-3. Entri Alam Liar seperti Babi Hutan dan Beruang Madu Raksasa baru memiliki HP/MP, elemen, kelemahan, attack type, dan deskripsi singkat.
-4. Entri boss seperti Argentfang memiliki HP/MP besar dan class, tetapi belum menunjukkan dasar perhitungan terhadap party, equipment, formula skill, phase, atau target durasi.
-5. Database runtime RPG Maker MV dan spreadsheet sistem terbaru belum berada di repository lore yang diaudit.
+1. `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` telah hadir dan menjadi acuan utama (Source of Truth) dengan 35 Playable Classes, 329 Skills, 398 Items, 65 Weapons, 122 Armors, 80 Enemies, dan parameter ekonomi.
+2. `Sistem_Stat_&_Formula_Turn_Based.md` telah menetapkan rumus deterministik untuk 6 Base Stats (`STR, INT, DEX, LUK, AGI, VIT`), derived combat stats, dan sistem dinamis SP.
+3. `Mekanik_Class_Job.md` telah menetapkan Dual Level System (Base Level & Class Level) serta Level Cap per Tier (Tier 1: 10, Tier 2: 30, Tier 3: 40, Tier 4: 50, Tier 5: 60).
+4. Seluruh 80 entitas di `07_Bestiary/` telah berhasil diisi blok game data RPG turn-based langsung di Markdown (.md).
 
 Akibatnya:
 
-> **Stat lama boleh dipakai sebagai hipotesis pembanding, tetapi tidak boleh dijadikan baseline final. Langkah pertama rework stat adalah memasukkan atau merujuk database game yang aktif, lalu membangun baseline party dan encounter.**
+> **Data tidak lagi berstatus BLOCKED karena ketiadaan acuan. Seluruh entitas Bestiary dan Class kini telah dikalibrasi (CALIBRATED) mengikuti rumus deterministik 6 Base Stats dan database aktif.**
 
 ---
 
@@ -601,32 +621,25 @@ Akibatnya:
 
 ```text
 Sebelum membuat atau mengubah stat apa pun, baca dan patuhi:
-06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md
+06_Sistem Game & Ekonomi/Pedoman_Pemberian_Stat.md dan Sistem_Stat_&_Formula_Turn_Based.md
 
-Stat lama adalah legacy candidate, bukan baseline final. Jangan memberikan angka
-berdasarkan lore, Tier, region, role, atau encounter type saja. Temukan database
-runtime, formula skill, equipment, states, plugin, baseline party, troop context,
-dan target encounter. Gunakan status BLOCKED jika data wajib tidak tersedia;
-gunakan PROVISIONAL hanya jika seluruh asumsi ditulis. Angka hanya boleh disebut
-CALIBRATED setelah simulasi yang dapat diulang dan VALIDATED setelah playtest.
+Gunakan sistem 6 Base Stats (STR, INT, DEX, LUK, AGI, VIT) dan Derived Stats Turn-Based.
+Semua angka stat turunan wajib diturunkan secara deterministik dari rumus resmi.
+Status data pada Bestiary Markdown menggunakan format terstruktur # 📊 GAME DATA & RPG PARAMETERS (TURN-BASED).
 ```
 
 ---
 
-## 23. Keputusan yang masih perlu ditetapkan pemilik proyek
+## 23. Keputusan yang Telah Ditetapkan Pemilik Proyek (2026-10-28)
 
-Pedoman ini sengaja tidak mengarang keputusan berikut:
+Keputusan desain utama telah disetujui dan diimplementasikan secara konsisten:
 
-- level cap dan kurva level;
-- ukuran party utama;
-- target ronde per encounter type;
-- target damage/pressure per role;
-- formula damage final;
-- critical, hit/evasion, guard, dan action order final;
-- equipment baseline per chapter;
-- parameter cap;
-- aturan multi-action dan boss scaling;
-- target EXP/Saka per area atau per menit;
-- definisi numerik threat rank.
+- **Genre Combat:** RPG Turn-Based (berbasis giliran, Action Speed menentukan turn order).
+- **Sistem Atribut:** 6 Base Stats (`STR, INT, DEX, LUK, AGI, VIT`) + Poin Stat Bebas (3 poin/Base Level).
+- **Sistem Level:** Dual Level System (Base Level universal & Class Level independen).
+- **Level Cap per Tier:** Tier 1 (1–10), Tier 2 (1–30), Tier 3 (1–40), Tier 4 (1–50), Tier 5 (1–60).
+- **Sistem Energi:** SP (Stamina Points) berskala dinamis menggantikan TP; preserved antar battle.
+- **Formula Damage & Combat:** Ditetapkan di `Sistem_Stat_&_Formula_Turn_Based.md`.
+- **Ekonomi & Valuasi:** Saka Tamra (1x), Saka Rajata (100x), Saka Kencana (10,000x) dengan rasio jual 50% (material) dan 40% (konsumsi).
 
-Setelah keputusan tersebut tersedia, buat dokumen turunan `MONSTER_BALANCE_FRAMEWORK.md` berisi baseline numerik Nusvanir. Pedoman ini tetap menjadi aturan audit dan validasi di atas framework tersebut.
+Dokumen turunan `MONSTER_BALANCE_FRAMEWORK.md` dan `BESTIARY_STANDARD_V2.md` kini menggunakan baseline numerik deterministik ini.

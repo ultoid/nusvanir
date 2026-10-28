@@ -30,3 +30,72 @@ Seorang pedagang yang tersesat mengambil batu pipih dari sebuah cairn untuk mena
 Grok menyuruhnya mengembalikan batu ke susunan semula. Pedagang itu tidak mengingat posisinya, sehingga para Troliogoro membimbingnya menyusun ulang cairn dari dasar. Pekerjaan berlangsung sampai gema pukulan batu kembali terdengar benar. Grok akhirnya membuka jalan keluar. Ia tidak menerima koin; bagi pemimpin itu, pelajaran untuk menghormati batu jauh lebih berharga daripada pembayaran yang dibawa orang asing.
 
 > Acuan: [Grok Tulang-Besi](../../05_Karakter%20%26%20Tokoh%20Penting/05_Arkananta/Grok%20Tulang-Besi.md); [Troliogoro (Troll)](../../04_Ras/02_Wuru%20Loka/Troliogoro_%28Troll%29.md); [Gua Agnigarba](../../03_Region/05_Arkananta/Cities%20%26%20Town/Gua%20Agnigarba.md); [Religion](../../03_Region/05_Arkananta/Religion.md); [Economy](../../03_Region/05_Arkananta/Economy.md); [Pegunungan Arkananta](../../03_Region/05_Arkananta/Arkananta.md).
+
+---
+
+# 📊 GAME DATA & RPG PARAMETERS (TURN-BASED)
+
+### 1. Klasifikasi Tempur
+| Parameter | Nilai | Sumber / Keterangan |
+| :--- | :--- | :--- |
+| **Database ID** | `57.0` | Sheet `NUSV-ENEMIES` |
+| **Ras / Taksonomi** | `Humanoid` | Kategori taksonomi Nusvanir |
+| **Class / Archetype** | `Tank` | Pola peran tempur turn-based |
+| **Tier / Threat Rank** | `T5 (Boss)` | Skala ancaman encounter |
+| **Tipe Serangan Dasar** | `Melee` | Formula serangan dasar |
+| **Elemen Utama** | `Earth/Iron` | Afinitas serangan alami |
+| **Kelemahan (Weakness)** | `Fire & Lightning` | Menerima pengganda kerusakan 2.0x |
+| **Combat Tags** | `Armored, Large, Shielded` | Penanda taktis unit |
+
+### 2. Parameter Atribut
+
+#### A. 6 Base Stats (Atribut Dasar)
+| STR | INT | DEX | LUK | AGI | VIT |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **50** | **11** | **18** | **38** | **31** | **57** |
+
+#### B. Stat Turunan Utama (Vital & Combat)
+| Parameter | Formula Dasar / Nilai | Parameter | Formula Dasar / Nilai |
+| :--- | :--- | :--- | :--- |
+| **Max HP** | `6500` *(Base 5395 + VIT×15 + STR×5)* | **DEF** | `110` *(Base + VIT×1.5 + STR×0.5)* |
+| **Max MP** | `86` *(INT×8)* | **MDF** | `89` *(Base + INT×1.2 + VIT×0.8)* |
+| **Max SP** | `405` *(Base 20 + VIT×5 + STR×2)* | **MAT** | `79` *(Base + INT×2)* |
+| **ATK** | `109` *(Formula Melee)* | **Action Speed** | `46` *(Base + AGI×1.5)* |
+
+#### C. Parameter Presisi & Efisiensi Giliran (X-Param & S-Param)
+| Parameter | Nilai (%) | Formula Perhitungan |
+| :--- | :---: | :--- |
+| **Hit Rate (HIT)** | `88.6%` | `0.85 + (DEX * 0.002)` (Cap 100%) |
+| **Evasion Rate (EVA)** | `10.1%` | `0.02 + (AGI * 0.002) + (LUK * 0.0005)` (Cap 80%) |
+| **Critical Rate (CRI)** | `10.4%` | `0.03 + (DEX * 0.002) + (LUK * 0.001)` (Cap 85%) |
+| **Critical Evasion (CEV)** | `11.4%` | `(LUK * 0.0015) + (VIT * 0.001)` |
+| **Critical Damage (CDMG)** | `168.6%` | `1.5 + (STR * 0.003) + (DEX * 0.002)` |
+| **Guard Efficiency (GRD)** | `128.5%` | `1.0 + (VIT * 0.005)` |
+| **HP Regen / Turn (HRG)** | `1.71%` | `VIT * 0.0003` |
+| **MP Regen / Turn (MRG)** | `0.33%` | `INT * 0.0003` |
+| **SP Regen / Turn (TRG)** | `5.38%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
+
+### 3. Skill & Pola Aksi Giliran (AI Actions)
+*Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
+
+| Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shield Breaker** | `Neutral` / Physical Attack | `15 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.1 (Vulnerable 30%)` |
+| **Iron Fortress** | `Earth` / Magical Attack | `24 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
+| **Fortified Line** | `Neutral` / Certain Hit | `30 SP` | HP <= 50% (Prioritas 6.0) | `-` |
+
+### 4. Traits & Resistensi Khusus
+* **Resistensi Elemen:** Earth: 75%, Fire: 150%, Iron: 75%, Lightning: 150%
+* **Resistensi Status:** Freeze: 50%, Paralyze: 50%, Root: 75%, Stun: 50%
+* **Karakteristik / Passive:** Preserve SP (Stamina tersimpan antar battle)
+
+### 5. Ekonomi & Rampasan (Combat Rewards)
+| Jenis Hadiah | Jumlah / Peluang | Keterangan |
+| :--- | :--- | :--- |
+| **Base EXP** | `1540` | Akumulasi Base Level (+3 Stat Point bebas) |
+| **Class EXP** | `1155` | Akumulasi Class Level profesi aktif (Tier Cap & Learnings) |
+| **Saka (Gold)** | `455` | Mata uang resmi penjelajahan |
+| **Drop 1** | `Butoraksa Bone` (`35%`) | Material alam / crafting |
+| **Drop 2** | `Adamantine` (`15%`) | Komponen sekunder |
+| **Drop 3** | `Spirit Stone` (`12%`) | Rampasan langka |
+| **Boss / Unique Drop** | `Grok Ironbone Helm / Ironbone Warplate / Ironbone Greaves` (`5%`) | Rampasan unik / piala bos |

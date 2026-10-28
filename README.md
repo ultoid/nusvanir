@@ -17,7 +17,7 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
 <table>
   <tr>
     <td align="center">
-      <img src="Concept%20Art/Cassian_Priest.png" width="300px"><br>
+      <img src="Concept%20Art/Avalerion_Cassian_Priest.png" width="300px"><br>
       <b>Cassian (Pra Prologue)</b>
     </td>
     <td align="center">
@@ -27,7 +27,7 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
   </tr>
   <tr>
     <td align="center">
-      <img src="Concept%20Art/Hector_Paladin.png" width="300px"><br>
+      <img src="Concept%20Art/Avalerion_Hector_Paladin.png" width="300px"><br>
       <b>Hector (Pra Prologue)</b>
     </td>
     <td align="center">
@@ -37,7 +37,7 @@ Catatan ini dibuat agar progres pengembangan cerita dan dunia tetap *on track* d
   </tr>
   <tr>
     <td align="center">
-      <img src="Concept%20Art/Jane_Rogue.png" width="300px"><br>
+      <img src="Concept%20Art/Aqualis_Jane_Rogue.png" width="300px"><br>
       <b>Jane (Pra Prologue)</b>
     </td>
     <td align="center">

@@ -30,3 +30,72 @@ Seorang pembawa pesan berhenti di depan sosok hitam yang menutupi jalan. Ia tela
 Pembawa pesan mengakui bahwa ia tidak mengetahui jalan berikutnya dan takut salah memasuki sarang. Blackhorn lama tidak menjawab. Lalu kepalanya bergeser, memperlihatkan jalan yang semula tertutup bayangan tanduk. Ia memberi petunjuk menuju tempat pemeriksaan dan meminta orang itu menunggu pengawalan. Pesan tersebut akhirnya dapat diteruskan karena pembawanya berani mengaku tidak tahu, bukan karena berhasil membuat sang penjaga terkesan.
 
 > Acuan: [Adamantite Nest](../../03_Region/04_Agnitra/Cities%20%26%20Town/Adamantite%20Nest.md); [Nagarasven](../../04_Ras/02_Wuru%20Loka/Nagarasven_%28Naga%29.md).
+
+---
+
+# 📊 GAME DATA & RPG PARAMETERS (TURN-BASED)
+
+### 1. Klasifikasi Tempur
+| Parameter | Nilai | Sumber / Keterangan |
+| :--- | :--- | :--- |
+| **Database ID** | `53.0` | Sheet `NUSV-ENEMIES` |
+| **Ras / Taksonomi** | `Dragon` | Kategori taksonomi Nusvanir |
+| **Class / Archetype** | `Bruiser` | Pola peran tempur turn-based |
+| **Tier / Threat Rank** | `T6 (Boss)` | Skala ancaman encounter |
+| **Tipe Serangan Dasar** | `Melee` | Formula serangan dasar |
+| **Elemen Utama** | `Earth/Fire` | Afinitas serangan alami |
+| **Kelemahan (Weakness)** | `Water` | Menerima pengganda kerusakan 2.0x |
+| **Combat Tags** | `Flying, Large, Draconic, Armored` | Penanda taktis unit |
+
+### 2. Parameter Atribut
+
+#### A. 6 Base Stats (Atribut Dasar)
+| STR | INT | DEX | LUK | AGI | VIT |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **81** | **16** | **34** | **48** | **43** | **66** |
+
+#### B. Stat Turunan Utama (Vital & Combat)
+| Parameter | Formula Dasar / Nilai | Parameter | Formula Dasar / Nilai |
+| :--- | :--- | :--- | :--- |
+| **Max HP** | `8970` *(Base 7575 + VIT×15 + STR×5)* | **DEF** | `140` *(Base + VIT×1.5 + STR×0.5)* |
+| **Max MP** | `124` *(INT×8)* | **MDF** | `113` *(Base + INT×1.2 + VIT×0.8)* |
+| **Max SP** | `512` *(Base 20 + VIT×5 + STR×2)* | **MAT** | `106` *(Base + INT×2)* |
+| **ATK** | `179` *(Formula Melee)* | **Action Speed** | `65` *(Base + AGI×1.5)* |
+
+#### C. Parameter Presisi & Efisiensi Giliran (X-Param & S-Param)
+| Parameter | Nilai (%) | Formula Perhitungan |
+| :--- | :---: | :--- |
+| **Hit Rate (HIT)** | `91.8%` | `0.85 + (DEX * 0.002)` (Cap 100%) |
+| **Evasion Rate (EVA)** | `13.0%` | `0.02 + (AGI * 0.002) + (LUK * 0.0005)` (Cap 80%) |
+| **Critical Rate (CRI)** | `14.6%` | `0.03 + (DEX * 0.002) + (LUK * 0.001)` (Cap 85%) |
+| **Critical Evasion (CEV)** | `13.8%` | `(LUK * 0.0015) + (VIT * 0.001)` |
+| **Critical Damage (CDMG)** | `181.1%` | `1.5 + (STR * 0.003) + (DEX * 0.002)` |
+| **Guard Efficiency (GRD)** | `133.0%` | `1.0 + (VIT * 0.005)` |
+| **HP Regen / Turn (HRG)** | `1.98%` | `VIT * 0.0003` |
+| **MP Regen / Turn (MRG)** | `0.48%` | `INT * 0.0003` |
+| **SP Regen / Turn (TRG)** | `6.04%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
+
+### 3. Skill & Pola Aksi Giliran (AI Actions)
+*Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
+
+| Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
+| :--- | :--- | :--- | :--- | :--- |
+| **Blackhorn Ram** | `Earth` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.45 (Stun 25%)` |
+| **Draconic Crush** | `Earth` / Physical Attack | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `a.atk * 1.45 - b.def * 0.35 (Stun 25%)` |
+| **Obsidian Breath** | `Earth` / Magical Attack | `0 SP` | HP <= 50% (Prioritas 6.0) | `a.mat * 1.85 - b.mdf * 0.25` |
+
+### 4. Traits & Resistensi Khusus
+* **Resistensi Elemen:** Earth: 75%, Fire: 75%, Water: 150%
+* **Resistensi Status:** Fear: 50%, Freeze: 50%, Paralyze: 50%, Root: 75%, Stun: 50%
+* **Karakteristik / Passive:** Preserve SP (Stamina tersimpan antar battle)
+
+### 5. Ekonomi & Rampasan (Combat Rewards)
+| Jenis Hadiah | Jumlah / Peluang | Keterangan |
+| :--- | :--- | :--- |
+| **Base EXP** | `2520` | Akumulasi Base Level (+3 Stat Point bebas) |
+| **Class EXP** | `1890` | Akumulasi Class Level profesi aktif (Tier Cap & Learnings) |
+| **Saka (Gold)** | `700` | Mata uang resmi penjelajahan |
+| **Drop 1** | `Mithril Dragon Fang` (`35%`) | Material alam / crafting |
+| **Drop 2** | `Mithril Dragon Claw` (`20%`) | Komponen sekunder |
+| **Drop 3** | `Mahasvara Crystal` (`15%`) | Rampasan langka |
+| **Boss / Unique Drop** | `Blackhorn Cresthelm / Blackhorn Scaleplate / Blackhorn Sabatons` (`5%`) | Rampasan unik / piala bos |

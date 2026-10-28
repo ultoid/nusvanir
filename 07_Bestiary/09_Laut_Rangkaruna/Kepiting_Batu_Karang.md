@@ -28,3 +28,70 @@ Perairan Dangkal Rangkaruna di bagian utara dan barat laut, khususnya gugusan ka
 Penduduk Aqualis mengenal Rama sebagai satu-satunya nelayan yang berani mencari Kepiting Batu Karang langsung di habitatnya. Ia tidak menganggap setiap batu sebagai mangsa. Rama membaca buih, menunggu mata kecil terbuka di sela karang, lalu memilih jalan mendekat yang masih menyisakan arus untuk melarikan diri. Keberaniannya lahir dari pengetahuan laut, bukan keyakinan bahwa capit raksasa itu dapat diremehkan.
 
 > Acuan: [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [Laut Rangkaruna](../../03_Region/09_Laut_Rangkaruna/Laut_Rangkaruna.md); [03 Teror di Pesisir Timur](../../08_Story/02_Prologue/03_Teror_di_Pesisir_Timur.md); [Aqualis](../../03_Region/01_Mandala%20Kingdom/Cities%20%26%20Town/Aqualis.md).
+
+---
+
+# 📊 GAME DATA & RPG PARAMETERS (TURN-BASED)
+
+### 1. Klasifikasi Tempur
+| Parameter | Nilai | Sumber / Keterangan |
+| :--- | :--- | :--- |
+| **Database ID** | `73.0` | Sheet `NUSV-ENEMIES` |
+| **Ras / Taksonomi** | `Aquatic` | Kategori taksonomi Nusvanir |
+| **Class / Archetype** | `Tank` | Pola peran tempur turn-based |
+| **Tier / Threat Rank** | `T6 (Elite)` | Skala ancaman encounter |
+| **Tipe Serangan Dasar** | `Melee` | Formula serangan dasar |
+| **Elemen Utama** | `Water/Earth` | Afinitas serangan alami |
+| **Kelemahan (Weakness)** | `Lightning` | Menerima pengganda kerusakan 2.0x |
+| **Combat Tags** | `Aquatic, Armored` | Penanda taktis unit |
+
+### 2. Parameter Atribut
+
+#### A. 6 Base Stats (Atribut Dasar)
+| STR | INT | DEX | LUK | AGI | VIT |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **57** | **13** | **24** | **44** | **37** | **67** |
+
+#### B. Stat Turunan Utama (Vital & Combat)
+| Parameter | Formula Dasar / Nilai | Parameter | Formula Dasar / Nilai |
+| :--- | :--- | :--- | :--- |
+| **Max HP** | `3250` *(Base 1960 + VIT×15 + STR×5)* | **DEF** | `129` *(Base + VIT×1.5 + STR×0.5)* |
+| **Max MP** | `106` *(Base 2 + INT×8)* | **MDF** | `106` *(Base + INT×1.2 + VIT×0.8)* |
+| **Max SP** | `469` *(Base 20 + VIT×5 + STR×2)* | **MAT** | `91` *(Base + INT×2)* |
+| **ATK** | `126` *(Formula Melee)* | **Action Speed** | `55` *(Base + AGI×1.5)* |
+
+#### C. Parameter Presisi & Efisiensi Giliran (X-Param & S-Param)
+| Parameter | Nilai (%) | Formula Perhitungan |
+| :--- | :---: | :--- |
+| **Hit Rate (HIT)** | `89.8%` | `0.85 + (DEX * 0.002)` (Cap 100%) |
+| **Evasion Rate (EVA)** | `11.6%` | `0.02 + (AGI * 0.002) + (LUK * 0.0005)` (Cap 80%) |
+| **Critical Rate (CRI)** | `12.2%` | `0.03 + (DEX * 0.002) + (LUK * 0.001)` (Cap 85%) |
+| **Critical Evasion (CEV)** | `13.3%` | `(LUK * 0.0015) + (VIT * 0.001)` |
+| **Critical Damage (CDMG)** | `171.9%` | `1.5 + (STR * 0.003) + (DEX * 0.002)` |
+| **Guard Efficiency (GRD)** | `133.5%` | `1.0 + (VIT * 0.005)` |
+| **HP Regen / Turn (HRG)** | `2.01%` | `VIT * 0.0003` |
+| **MP Regen / Turn (MRG)** | `0.39%` | `INT * 0.0003` |
+| **SP Regen / Turn (TRG)** | `5.82%` | `0.03 + (AGI * 0.0004) + (VIT * 0.0002)` |
+
+### 3. Skill & Pola Aksi Giliran (AI Actions)
+*Acuan resmi: `Database/NUSV - Database [CLASS, SKILL, STATE, TYPE].xlsx` (Sheet `NUSV-SKILL`)*
+
+| Nama Skill | Elemen / Tipe | Biaya (MP/SP) | Syarat Pemicu AI & Rating | Formula Kerusakan / Efek |
+| :--- | :--- | :--- | :--- | :--- |
+| **Coral Claw** | `Water` / Physical Attack | `0 SP` | Always (Prioritas 5.0) | `a.atk * 1.15 - b.def * 0.45` |
+| **Stone Shell** | `Earth` / Certain Hit | `0 SP` | Turn 2+ / 50% chance (Prioritas 4.0) | `-` |
+| **Reef Crusher** | `Water` / Physical Attack | `0 SP` | HP <= 40% (Prioritas 4.0) | `a.atk * 1.85 - b.def * 0.25 (Stun 25%)` |
+
+### 4. Traits & Resistensi Khusus
+* **Resistensi Elemen:** Earth: 75%, Lightning: 150%, Water: 50%
+* **Resistensi Status:** Resistensi standar (tanpa anomali status)
+* **Karakteristik / Passive:** Preserve SP (Stamina tersimpan antar battle)
+
+### 5. Ekonomi & Rampasan (Combat Rewards)
+| Jenis Hadiah | Jumlah / Peluang | Keterangan |
+| :--- | :--- | :--- |
+| **Base EXP** | `720` | Akumulasi Base Level (+3 Stat Point bebas) |
+| **Class EXP** | `540` | Akumulasi Class Level profesi aktif (Tier Cap & Learnings) |
+| **Saka (Gold)** | `200` | Mata uang resmi penjelajahan |
+| **Drop 1** | `Obsidian` (`25%`) | Material alam / crafting |
+| **Drop 2** | `Spirit Stone` (`15%`) | Komponen sekunder |

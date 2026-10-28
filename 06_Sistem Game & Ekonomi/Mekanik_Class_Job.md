@@ -8,6 +8,29 @@ tags:
 
 Sistem kelas petualang di Nusvanir didesain dengan 5 tahapan evolusi (*Tier*). Semua ras bebas memilih kelas dasar (*Tier 1 hingga Tier 4*). Namun, **Tier 5 (Apex Class)** terkunci oleh biologis ras, atau menuntut pengorbanan ekstrem bagi ras fana Pribumi (Manusia).
 
+---
+
+## 🧭 Sistem Dua Tingkat Level (Dual Level System)
+
+1. **Base Level:**
+   - Level murni karakter yang ditingkatkan melalui **Base EXP**.
+   - Memberikan **3 Stat Point bebas** setiap kali naik level (dikelola oleh `NUSV_StatSystem`) untuk dialokasikan bebas ke 6 Base Stats (`STR`, `INT`, `DEX`, `LUK`, `AGI`, `VIT`).
+   - Tersedia mekanisme reset poin melalui item khusus (*Tirta Penyucian*) atau NPC khusus.
+
+2. **Class Level:**
+   - Level penguasaan profesi/Class yang sedang aktif dari **Class EXP**.
+   - Bersifat **independen**: Level tiap class tersimpan terpisah saat karakter berganti class.
+   - **Batas Level Maksimum (Level Cap) per Tier:**
+     * **Tier 1 (Novice):** Level 1 – 10
+     * **Tier 2 (Initiate):** Level 1 – 30
+     * **Tier 3 (Adept):** Level 1 – 40
+     * **Tier 4 (Master):** Level 1 – 50
+     * **Tier 5 (Apex):** Level 1 – 60 *(Coming Soon / Endgame)*
+   - **Pertumbuhan Stat Alami (Fixed Stat Growth):** Memberikan pertumbuhan Base Stat alami yang melekat pada Class tersebut.
+   - **Membuka Skill Baru:** Kenaikan Class Level secara otomatis membuka skill baru pada daftar *Learnings* class yang bersangkutan.
+
+---
+
 ### 1. Jalur Fisik (Melee / Tank)
 Fokus pada ketahanan tubuh dan penguasaan senjata *close-combat*.
 * **Tier 1 (Novice):** `Fighter`

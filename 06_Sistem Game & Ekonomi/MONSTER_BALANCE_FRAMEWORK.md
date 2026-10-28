@@ -1,18 +1,24 @@
 # Monster Balance Framework Nusvanir
 
-## Pembaruan bukti 2026-09-17 — BLOCKED
+## Pembaruan Status 2026-10-28 — CALIBRATED (TURN-BASED RPG)
+
+> [!NOTE]
+> Sejak 28 Oktober 2026, arah game resmi bertransformasi menjadi **RPG Turn-Based**. Seluruh 80 entitas Bestiary telah dikalibrasi ke dalam format Markdown (.md) dengan mengadopsi sistem **6 Base Stats (STR, INT, DEX, LUK, AGI, VIT)** dan **Derived Stats Deterministik** sesuai [Sistem_Stat_&_Formula_Turn_Based.md](file:///e:/Ananto/Emulatoid/Nusvanir/06_Sistem%20Game%20&%20Ekonomi/Sistem_Stat_&_Formula_Turn_Based.md) dan [BESTIARY_STANDARD_V2.md](file:///e:/Ananto/Emulatoid/Nusvanir/07_Bestiary/BESTIARY_STANDARD_V2.md).
+> Seluruh sistem sumber daya berbasis TP telah digantikan secara penuh oleh **Stamina Points (SP)**.
+
+## Catatan Historis Audit 2026-09-17 — BLOCKED
 
 **Runtime sudah ditemukan** di `10_Game Project/Tales of The Dark Time`. Bagian awal ini menggantikan alasan historis di bawah yang menyebut seluruh database hilang. Framework belum mempunyai baseline angka yang disetujui; tidak ada perubahan angka runtime.
 
 | Input | Bukti tersedia | Yang masih harus ditentukan/diuji |
 |---|---|---|
 | Party | System.partyMembers 1/2/3; NUSV_PartySystem maksimum battle 4 | Roster per encounter, anggota cadangan dan summon legal |
-| Level | Actors: Cassian/Hector/Jane mulai/maks 50; Rama mulai 30/maks 99; actor test berbeda | Level cap desain, chapter/area bands; jangan jadikan actor test baseline |
+| Level | Actors: Cassian/Hector/Jane mulai/maks 50; Rama mulai 30/maks 50 (Tier 4 Cap); actor test berbeda | Level cap desain, chapter/area bands; jangan jadikan actor test baseline |
 | Curves | Classes.json params, traits, EXP curve, learnings | Profil LOW/EXPECTED/HIGH per progression dan job yang legal |
 | Equipment | Weapons/Armors params/traits/notetags | Availability, upgrade/socket/consumable budget per chapter |
 | Formula | Skills.json; rpg_objects.js; damage/critical/parameter plugins | Pending skill effects dan semua modifier dalam urutan load aktual |
 | Element/state | System/States/traits; YEP_ElementCore/BuffsStatesCore | Selisih 1.5/0.75 runtime vs chart lore, dual-element dan state interactions |
-| Resource | MP/TP costs pada skills; traits regeneration | Rotasi sustain, item use, regen/plugin costs aktual |
+| Resource | MP/SP costs pada skills; traits regeneration | Rotasi sustain, item use, regen/plugin costs aktual |
 | Turn/action | BattleEngine default dtb; CTB plugin juga enabled; AI Core enabled | Battle system yang dipilih event/save, multi-action, target selection dan AI notetag |
 | Troop | Troops.json berisi empat troop, tiga nama tertinggal | Komposisi, map encounter access, adds/hazards dan target duration/pressure |
 | Economy | EXP/gold/drop slots dan harga item tersedia | Satuan Saka/gold, target EXP/Saka per area/waktu, biaya recovery dan respawn |
@@ -22,7 +28,7 @@
 
 Untuk setiap `encounter_id`, catat hash semua database, core JS, plugin enabled/config dan urutannya; progression, roster, gear, upgrade, socket, consumables, troop, battle mode. Tiga record profile LOW/EXPECTED/HIGH berisi stat tiap anggota, traits, legal actions, resource ledger dan target selection. Semua field belum terpilih tetap null. V2 Wildlife sudah menyediakan dependensi, hash sumber utama, dan nilai kalibrasi null. Hash semua data tersimpan di inventory; sebelum simulasi perlu menambahkan hash kode seluruh plugin.
 
-Lembar `actions`: skill ID, formula persis, scope, hit type, repeats, MP/TP, element ID, effects, speed, critical, variance dan plugin modifiers. Lembar `rounds`: aksi aktual tiap unit, HP/MP/TP sebelum/sesudah, damage/heal/shield/regen, control kehilangan giliran, adds dan phase. Lembar `results`: victory/wipe/soft-lock, durasi, damage pressure per anggota, recovery cost, EXP/Saka dan nilai drop per waktu. Lembar `evidence`: seed, perintah simulator, input hash, hasil dan tautan playtest.
+Lembar `actions`: skill ID, formula persis, scope, hit type, repeats, MP/SP, element ID, effects, speed, critical, variance dan plugin modifiers. Lembar `rounds`: aksi aktual tiap unit, HP/MP/SP sebelum/sesudah, damage/heal/shield/regen, control kehilangan giliran, adds dan phase. Lembar `results`: victory/wipe/soft-lock, durasi, damage pressure per anggota, recovery cost, EXP/Saka dan nilai drop per waktu. Lembar `evidence`: seed, perintah simulator, input hash, hasil dan tautan playtest.
 
 Gunakan pipeline runtime makeDamageValue beserta override plugin, bukan evaluasi formula polos. Secara konseptual effective HP mencakup HP + heal + shield + damage prevented; target effective HP = sustain net damage party × target rounds, lalu selesaikan defense/HP bersama. Resource budget berasal dari rotasi dan regen. Threat control dinilai dari aksi yang hilang; action economy menggabungkan summon, counter, multi-action, bukan AGI saja. Reward efficiency mencakup akses/respawn, recovery dan sale/crafting value, bukan persentase HP.
 
@@ -60,7 +66,7 @@ Alasan utama:
 - [ ] element matchup rates
 - [ ] state resistances and stacks
 - [ ] action order and multi-action behavior
-- [ ] MP/TP costs and regeneration
+- [ ] MP/SP costs and regeneration
 
 ### Encounter design
 

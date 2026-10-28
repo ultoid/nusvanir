@@ -1,5 +1,65 @@
 # Bestiary Standard V2
 
+## Pembaruan Arah Game: RPG Turn-Based & Integrasi Game Data Markdown — 2026-10-28
+
+Arah game resmi bertransformasi menjadi **RPG Turn-Based**. Seluruh entitas Bestiary kini memuat blok **Game Data** terstruktur langsung di dalam file Markdown (`.md`) yang bersangkutan (tidak lagi dipisahkan ke dalam JSON).
+
+### Sistem 6 Base Stats:
+* **STR (Strength)**: Serangan fisik melee, batas SP, penambah HP, critical damage multiplier.
+* **INT (Intelligence)**: Serangan magis (MAT), pertahanan magis (MDF), batas MP, regenerasi MP.
+* **DEX (Dexterity)**: Akurasi (HIT), serangan senjata ranged/finesse, critical rate.
+* **LUK (Luck)**: Critical rate, critical evasion (CEV), peluang menghindar sekunder.
+* **AGI (Agility)**: Urutan aksi / Action Speed, evasion (EVA), regenerasi SP (TRG).
+* **VIT (Vitality)**: Pertahanan fisik (DEF), kapasitas HP utama, efisiensi guard (GRD), kapasitas SP, mitigasi kritikal (CEV).
+
+### Rumus Stat Turunan (Derived Stats):
+* **Max HP**: `Base Class HP + (VIT * 15) + (STR * 5) + Flat HP Item`
+* **Max MP**: `Base Class MP + (INT * 8) + Flat MP Item`
+* **Max SP**: `Base SP + (VIT * 5) + (STR * 2) + Flat SP Item`
+* **ATK**:
+  * Senjata Ranged/Finesse (Bow, Crossbow, Dagger): `(DEX * 2) + (STR * 0.5) + Weapon ATK`
+  * Senjata Melee biasa: `(STR * 2) + (DEX * 0.5) + Weapon ATK`
+* **DEF**: `Base DEF + (VIT * 1.5) + (STR * 0.5) + Armor DEF`
+* **MAT**: `Base MAT + (INT * 2) + Equip MAT`
+* **MDF**: `Base MDF + (INT * 1.2) + (VIT * 0.8) + Equip MDF`
+* **Action Speed (AGI)**: `Base AGI + (AGI * 1.5) + Equip AGI`
+* **Hit Rate (HIT)**: `0.85 + (DEX * 0.002) + Equip HIT` (Max 100%)
+* **Evasion Rate (EVA)**: `0.02 + (AGI * 0.002) + (LUK * 0.0005) + Equip EVA` (Max 80%)
+* **Critical Rate (CRI)**: `0.03 + (DEX * 0.002) + (LUK * 0.001) + Equip CRI` (Max 85%)
+* **Critical Evasion (CEV)**: `(LUK * 0.0015) + (VIT * 0.001) + Equip CEV`
+* **Critical Damage (CDMG)**: `1.5 + (STR * 0.003) + (DEX * 0.002) + Equip CDMG`
+* **Guard Efficiency (GRD)**: `1.0 + (VIT * 0.005) + Equip GRD`
+* **HP Regen (HRG)**: `(VIT * 0.0003) + Equip HRG`
+* **MP Regen (MRG)**: `(INT * 0.0003) + Equip MRG`
+* **SP Regen (TRG)**: `0.03 + (AGI * 0.0004) + (VIT * 0.0002) + Equip TRG`
+
+### Sistem SP (Stamina Points):
+* Menggantikan sistem TP menjadi Stamina Points.
+* Nilai Max SP berskala dinamis sesuai stat karakter / monster.
+* SP disimpan antar pertarungan (*Preserve SP*).
+* Saat istirahat di penginapan / event *Recover All*, SP pulih 100% bersama HP dan MP.
+
+### Sistem Dua Tingkat Level (Dual Level System):
+1. **Base Level:**
+   * Level murni karakter dari akumulasi Base EXP.
+   * Memberikan **3 Stat Points bebas** tiap naik 1 Base Level (dikelola oleh `NUSV_StatSystem`) untuk dialokasikan bebas ke 6 Base Stats.
+2. **Class Level:**
+   * Level penguasaan profesi/Class aktif dari akumulasi Class EXP.
+   * Bersifat independen per Class (level tersimpan saat berganti profesi).
+   * **Batas Level (Level Cap) per Tier:**
+     * Tier 1 : Level 1 – 10
+     * Tier 2 : Level 1 – 30
+     * Tier 3 : Level 1 – 40
+     * Tier 4 : Level 1 – 50
+     * Tier 5 : Level 1 – 60 *(Coming Soon / Endgame)*
+   * Memberikan pertumbuhan Base Stat alami (*Fixed Stat Growth*) yang melekat pada Class.
+   * Menjadi prasyarat terbukanya skill baru di daftar *Learnings* class.
+3. **Dampak pada Bestiary:**
+   * Hadiah pertarungan (*Combat Rewards*) memisahkan **Base EXP** dan **Class EXP**.
+   * Musuh tipe humanoid / berakal yang memiliki Class mengacu pada batas Tier level tersebut.
+
+---
+
 ## Status persetujuan menyeluruh — 2026-09-17
 
 Seluruh 80 entri narasi Bestiary telah disetujui pemilik proyek. Persetujuan terakhir mencakup 28 entri pada Agnitra, Arkananta, Nusa Sayendra, Raksamala, dan Laut Rangkaruna. Penanda `PROPOSED_ADDITIONS` pada catatan penerapan di bawah menggambarkan tahap sebelum persetujuan dan dipertahankan sebagai riwayat pengerjaan.

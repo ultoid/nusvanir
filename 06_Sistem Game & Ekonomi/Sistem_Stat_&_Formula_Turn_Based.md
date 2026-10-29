@@ -42,8 +42,8 @@ Semua parameter tempur diturunkan secara deterministik dari 6 Base Stats menggun
 
 ### B. Parameter Serangan & Pertahanan
 * **ATK (Serangan Fisik):**
-  * *Senjata Melee biasa:* $(\text{STR} \times 2) + (\text{DEX} \times 0.5) + \text{Weapon ATK}$
-  * *Senjata Ranged / Finesse (Bow, Crossbow, Dagger):* $(\text{DEX} \times 2) + (\text{STR} \times 0.5) + \text{Weapon ATK}$
+  * *Senjata Melee biasa:* $\text{Base ATK} + (\text{STR} \times 2) + (\text{DEX} \times 0.5) + \text{Weapon ATK}$
+  * *Senjata Ranged / Finesse (Bow, Crossbow, Dagger):* $\text{Base ATK} + (\text{DEX} \times 2) + (\text{STR} \times 0.5) + \text{Weapon ATK}$
 * **DEF (Pertahanan Fisik):**
   * $\text{Base DEF} + (\text{VIT} \times 1.5) + (\text{STR} \times 0.5) + \text{Armor DEF}$
 * **MAT (Serangan Magis):**
